@@ -1,0 +1,5 @@
+# Notes
+
+- publish with local version using `quarto publish gh-pages` and push branch
+
+- Install fontawesome support with `quarto install extension quarto-ext/fontawesome`

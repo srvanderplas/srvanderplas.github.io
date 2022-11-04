@@ -1,0 +1,14 @@
+---
+title: "`r params$title`"
+author: "`r params$author`"
+date: "`r params$date`"
+---
+
+Type: `r params$type`
+
+Citation: 
+> `r params$citation`
+
+`r params$github`
+
+

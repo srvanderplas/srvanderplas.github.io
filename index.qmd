@@ -1,0 +1,17 @@
+---
+title: "Notes and Musings"
+subtitle: "Maybe this will be useful to someone besides future me"
+listing:
+  feed: true
+  contents: posts
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+

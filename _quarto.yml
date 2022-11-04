@@ -1,0 +1,29 @@
+project:
+  type: website
+  pre-render:
+    - R/pubs.R
+    - R/talks.R
+
+website:
+  title: "Susan Vanderplas"
+  navbar:
+    right:
+      - about.qmd
+      - text: "More"
+        menu:
+          - publications.qmd
+          - courses.qmd
+          - talks.qmd
+      - icon: github
+        href: https://github.com/srvanderplas
+      - icon: twitter
+        href: https://twitter.com/srvanderplas
+      - icon: mastodon
+        href: https://mastodon.social/@srvanderplas
+format:
+  html:
+    theme: pulse
+    css: styles.css
+
+
+freeze: auto

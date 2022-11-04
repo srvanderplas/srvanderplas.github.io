@@ -1,0 +1,71 @@
+---
+title: "About"
+image: profile.jpg
+image-shape: round
+engine: knitr
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/srvanderplas
+    - icon: mastodon
+      text: Mastodon
+      href: "https://mastodon.social/@Srvanderplas"
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/srvanderplas/
+    - icon: github
+      text: Github
+      href: https://github.com/srvanderplas
+    - icon: bookmark
+      text: OrcID
+      href: https://orcid.org/0000-0002-3803-0972
+    - icon: file-person
+      text: CV
+      href: https://github.com/srvanderplas/CV/raw/master/SusanVanderplas-CV.pdf
+---
+
+## Biography {.left}
+
+Susan Vanderplas is an assistant professor in the Statistics Department at University of Nebraska, Lincoln, researching the perception of statistical charts and graphs. She also works with the Center for Statistical Applications in Forensic Evidence (CSAFE) at Iowa State University, developing statistical methods for examination of bullets, cartridges, and footwear. 
+
+In her spare time (hah) she likes to sew, cross-stitch mildly off-color sayings, and bake things (usually badly). 
+
+::: callout-warning
+## Disclaimer
+
+All opinions are my own and are not intended to speak for or represent my employer, friends, or anyone else. 
+:::
+
+```{css echo = F}
+.left {text-align:left;}
+```
+::: columns
+
+::: {.column .left}
+## Interests
+- Forensic Statistics
+- Statistical Graphics
+- Computational Reproducibility
+- Data Wrangling Pipelines
+- Computer Vision
+- Human Perception
+- Machine Learning
+- Statistical Computing
+
+:::
+::: column
+## Education
+
+### PhD
+Statistics, Iowa State University, 2015. [Dissertation: Perception of Statistical Graphics](https://github.com/srvanderplas/Dissertation/raw/master/SusanVanderplas-DissertationFinalVersion.pdf)
+
+### MS
+Statistics, Iowa State University, 2011
+
+### BS
+Psychology and Applied Mathematical Sciences, Texas A&M University, 2009
+
+:::
+:::

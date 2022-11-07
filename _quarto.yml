@@ -2,7 +2,7 @@ project:
   type: website
   pre-render:
     - R/pubs.R
-    - R/talks.R
+    # - R/talks.R
 
 website:
   title: "Susan Vanderplas"

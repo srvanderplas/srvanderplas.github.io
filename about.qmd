@@ -11,7 +11,7 @@ about:
       href: https://twitter.com/srvanderplas
     - icon: mastodon
       text: Mastodon
-      href: "https://mastodon.social/@Srvanderplas"
+      href: "https://vis.social/@Srvanderplas"
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/srvanderplas/

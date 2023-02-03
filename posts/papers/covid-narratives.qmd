@@ -1,0 +1,50 @@
+---
+title: "Visual Narratives of the Covid-19 pandemic"
+author: "Adalbert Wilhelm, Susan VanderPlas"
+date: "2022-11"
+image: "https://github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true"
+categories: papers
+listing:
+  contents: posts/papers
+  sort: date desc
+  fields: [date, title, author]
+page-layout: full
+title-block-banner: true
+keywords: [pr,  perception,  visualization,  journalism,  covid]
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true){.preview-image}
+ 
+## Citation
+> <a name=bib-covid-narratives></a>[Wilhelm, A. and S. VanderPlas](#cite-covid-narratives) (2022). “Visual Narratives of the Covid-19 pandemic”. In: _Journal of Data Science, Statistics, and Visualisation_ 2.7, p. 84–113. DOI: [10.52933/jdssv.v2i7.64](https://doi.org/10.52933%2Fjdssv.v2i7.64). URL: [https://jdssv.org/index.php/jdssv/article/view/64](https://jdssv.org/index.php/jdssv/article/view/64).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{covid-narratives,
+  title = {Visual Narratives of the Covid-19 pandemic},
+  volume = {2},
+  url = {https://jdssv.org/index.php/jdssv/article/view/64},
+  doi = {10.52933/jdssv.v2i7.64},
+  number = {7},
+  journal = {Journal of Data Science, Statistics, and Visualisation},
+  author = {Adalbert Wilhelm and Susan VanderPlas},
+  month = {Nov},
+  pages = {84–113},
+  year = {2022},
+}
+```
+:::
+
+
+
+### Contribution
+
+Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.
+
+Writing (60\%)
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/srvanderplas/covid-visualization-dssv){.btn .btn-tip role="button"}

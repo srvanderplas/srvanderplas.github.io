@@ -1,0 +1,43 @@
+---
+title: "Extending `ggplot2` for Linked and Animated Web Graphics"
+author: "Carson Sievert, Susan Vanderplas, Jun Cai, Kevin Ferris, Faizan Uddin Fahad Khan, Toby Dylan Hocking"
+date: "2018-11-14"
+image: "https://github.com/tdhock/animint/raw/master/screencast-WorldBank.gif"
+categories: papers
+listing:
+  contents: posts/papers
+  sort: date desc
+  fields: [date, title, author]
+page-layout: full
+title-block-banner: true
+keywords: [pr,  animation,  exploratory data analysis,  visualization,  R package,  animation]
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://github.com/tdhock/animint/raw/master/screencast-WorldBank.gif){.preview-image}
+ 
+## Citation
+> <a name=bib-sievert2018extending></a>[Sievert, C., S. Vanderplas, J. Cai, et al.](#cite-sievert2018extending) (2018). “Extending ggplot2 for Linked and Animated Web Graphics”. In: _Journal of Computational and Graphical Statistics_ 28.2, pp. 299-308. DOI: [https://doi.org/10.1080/10618600.2018.1513367](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2018.1513367).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{sievert2018extending,
+  author = {Carson Sievert and Susan Vanderplas and Jun Cai and Kevin Ferris and Faizan Uddin Fahad Khan and Toby Dylan Hocking},
+  title = {Extending ggplot2 for Linked and Animated Web Graphics},
+  journal = {Journal of Computational and Graphical Statistics},
+  volume = {28},
+  number = {2},
+  pages = {299-308},
+  year = {2019},
+  publisher = {Taylor & Francis},
+  doi = {https://doi.org/10.1080/10618600.2018.1513367},
+  month = {nov},
+}
+```
+:::
+
+
+

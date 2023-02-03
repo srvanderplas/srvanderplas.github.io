@@ -1,0 +1,41 @@
+---
+title: "Near-infrared spectroscopy and cortical responses to speech production"
+author: "Rachel Hull, Heather Bortfeld, Susan Koons"
+date: "2009-01-01"
+image: "https://i.imgur.com/hXnipcb.png"
+categories: papers
+listing:
+  contents: posts/papers
+  sort: date desc
+  fields: [date, title, author]
+page-layout: full
+title-block-banner: true
+keywords: [pr,  psychology,  cognition,  undergraduate research]
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://i.imgur.com/hXnipcb.png){.preview-image}
+ 
+## Citation
+> <a name=bib-hull2009near></a>[Hull, R., H. Bortfeld, and S. Koons](#cite-hull2009near) (2009). “Near-infrared spectroscopy and cortical responses to speech production”. In: _The open neuroimaging journal_ 3, p. 26. DOI: [https://doi.org/10.2174/1874440000903010026](https://doi.org/https%3A%2F%2Fdoi.org%2F10.2174%2F1874440000903010026).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{hull2009near,
+  title = {Near-infrared spectroscopy and cortical responses to speech production},
+  author = {Rachel Hull and Heather Bortfeld and Susan Koons},
+  journal = {The open neuroimaging journal},
+  doi = {https://doi.org/10.2174/1874440000903010026},
+  year = {2009},
+  pages = {26},
+  volume = {3},
+  publisher = {Bentham Science Publishers},
+}
+```
+:::
+
+
+

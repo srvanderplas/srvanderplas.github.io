@@ -1,0 +1,49 @@
+---
+title: "Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics"
+author: "Susan Vanderplas, Heike Hofmann"
+date: "2017-04-24"
+image: "https://github.com/srvanderplas/FeatureHierarchy/raw/master/pngs/1b4491b66980539a3d929485874ac41a.png"
+categories: papers
+listing:
+  contents: posts/papers
+  sort: date desc
+  fields: [date, title, author]
+page-layout: full
+title-block-banner: true
+keywords: [pr,  design,  user testing,  visual inference,  visualization]
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://github.com/srvanderplas/FeatureHierarchy/raw/master/pngs/1b4491b66980539a3d929485874ac41a.png){.preview-image}
+ 
+## Citation
+> <a name=bib-featurehierarchyjcgs></a>[Vanderplas, S. and H. Hofmann](#cite-featurehierarchyjcgs) (2017). “Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics”. In: _Journal of Computational and Graphical Statistics_ 26.2, pp. 231-242. DOI: [https://doi.org/10.1080/10618600.2016.1209116](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2016.1209116).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{featurehierarchyjcgs,
+  title = {{C}lusters Beat {T}rend!? {T}esting Feature Hierarchy in Statistical Graphics},
+  author = {Susan Vanderplas and Heike Hofmann},
+  journal = {Journal of Computational and Graphical Statistics},
+  year = {2017},
+  number = {2},
+  pages = {231-242},
+  volume = {26},
+  doi = {https://doi.org/10.1080/10618600.2016.1209116},
+  month = {apr},
+}
+```
+:::
+
+
+
+### Contribution
+
+Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.
+
+Programming and analysis (90\%), writing (50\%)
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/srvanderplas/FeatureHierarchy){.btn .btn-tip role="button"}

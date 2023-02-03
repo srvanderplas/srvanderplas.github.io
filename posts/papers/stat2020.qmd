@@ -1,0 +1,49 @@
+---
+title: "Statistical significance calculations for scenarios in visual inference"
+author: "Susan Vanderplas, Christian Röttger, Dianne Cook, Heike Hofmann"
+date: "2021-12-01"
+image: "https://i.imgur.com/D9ZpjyJ.png"
+categories: papers
+listing:
+  contents: posts/papers
+  sort: date desc
+  fields: [date, title, author]
+page-layout: full
+title-block-banner: true
+keywords: [pr,  visual inference,  user testing,  perception,  visualization]
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://i.imgur.com/D9ZpjyJ.png){.preview-image}
+ 
+## Citation
+> <a name=bib-stat2020></a>[Vanderplas, S., C. Röttger, D. Cook, et al.](#cite-stat2020) (2021). “Statistical significance calculations for scenarios in visual inference”. In: _Stat_ 10.1, p. e337. DOI: [https://doi.org/10.1002/sta4.337](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1002%2Fsta4.337).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{stat2020,
+  author = {Susan Vanderplas and Christian R{\"o}ttger and Dianne Cook and Heike Hofmann},
+  title = {Statistical significance calculations for scenarios in visual inference},
+  journal = {Stat},
+  volume = {10},
+  number = {1},
+  pages = {e337},
+  doi = {https://doi.org/10.1002/sta4.337},
+  year = {2021},
+  month = {dec},
+}
+```
+:::
+
+
+
+### Contribution
+
+Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.
+
+Programming and analysis (30\%), Writing (65\%)
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/srvanderplas/visual-inference-alpha){.btn .btn-tip role="button"}

@@ -39,9 +39,14 @@ jobs:
         with:
           cache-version: 1
 
-      - name: Render and Publish
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+# https://github.com/marketplace/actions/gsheet-action to automate gsheets?

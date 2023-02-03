@@ -14,11 +14,12 @@ pub_to_params <- function(entry) {
   entrylist <- unlist(entry)
 
   post_params$name <- names(entry)
-  post_params$title <- stringr::str_remove_all(entry$title, "\\{\\}") %>%
+  post_params$title <- stringr::str_remove_all(entry$title, "[^[[:alnum:] :?!\\.,-]]") %>%
     stringr::str_replace_all(pkg_names_fix)
 
   post_params$author <- paste(entry$author, collapse = ", ")
   post_params$date <- entry$year
+
 
   addendum <- entrylist$addendum
   RefManageR::NoCite(entry)
@@ -28,6 +29,10 @@ pub_to_params <- function(entry) {
 
   # Optional stuff
   post_params$other <- ""
+
+  if ("pic" %in% names(entrylist)) {
+    post_params$image <- entry$pic
+  }
 
   if ("addendum" %in% names(entrylist)) {
     post_params$other <- c(post_params$other, "### Contribution", "", "Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.", "", addendum)
@@ -68,6 +73,8 @@ create_paper <- function(params, path = "posts/papers") {
     yaml_kv("title", params$title),
     yaml_kv("author", params$author),
     yaml_kv("date", params$date),
+    ifelse("image" %in% names(params), yaml_kv("image", params$image), ""),
+    "categories: papers",
     "listing:",
     "  contents: posts/papers",
     "  sort: date desc",
@@ -78,6 +85,8 @@ create_paper <- function(params, path = "posts/papers") {
     "  html:",
     "    code-copy: true",
     "---",
+    " ",
+    ifelse("image" %in% names(params), sprintf("![](%s){.preview-image}", params$image), ""),
     " ",
     "## Citation",
     sprintf("> %s", params$citation),

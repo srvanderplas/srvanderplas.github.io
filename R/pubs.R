@@ -93,7 +93,6 @@ create_paper <- function(params, path = "posts/papers") {
     ifelse(length(params$keywords) > 0,
            yaml_kv("keywords", params$keywords),
            ""),
-    "categories: [papers]",
     "format:",
     "  html:",
     "    code-copy: true",

@@ -4,7 +4,7 @@ echo: false
 keep-md: true
 listing: 
   contents: 
-    - "posts/papers/*.qmd"
+    - "posts/talks/*.qmd"
   type: table
   sort: [date, title desc]
 ---

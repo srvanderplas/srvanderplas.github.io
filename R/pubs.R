@@ -5,8 +5,6 @@
 pub_bib <- "https://raw.githubusercontent.com/srvanderplas/CV/master/SusanVanderplas-CV.bib"
 #   vector of package names in paper tiles
 pkg_names <- c("cmcR", "animint", "ggplot2", "ggenealogy")
-#   keywords to use to indicate different paper types
-types <- c("^npr$" = "Other (Not Peer Reviewed)", "^pr$" = "Peer Reviewed")
 
 # This function converts publications to a list of information necessary to make the post
 pub_to_params <- function(entry) {
@@ -15,15 +13,19 @@ pub_to_params <- function(entry) {
 
   post_params$name <- names(entry)
   post_params$title <- stringr::str_remove_all(entry$title, "[^[[:alnum:] :?!\\.,-]]") %>%
-    stringr::str_replace_all(pkg_names_fix)
+    stringr::str_replace_all(pkg_names_fix) %>%
+    stringr::str_remove_all("[{}]{1,}")
 
   post_params$author <- paste(entry$author, collapse = ", ")
-  post_params$date <- entry$year
+  post_params$date <- entry$year %>%
+    str_remove_all("NA")
 
 
   addendum <- entrylist$addendum
   RefManageR::NoCite(entry)
   post_params$citation <- capture.output(RefManageR::PrintBibliography(entry, .opts = list(no.print.fields = "addendum", style = "markdown", bib.style = "authoryear", first.inits = T, dashed = F))) %>% paste(collapse = " ")
+
+  post_params$citation <- str_replace(post_params$citation, "NA", "")
 
   post_params$bibtex <-  capture.output(RefManageR::PrintBibliography(entry, .opts = list(no.print.fields = "addendum", style = "Bibtex", bib.style = "authoryear")))
 
@@ -39,14 +41,9 @@ pub_to_params <- function(entry) {
   }
 
   if ("keywords" %in% names(entrylist)) {
-    if (length(types) > 0) {
-      post_params$other <- c(post_params$other, "", "### Type", stringr::str_replace_all(entrylist$keywords, types))
-    }
-
-    entrylist$keywords <- setdiff(entrylist$keywords, names(types))
-    if (length(entrylist$keywords) > 0) {
-      post_params$other <- c(post_params$other, "", "### Keywords", paste("- ", entrylist$keywords))
-    }
+    post_params$keywords <- stringr::str_split(entrylist$keywords, ",")
+  } else {
+    post_params$keywords <- ""
   }
 
 
@@ -54,16 +51,28 @@ pub_to_params <- function(entry) {
     post_params$other <- c(
       post_params$other,
       "",
-      sprintf("[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](%s){.btn .btn-info role=\"button\"}", entrylist$github)
+      sprintf("[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](%s){.btn .btn-tip role=\"button\"}", entrylist$github)
     )
   }
 
   return(post_params)
 }
 
+yaml_kv <- function(key,value) {
+  value = unlist(value)
+  if (length(value) == 1) {
+    sprintf("%s: \"%s\"", key, value)
+  } else {
+    valseq <- paste(value,  collapse = ", ")
+    # message(valseq)
+    sprintf("%s: [%s]", key, valseq)
+  }
+}
+# yaml_kv("test", 1)
+# yaml_kv("keywords", value = c("1", "2", "3"))
+
 # This function writes out a qmd file in the correct directory corresponding to a post
 create_paper <- function(params, path = "posts/papers") {
-  yaml_kv <- function(key,value) sprintf("%s: \"%s\"", key, value)
 
   post_name <- str_replace_all(params$name, "[[:punct:][:space:]]{1,}", "-")
   post_name <- paste0(post_name, ".qmd")
@@ -78,9 +87,13 @@ create_paper <- function(params, path = "posts/papers") {
     "listing:",
     "  contents: posts/papers",
     "  sort: date desc",
-    "  fields: [date, title, author, reading-time, description]",
+    "  fields: [date, title, author]",
     "page-layout: full",
     "title-block-banner: true",
+    ifelse(length(params$keywords) > 0,
+           yaml_kv("keywords", params$keywords),
+           ""),
+    "categories: [papers]",
     "format:",
     "  html:",
     "    code-copy: true",

@@ -1,0 +1,1 @@
+Sitemap: https://github.com/srvanderplas/quarto-blog-site/sitemap.xml

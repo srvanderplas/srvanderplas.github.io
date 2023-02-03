@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://github.com/srvanderplas/quarto-blog-site/index.html</loc>
+    <lastmod>2023-02-03T23:25:57.194Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/srvanderplas/quarto-blog-site/publications.html</loc>
+    <lastmod>2023-02-03T23:25:57.878Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/srvanderplas/quarto-blog-site/research.html</loc>
+    <lastmod>2023-02-03T23:25:58.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/srvanderplas/quarto-blog-site/talks.html</loc>
+    <lastmod>2023-02-03T23:25:59.046Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/srvanderplas/quarto-blog-site/about.html</loc>
+    <lastmod>2023-02-03T23:25:59.398Z</lastmod>
+  </url>
+</urlset>

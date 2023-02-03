@@ -17,7 +17,7 @@ pub_to_params <- function(entry) {
     stringr::str_remove_all("[{}]{1,}")
 
   post_params$author <- paste(entry$author, collapse = ", ")
-  post_params$date <- entry$year %>%
+  post_params$date <- entry[["date"]] %>%
     str_remove_all("NA")
 
 

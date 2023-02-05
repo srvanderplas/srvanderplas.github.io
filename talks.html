@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -183,6 +183,25 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-table" id="listing-listing">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
@@ -192,9 +211,293 @@ ul.task-list li input[type="checkbox"] {
 <table class="quarto-listing-table table">
 <thead>
 <tr>
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+</th>
 </tr>
 </thead>
 <tbody class="list">
+<tr data-index="0" data-categories="talks" data-listing-date-sort="1375833600000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.04" data-listing-title-sort="Signs of the Sine Illusion -- why we need to care" data-listing-filename-sort="signs-of-the-sine-illusion-why-we-need-to-care.qmd">
+<td class="listing-date">
+Aug 7, 2013
+</td>
+<td class="listing-title">
+<a href="./posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html" class="title">Signs of the Sine Illusion – why we need to care</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Heike Hofmann
+</td>
+</tr>
+<tr data-index="1" data-categories="talks" data-listing-date-sort="1401408000000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.19" data-listing-title-sort="Animint: Interactive, Web-Ready Graphics with R" data-listing-filename-sort="animint-interactive-web-ready-graphics-with-r.qmd">
+<td class="listing-date">
+May 30, 2014
+</td>
+<td class="listing-title">
+<a href="./posts/talks/animint-interactive-web-ready-graphics-with-r.html" class="title">Animint: Interactive, Web-Ready Graphics with R</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Heike Hofmann
+</td>
+</tr>
+<tr data-index="2" data-categories="talks" data-listing-date-sort="1407110400000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.175" data-listing-title-sort="The curse of three dimensions: Why your brain is lying to you" data-listing-filename-sort="the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.qmd">
+<td class="listing-date">
+Aug 4, 2014
+</td>
+<td class="listing-title">
+<a href="./posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html" class="title">The curse of three dimensions: Why your brain is lying to you</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Heike Hofmann
+</td>
+</tr>
+<tr data-index="3" data-categories="talks" data-listing-date-sort="1407110400000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.175" data-listing-title-sort="Do You See What I See? Using Shiny for User Testing" data-listing-filename-sort="do-you-see-what-i-see-using-shiny-for-user-testing.qmd">
+<td class="listing-date">
+Aug 4, 2014
+</td>
+<td class="listing-title">
+<a href="./posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html" class="title">Do You See What I See? Using Shiny for User Testing</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas
+</td>
+</tr>
+<tr data-index="4" data-categories="talks" data-listing-date-sort="1439164800000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.02" data-listing-title-sort="Visual Aptitude and Statistical Graphics" data-listing-filename-sort="visual-aptitude-and-statistical-graphics.qmd">
+<td class="listing-date">
+Aug 10, 2015
+</td>
+<td class="listing-title">
+<a href="./posts/talks/visual-aptitude-and-statistical-graphics.html" class="title">Visual Aptitude and Statistical Graphics</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Heike Hofmann
+</td>
+</tr>
+<tr data-index="5" data-categories="talks" data-listing-date-sort="1439164800000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.175" data-listing-title-sort="Animint: Interactive Web-Based Animations using Ggplot2's Grammar of Graphics" data-listing-filename-sort="animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.qmd">
+<td class="listing-date">
+Aug 10, 2015
+</td>
+<td class="listing-title">
+<a href="./posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html" class="title">Animint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Toby Hocking
+</td>
+</tr>
+<tr data-index="6" data-categories="talks" data-listing-date-sort="1501632000000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.035" data-listing-title-sort="A Bayesian Approach to Visual Inference" data-listing-filename-sort="a-bayesian-approach-to-visual-inference.qmd">
+<td class="listing-date">
+Aug 2, 2017
+</td>
+<td class="listing-title">
+<a href="./posts/talks/a-bayesian-approach-to-visual-inference.html" class="title">A Bayesian Approach to Visual Inference</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Heike Hofmann
+</td>
+</tr>
+<tr data-index="7" data-categories="talks" data-listing-date-sort="1526515200000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.16" data-listing-title-sort="Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics" data-listing-filename-sort="clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.qmd">
+<td class="listing-date">
+May 17, 2018
+</td>
+<td class="listing-title">
+<a href="./posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html" class="title">Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Heike Hofmann
+</td>
+</tr>
+<tr data-index="8" data-categories="talks" data-listing-date-sort="1533081600000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.18" data-listing-title-sort="Framed Charts in the 1870 Statistical Atlas" data-listing-filename-sort="framed-charts-in-the-statistical-atlas.qmd">
+<td class="listing-date">
+Aug 1, 2018
+</td>
+<td class="listing-title">
+<a href="./posts/talks/framed-charts-in-the-statistical-atlas.html" class="title">Framed Charts in the 1870 Statistical Atlas</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Heike Hofmann
+</td>
+</tr>
+<tr data-index="9" data-categories="talks" data-listing-date-sort="1564531200000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.175" data-listing-title-sort="Statistical Lineups for Bayesians" data-listing-filename-sort="statistical-lineups-for-bayesians.qmd">
+<td class="listing-date">
+Jul 31, 2019
+</td>
+<td class="listing-title">
+<a href="./posts/talks/statistical-lineups-for-bayesians.html" class="title">Statistical Lineups for Bayesians</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Heike Hofmann
+</td>
+</tr>
+<tr data-index="10" data-categories="talks" data-listing-date-sort="1578787200000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.18" data-listing-title-sort="Big Data, Big Experiments, and Big Problems" data-listing-filename-sort="big-data-big-experiments-and-big-problems.qmd">
+<td class="listing-date">
+Jan 12, 2020
+</td>
+<td class="listing-title">
+<a href="./posts/talks/big-data-big-experiments-and-big-problems.html" class="title">Big Data, Big Experiments, and Big Problems</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas
+</td>
+</tr>
+<tr data-index="11" data-categories="talks" data-listing-date-sort="1581379200000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.185" data-listing-title-sort="One of these things is not like the others: Visual Statistics and Testing in Statistical Graphics" data-listing-filename-sort="one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.qmd">
+<td class="listing-date">
+Feb 11, 2020
+</td>
+<td class="listing-title">
+<a href="./posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html" class="title">One of these things is not like the others: Visual Statistics and Testing in Statistical Graphics</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Heike Hofmann
+</td>
+</tr>
+<tr data-index="12" data-categories="talks" data-listing-date-sort="1583884800000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.185" data-listing-title-sort="Statistical Evaluation of Firearms and Toolmark Evidence" data-listing-filename-sort="statistical-evaluation-of-firearms-and-toolmark-evidence.qmd">
+<td class="listing-date">
+Mar 11, 2020
+</td>
+<td class="listing-title">
+<a href="./posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html" class="title">Statistical Evaluation of Firearms and Toolmark Evidence</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas
+</td>
+</tr>
+<tr data-index="13" data-categories="talks" data-listing-date-sort="1595980800000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.175" data-listing-title-sort="Perception and Visual Communication in a Global Pandemic" data-listing-filename-sort="perception-and-visual-communication-in-a-global-pandemic.qmd">
+<td class="listing-date">
+Jul 29, 2020
+</td>
+<td class="listing-title">
+<a href="./posts/talks/perception-and-visual-communication-in-a-global-pandemic.html" class="title">Perception and Visual Communication in a Global Pandemic</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas
+</td>
+</tr>
+<tr data-index="14" data-categories="talks" data-listing-date-sort="1612483200000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.165" data-listing-title-sort="Welcome to Forensic Statistics" data-listing-filename-sort="welcome-to-forensic-statistics.qmd">
+<td class="listing-date">
+Feb 5, 2021
+</td>
+<td class="listing-title">
+<a href="./posts/talks/welcome-to-forensic-statistics.html" class="title">Welcome to Forensic Statistics</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas
+</td>
+</tr>
+<tr data-index="15" data-categories="talks" data-listing-date-sort="1615852800000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.19" data-listing-title-sort="Visual Statistics: Communication and Graphical Testing" data-listing-filename-sort="visual-statistics-communication-and-graphical-testing.qmd">
+<td class="listing-date">
+Mar 16, 2021
+</td>
+<td class="listing-title">
+<a href="./posts/talks/visual-statistics-communication-and-graphical-testing.html" class="title">Visual Statistics: Communication and Graphical Testing</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas
+</td>
+</tr>
+<tr data-index="16" data-categories="talks" data-listing-date-sort="1617062400000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.205" data-listing-title-sort="Inconclusive Conclusions: Biases and Consequences" data-listing-filename-sort="inconclusive-conclusions-biases-and-consequences.qmd">
+<td class="listing-date">
+Mar 30, 2021
+</td>
+<td class="listing-title">
+<a href="./posts/talks/inconclusive-conclusions-biases-and-consequences.html" class="title">Inconclusive Conclusions: Biases and Consequences</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas
+</td>
+</tr>
+<tr data-index="17" data-categories="talks" data-listing-date-sort="1617926400000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.18" data-listing-title-sort="Exploring Rural Quality of Life Using Data Science and Public Data" data-listing-filename-sort="exploring-rural-quality-of-life-using-data-science-and-public-data.qmd">
+<td class="listing-date">
+Apr 9, 2021
+</td>
+<td class="listing-title">
+<a href="./posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html" class="title">Exploring Rural Quality of Life Using Data Science and Public Data</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Denise Bradford
+</td>
+</tr>
+<tr data-index="18" data-categories="talks" data-listing-date-sort="1628467200000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.175" data-listing-title-sort="How do you define a circle? Perception and Computer Vision Diagnostics" data-listing-filename-sort="how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.qmd">
+<td class="listing-date">
+Aug 9, 2021
+</td>
+<td class="listing-title">
+<a href="./posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html" class="title">How do you define a circle? Perception and Computer Vision Diagnostics</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Miranda Tilton, Jayden Stack
+</td>
+</tr>
+<tr data-index="19" data-categories="talks" data-listing-date-sort="1648080000000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.185" data-listing-title-sort="Automatic Acquisition of Footwear Class Characteristics" data-listing-filename-sort="automatic-acquisition-of-footwear-class-characteristics.qmd">
+<td class="listing-date">
+Mar 24, 2022
+</td>
+<td class="listing-title">
+<a href="./posts/talks/automatic-acquisition-of-footwear-class-characteristics.html" class="title">Automatic Acquisition of Footwear Class Characteristics</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Rick Stone
+</td>
+</tr>
+<tr data-index="20" data-categories="talks" data-listing-date-sort="1649376000000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.185" data-listing-title-sort="Pandemics, Graphics, and Perception of Log Scales" data-listing-filename-sort="pandemics-graphics-and-perception-of-log-scales.qmd">
+<td class="listing-date">
+Apr 8, 2022
+</td>
+<td class="listing-title">
+<a href="./posts/talks/pandemics-graphics-and-perception-of-log-scales.html" class="title">Pandemics, Graphics, and Perception of Log Scales</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Emily Robinson, Reka Howard
+</td>
+</tr>
+<tr data-index="21" data-categories="talks" data-listing-date-sort="1659398400000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.045" data-listing-title-sort="From Scans to Scores" data-listing-filename-sort="from-scans-to-scores.qmd">
+<td class="listing-date">
+Aug 2, 2022
+</td>
+<td class="listing-title">
+<a href="./posts/talks/from-scans-to-scores.html" class="title">From Scans to Scores</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Heike Hofmann
+</td>
+</tr>
+<tr data-index="22" data-categories="talks" data-listing-date-sort="1659484800000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.045" data-listing-title-sort="Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis" data-listing-filename-sort="local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.qmd">
+<td class="listing-date">
+Aug 3, 2022
+</td>
+<td class="listing-title">
+<a href="./posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html" class="title">Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas, Rick Stone
+</td>
+</tr>
+<tr data-index="23" data-categories="talks" data-listing-date-sort="1663804800000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.19" data-listing-title-sort="How to make good charts" data-listing-filename-sort="how-to-make-good-charts.qmd">
+<td class="listing-date">
+Sep 22, 2022
+</td>
+<td class="listing-title">
+<a href="./posts/talks/how-to-make-good-charts.html" class="title">How to make good charts</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas
+</td>
+</tr>
+<tr data-index="24" data-categories="talks" data-listing-date-sort="1664928000000" data-listing-file-modified-sort="1675616324091" data-listing-reading-time-sort="0.185" data-listing-title-sort="Reproducible Science: Statistics, Forensics, and the Law" data-listing-filename-sort="reproducible-science-statistics-forensics-and-the-law.qmd">
+<td class="listing-date">
+Oct 5, 2022
+</td>
+<td class="listing-title">
+<a href="./posts/talks/reproducible-science-statistics-forensics-and-the-law.html" class="title">Reproducible Science: Statistics, Forensics, and the Law</a>
+</td>
+<td class="listing-author">
+Susan Vanderplas
+</td>
+</tr>
 </tbody>
 
 </table>

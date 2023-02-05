@@ -1,14 +1,299 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/posts/papers/robinsonvanderplas2023.html",
+      "/posts/papers/bradfordvanderplas2022.html",
+      "/posts/papers/covid-narratives.html",
+      "/posts/papers/eye-fitting-straight-lines.html",
+      "/posts/talks/reproducible-science-statistics-forensics-and-the-law.html",
+      "/posts/papers/cmcR.html",
+      "/posts/talks/how-to-make-good-charts.html",
+      "/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html",
+      "/posts/talks/from-scans-to-scores.html",
+      "/posts/talks/pandemics-graphics-and-perception-of-log-scales.html",
+      "/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html",
+      "/posts/papers/stat2020.html",
+      "/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
+      "/posts/papers/vanderplasDesigningGraphicsRequires2021.html",
+      "/posts/papers/inconclusives.html",
+      "/posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html",
+      "/posts/talks/inconclusive-conclusions-biases-and-consequences.html",
+      "/posts/talks/visual-statistics-communication-and-graphical-testing.html",
+      "/posts/talks/welcome-to-forensic-statistics.html",
+      "/posts/talks/perception-and-visual-communication-in-a-global-pandemic.html",
+      "/posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html",
+      "/posts/papers/vanderplasTestingStatisticalCharts2020.html",
+      "/posts/papers/vanderplasComparisonThreeSimilarity2020.html",
+      "/posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html",
+      "/posts/talks/big-data-big-experiments-and-big-problems.html",
+      "/posts/papers/vanderplasIntroductionFirearmsExamination2020.html",
+      "/posts/talks/statistical-lineups-for-bayesians.html",
+      "/posts/papers/rutter2019ggenealogy.html",
+      "/posts/papers/machinelearningforensics2019.html",
+      "/posts/papers/framedjcgs.html",
+      "/posts/papers/sievert2018extending.html",
+      "/posts/talks/framed-charts-in-the-statistical-atlas.html",
+      "/posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html",
+      "/posts/papers/donohoresponse.html",
+      "/posts/talks/a-bayesian-approach-to-visual-inference.html",
+      "/posts/papers/featurehierarchyjcgs.html",
+      "/posts/papers/visualaptitude.html",
+      "/posts/papers/sineillusionjcgs.html",
+      "/posts/talks/visual-aptitude-and-statistical-graphics.html",
+      "/posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html",
+      "/posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html",
+      "/posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html",
+      "/posts/talks/animint-interactive-web-ready-graphics-with-r.html",
+      "/posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html",
+      "/posts/papers/budrus2013tennis.html",
+      "/posts/papers/towfic2010detection.html",
+      "/posts/papers/hull2009near.html"
+    ]
   },
   {
     "listing": "/publications.html",
-    "items": []
+    "items": [
+      "/posts/papers/hull2009near.html",
+      "/posts/papers/towfic2010detection.html",
+      "/posts/papers/budrus2013tennis.html",
+      "/posts/papers/sineillusionjcgs.html",
+      "/posts/papers/visualaptitude.html",
+      "/posts/papers/featurehierarchyjcgs.html",
+      "/posts/papers/donohoresponse.html",
+      "/posts/papers/sievert2018extending.html",
+      "/posts/papers/machinelearningforensics2019.html",
+      "/posts/papers/framedjcgs.html",
+      "/posts/papers/rutter2019ggenealogy.html",
+      "/posts/papers/vanderplasIntroductionFirearmsExamination2020.html",
+      "/posts/papers/vanderplasTestingStatisticalCharts2020.html",
+      "/posts/papers/vanderplasComparisonThreeSimilarity2020.html",
+      "/posts/papers/inconclusives.html",
+      "/posts/papers/vanderplasDesigningGraphicsRequires2021.html",
+      "/posts/papers/stat2020.html",
+      "/posts/papers/cmcR.html",
+      "/posts/papers/covid-narratives.html",
+      "/posts/papers/eye-fitting-straight-lines.html",
+      "/posts/papers/bradfordvanderplas2022.html",
+      "/posts/papers/robinsonvanderplas2023.html"
+    ]
   },
   {
     "listing": "/talks.html",
+    "items": [
+      "/posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html",
+      "/posts/talks/animint-interactive-web-ready-graphics-with-r.html",
+      "/posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html",
+      "/posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html",
+      "/posts/talks/visual-aptitude-and-statistical-graphics.html",
+      "/posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html",
+      "/posts/talks/a-bayesian-approach-to-visual-inference.html",
+      "/posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html",
+      "/posts/talks/framed-charts-in-the-statistical-atlas.html",
+      "/posts/talks/statistical-lineups-for-bayesians.html",
+      "/posts/talks/big-data-big-experiments-and-big-problems.html",
+      "/posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html",
+      "/posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html",
+      "/posts/talks/perception-and-visual-communication-in-a-global-pandemic.html",
+      "/posts/talks/welcome-to-forensic-statistics.html",
+      "/posts/talks/visual-statistics-communication-and-graphical-testing.html",
+      "/posts/talks/inconclusive-conclusions-biases-and-consequences.html",
+      "/posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html",
+      "/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
+      "/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html",
+      "/posts/talks/pandemics-graphics-and-perception-of-log-scales.html",
+      "/posts/talks/from-scans-to-scores.html",
+      "/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html",
+      "/posts/talks/how-to-make-good-charts.html",
+      "/posts/talks/reproducible-science-statistics-forensics-and-the-law.html"
+    ]
+  },
+  {
+    "listing": "/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/animint-interactive-web-ready-graphics-with-r.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/inconclusive-conclusions-biases-and-consequences.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/visual-statistics-communication-and-graphical-testing.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/welcome-to-forensic-statistics.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/perception-and-visual-communication-in-a-global-pandemic.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/big-data-big-experiments-and-big-problems.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/pandemics-graphics-and-perception-of-log-scales.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/from-scans-to-scores.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/visual-aptitude-and-statistical-graphics.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/reproducible-science-statistics-forensics-and-the-law.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/statistical-lineups-for-bayesians.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/how-to-make-good-charts.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/a-bayesian-approach-to-visual-inference.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/talks/framed-charts-in-the-statistical-atlas.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/visualaptitude.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/sievert2018extending.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/covid-narratives.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/cmcR.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/rutter2019ggenealogy.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/hull2009near.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/budrus2013tennis.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/inconclusives.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/stat2020.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/vanderplasDesigningGraphicsRequires2021.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/vanderplasTestingStatisticalCharts2020.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/towfic2010detection.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/vanderplasIntroductionFirearmsExamination2020.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/donohoresponse.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/vanderplasComparisonThreeSimilarity2020.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/eye-fitting-straight-lines.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/robinsonvanderplas2023.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/machinelearningforensics2019.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/sineillusionjcgs.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/framedjcgs.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/featurehierarchyjcgs.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/papers/bradfordvanderplas2022.html",
     "items": []
   }
 ]

@@ -6,5 +6,5 @@ listing:
   contents: 
     - "posts/talks/*.qmd"
   type: table
-  sort: [date, title desc]
+  sort: [date desc, title desc]
 ---

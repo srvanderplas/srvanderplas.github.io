@@ -5,6 +5,6 @@ keep-md: true
 listing: 
   contents: 
     - "posts/papers/*.qmd"
-  type: table
-  sort: [date, title desc]
+  type: default
+  sort: [date desc, title desc]
 ---

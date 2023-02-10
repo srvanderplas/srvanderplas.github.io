@@ -5,11 +5,11 @@ listing:
   feed: true
   contents: posts
   sort: "date desc"
-  type: grid
-  grid-columns: 3
+  type: default
+  # grid-columns: 3
   categories: true
-  sort-ui: false
-  filter-ui: false
+  # sort-ui: false
+  # filter-ui: false
 page-layout: full
 title-block-banner: true
 ---

@@ -17,7 +17,7 @@ format:
  
 ## Slides
 
-<iframe src='https://srvanderplas.github.io/Presentations/2022-StatDeptSeminars/#/title-slide' height='auto' width='80%'>
+<iframe src='https://srvanderplas.github.io/Presentations/2022-StatDeptSeminar/#/title-slide' height='auto' width='80%'>
                         </iframe>
 ## Location
 University of Nebraska - Lincoln

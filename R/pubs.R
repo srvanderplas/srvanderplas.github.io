@@ -6,6 +6,14 @@ pub_bib <- "https://raw.githubusercontent.com/srvanderplas/CV/master/SusanVander
 #   vector of package names in paper tiles
 pkg_names <- c("cmcR", "animint", "ggplot2", "ggenealogy")
 
+
+
+# R packages
+library(RefManageR)
+library(magrittr)
+library(stringr)
+
+
 month_dict <- sprintf("%02d", c(1:12, 1:12, 1:12)) %>%
   as.list() %>%
   set_names(c(month.abb, month.name, sprintf("%02d", 1:12)))
@@ -150,12 +158,6 @@ create_paper <- function(params, path = "posts/papers") {
 
   writeLines(md_lines, con = file.path(path, post_name))
 }
-
-
-# R packages
-library(RefManageR)
-library(magrittr)
-library(stringr)
 
 
 bibfile <- readLines(pub_bib)

@@ -1,211 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/index.html</loc>
-    <lastmod>2023-02-05T17:00:22.434Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/index.html</loc>
+    <lastmod>2023-02-10T16:42:43.101Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/publications.html</loc>
-    <lastmod>2023-02-05T17:00:22.890Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/publications.html</loc>
+    <lastmod>2023-02-10T16:42:43.553Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/research.html</loc>
-    <lastmod>2023-02-05T17:00:23.706Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/courses.html</loc>
+    <lastmod>2023-02-10T16:42:43.833Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/talks.html</loc>
-    <lastmod>2023-02-05T17:00:24.150Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/research.html</loc>
+    <lastmod>2023-02-10T16:42:44.445Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html</loc>
-    <lastmod>2023-02-05T17:00:24.770Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/talks.html</loc>
+    <lastmod>2023-02-10T16:42:44.909Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/animint-interactive-web-ready-graphics-with-r.html</loc>
-    <lastmod>2023-02-05T17:00:25.098Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html</loc>
+    <lastmod>2023-02-10T16:42:45.525Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/inconclusive-conclusions-biases-and-consequences.html</loc>
-    <lastmod>2023-02-05T17:00:25.382Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/animint-interactive-web-ready-graphics-with-r.html</loc>
+    <lastmod>2023-02-10T16:42:45.825Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/visual-statistics-communication-and-graphical-testing.html</loc>
-    <lastmod>2023-02-05T17:00:25.662Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/inconclusive-conclusions-biases-and-consequences.html</loc>
+    <lastmod>2023-02-10T16:42:46.109Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/welcome-to-forensic-statistics.html</loc>
-    <lastmod>2023-02-05T17:00:25.970Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/visual-statistics-communication-and-graphical-testing.html</loc>
+    <lastmod>2023-02-10T16:42:46.393Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/perception-and-visual-communication-in-a-global-pandemic.html</loc>
-    <lastmod>2023-02-05T17:00:26.266Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/welcome-to-forensic-statistics.html</loc>
+    <lastmod>2023-02-10T16:42:46.697Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html</loc>
-    <lastmod>2023-02-05T17:00:26.562Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/perception-and-visual-communication-in-a-global-pandemic.html</loc>
+    <lastmod>2023-02-10T16:42:46.981Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/big-data-big-experiments-and-big-problems.html</loc>
-    <lastmod>2023-02-05T17:00:26.858Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html</loc>
+    <lastmod>2023-02-10T16:42:47.269Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html</loc>
-    <lastmod>2023-02-05T17:00:27.150Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/big-data-big-experiments-and-big-problems.html</loc>
+    <lastmod>2023-02-10T16:42:47.561Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/pandemics-graphics-and-perception-of-log-scales.html</loc>
-    <lastmod>2023-02-05T17:00:27.462Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html</loc>
+    <lastmod>2023-02-10T16:42:47.853Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/from-scans-to-scores.html</loc>
-    <lastmod>2023-02-05T17:00:27.758Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/pandemics-graphics-and-perception-of-log-scales.html</loc>
+    <lastmod>2023-02-10T16:42:48.141Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/visual-aptitude-and-statistical-graphics.html</loc>
-    <lastmod>2023-02-05T17:00:28.042Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/from-scans-to-scores.html</loc>
+    <lastmod>2023-02-10T16:42:48.441Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/reproducible-science-statistics-forensics-and-the-law.html</loc>
-    <lastmod>2023-02-05T17:00:28.326Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/visual-aptitude-and-statistical-graphics.html</loc>
+    <lastmod>2023-02-10T16:42:48.729Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html</loc>
-    <lastmod>2023-02-05T17:00:28.638Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.html</loc>
+    <lastmod>2023-02-10T16:42:49.013Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html</loc>
-    <lastmod>2023-02-05T17:00:28.922Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html</loc>
+    <lastmod>2023-02-10T16:42:49.313Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/statistical-lineups-for-bayesians.html</loc>
-    <lastmod>2023-02-05T17:00:29.202Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html</loc>
+    <lastmod>2023-02-10T16:42:49.689Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/how-to-make-good-charts.html</loc>
-    <lastmod>2023-02-05T17:00:29.510Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/statistical-lineups-for-bayesians.html</loc>
+    <lastmod>2023-02-10T16:42:50.013Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html</loc>
-    <lastmod>2023-02-05T17:00:29.794Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</loc>
+    <lastmod>2023-02-10T16:42:50.293Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html</loc>
-    <lastmod>2023-02-05T17:00:30.074Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html</loc>
+    <lastmod>2023-02-10T16:42:50.605Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html</loc>
-    <lastmod>2023-02-05T17:00:30.358Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html</loc>
+    <lastmod>2023-02-10T16:42:50.893Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html</loc>
-    <lastmod>2023-02-05T17:00:30.654Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html</loc>
+    <lastmod>2023-02-10T16:42:51.185Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/a-bayesian-approach-to-visual-inference.html</loc>
-    <lastmod>2023-02-05T17:00:30.938Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html</loc>
+    <lastmod>2023-02-10T16:42:51.497Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html</loc>
-    <lastmod>2023-02-05T17:00:31.222Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/a-bayesian-approach-to-visual-inference.html</loc>
+    <lastmod>2023-02-10T16:42:51.789Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html</loc>
-    <lastmod>2023-02-05T17:00:31.506Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html</loc>
+    <lastmod>2023-02-10T16:42:52.089Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/talks/framed-charts-in-the-statistical-atlas.html</loc>
-    <lastmod>2023-02-05T17:00:31.814Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html</loc>
+    <lastmod>2023-02-10T16:42:52.385Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/visualaptitude.html</loc>
-    <lastmod>2023-02-05T17:00:32.114Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/framed-charts-in-the-statistical-atlas.html</loc>
+    <lastmod>2023-02-10T16:42:52.669Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/sievert2018extending.html</loc>
-    <lastmod>2023-02-05T17:00:32.406Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/visualaptitude.html</loc>
+    <lastmod>2023-02-10T16:42:52.985Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/covid-narratives.html</loc>
-    <lastmod>2023-02-05T17:00:32.730Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/sievert2018extending.html</loc>
+    <lastmod>2023-02-10T16:42:53.281Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/cmcR.html</loc>
-    <lastmod>2023-02-05T17:00:33.038Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/covid-narratives.html</loc>
+    <lastmod>2023-02-10T16:42:53.589Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/rutter2019ggenealogy.html</loc>
-    <lastmod>2023-02-05T17:00:33.350Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/cmcR.html</loc>
+    <lastmod>2023-02-10T16:42:53.897Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/hull2009near.html</loc>
-    <lastmod>2023-02-05T17:00:33.642Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/rutter2019ggenealogy.html</loc>
+    <lastmod>2023-02-10T16:42:54.189Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/budrus2013tennis.html</loc>
-    <lastmod>2023-02-05T17:00:33.950Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/hull2009near.html</loc>
+    <lastmod>2023-02-10T16:42:54.513Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/inconclusives.html</loc>
-    <lastmod>2023-02-05T17:00:34.258Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/budrus2013tennis.html</loc>
+    <lastmod>2023-02-10T16:42:54.809Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/stat2020.html</loc>
-    <lastmod>2023-02-05T17:00:34.574Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/inconclusives.html</loc>
+    <lastmod>2023-02-10T16:42:55.113Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/vanderplasDesigningGraphicsRequires2021.html</loc>
-    <lastmod>2023-02-05T17:00:34.914Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/stat2020.html</loc>
+    <lastmod>2023-02-10T16:42:55.449Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/vanderplasTestingStatisticalCharts2020.html</loc>
-    <lastmod>2023-02-05T17:00:35.222Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/vanderplasDesigningGraphicsRequires2021.html</loc>
+    <lastmod>2023-02-10T16:42:55.749Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/towfic2010detection.html</loc>
-    <lastmod>2023-02-05T17:00:35.514Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/vanderplasTestingStatisticalCharts2020.html</loc>
+    <lastmod>2023-02-10T16:42:56.041Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/vanderplasIntroductionFirearmsExamination2020.html</loc>
-    <lastmod>2023-02-05T17:00:35.850Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/towfic2010detection.html</loc>
+    <lastmod>2023-02-10T16:42:56.373Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/donohoresponse.html</loc>
-    <lastmod>2023-02-05T17:00:36.154Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/vanderplasIntroductionFirearmsExamination2020.html</loc>
+    <lastmod>2023-02-10T16:42:56.685Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/vanderplasComparisonThreeSimilarity2020.html</loc>
-    <lastmod>2023-02-05T17:00:36.458Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/donohoresponse.html</loc>
+    <lastmod>2023-02-10T16:42:56.977Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/eye-fitting-straight-lines.html</loc>
-    <lastmod>2023-02-05T17:00:36.802Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/vanderplasComparisonThreeSimilarity2020.html</loc>
+    <lastmod>2023-02-10T16:42:57.313Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/robinsonvanderplas2023.html</loc>
-    <lastmod>2023-02-05T17:00:37.114Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/eye-fitting-straight-lines.html</loc>
+    <lastmod>2023-02-10T16:42:57.621Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/machinelearningforensics2019.html</loc>
-    <lastmod>2023-02-05T17:00:37.422Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/robinsonvanderplas2023.html</loc>
+    <lastmod>2023-02-10T16:42:57.917Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/sineillusionjcgs.html</loc>
-    <lastmod>2023-02-05T17:00:37.742Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/machinelearningforensics2019.html</loc>
+    <lastmod>2023-02-10T16:42:58.241Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/framedjcgs.html</loc>
-    <lastmod>2023-02-05T17:00:38.050Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/sineillusionjcgs.html</loc>
+    <lastmod>2023-02-10T16:42:58.541Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/featurehierarchyjcgs.html</loc>
-    <lastmod>2023-02-05T17:00:38.358Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/framedjcgs.html</loc>
+    <lastmod>2023-02-10T16:42:58.837Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/posts/papers/bradfordvanderplas2022.html</loc>
-    <lastmod>2023-02-05T17:00:38.662Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/featurehierarchyjcgs.html</loc>
+    <lastmod>2023-02-10T16:42:59.173Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/quarto-blog-site/about.html</loc>
-    <lastmod>2023-02-05T17:00:39.338Z</lastmod>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/bradfordvanderplas2022.html</loc>
+    <lastmod>2023-02-10T16:42:59.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/srvanderplas/srvanderplas.github.io/about.html</loc>
+    <lastmod>2023-02-10T16:43:00.121Z</lastmod>
   </url>
 </urlset>

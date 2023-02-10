@@ -19,7 +19,7 @@ format:
 ![](https://github.com/srvanderplas/VisualAptitude/blob/master/Presentation/figure/scaledscores-1.png?raw=true){.preview-image}
  
 ## Citation
-> <a name=bib-visualaptitude></a>[VanderPlas, S. and H. Hofmann](#cite-visualaptitude) (2016). “Spatial Reasoning and Data Displays”. In: _IEEE Transactions on Visualization and Computer Graphics_ 22.1, pp. 459-468. DOI: [https://doi.org/10.1109/TVCG.2015.2469125](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1109%2FTVCG.2015.2469125).
+> <a name=bib-visualaptitude></a>[[1]](#cite-visualaptitude) S. VanderPlas and H. Hofmann. “Spatial Reasoning and Data Displays”. In: _IEEE Transactions on Visualization and Computer Graphics_ 22.1 (Dec. 31, 2016), pp. 459-468. DOI: [https://doi.org/10.1109/TVCG.2015.2469125](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1109%2FTVCG.2015.2469125).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

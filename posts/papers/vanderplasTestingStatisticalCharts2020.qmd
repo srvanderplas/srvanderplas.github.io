@@ -19,7 +19,7 @@ format:
 ![](https://github.com/srvanderplas/AnnualReviewStatisticsVisualization/blob/master/figure/noaa_michael.png?raw=true){.preview-image}
  
 ## Citation
-> <a name=bib-vanderplasTestingStatisticalCharts2020></a>[Vanderplas, S., D. Cook, and H. Hofmann](#cite-vanderplasTestingStatisticalCharts2020) (2020). “Testing Statistical Charts: What Makes a Good Graph?” In: _Annual Review of Statistics and Its Application_ 7.1, pp. 61-88. DOI: [https://doi.org/10.1146/annurev-statistics-031219-041252](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1146%2Fannurev-statistics-031219-041252).
+> <a name=bib-vanderplasTestingStatisticalCharts2020></a>[[1]](#cite-vanderplasTestingStatisticalCharts2020) S. Vanderplas, D. Cook, and H. Hofmann. “Testing Statistical Charts: What Makes a Good Graph?” In: _Annual Review of Statistics and Its Application_ 7.1 (Mar. 01, 2020), pp. 61-88. DOI: [https://doi.org/10.1146/annurev-statistics-031219-041252](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1146%2Fannurev-statistics-031219-041252).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

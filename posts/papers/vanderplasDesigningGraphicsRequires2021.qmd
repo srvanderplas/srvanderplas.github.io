@@ -19,7 +19,7 @@ format:
 ![](https://i.imgur.com/MMBggrj.png){.preview-image}
  
 ## Citation
-> <a name=bib-vanderplasDesigningGraphicsRequires2021></a>[VanderPlas, S.](#cite-vanderplasDesigningGraphicsRequires2021) (2021). “Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results”. In: _Harvard Data Science Review_ 3.3. DOI: [https://doi.org/10.1162/99608f92.7d099fd0](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1162%2F99608f92.7d099fd0).
+> <a name=bib-vanderplasDesigningGraphicsRequires2021></a>[[1]](#cite-vanderplasDesigningGraphicsRequires2021) S. VanderPlas. “Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results”. In: _Harvard Data Science Review_ 3.3 (Jul. 30, 2021). DOI: [https://doi.org/10.1162/99608f92.7d099fd0](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1162%2F99608f92.7d099fd0).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

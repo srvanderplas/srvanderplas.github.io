@@ -1,7 +1,7 @@
 ---
 title: "In tennis, do smashes win matches?"
 author: "Sarah Budrus, Susan Vanderplas, Dianne Cook"
-date: "2013-01-01"
+date: "2013"
 image: "https://rss.onlinelibrary.wiley.com/cms/asset/b0ea4265-b5ea-4025-8345-6de8bf26f7c2/sign665-fig-0001-m.png"
 categories: papers
 listing:
@@ -19,7 +19,7 @@ format:
 ![](https://rss.onlinelibrary.wiley.com/cms/asset/b0ea4265-b5ea-4025-8345-6de8bf26f7c2/sign665-fig-0001-m.png){.preview-image}
  
 ## Citation
-> <a name=bib-budrus2013tennis></a>[Budrus, S., S. Vanderplas, and D. Cook](#cite-budrus2013tennis) (2013). “In tennis, do smashes win matches?” In: _Significance_ 10.3, pp. 35-38. DOI: [https://doi.org/10.1111/j.1740-9713.2013.00665.x](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1740-9713.2013.00665.x).
+> <a name=bib-budrus2013tennis></a>[[1]](#cite-budrus2013tennis) S. Budrus, S. Vanderplas, and D. Cook. “In tennis, do smashes win matches?” In: _Significance_ 10.3 (2013), pp. 35-38. DOI: [https://doi.org/10.1111/j.1740-9713.2013.00665.x](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1740-9713.2013.00665.x).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

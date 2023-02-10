@@ -19,7 +19,7 @@ format:
 ![](https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true){.preview-image}
  
 ## Citation
-> <a name=bib-eye-fitting-straight-lines></a>[Robinson, E. A., R. Howard, and S. Vanderplas](#cite-eye-fitting-straight-lines) (2022). “Eye Fitting Straight Lines in the Modern Era”. In: _Journal of Computational and Graphical Statistics_ 0.ja, pp. 1-19. DOI: [https://doi.org/10.1080/10618600.2022.2140668](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2022.2140668).
+> <a name=bib-eye-fitting-straight-lines></a>[[1]](#cite-eye-fitting-straight-lines) E. A. Robinson, R. Howard, and S. Vanderplas. “Eye Fitting Straight Lines in the Modern Era”. In: _Journal of Computational and Graphical Statistics_ 0.ja (Nov. 01, 2022), pp. 1-19. DOI: [https://doi.org/10.1080/10618600.2022.2140668](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2022.2140668).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

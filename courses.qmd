@@ -1,0 +1,35 @@
+---
+title: "Teaching"
+---
+
+I wrote and continue to update/improve a textbook, [Statistical Computing in R and Python](https://srvanderplas.github.io/stat-computing-r-python/), which I use for Stat 151, 251, 351, and 850. 
+
+
+## Undergraduate
+
+### Stat 151
+
+- [Course site](../unl-stat151/)
+- Semesters: 2023a, 2022a
+
+### Stat 251
+
+- [Course site](../unl-stat251/)
+- Semesters: 2023a
+
+## Graduate
+
+### Stat 850
+
+- [Course site](../unl-stat850/) (Currently, this is the Stat 850 textbook, which I am in the process of modifying/merging with the Stat 151 and 251 books so that I have a single text to maintain)
+
+- Semesters: 2022c, 2021c, 2020c
+
+
+## Other
+
+### R Workshops
+
+- [Site](https://unl-statistics.github.io/R-workshops/README.html)
+
+- Offered: January 2023, May 2022, January 2022

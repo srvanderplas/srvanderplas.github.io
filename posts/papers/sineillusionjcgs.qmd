@@ -19,7 +19,7 @@ format:
 ![](https://github.com/heike/sine-illusion/raw/master/figure/fig-origillusion.png){.preview-image}
  
 ## Citation
-> <a name=bib-sineillusionjcgs></a>[Vanderplas, S. and H. Hofmann](#cite-sineillusionjcgs) (2015). “Signs of the Sine Illusion - why we need to care”. In: _Journal of Computational and Graphical Statistics_ 24.4, pp. 1170-1190. DOI: [https://doi.org/10.1080/10618600.2014.951547](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2014.951547).
+> <a name=bib-sineillusionjcgs></a>[[1]](#cite-sineillusionjcgs) S. Vanderplas and H. Hofmann. “Signs of the Sine Illusion - why we need to care”. In: _Journal of Computational and Graphical Statistics_ 24.4 (Dec. 10, 2015), pp. 1170-1190. DOI: [https://doi.org/10.1080/10618600.2014.951547](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2014.951547).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

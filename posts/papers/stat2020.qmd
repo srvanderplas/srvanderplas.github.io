@@ -19,7 +19,7 @@ format:
 ![](https://i.imgur.com/D9ZpjyJ.png){.preview-image}
  
 ## Citation
-> <a name=bib-stat2020></a>[Vanderplas, S., C. Röttger, D. Cook, et al.](#cite-stat2020) (2021). “Statistical significance calculations for scenarios in visual inference”. In: _Stat_ 10.1, p. e337. DOI: [https://doi.org/10.1002/sta4.337](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1002%2Fsta4.337).
+> <a name=bib-stat2020></a>[[1]](#cite-stat2020) S. Vanderplas, C. Röttger, D. Cook, et al. “Statistical significance calculations for scenarios in visual inference”. In: _Stat_ 10.1 (Dec. 01, 2021), p. e337. DOI: [https://doi.org/10.1002/sta4.337](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1002%2Fsta4.337).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

@@ -19,7 +19,7 @@ format:
 ![](https://github.com/heike/inconclusives/blob/master/figures/shape-overview-study-1.png?raw=true){.preview-image}
  
 ## Citation
-> <a name=bib-inconclusives></a>[Hofmann, H., A. Carriquiry, and S. Vanderplas](#cite-inconclusives) (2021). “Treatment of inconclusives in the AFTE range of conclusions”. In: _Law, Probability and Risk_ 19.3-4, pp. 317-364. ISSN: 1470-8396. DOI: [https://doi.org/10.1093/lpr/mgab002](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1093%2Flpr%2Fmgab002).
+> <a name=bib-inconclusives></a>[[1]](#cite-inconclusives) H. Hofmann, A. Carriquiry, and S. Vanderplas. “Treatment of inconclusives in the AFTE range of conclusions”. In: _Law, Probability and Risk_ 19.3-4 (May. 05, 2021), pp. 317-364. ISSN: 1470-8396. DOI: [https://doi.org/10.1093/lpr/mgab002](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1093%2Flpr%2Fmgab002).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

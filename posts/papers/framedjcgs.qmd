@@ -19,7 +19,7 @@ format:
 ![](https://github.com/srvanderplas/Statistical_Atlas/blob/master/images/test-images/Oregon-spine_with_frame1.png?raw=true){.preview-image}
  
 ## Citation
-> <a name=bib-framedjcgs></a>[Vanderplas, S., R. C. Goluch, and H. Hofmann](#cite-framedjcgs) (2019). “Framed! Reproducing and Revisiting 150-Year-Old Charts”. In: _Journal of Computational and Graphical Statistics_ 28.3, pp. 620-634. DOI: [https://doi.org/10.1080/10618600.2018.1562937](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2018.1562937).
+> <a name=bib-framedjcgs></a>[[1]](#cite-framedjcgs) S. Vanderplas, R. C. Goluch, and H. Hofmann. “Framed! Reproducing and Revisiting 150-Year-Old Charts”. In: _Journal of Computational and Graphical Statistics_ 28.3 (Apr. 01, 2019), pp. 620-634. DOI: [https://doi.org/10.1080/10618600.2018.1562937](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2018.1562937).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

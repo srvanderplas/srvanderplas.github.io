@@ -1,7 +1,7 @@
 ---
 title: "You Draw It: Implementation of visually fitted trends with r2d3"
 author: "Emily Robinson, Reka Howard, Susan VanderPlas"
-date: "2023-01-01"
+date: "202301"
 image: "https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true"
 categories: papers
 listing:
@@ -19,7 +19,7 @@ format:
 ![](https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true){.preview-image}
  
 ## Citation
-> <a name=bib-robinsonvanderplas2023></a>[Robinson, E., R. Howard, and S. VanderPlas](#cite-robinsonvanderplas2023) (2023). “You Draw It: Implementation of visually fitted trends with r2d3”. In: _Journal of Data Science_. ISSN: 1680-743X. DOI: [10.6339/22-JDS1083](https://doi.org/10.6339%2F22-JDS1083).
+> <a name=bib-robinsonvanderplas2023></a>[[1]](#cite-robinsonvanderplas2023) E. Robinson, R. Howard, and S. VanderPlas. “You Draw It: Implementation of visually fitted trends with r2d3”. In: _Journal of Data Science_ (Jan. 2023). ISSN: 1680-743X. DOI: [10.6339/22-JDS1083](https://doi.org/10.6339%2F22-JDS1083).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

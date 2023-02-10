@@ -19,7 +19,7 @@ format:
 ![](https://github.com/srvanderplas/FeatureHierarchy/raw/master/pngs/1b4491b66980539a3d929485874ac41a.png){.preview-image}
  
 ## Citation
-> <a name=bib-featurehierarchyjcgs></a>[Vanderplas, S. and H. Hofmann](#cite-featurehierarchyjcgs) (2017). “Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics”. In: _Journal of Computational and Graphical Statistics_ 26.2, pp. 231-242. DOI: [https://doi.org/10.1080/10618600.2016.1209116](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2016.1209116).
+> <a name=bib-featurehierarchyjcgs></a>[[1]](#cite-featurehierarchyjcgs) S. Vanderplas and H. Hofmann. “Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics”. In: _Journal of Computational and Graphical Statistics_ 26.2 (Apr. 24, 2017), pp. 231-242. DOI: [https://doi.org/10.1080/10618600.2016.1209116](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2016.1209116).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

@@ -19,7 +19,7 @@ format:
 ![](https://github.com/lindsayrutter/ggenealogy/blob/master/vignettes/dCox.png?raw=true){.preview-image}
  
 ## Citation
-> <a name=bib-rutter2019ggenealogy></a>[Rutter, L., S. Vanderplas, D. Cook, et al.](#cite-rutter2019ggenealogy) (2019). “ggenealogy: An R Package for Visualizing Genealogical Data”. In: _Journal of Statistical Software_ 89.13, pp. 1-31. DOI: [https://doi.org/10.18637/jss.v089.i13](https://doi.org/https%3A%2F%2Fdoi.org%2F10.18637%2Fjss.v089.i13).
+> <a name=bib-rutter2019ggenealogy></a>[[1]](#cite-rutter2019ggenealogy) L. Rutter, S. Vanderplas, D. Cook, et al. “ggenealogy: An R Package for Visualizing Genealogical Data”. In: _Journal of Statistical Software_ 89.13 (May. 29, 2019), pp. 1-31. DOI: [https://doi.org/10.18637/jss.v089.i13](https://doi.org/https%3A%2F%2Fdoi.org%2F10.18637%2Fjss.v089.i13).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

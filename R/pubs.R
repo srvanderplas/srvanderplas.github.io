@@ -6,10 +6,15 @@ pub_bib <- "https://raw.githubusercontent.com/srvanderplas/CV/master/SusanVander
 #   vector of package names in paper tiles
 pkg_names <- c("cmcR", "animint", "ggplot2", "ggenealogy")
 
+month_dict <- sprintf("%02d", c(1:12, 1:12, 1:12)) %>%
+  as.list() %>%
+  set_names(c(month.abb, month.name, sprintf("%02d", 1:12)))
+
+
 # This function converts publications to a list of information necessary to make the post
 pub_to_params <- function(entry) {
   post_params <- list()
-  entrylist <- unlist(entry)
+  entrylist <- unlist(entry, recursive = F)
 
   post_params$name <- names(entry)
   post_params$title <- stringr::str_remove_all(entry$title, "[^[[:alnum:] :?!\\.,-]]") %>%
@@ -17,17 +22,45 @@ pub_to_params <- function(entry) {
     stringr::str_remove_all("[{}]{1,}")
 
   post_params$author <- paste(entry$author, collapse = ", ")
-  post_params$date <- entry[["date"]] %>%
-    str_remove_all("NA")
 
 
-  addendum <- entrylist$addendum
+
+  if ("date" %in% names(entrylist)) {
+    post_params$date <- entrylist[["date"]] %>%
+      str_remove_all("NA")
+  } else if ("year" %in% names(entrylist)) {
+    if ("month" %in% names(entrylist)) {
+      post_params$date <- sprintf("%s%s", entrylist[["year"]], month_dict[[entrylist[["month"]]]])
+    } else {
+      post_params$date <- entrylist[["year"]]
+    }
+  } else {
+    post_params$date <- "unknown"
+  }
+
+
+
   RefManageR::NoCite(entry)
-  post_params$citation <- capture.output(RefManageR::PrintBibliography(entry, .opts = list(no.print.fields = "addendum", style = "markdown", bib.style = "authoryear", first.inits = T, dashed = F))) %>% paste(collapse = " ")
+  post_params$citation <- capture.output(
+    RefManageR::PrintBibliography(
+      entry,
+      .opts = list(no.print.fields = "addendum",
+                   style = "markdown",
+                   # bib.style = "authoryear",
+                   first.inits = T,
+                   dashed = F))
+  ) %>%
+    paste(collapse = " ")
 
   post_params$citation <- str_replace(post_params$citation, "NA", "")
 
-  post_params$bibtex <-  capture.output(RefManageR::PrintBibliography(entry, .opts = list(no.print.fields = "addendum", style = "Bibtex", bib.style = "authoryear")))
+  post_params$bibtex <-  capture.output(
+    RefManageR::PrintBibliography(
+      entry,
+      .opts = list(no.print.fields = "addendum",
+                   style = "Bibtex",
+                   bib.style = "authoryear"))
+  )
 
   # Optional stuff
   post_params$other <- ""
@@ -37,6 +70,7 @@ pub_to_params <- function(entry) {
   }
 
   if ("addendum" %in% names(entrylist)) {
+    addendum <- entrylist[["addendum"]]
     post_params$other <- c(post_params$other, "### Contribution", "", "Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.", "", addendum)
   }
 
@@ -135,5 +169,5 @@ pubs <- RefManageR::ReadBib(tfile)
 pkg_names_fix <- paste("`", pkg_names, "`", sep = "")
 names(pkg_names_fix) <- pkg_names
 
-pub_info <- purrr::map(pubs, pub_to_params)
+pub_info <- lapply(pubs, pub_to_params)
 purrr::walk(pub_info, create_paper)

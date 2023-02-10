@@ -19,7 +19,7 @@ format:
 ![](https://rss.onlinelibrary.wiley.com/cms/asset/4792a2d6-f10b-481e-aeff-075d0ccdd90e/sign1252-fig-0001-m.png){.preview-image}
  
 ## Citation
-> <a name=bib-machinelearningforensics2019></a>[Carriquiry, A., H. Hofmann, X. H. Tai, et al.](#cite-machinelearningforensics2019) (2019). “Machine learning in forensic applications”. In: _Significance_ 16.2, pp. 29-35. DOI: [https://doi.org/10.1111/j.1740-9713.2019.01252.x](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1740-9713.2019.01252.x).
+> <a name=bib-machinelearningforensics2019></a>[[1]](#cite-machinelearningforensics2019) A. Carriquiry, H. Hofmann, X. H. Tai, et al. “Machine learning in forensic applications”. In: _Significance_ 16.2 (Apr. 01, 2019), pp. 29-35. DOI: [https://doi.org/10.1111/j.1740-9713.2019.01252.x](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1740-9713.2019.01252.x).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

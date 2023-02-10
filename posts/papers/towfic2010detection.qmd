@@ -1,7 +1,7 @@
 ---
 title: "Detection of gene orthology from gene co-expression and protein interaction networks"
 author: "Fadi Towfic, Susan Vanderplas, Casey A Oliver, Oliver Couture, Christopher K Tuggle, M Heather West Greenlee, Vasant Honavar"
-date: "2010-01-01"
+date: "2010"
 image: "https://i.imgur.com/8Wa9fu3.png"
 categories: papers
 listing:
@@ -19,7 +19,7 @@ format:
 ![](https://i.imgur.com/8Wa9fu3.png){.preview-image}
  
 ## Citation
-> <a name=bib-towfic2010detection></a>[Towfic, F., S. Vanderplas, C. A. Oliver, et al.](#cite-towfic2010detection) (2010). “Detection of gene orthology from gene co-expression and protein interaction networks”. In: _BMC bioinformatics_ 11.Suppl 3, p. S7. DOI: [https://doi.org/10.1186/1471-2105-11-S3-S7](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1186%2F1471-2105-11-S3-S7).
+> <a name=bib-towfic2010detection></a>[[1]](#cite-towfic2010detection) F. Towfic, S. Vanderplas, C. A. Oliver, et al. “Detection of gene orthology from gene co-expression and protein interaction networks”. In: _BMC bioinformatics_ 11.Suppl 3 (2010), p. S7. DOI: [https://doi.org/10.1186/1471-2105-11-S3-S7](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1186%2F1471-2105-11-S3-S7).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex

@@ -16,6 +16,7 @@ website:
           - publications.qmd
           - courses.qmd
           - talks.qmd
+          - other.qmd
       - icon: github
         href: https://github.com/srvanderplas
       - icon: twitter

@@ -1,0 +1,14 @@
+{
+  "hash": "b9a6008a5f957caa0f63e351c4bdcc31",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\nimage: profile.jpg\nimage-shape: round\nengine: knitr\nabout:\n  template: jolla\n  links:\n    - icon: twitter\n      text: Twitter\n      href: https://twitter.com/srvanderplas\n    - icon: mastodon\n      text: Mastodon\n      href: \"https://vis.social/@Srvanderplas\"\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/srvanderplas/\n    - icon: github\n      text: Github\n      href: https://github.com/srvanderplas\n    - icon: bookmark\n      text: OrcID\n      href: https://orcid.org/0000-0002-3803-0972\n    - icon: file-person\n      text: CV\n      href: https://github.com/srvanderplas/CV/raw/master/SusanVanderplas-CV.pdf\n---\n\n\n## Biography {.left}\n\nSusan Vanderplas is an assistant professor in the Statistics Department at University of Nebraska, Lincoln, researching the perception of statistical charts and graphs. She also works with the Center for Statistical Applications in Forensic Evidence (CSAFE) at Iowa State University, developing statistical methods for examination of bullets, cartridges, and footwear. \n\nIn her spare time (hah) she likes to sew, cross-stitch mildly off-color sayings, and bake things (usually badly). \n\n::: callout-warning\n## Disclaimer\n\nAll opinions are my own and are not intended to speak for or represent my employer, friends, or anyone else. \n:::\n\n\n::: {.cell}\n<style type=\"text/css\">\n.left {text-align:left;}\n</style>\n:::\n\n::: columns\n\n::: {.column .left}\n## Interests\n- Forensic Statistics\n- Statistical Graphics\n- Computational Reproducibility\n- Data Wrangling Pipelines\n- Computer Vision\n- Human Perception\n- Machine Learning\n- Statistical Computing\n\n:::\n::: column\n## Education\n\n### PhD\nStatistics, Iowa State University, 2015. [Dissertation: Perception of Statistical Graphics](https://github.com/srvanderplas/Dissertation/raw/master/SusanVanderplas-DissertationFinalVersion.pdf)\n\n### MS\nStatistics, Iowa State University, 2011\n\n### BS\nPsychology and Applied Mathematical Sciences, Texas A&M University, 2009\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

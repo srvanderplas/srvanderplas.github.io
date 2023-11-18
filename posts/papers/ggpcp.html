@@ -6,11 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Susan Vanderplas">
-<meta name="dcterms.date" content="2022-09-22">
-<meta name="keywords" content="visualization, design, Talk">
+<meta name="author" content="Susan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann">
+<meta name="dcterms.date" content="2023-03-01">
+<meta name="keywords" content="pr, perception, visualization, R package, parallel coordinate plot, multivariate">
 
-<title>Susan Vanderplas - How to make good charts</title>
+<title>Susan Vanderplas - Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -42,6 +42,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -143,9 +145,9 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
-      <h1 class="title">How to make good charts</h1>
+      <h1 class="title">Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">talks</div>
+                <div class="quarto-category">papers</div>
               </div>
                   </div>
   </div>
@@ -156,14 +158,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Susan Vanderplas </p>
+               <p>Susan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">September 22, 2022</p>
+        <p class="date">March 1, 2023</p>
       </div>
     </div>
     
@@ -174,7 +176,7 @@ ul.task-list li input[type="checkbox"] {
   <div>
     <div class="keywords">
       <div class="block-title">Keywords</div>
-      <p>visualization, design, Talk</p>
+      <p>pr, perception, visualization, R package, parallel coordinate plot, multivariate</p>
     </div>
   </div>
   
@@ -189,16 +191,44 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/Presentations/2022-CBIO/" height="auto" width="80%">
-</iframe>
+<p><img src="https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true" class="preview-image img-fluid"></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-ggpcp"></a><a href="#cite-ggpcp">[1]</a> S. VanderPlas, Y. Ge, A. Unwin, et al.&nbsp;“Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots”. In: <em>Journal of Computational and Graphical Statistics</em> (Mar.&nbsp;2023). DOI: <a href="https://doi.org/10.1080%2F10618600.2023.2195462">10.1080/10618600.2023.2195462</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{ggpcp,
+  author = {Susan VanderPlas and Yawei Ge and Antony Unwin and Heike Hofmann},
+  title = {Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots},
+  journal = {Journal of Computational and Graphical Statistics},
+  year = {2023},
+  doi = {10.1080/10618600.2023.2195462},
+  publisher = {Taylor &amp; Francis},
+  month = {mar},
+}</code></pre>
+</div>
+</div>
+</div>
+<section id="contribution" class="level3">
+<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
+<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
+<p>Writing (50%)</p>
+<p><a href="https://github.com/srvanderplas/ggpcp-paper" class="btn btn-tip" role="button"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+
+
 </section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>University of Nebraska - Lincoln Complex Biosystems, Department Seminar Lincoln, NE</p>
-
-
 </section>
 
 </main> <!-- /main -->

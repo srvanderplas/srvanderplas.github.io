@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.4.489">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -47,7 +47,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -57,7 +63,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script>
@@ -90,6 +97,7 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
@@ -99,21 +107,22 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Susan Vanderplas</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-more" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -132,26 +141,31 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./talks.html">
  <span class="dropdown-text">Talks</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./other.html">
+ <span class="dropdown-text">Other</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/srvanderplas"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/srvanderplas"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/srvanderplas"><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/srvanderplas"> <i class="bi bi-twitter" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://mastodon.social/@srvanderplas"><i class="bi bi-mastodon" role="img">
+    <a class="nav-link" href="https://mastodon.social/@srvanderplas"> <i class="bi bi-mastodon" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -178,7 +192,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 
 
@@ -186,25 +202,109 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="papers" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1676054437664" data-listing-reading-time-sort="0.6">
+<div class="quarto-post image-right" data-index="0" data-categories="papers" data-listing-date-sort="1698814800000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
 <div class="thumbnail">
-<p><a href="./posts/papers/robinsonvanderplas2023.html"> <img src="https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/vanderplasStatisticalComputingUsing2023.html" class="no-external"></a></p><a href="./posts/papers/vanderplasStatisticalComputingUsing2023.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/papers/vanderplasStatisticalComputingUsing2023.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/robinsonvanderplas2023.html">
 <h3 class="no-anchor listing-title">
-You Draw It: Implementation of visually fitted trends with r2d3
+<a href="./posts/papers/vanderplasStatisticalComputingUsing2023.html" class="no-external">Statistical Computing Using R and Python</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/vanderplasStatisticalComputingUsing2023.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] E. Robinson, R. Howard, and S. VanderPlas. “You Draw It: Implementation of visually fitted trends with r2d3”. In: <em>Journal of Data Science</em> …
+<a href="./posts/papers/vanderplasStatisticalComputingUsing2023.html" class="no-external">[1] S. Vanderplas. <em>Statistical Computing Using R and Python</em>. Nov.&nbsp;01, 2023. URL: https://srvanderplas.github.io/stat-computing-r-python/ (visited on 07/06/2023).</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/papers/vanderplasStatisticalComputingUsing2023.html" class="no-external">
+<div class="listing-date">
+Nov 1, 2023
+</div>
+<div class="listing-author">
+Susan Vanderplas
 </div>
 </a>
 </div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="papers" data-listing-date-sort="1677650400000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
+<div class="thumbnail">
+<p><a href="./posts/papers/ggpcp.html" class="no-external"></a></p><a href="./posts/papers/ggpcp.html" class="no-external">
+<p><img src="https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/ggpcp.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/papers/ggpcp.html" class="no-external">Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/papers/ggpcp.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/papers/ggpcp.html" class="no-external">[1] S. VanderPlas, Y. Ge, A. Unwin, et al.&nbsp;“Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots”. In: <em>Journal of Computational…</em></a>
+</div>
+</div>
 <div class="metadata">
-<a href="./posts/papers/robinsonvanderplas2023.html">
+<a href="./posts/papers/ggpcp.html" class="no-external">
+<div class="listing-date">
+Mar 1, 2023
+</div>
+<div class="listing-author">
+Susan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="papers" data-listing-date-sort="1675922400000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="119">
+<div class="thumbnail">
+<p><a href="./posts/papers/cmcR.html" class="no-external"></a></p><a href="./posts/papers/cmcR.html" class="no-external">
+<p><img src="https://github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/cmcR.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/papers/cmcR.html" class="no-external">A Study in Reproducibility: The Congruent Matching Cells Algorithm and <code>cmcR</code> package</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/papers/cmcR.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/papers/cmcR.html" class="no-external">[1] J. Zemmels, S. Vanderplas, and H. Hofmann. “A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package”. In: <em>R Journal</em> (4 Feb.&nbsp;09, 2023)…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/papers/cmcR.html" class="no-external">
+<div class="listing-date">
+Feb 9, 2023
+</div>
+<div class="listing-author">
+Joseph Zemmels, Susan Vanderplas, Heike Hofmann
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="papers" data-listing-date-sort="1672552800000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="120">
+<div class="thumbnail">
+<p><a href="./posts/papers/robinsonvanderplas2023.html" class="no-external"></a></p><a href="./posts/papers/robinsonvanderplas2023.html" class="no-external">
+<p><img src="https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/robinsonvanderplas2023.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/papers/robinsonvanderplas2023.html" class="no-external">You Draw It: Implementation of visually fitted trends with r2d3</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/papers/robinsonvanderplas2023.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/papers/robinsonvanderplas2023.html" class="no-external">[1] E. Robinson, R. Howard, and S. VanderPlas. “You Draw It: Implementation of visually fitted trends with r2d3”. In: <em>Journal of Data Science</em> (Jan.&nbsp;2023). ISSN: 1680-743X.…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/papers/robinsonvanderplas2023.html" class="no-external">
 <div class="listing-date">
 Jan 1, 2023
 </div>
@@ -214,25 +314,25 @@ Emily Robinson, Reka Howard, Susan VanderPlas
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="papers" data-listing-date-sort="1669852800000" data-listing-file-modified-sort="1676054437664" data-listing-reading-time-sort="0.605">
+<div class="quarto-post image-right" data-index="4" data-categories="papers" data-listing-date-sort="1669874400000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="121">
 <div class="thumbnail">
-<p><a href="./posts/papers/bradfordvanderplas2022.html"> <img src="https://github.com/drbradford12/SDSS-2022/blob/main/SDSS%20Journal%20Paper/images/map.png?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/bradfordvanderplas2022.html" class="no-external"></a></p><a href="./posts/papers/bradfordvanderplas2022.html" class="no-external">
+<p><img src="https://github.com/drbradford12/SDSS-2022/blob/main/SDSS%20Journal%20Paper/images/map.png?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/bradfordvanderplas2022.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/bradfordvanderplas2022.html">
 <h3 class="no-anchor listing-title">
-Exploring Rural Shrink Smart Through Guided Discovery Dashboards
+<a href="./posts/papers/bradfordvanderplas2022.html" class="no-external">Exploring Rural Shrink Smart Through Guided Discovery Dashboards</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/bradfordvanderplas2022.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] D. Bradford and S. VanderPlas. “Exploring Rural Shrink Smart Through Guided Discovery Dashboards”. In: <em>Journal of Data Science</em>…
+<a href="./posts/papers/bradfordvanderplas2022.html" class="no-external">[1] D. Bradford and S. VanderPlas. “Exploring Rural Shrink Smart Through Guided Discovery Dashboards”. In: <em>Journal of Data Science</em> (Dec.&nbsp;2022), pp.&nbsp;1-12. ISSN: 1680-743X.…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/bradfordvanderplas2022.html">
+<a href="./posts/papers/bradfordvanderplas2022.html" class="no-external">
 <div class="listing-date">
 Dec 1, 2022
 </div>
@@ -242,25 +342,25 @@ Denise Bradford, Susan VanderPlas
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="papers" data-listing-date-sort="1667260800000" data-listing-file-modified-sort="1676054437664" data-listing-reading-time-sort="0.6">
+<div class="quarto-post image-right" data-index="5" data-categories="papers" data-listing-date-sort="1667278800000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="120">
 <div class="thumbnail">
-<p><a href="./posts/papers/covid-narratives.html"> <img src="https://github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/covid-narratives.html" class="no-external"></a></p><a href="./posts/papers/covid-narratives.html" class="no-external">
+<p><img src="https://github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/covid-narratives.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/covid-narratives.html">
 <h3 class="no-anchor listing-title">
-Visual Narratives of the Covid-19 pandemic
+<a href="./posts/papers/covid-narratives.html" class="no-external">Visual Narratives of the Covid-19 pandemic</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/covid-narratives.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] A. Wilhelm and S. VanderPlas. “Visual Narratives of the Covid-19 pandemic”. In: <em>Journal of Data Science, Statistics, and Visualisation</em> 2.7 (Nov.&nbsp;2022), p.&nbsp;84–113. DOI: 10.52933/jdssv.v2i…
+<a href="./posts/papers/covid-narratives.html" class="no-external">[1] A. Wilhelm and S. VanderPlas. “Visual Narratives of the Covid-19 pandemic”. In: <em>Journal of Data Science, Statistics, and Visualisation</em> 2.7 (Nov.&nbsp;2022), p.&nbsp;84–113. DOI: 10…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/covid-narratives.html">
+<a href="./posts/papers/covid-narratives.html" class="no-external">
 <div class="listing-date">
 Nov 1, 2022
 </div>
@@ -270,25 +370,25 @@ Adalbert Wilhelm, Susan VanderPlas
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="papers" data-listing-date-sort="1667260800000" data-listing-file-modified-sort="1676054437668" data-listing-reading-time-sort="0.68">
+<div class="quarto-post image-right" data-index="6" data-categories="papers" data-listing-date-sort="1667278800000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="136">
 <div class="thumbnail">
-<p><a href="./posts/papers/eye-fitting-straight-lines.html"> <img src="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/eye-fitting-straight-lines.html" class="no-external"></a></p><a href="./posts/papers/eye-fitting-straight-lines.html" class="no-external">
+<p><img src="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/eye-fitting-straight-lines.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/eye-fitting-straight-lines.html">
 <h3 class="no-anchor listing-title">
-Eye Fitting Straight Lines in the Modern Era
+<a href="./posts/papers/eye-fitting-straight-lines.html" class="no-external">Eye Fitting Straight Lines in the Modern Era</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/eye-fitting-straight-lines.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] E. A. Robinson, R. Howard, and S. Vanderplas. “Eye Fitting Straight Lines in the Modern Era”. In: <em>Journal of Computational and Graphical Statistics</em> 0.ja…
+<a href="./posts/papers/eye-fitting-straight-lines.html" class="no-external">[1] E. A. Robinson, R. Howard, and S. Vanderplas. “Eye Fitting Straight Lines in the Modern Era”. In: <em>Journal of Computational and Graphical Statistics</em> 0.ja (Nov.&nbsp;01, 2022)…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/eye-fitting-straight-lines.html">
+<a href="./posts/papers/eye-fitting-straight-lines.html" class="no-external">
 <div class="listing-date">
 Nov 1, 2022
 </div>
@@ -298,53 +398,25 @@ Emily A. Robinson, Reka Howard, Susan Vanderplas
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="papers" data-listing-date-sort="1664582400000" data-listing-file-modified-sort="1676054437668" data-listing-reading-time-sort="0.555">
+<div class="quarto-post image-right" data-index="7" data-categories="papers" data-listing-date-sort="1638338400000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="120">
 <div class="thumbnail">
-<p><a href="./posts/papers/cmcR.html"> <img src="https://github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/stat2020.html" class="no-external"></a></p><a href="./posts/papers/stat2020.html" class="no-external">
+<p><img src="https://i.imgur.com/D9ZpjyJ.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/stat2020.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/cmcR.html">
 <h3 class="no-anchor listing-title">
-A Study in Reproducibility: The Congruent Matching Cells Algorithm and <code>cmcR</code> package
+<a href="./posts/papers/stat2020.html" class="no-external">Statistical significance calculations for scenarios in visual inference</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/stat2020.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] J. Zemmels, S. Vanderplas, and H. Hofmann. “A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package”. In: <em>R Journal</em> (Oct.&nbsp;01…
+<a href="./posts/papers/stat2020.html" class="no-external">[1] S. Vanderplas, C. Röttger, D. Cook, et al.&nbsp;“Statistical significance calculations for scenarios in visual inference”. In: <em>Stat</em> 10.1 (Dec.&nbsp;01, 2021), p.&nbsp;e337. DOI: https:…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/cmcR.html">
-<div class="listing-date">
-Oct 1, 2022
-</div>
-<div class="listing-author">
-Joseph Zemmels, Susan Vanderplas, Heike Hofmann
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="papers" data-listing-date-sort="1638316800000" data-listing-file-modified-sort="1676054437668" data-listing-reading-time-sort="0.6">
-<div class="thumbnail">
-<p><a href="./posts/papers/stat2020.html"> <img src="https://i.imgur.com/D9ZpjyJ.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/papers/stat2020.html">
-<h3 class="no-anchor listing-title">
-Statistical significance calculations for scenarios in visual inference
-</h3>
-<div class="listing-subtitle">
-
-</div>
-<div class="listing-description">
-[1] S. Vanderplas, C. Röttger, D. Cook, et al.&nbsp;“Statistical significance calculations for scenarios in visual inference”. In: <em>Stat</em> 10.1 (Dec.&nbsp;01, 2021), p.&nbsp;e337. DOI: https://doi.org/10.1002…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/papers/stat2020.html">
+<a href="./posts/papers/stat2020.html" class="no-external">
 <div class="listing-date">
 Dec 1, 2021
 </div>
@@ -354,25 +426,25 @@ Susan Vanderplas, Christian Röttger, Dianne Cook, Heike Hofmann
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="papers" data-listing-date-sort="1627603200000" data-listing-file-modified-sort="1676054437668" data-listing-reading-time-sort="0.41">
+<div class="quarto-post image-right" data-index="8" data-categories="papers" data-listing-date-sort="1627621200000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
 <div class="thumbnail">
-<p><a href="./posts/papers/vanderplasDesigningGraphicsRequires2021.html"> <img src="https://i.imgur.com/MMBggrj.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/vanderplasDesigningGraphicsRequires2021.html" class="no-external"></a></p><a href="./posts/papers/vanderplasDesigningGraphicsRequires2021.html" class="no-external">
+<p><img src="https://i.imgur.com/MMBggrj.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/vanderplasDesigningGraphicsRequires2021.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/vanderplasDesigningGraphicsRequires2021.html">
 <h3 class="no-anchor listing-title">
-Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results
+<a href="./posts/papers/vanderplasDesigningGraphicsRequires2021.html" class="no-external">Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/vanderplasDesigningGraphicsRequires2021.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] S. VanderPlas. “Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results”. In: <em>Harvard Data Science Review</em> 3.3 (Jul.&nbsp;30…
+<a href="./posts/papers/vanderplasDesigningGraphicsRequires2021.html" class="no-external">[1] S. VanderPlas. “Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results”. In: <em>Harvard Data Science Review</em> 3.3…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/vanderplasDesigningGraphicsRequires2021.html">
+<a href="./posts/papers/vanderplasDesigningGraphicsRequires2021.html" class="no-external">
 <div class="listing-date">
 Jul 30, 2021
 </div>
@@ -382,25 +454,25 @@ Susan VanderPlas
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="papers" data-listing-date-sort="1620172800000" data-listing-file-modified-sort="1676054437668" data-listing-reading-time-sort="0.61">
+<div class="quarto-post image-right" data-index="9" data-categories="papers" data-listing-date-sort="1620190800000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="122">
 <div class="thumbnail">
-<p><a href="./posts/papers/inconclusives.html"> <img src="https://github.com/heike/inconclusives/blob/master/figures/shape-overview-study-1.png?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/inconclusives.html" class="no-external"></a></p><a href="./posts/papers/inconclusives.html" class="no-external">
+<p><img src="https://github.com/heike/inconclusives/blob/master/figures/shape-overview-study-1.png?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/inconclusives.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/inconclusives.html">
 <h3 class="no-anchor listing-title">
-Treatment of inconclusives in the AFTE range of conclusions
+<a href="./posts/papers/inconclusives.html" class="no-external">Treatment of inconclusives in the AFTE range of conclusions</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/inconclusives.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] H. Hofmann, A. Carriquiry, and S. Vanderplas. “Treatment of inconclusives in the AFTE range of conclusions”. In: <em>Law, Probability and Risk</em> 19.3-4 (May. 05, 2021)…
+<a href="./posts/papers/inconclusives.html" class="no-external">[1] H. Hofmann, A. Carriquiry, and S. Vanderplas. “Treatment of inconclusives in the AFTE range of conclusions”. In: <em>Law, Probability and Risk</em> 19.3-4 (May. 05, 2021)…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/inconclusives.html">
+<a href="./posts/papers/inconclusives.html" class="no-external">
 <div class="listing-date">
 May 5, 2021
 </div>
@@ -410,25 +482,25 @@ Heike Hofmann, Alicia Carriquiry, Susan Vanderplas
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="papers" data-listing-date-sort="1583020800000" data-listing-file-modified-sort="1676054437668" data-listing-reading-time-sort="0.62">
+<div class="quarto-post image-right" data-index="10" data-categories="papers" data-listing-date-sort="1583042400000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="124">
 <div class="thumbnail">
-<p><a href="./posts/papers/vanderplasTestingStatisticalCharts2020.html"> <img src="https://github.com/srvanderplas/AnnualReviewStatisticsVisualization/blob/master/figure/noaa_michael.png?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/vanderplasTestingStatisticalCharts2020.html" class="no-external"></a></p><a href="./posts/papers/vanderplasTestingStatisticalCharts2020.html" class="no-external">
+<p><img src="https://github.com/srvanderplas/AnnualReviewStatisticsVisualization/blob/master/figure/noaa_michael.png?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/vanderplasTestingStatisticalCharts2020.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/vanderplasTestingStatisticalCharts2020.html">
 <h3 class="no-anchor listing-title">
-Testing Statistical Charts: What Makes a Good Graph?
+<a href="./posts/papers/vanderplasTestingStatisticalCharts2020.html" class="no-external">Testing Statistical Charts: What Makes a Good Graph?</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/vanderplasTestingStatisticalCharts2020.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] S. Vanderplas, D. Cook, and H. Hofmann. “Testing Statistical Charts: What Makes a Good Graph?” In: <em>Annual Review of Statistics and Its Application</em> 7.1…
+<a href="./posts/papers/vanderplasTestingStatisticalCharts2020.html" class="no-external">[1] S. Vanderplas, D. Cook, and H. Hofmann. “Testing Statistical Charts: What Makes a Good Graph?” In: <em>Annual Review of Statistics and Its Application</em> 7.1 (Mar.&nbsp;01, 2020)…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/vanderplasTestingStatisticalCharts2020.html">
+<a href="./posts/papers/vanderplasTestingStatisticalCharts2020.html" class="no-external">
 <div class="listing-date">
 Mar 1, 2020
 </div>
@@ -438,25 +510,25 @@ Susan Vanderplas, Dianne Cook, Heike Hofmann
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="papers" data-listing-date-sort="1583020800000" data-listing-file-modified-sort="1676054437668" data-listing-reading-time-sort="0.665">
+<div class="quarto-post image-right" data-index="11" data-categories="papers" data-listing-date-sort="1583042400000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="133">
 <div class="thumbnail">
-<p><a href="./posts/papers/vanderplasComparisonThreeSimilarity2020.html"> <img src="https://github.com/heike/case-study-validation/blob/master/images/B8-B2-L2.png?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/vanderplasComparisonThreeSimilarity2020.html" class="no-external"></a></p><a href="./posts/papers/vanderplasComparisonThreeSimilarity2020.html" class="no-external">
+<p><img src="https://github.com/heike/case-study-validation/blob/master/images/B8-B2-L2.png?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/vanderplasComparisonThreeSimilarity2020.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/vanderplasComparisonThreeSimilarity2020.html">
 <h3 class="no-anchor listing-title">
-Comparison of three similarity scores for bullet LEA matching
+<a href="./posts/papers/vanderplasComparisonThreeSimilarity2020.html" class="no-external">Comparison of three similarity scores for bullet LEA matching</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/vanderplasComparisonThreeSimilarity2020.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] S. Vanderplas, M. Nally, T. Klep, et al.&nbsp;“Comparison of three similarity scores for bullet LEA matching”. In: <em>Forensic Science International</em> 308 (Mar.&nbsp;01, 2020)…
+<a href="./posts/papers/vanderplasComparisonThreeSimilarity2020.html" class="no-external">[1] S. Vanderplas, M. Nally, T. Klep, et al.&nbsp;“Comparison of three similarity scores for bullet LEA matching”. In: <em>Forensic Science International</em> 308 (Mar.&nbsp;01, 2020)…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/vanderplasComparisonThreeSimilarity2020.html">
+<a href="./posts/papers/vanderplasComparisonThreeSimilarity2020.html" class="no-external">
 <div class="listing-date">
 Mar 1, 2020
 </div>
@@ -466,27 +538,27 @@ Susan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="papers" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1676054437668" data-listing-reading-time-sort="0.725">
+<div class="quarto-post image-right" data-index="12" data-categories="papers" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="145">
 <div class="thumbnail">
-<p><a href="./posts/papers/vanderplasIntroductionFirearmsExamination2020.html"> <img src="https://github.com/srvanderplas/2019_book_chapter/blob/master/figure/Luger-Cutaway.png?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/vanderplasIntroductionFirearmsExamination2020.html" class="no-external"></a></p><a href="./posts/papers/vanderplasIntroductionFirearmsExamination2020.html" class="no-external">
+<p><img src="https://github.com/srvanderplas/2019_book_chapter/blob/master/figure/Luger-Cutaway.png?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/vanderplasIntroductionFirearmsExamination2020.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/vanderplasIntroductionFirearmsExamination2020.html">
 <h3 class="no-anchor listing-title">
-An introduction to firearms examination for researchers in statistics
+<a href="./posts/papers/vanderplasIntroductionFirearmsExamination2020.html" class="no-external">An introduction to firearms examination for researchers in statistics</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/vanderplasIntroductionFirearmsExamination2020.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] S. Vanderplas, A. Carriquiry, H. Hofmann, et al.&nbsp;“An introduction to firearms examination for researchers in statistics”. In: <em>Handbook of Forensic Statistics</em>. Ed. by Banks, D., Kafadar, K., Kaye, D. and Tackett, M.. New York: Chapman and…
+<a href="./posts/papers/vanderplasIntroductionFirearmsExamination2020.html" class="no-external">[1] S. Vanderplas, A. Carriquiry, H. Hofmann, et al.&nbsp;“An introduction to firearms examination for researchers in statistics”. In: <em>Handbook of Forensic Statistics</em>. Ed. by…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/vanderplasIntroductionFirearmsExamination2020.html">
+<a href="./posts/papers/vanderplasIntroductionFirearmsExamination2020.html" class="no-external">
 <div class="listing-date">
-Jan 1, 2020
+Dec 31, 2019
 </div>
 <div class="listing-author">
 Susan Vanderplas, Alicia Carriquiry, Heike Hofmann, James Hamby, Xiao Hui Tai
@@ -494,25 +566,25 @@ Susan Vanderplas, Alicia Carriquiry, Heike Hofmann, James Hamby, Xiao Hui Tai
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="papers" data-listing-date-sort="1559088000000" data-listing-file-modified-sort="1676054437668" data-listing-reading-time-sort="0.465">
+<div class="quarto-post image-right" data-index="13" data-categories="papers" data-listing-date-sort="1559106000000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="93">
 <div class="thumbnail">
-<p><a href="./posts/papers/rutter2019ggenealogy.html"> <img src="https://github.com/lindsayrutter/ggenealogy/blob/master/vignettes/dCox.png?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/rutter2019ggenealogy.html" class="no-external"></a></p><a href="./posts/papers/rutter2019ggenealogy.html" class="no-external">
+<p><img src="https://github.com/lindsayrutter/ggenealogy/blob/master/vignettes/dCox.png?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/rutter2019ggenealogy.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/rutter2019ggenealogy.html">
 <h3 class="no-anchor listing-title">
-<code>ggenealogy</code>: An R Package for Visualizing Genealogical Data
+<a href="./posts/papers/rutter2019ggenealogy.html" class="no-external"><code>ggenealogy</code>: An R Package for Visualizing Genealogical Data</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/rutter2019ggenealogy.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] L. Rutter, S. Vanderplas, D. Cook, et al.&nbsp;“ggenealogy: An R Package for Visualizing Genealogical Data”. In: <em>Journal of Statistical Software</em> 89.13…
+<a href="./posts/papers/rutter2019ggenealogy.html" class="no-external">[1] L. Rutter, S. Vanderplas, D. Cook, et al.&nbsp;“ggenealogy: An R Package for Visualizing Genealogical Data”. In: <em>Journal of Statistical Software</em> 89.13 (May. 29, 2019)…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/rutter2019ggenealogy.html">
+<a href="./posts/papers/rutter2019ggenealogy.html" class="no-external">
 <div class="listing-date">
 May 29, 2019
 </div>
@@ -522,25 +594,25 @@ Lindsay Rutter, Susan Vanderplas, Dianne Cook, Michelle Graham
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="papers" data-listing-date-sort="1554076800000" data-listing-file-modified-sort="1676054437672" data-listing-reading-time-sort="0.495">
+<div class="quarto-post image-right" data-index="14" data-categories="papers" data-listing-date-sort="1554094800000" data-listing-file-modified-sort="1700339296442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
 <div class="thumbnail">
-<p><a href="./posts/papers/machinelearningforensics2019.html"> <img src="https://rss.onlinelibrary.wiley.com/cms/asset/4792a2d6-f10b-481e-aeff-075d0ccdd90e/sign1252-fig-0001-m.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/machinelearningforensics2019.html" class="no-external"></a></p><a href="./posts/papers/machinelearningforensics2019.html" class="no-external">
+<p><img src="https://rss.onlinelibrary.wiley.com/cms/asset/4792a2d6-f10b-481e-aeff-075d0ccdd90e/sign1252-fig-0001-m.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/machinelearningforensics2019.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/machinelearningforensics2019.html">
 <h3 class="no-anchor listing-title">
-Machine learning in forensic applications
+<a href="./posts/papers/machinelearningforensics2019.html" class="no-external">Machine learning in forensic applications</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/machinelearningforensics2019.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] A. Carriquiry, H. Hofmann, X. H. Tai, et al.&nbsp;“Machine learning in forensic applications”. In: <em>Significance</em> 16.2 (Apr.&nbsp;01, 2019), pp.&nbsp;29-35. DOI: https://doi.org/10.11…
+<a href="./posts/papers/machinelearningforensics2019.html" class="no-external">[1] A. Carriquiry, H. Hofmann, X. H. Tai, et al.&nbsp;“Machine learning in forensic applications”. In: <em>Significance</em> 16.2 (Apr.&nbsp;01, 2019), pp.&nbsp;29-35. DOI: https://doi.org/10.1111/j…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/machinelearningforensics2019.html">
+<a href="./posts/papers/machinelearningforensics2019.html" class="no-external">
 <div class="listing-date">
 Apr 1, 2019
 </div>
@@ -550,25 +622,25 @@ Alicia Carriquiry, Heike Hofmann, Xiao Hui Tai, Susan Vanderplas
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="papers" data-listing-date-sort="1554076800000" data-listing-file-modified-sort="1676054437672" data-listing-reading-time-sort="0.65">
+<div class="quarto-post image-right" data-index="15" data-categories="papers" data-listing-date-sort="1554094800000" data-listing-file-modified-sort="1700339296446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
 <div class="thumbnail">
-<p><a href="./posts/papers/framedjcgs.html"> <img src="https://github.com/srvanderplas/Statistical_Atlas/blob/master/images/test-images/Oregon-spine_with_frame1.png?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/framedjcgs.html" class="no-external"></a></p><a href="./posts/papers/framedjcgs.html" class="no-external">
+<p><img src="https://github.com/srvanderplas/Statistical_Atlas/blob/master/images/test-images/Oregon-spine_with_frame1.png?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/framedjcgs.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/framedjcgs.html">
 <h3 class="no-anchor listing-title">
-Framed! Reproducing and Revisiting 150-Year-Old Charts
+<a href="./posts/papers/framedjcgs.html" class="no-external">Framed! Reproducing and Revisiting 150-Year-Old Charts</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/framedjcgs.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] S. Vanderplas, R. C. Goluch, and H. Hofmann. “Framed! Reproducing and Revisiting 150-Year-Old Charts”. In: <em>Journal of Computational and Graphical Statistics</em> 28.3 (Apr.&nbsp;01, 2019)…
+<a href="./posts/papers/framedjcgs.html" class="no-external">[1] S. Vanderplas, R. C. Goluch, and H. Hofmann. “Framed! Reproducing and Revisiting 150-Year-Old Charts”. In: <em>Journal of Computational and Graphical Statistics</em> 28.3…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/framedjcgs.html">
+<a href="./posts/papers/framedjcgs.html" class="no-external">
 <div class="listing-date">
 Apr 1, 2019
 </div>
@@ -578,25 +650,25 @@ Susan Vanderplas, Ryan C Goluch, Heike Hofmann
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="papers" data-listing-date-sort="1542153600000" data-listing-file-modified-sort="1676054437672" data-listing-reading-time-sort="0.56">
+<div class="quarto-post image-right" data-index="16" data-categories="papers" data-listing-date-sort="1542175200000" data-listing-file-modified-sort="1700339296446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
 <div class="thumbnail">
-<p><a href="./posts/papers/sievert2018extending.html"> <img src="https://github.com/tdhock/animint/raw/master/screencast-WorldBank.gif" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/sievert2018extending.html" class="no-external"></a></p><a href="./posts/papers/sievert2018extending.html" class="no-external">
+<p><img src="https://github.com/tdhock/animint/raw/master/screencast-WorldBank.gif" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/sievert2018extending.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/sievert2018extending.html">
 <h3 class="no-anchor listing-title">
-Extending <code>ggplot2</code> for Linked and Animated Web Graphics
+<a href="./posts/papers/sievert2018extending.html" class="no-external">Extending <code>ggplot2</code> for Linked and Animated Web Graphics</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/sievert2018extending.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] C. Sievert, S. Vanderplas, J. Cai, et al.&nbsp;“Extending ggplot2 for Linked and Animated Web Graphics”. In: <em>Journal of Computational and Graphical Statistics</em> 28.2 (Nov.&nbsp;14…
+<a href="./posts/papers/sievert2018extending.html" class="no-external">[1] C. Sievert, S. Vanderplas, J. Cai, et al.&nbsp;“Extending ggplot2 for Linked and Animated Web Graphics”. In: <em>Journal of Computational and Graphical Statistics</em> 28.2 (Nov.&nbsp;14…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/sievert2018extending.html">
+<a href="./posts/papers/sievert2018extending.html" class="no-external">
 <div class="listing-date">
 Nov 14, 2018
 </div>
@@ -606,25 +678,25 @@ Carson Sievert, Susan Vanderplas, Jun Cai, Kevin Ferris, Faizan Uddin Fahad Khan
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="papers" data-listing-date-sort="1513641600000" data-listing-file-modified-sort="1676054437672" data-listing-reading-time-sort="0.61">
+<div class="quarto-post image-right" data-index="17" data-categories="papers" data-listing-date-sort="1513663200000" data-listing-file-modified-sort="1700339296446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="122">
 <div class="thumbnail">
-<p><a href="./posts/papers/donohoresponse.html"> <img src="https://i.imgur.com/WHkmWIH.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/donohoresponse.html" class="no-external"></a></p><a href="./posts/papers/donohoresponse.html" class="no-external">
+<p><img src="https://i.imgur.com/WHkmWIH.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/donohoresponse.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/donohoresponse.html">
 <h3 class="no-anchor listing-title">
-All of This Has Happened Before. All of This Will Happen Again: Data Science
+<a href="./posts/papers/donohoresponse.html" class="no-external">All of This Has Happened Before. All of This Will Happen Again: Data Science</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/donohoresponse.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] H. Hofmann and S. Vanderplas. “All of This Has Happened Before. All of This Will Happen Again: Data Science”. In: <em>Journal of Computational and Graphical Statistics</em> 26.4 (Dec.&nbsp;19, 2017)…
+<a href="./posts/papers/donohoresponse.html" class="no-external">[1] H. Hofmann and S. Vanderplas. “All of This Has Happened Before. All of This Will Happen Again: Data Science”. In: <em>Journal of Computational and Graphical Statistics</em> 26.4…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/donohoresponse.html">
+<a href="./posts/papers/donohoresponse.html" class="no-external">
 <div class="listing-date">
 Dec 19, 2017
 </div>
@@ -634,25 +706,25 @@ Heike Hofmann, Susan Vanderplas
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="papers" data-listing-date-sort="1492992000000" data-listing-file-modified-sort="1676054437672" data-listing-reading-time-sort="0.615">
+<div class="quarto-post image-right" data-index="18" data-categories="papers" data-listing-date-sort="1493010000000" data-listing-file-modified-sort="1700339296446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
 <div class="thumbnail">
-<p><a href="./posts/papers/featurehierarchyjcgs.html"> <img src="https://github.com/srvanderplas/FeatureHierarchy/raw/master/pngs/1b4491b66980539a3d929485874ac41a.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/featurehierarchyjcgs.html" class="no-external"></a></p><a href="./posts/papers/featurehierarchyjcgs.html" class="no-external">
+<p><img src="https://github.com/srvanderplas/FeatureHierarchy/raw/master/pngs/1b4491b66980539a3d929485874ac41a.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/featurehierarchyjcgs.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/featurehierarchyjcgs.html">
 <h3 class="no-anchor listing-title">
-Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics
+<a href="./posts/papers/featurehierarchyjcgs.html" class="no-external">Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/featurehierarchyjcgs.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] S. Vanderplas and H. Hofmann. “Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics”. In: <em>Journal of Computational and Graphical Statistics</em> 26.2 (Apr.&nbsp;24, 2017)…
+<a href="./posts/papers/featurehierarchyjcgs.html" class="no-external">[1] S. Vanderplas and H. Hofmann. “Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics”. In: <em>Journal of Computational and Graphical Statistics</em> 26.2…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/featurehierarchyjcgs.html">
+<a href="./posts/papers/featurehierarchyjcgs.html" class="no-external">
 <div class="listing-date">
 Apr 24, 2017
 </div>
@@ -662,25 +734,25 @@ Susan Vanderplas, Heike Hofmann
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="papers" data-listing-date-sort="1483142400000" data-listing-file-modified-sort="1676054437672" data-listing-reading-time-sort="0.585">
+<div class="quarto-post image-right" data-index="19" data-categories="papers" data-listing-date-sort="1483164000000" data-listing-file-modified-sort="1700339296446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="117">
 <div class="thumbnail">
-<p><a href="./posts/papers/visualaptitude.html"> <img src="https://github.com/srvanderplas/VisualAptitude/blob/master/Presentation/figure/scaledscores-1.png?raw=true" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/visualaptitude.html" class="no-external"></a></p><a href="./posts/papers/visualaptitude.html" class="no-external">
+<p><img src="https://github.com/srvanderplas/VisualAptitude/blob/master/Presentation/figure/scaledscores-1.png?raw=true" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/visualaptitude.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/visualaptitude.html">
 <h3 class="no-anchor listing-title">
-Spatial Reasoning and Data Displays
+<a href="./posts/papers/visualaptitude.html" class="no-external">Spatial Reasoning and Data Displays</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/visualaptitude.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] S. VanderPlas and H. Hofmann. “Spatial Reasoning and Data Displays”. In: <em>IEEE Transactions on Visualization and Computer Graphics</em> 22.1 (Dec.&nbsp;31, 2016), pp.&nbsp;459-468. DOI: https://doi.org/10.1109/TVCG.2015.24691…
+<a href="./posts/papers/visualaptitude.html" class="no-external">[1] S. VanderPlas and H. Hofmann. “Spatial Reasoning and Data Displays”. In: <em>IEEE Transactions on Visualization and Computer Graphics</em> 22.1 (Dec.&nbsp;31, 2016), pp.&nbsp;459-468. DOI: …</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/visualaptitude.html">
+<a href="./posts/papers/visualaptitude.html" class="no-external">
 <div class="listing-date">
 Dec 31, 2016
 </div>
@@ -690,25 +762,25 @@ Susan VanderPlas, Heike Hofmann
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="papers" data-listing-date-sort="1449705600000" data-listing-file-modified-sort="1676054437672" data-listing-reading-time-sort="0.635">
+<div class="quarto-post image-right" data-index="20" data-categories="papers" data-listing-date-sort="1449727200000" data-listing-file-modified-sort="1700339296446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="127">
 <div class="thumbnail">
-<p><a href="./posts/papers/sineillusionjcgs.html"> <img src="https://github.com/heike/sine-illusion/raw/master/figure/fig-origillusion.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/sineillusionjcgs.html" class="no-external"></a></p><a href="./posts/papers/sineillusionjcgs.html" class="no-external">
+<p><img src="https://github.com/heike/sine-illusion/raw/master/figure/fig-origillusion.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/sineillusionjcgs.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/sineillusionjcgs.html">
 <h3 class="no-anchor listing-title">
-Signs of the Sine Illusion - why we need to care
+<a href="./posts/papers/sineillusionjcgs.html" class="no-external">Signs of the Sine Illusion - why we need to care</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/sineillusionjcgs.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] S. Vanderplas and H. Hofmann. “Signs of the Sine Illusion - why we need to care”. In: <em>Journal of Computational and Graphical Statistics</em> 24.4…
+<a href="./posts/papers/sineillusionjcgs.html" class="no-external">[1] S. Vanderplas and H. Hofmann. “Signs of the Sine Illusion - why we need to care”. In: <em>Journal of Computational and Graphical Statistics</em> 24.4 (Dec.&nbsp;10, 2015)…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/sineillusionjcgs.html">
+<a href="./posts/papers/sineillusionjcgs.html" class="no-external">
 <div class="listing-date">
 Dec 10, 2015
 </div>
@@ -718,27 +790,27 @@ Susan Vanderplas, Heike Hofmann
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="papers" data-listing-date-sort="1356998400000" data-listing-file-modified-sort="1676054437672" data-listing-reading-time-sort="0.365">
+<div class="quarto-post image-right" data-index="21" data-categories="papers" data-listing-date-sort="1356998400000" data-listing-file-modified-sort="1700339296446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
 <div class="thumbnail">
-<p><a href="./posts/papers/budrus2013tennis.html"> <img src="https://rss.onlinelibrary.wiley.com/cms/asset/b0ea4265-b5ea-4025-8345-6de8bf26f7c2/sign665-fig-0001-m.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/budrus2013tennis.html" class="no-external"></a></p><a href="./posts/papers/budrus2013tennis.html" class="no-external">
+<p><img src="https://rss.onlinelibrary.wiley.com/cms/asset/b0ea4265-b5ea-4025-8345-6de8bf26f7c2/sign665-fig-0001-m.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/budrus2013tennis.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/budrus2013tennis.html">
 <h3 class="no-anchor listing-title">
-In tennis, do smashes win matches?
+<a href="./posts/papers/budrus2013tennis.html" class="no-external">In tennis, do smashes win matches?</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/budrus2013tennis.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] S. Budrus, S. Vanderplas, and D. Cook. “In tennis, do smashes win matches?” In: <em>Significance</em> 10.3 (2013), pp.&nbsp;35-38. DOI: https://doi.org/10.1111/j.1740-9713.2013.00665.x.
+<a href="./posts/papers/budrus2013tennis.html" class="no-external">[1] S. Budrus, S. Vanderplas, and D. Cook. “In tennis, do smashes win matches?” In: <em>Significance</em> 10.3 (2013), pp.&nbsp;35-38. DOI: https://doi.org/10.1111/j.1740-9713.2013.00665.x.</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/budrus2013tennis.html">
+<a href="./posts/papers/budrus2013tennis.html" class="no-external">
 <div class="listing-date">
-Jan 1, 2013
+Dec 31, 2012
 </div>
 <div class="listing-author">
 Sarah Budrus, Susan Vanderplas, Dianne Cook
@@ -746,27 +818,27 @@ Sarah Budrus, Susan Vanderplas, Dianne Cook
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="papers" data-listing-date-sort="1262304000000" data-listing-file-modified-sort="1676054437676" data-listing-reading-time-sort="0.555">
+<div class="quarto-post image-right" data-index="22" data-categories="papers" data-listing-date-sort="1262304000000" data-listing-file-modified-sort="1700339296446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
 <div class="thumbnail">
-<p><a href="./posts/papers/towfic2010detection.html"> <img src="https://i.imgur.com/8Wa9fu3.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/towfic2010detection.html" class="no-external"></a></p><a href="./posts/papers/towfic2010detection.html" class="no-external">
+<p><img src="https://i.imgur.com/8Wa9fu3.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/towfic2010detection.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/towfic2010detection.html">
 <h3 class="no-anchor listing-title">
-Detection of gene orthology from gene co-expression and protein interaction networks
+<a href="./posts/papers/towfic2010detection.html" class="no-external">Detection of gene orthology from gene co-expression and protein interaction networks</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/towfic2010detection.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] F. Towfic, S. Vanderplas, C. A. Oliver, et al.&nbsp;“Detection of gene orthology from gene co-expression and protein interaction networks”. In: <em>BMC bioinformatics</em> 11.Suppl 3…
+<a href="./posts/papers/towfic2010detection.html" class="no-external">[1] F. Towfic, S. Vanderplas, C. A. Oliver, et al.&nbsp;“Detection of gene orthology from gene co-expression and protein interaction networks”. In: <em>BMC bioinformatics</em> 11.Suppl 3…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/towfic2010detection.html">
+<a href="./posts/papers/towfic2010detection.html" class="no-external">
 <div class="listing-date">
-Jan 1, 2010
+Dec 31, 2009
 </div>
 <div class="listing-author">
 Fadi Towfic, Susan Vanderplas, Casey A Oliver, Oliver Couture, Christopher K Tuggle, M Heather West Greenlee, Vasant Honavar
@@ -774,27 +846,27 @@ Fadi Towfic, Susan Vanderplas, Casey A Oliver, Oliver Couture, Christopher K Tug
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="21" data-categories="papers" data-listing-date-sort="1230768000000" data-listing-file-modified-sort="1676054437676" data-listing-reading-time-sort="0.425">
+<div class="quarto-post image-right" data-index="23" data-categories="papers" data-listing-date-sort="1230768000000" data-listing-file-modified-sort="1700339296446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="85">
 <div class="thumbnail">
-<p><a href="./posts/papers/hull2009near.html"> <img src="https://i.imgur.com/hXnipcb.png" class="thumnail-image"> </a></p>
+<p><a href="./posts/papers/hull2009near.html" class="no-external"></a></p><a href="./posts/papers/hull2009near.html" class="no-external">
+<p><img src="https://i.imgur.com/hXnipcb.png" class="thumbnail-image"></p>
+</a><p><a href="./posts/papers/hull2009near.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/papers/hull2009near.html">
 <h3 class="no-anchor listing-title">
-Near-infrared spectroscopy and cortical responses to speech production
+<a href="./posts/papers/hull2009near.html" class="no-external">Near-infrared spectroscopy and cortical responses to speech production</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/papers/hull2009near.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-[1] R. Hull, H. Bortfeld, and S. Koons. “Near-infrared spectroscopy and cortical responses to speech production”. In: <em>The open neuroimaging journal</em> 3 (2009), p.&nbsp;26. DOI: https://doi.org/10.2174/1874440000903…
+<a href="./posts/papers/hull2009near.html" class="no-external">[1] R. Hull, H. Bortfeld, and S. Koons. “Near-infrared spectroscopy and cortical responses to speech production”. In: <em>The open neuroimaging journal</em> 3 (2009), p.&nbsp;26. DOI: http…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/papers/hull2009near.html">
+<a href="./posts/papers/hull2009near.html" class="no-external">
 <div class="listing-date">
-Jan 1, 2009
+Dec 31, 2008
 </div>
 <div class="listing-author">
 Rachel Hull, Heather Bortfeld, Susan Koons
@@ -834,9 +906,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -872,10 +958,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -885,8 +970,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -901,6 +995,241 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    const typesetMath = (el) => {
+      if (window.MathJax) {
+        // MathJax Typeset
+        window.MathJax.typeset([el]);
+      } else if (window.katex) {
+        // KaTeX Render
+        var mathElements = el.getElementsByClassName("math");
+        var macros = [];
+        for (var i = 0; i < mathElements.length; i++) {
+          var texText = mathElements[i].firstChild;
+          if (mathElements[i].tagName == "SPAN") {
+            window.katex.render(texText.data, mathElements[i], {
+              displayMode: mathElements[i].classList.contains('display'),
+              throwOnError: false,
+              macros: macros,
+              fleqn: false
+            });
+          }
+        }
+      }
+    }
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        for (let i = 0; i < 2; i++) {
+          container.appendChild(note.children[i].cloneNode(true));
+        }
+        typesetMath(container);
+        return container.innerHTML
+      } else {
+        typesetMath(note);
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      typesetMath(note);
+      return note.innerHTML;
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -941,6 +1270,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

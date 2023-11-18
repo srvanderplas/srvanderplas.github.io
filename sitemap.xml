@@ -1,215 +1,247 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/index.html</loc>
-    <lastmod>2023-02-10T18:40:40.824Z</lastmod>
+    <loc>srvanderplas.github.io/courses.html</loc>
+    <lastmod>2023-11-18T20:20:24.870Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/publications.html</loc>
-    <lastmod>2023-02-10T18:40:41.532Z</lastmod>
+    <loc>srvanderplas.github.io/other.html</loc>
+    <lastmod>2023-11-18T20:21:20.175Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/courses.html</loc>
-    <lastmod>2023-02-10T18:40:41.888Z</lastmod>
+    <loc>srvanderplas.github.io/publications.html</loc>
+    <lastmod>2023-11-18T19:48:49.313Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/research.html</loc>
-    <lastmod>2023-02-10T18:40:42.580Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/inconclusives.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/talks.html</loc>
-    <lastmod>2023-02-10T18:40:43.184Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/featurehierarchyjcgs.html</loc>
+    <lastmod>2023-11-18T20:28:16.446Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html</loc>
-    <lastmod>2023-02-10T18:40:43.900Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/covid-narratives.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/animint-interactive-web-ready-graphics-with-r.html</loc>
-    <lastmod>2023-02-10T18:40:44.232Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/robinsonvanderplas2023.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/inconclusive-conclusions-biases-and-consequences.html</loc>
-    <lastmod>2023-02-10T18:40:44.584Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/ggpcp.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/visual-statistics-communication-and-graphical-testing.html</loc>
-    <lastmod>2023-02-10T18:40:44.932Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/vanderplasComparisonThreeSimilarity2020.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/welcome-to-forensic-statistics.html</loc>
-    <lastmod>2023-02-10T18:40:45.308Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/towfic2010detection.html</loc>
+    <lastmod>2023-11-18T20:28:16.446Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/perception-and-visual-communication-in-a-global-pandemic.html</loc>
-    <lastmod>2023-02-10T18:40:45.652Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/eye-fitting-straight-lines.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html</loc>
-    <lastmod>2023-02-10T18:40:45.993Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/framedjcgs.html</loc>
+    <lastmod>2023-11-18T20:28:16.446Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/big-data-big-experiments-and-big-problems.html</loc>
-    <lastmod>2023-02-10T18:40:46.369Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/donohoresponse.html</loc>
+    <lastmod>2023-11-18T20:28:16.446Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html</loc>
-    <lastmod>2023-02-10T18:40:46.713Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/visualaptitude.html</loc>
+    <lastmod>2023-11-18T20:28:16.446Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/pandemics-graphics-and-perception-of-log-scales.html</loc>
-    <lastmod>2023-02-10T18:40:47.053Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/sievert2018extending.html</loc>
+    <lastmod>2023-11-18T20:28:16.446Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/from-scans-to-scores.html</loc>
-    <lastmod>2023-02-10T18:40:47.449Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/inconclusive-conclusions-biases-and-consequences.html</loc>
+    <lastmod>2023-11-18T20:28:19.155Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/visual-aptitude-and-statistical-graphics.html</loc>
-    <lastmod>2023-02-10T18:40:47.821Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/a-bayesian-approach-to-visual-inference.html</loc>
+    <lastmod>2023-11-18T20:28:19.147Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.html</loc>
-    <lastmod>2023-02-10T18:40:48.173Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html</loc>
-    <lastmod>2023-02-10T18:40:48.581Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html</loc>
-    <lastmod>2023-02-10T18:40:48.929Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html</loc>
+    <lastmod>2023-11-18T20:28:19.155Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/statistical-lineups-for-bayesians.html</loc>
-    <lastmod>2023-02-10T18:40:49.285Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html</loc>
+    <lastmod>2023-11-18T20:28:19.155Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</loc>
-    <lastmod>2023-02-10T18:40:49.669Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html</loc>
+    <lastmod>2023-11-18T20:28:19.147Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html</loc>
-    <lastmod>2023-02-10T18:40:50.001Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/perception-and-visual-communication-in-a-global-pandemic.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html</loc>
-    <lastmod>2023-02-10T18:40:50.353Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html</loc>
-    <lastmod>2023-02-10T18:40:50.741Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/animint-interactive-web-ready-graphics-with-r.html</loc>
+    <lastmod>2023-11-18T20:28:19.147Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html</loc>
-    <lastmod>2023-02-10T18:40:51.109Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/testing-statistical-graphics.html</loc>
+    <lastmod>2023-11-18T20:28:19.155Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/a-bayesian-approach-to-visual-inference.html</loc>
-    <lastmod>2023-02-10T18:40:51.457Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</loc>
+    <lastmod>2023-11-18T20:28:19.155Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html</loc>
-    <lastmod>2023-02-10T18:40:51.813Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/visual-aptitude-and-statistical-graphics.html</loc>
+    <lastmod>2023-11-18T20:28:19.147Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html</loc>
-    <lastmod>2023-02-10T18:40:52.197Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html</loc>
+    <lastmod>2023-11-18T20:28:19.147Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/framed-charts-in-the-statistical-atlas.html</loc>
-    <lastmod>2023-02-10T18:40:52.545Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html</loc>
+    <lastmod>2023-11-18T20:28:19.147Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/visualaptitude.html</loc>
-    <lastmod>2023-02-10T18:40:52.905Z</lastmod>
+    <loc>srvanderplas.github.io/research.html</loc>
+    <lastmod>2023-11-18T19:48:51.657Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/sievert2018extending.html</loc>
-    <lastmod>2023-02-10T18:40:53.277Z</lastmod>
+    <loc>srvanderplas.github.io/index.html</loc>
+    <lastmod>2023-02-10T16:53:37.393Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/covid-narratives.html</loc>
-    <lastmod>2023-02-10T18:40:53.641Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/welcome-to-forensic-statistics.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/cmcR.html</loc>
-    <lastmod>2023-02-10T18:40:54.041Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/statistical-lineups-for-bayesians.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/rutter2019ggenealogy.html</loc>
-    <lastmod>2023-02-10T18:40:54.393Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html</loc>
+    <lastmod>2023-11-18T20:28:19.155Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/hull2009near.html</loc>
-    <lastmod>2023-02-10T18:40:54.733Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/framed-charts-in-the-statistical-atlas.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/budrus2013tennis.html</loc>
-    <lastmod>2023-02-10T18:40:55.130Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.html</loc>
+    <lastmod>2023-11-18T20:28:19.155Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/inconclusives.html</loc>
-    <lastmod>2023-02-10T18:40:55.490Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/big-data-big-experiments-and-big-problems.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/stat2020.html</loc>
-    <lastmod>2023-02-10T18:40:55.886Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html</loc>
+    <lastmod>2023-11-18T20:28:19.147Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/vanderplasDesigningGraphicsRequires2021.html</loc>
-    <lastmod>2023-02-10T18:40:56.282Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html</loc>
+    <lastmod>2023-11-18T20:28:19.155Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/vanderplasTestingStatisticalCharts2020.html</loc>
-    <lastmod>2023-02-10T18:40:56.670Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/towfic2010detection.html</loc>
-    <lastmod>2023-02-10T18:40:57.066Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/pandemics-graphics-and-perception-of-log-scales.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/vanderplasIntroductionFirearmsExamination2020.html</loc>
-    <lastmod>2023-02-10T18:40:57.474Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html</loc>
+    <lastmod>2023-11-18T20:28:19.155Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/donohoresponse.html</loc>
-    <lastmod>2023-02-10T18:40:57.878Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/visual-statistics-communication-and-graphical-testing.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/vanderplasComparisonThreeSimilarity2020.html</loc>
-    <lastmod>2023-02-10T18:40:58.274Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html</loc>
+    <lastmod>2023-11-18T20:28:19.151Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/eye-fitting-straight-lines.html</loc>
-    <lastmod>2023-02-10T18:40:58.654Z</lastmod>
+    <loc>srvanderplas.github.io/posts/talks/from-scans-to-scores.html</loc>
+    <lastmod>2023-11-18T20:28:19.155Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/robinsonvanderplas2023.html</loc>
-    <lastmod>2023-02-10T18:40:59.082Z</lastmod>
+    <loc>srvanderplas.github.io/posts/other/wire-measurements.html</loc>
+    <lastmod>2023-11-18T20:16:31.720Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/machinelearningforensics2019.html</loc>
-    <lastmod>2023-02-10T18:40:59.462Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/vanderplasTestingStatisticalCharts2020.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/sineillusionjcgs.html</loc>
-    <lastmod>2023-02-10T18:40:59.850Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/sineillusionjcgs.html</loc>
+    <lastmod>2023-11-18T20:28:16.446Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/framedjcgs.html</loc>
-    <lastmod>2023-02-10T18:41:00.270Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/bradfordvanderplas2022.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/featurehierarchyjcgs.html</loc>
-    <lastmod>2023-02-10T18:41:00.650Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/cmcR.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/bradfordvanderplas2022.html</loc>
-    <lastmod>2023-02-10T18:41:01.026Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/budrus2013tennis.html</loc>
+    <lastmod>2023-11-18T20:28:16.446Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/srvanderplas/srvanderplas.github.io/about.html</loc>
-    <lastmod>2023-02-10T18:41:01.862Z</lastmod>
+    <loc>srvanderplas.github.io/posts/papers/rutter2019ggenealogy.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
+  </url>
+  <url>
+    <loc>srvanderplas.github.io/posts/papers/vanderplasDesigningGraphicsRequires2021.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
+  </url>
+  <url>
+    <loc>srvanderplas.github.io/posts/papers/hull2009near.html</loc>
+    <lastmod>2023-11-18T20:28:16.446Z</lastmod>
+  </url>
+  <url>
+    <loc>srvanderplas.github.io/posts/papers/stat2020.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
+  </url>
+  <url>
+    <loc>srvanderplas.github.io/posts/papers/vanderplasStatisticalComputingUsing2023.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
+  </url>
+  <url>
+    <loc>srvanderplas.github.io/posts/papers/vanderplasIntroductionFirearmsExamination2020.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
+  </url>
+  <url>
+    <loc>srvanderplas.github.io/posts/papers/machinelearningforensics2019.html</loc>
+    <lastmod>2023-11-18T20:28:16.442Z</lastmod>
+  </url>
+  <url>
+    <loc>srvanderplas.github.io/talks.html</loc>
+    <lastmod>2023-11-18T19:48:47.129Z</lastmod>
+  </url>
+  <url>
+    <loc>srvanderplas.github.io/about.html</loc>
+    <lastmod>2023-11-18T20:18:22.409Z</lastmod>
   </url>
 </urlset>

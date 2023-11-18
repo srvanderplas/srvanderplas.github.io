@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.4.489">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,14 +17,16 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
+  margin-bottom: 0em;
 }
-.hanging div.csl-entry {
+.hanging-indent div.csl-entry {
   margin-left:2em;
   text-indent:-2em;
 }
@@ -38,8 +40,7 @@ div.csl-right-inline {
 }
 div.csl-indent {
   margin-left: 2em;
-}
-</style>
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -64,7 +65,13 @@ div.csl-indent {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -74,7 +81,8 @@ div.csl-indent {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -86,21 +94,22 @@ div.csl-indent {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Susan Vanderplas</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-more" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -119,26 +128,31 @@ div.csl-indent {
     <a class="dropdown-item" href="./talks.html">
  <span class="dropdown-text">Talks</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./other.html">
+ <span class="dropdown-text">Other</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/srvanderplas"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/srvanderplas"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/srvanderplas"><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/srvanderplas"> <i class="bi bi-twitter" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://mastodon.social/@srvanderplas"><i class="bi bi-mastodon" role="img">
+    <a class="nav-link" href="https://mastodon.social/srvanderplas?"> <i class="bi bi-mastodon" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -165,78 +179,86 @@ div.csl-indent {
   </div>
   
 
+
 </header>
 
 
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
-<div id="ref-vanderplasIntroductionFirearmsExamination2020" class="csl-entry" role="doc-biblioentry">
-Vanderplas, S., Carriquiry, A., Hofmann, H., Hamby, J., &amp; Tai, X. H. (2020). An introduction to firearms examination for researchers in statistics. In Banks, D., Kafadar, K., Kaye, D., &amp; Tackett, M. (Eds.), <em>Handbook of <span>Forensic</span> <span>Statistics</span></em>. New York: Chapman; Hall/CRC. https://doi.org/<a href="https://doi.org/10.1201/9780367527709">https://doi.org/10.1201/9780367527709</a>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-robinsonvanderplas2023" class="csl-entry" role="listitem">
+Robinson, E., Howard, R., &amp; VanderPlas, S. (2023). You draw it: Implementation of visually fitted trends with r2d3. <em>Journal of Data Science</em>. <a href="https://doi.org/10.6339/22-JDS1083">https://doi.org/10.6339/22-JDS1083</a>
 </div>
-<div id="ref-budrus2013tennis" class="csl-entry" role="doc-biblioentry">
-Budrus, S., Vanderplas, S., &amp; Cook, D. (2013). In tennis, do smashes win matches? <em>Significance</em>, <em>10</em>(3), 35–38. https://doi.org/<a href="https://doi.org/10.1111/j.1740-9713.2013.00665.x">https://doi.org/10.1111/j.1740-9713.2013.00665.x</a>
+<div id="ref-vanderplasStatisticalComputingUsing2023" class="csl-entry" role="listitem">
+Vanderplas, S. (2023). <em>Statistical <span>Computing</span> using <span>R</span> and <span>Python</span></em>. <a href="https://srvanderplas.github.io/stat-computing-r-python/">https://srvanderplas.github.io/stat-computing-r-python/</a>
 </div>
-<div id="ref-towfic2010detection" class="csl-entry" role="doc-biblioentry">
-Towfic, F., Vanderplas, S., Oliver, C. A., Couture, O., Tuggle, C. K., Greenlee, M. H. W., &amp; Honavar, V. (2010). Detection of gene orthology from gene co-expression and protein interaction networks. <em>BMC Bioinformatics</em>, <em>11</em>(Suppl 3), S7. https://doi.org/<a href="https://doi.org/10.1186/1471-2105-11-S3-S7">https://doi.org/10.1186/1471-2105-11-S3-S7</a>
+<div id="ref-ggpcp" class="csl-entry" role="listitem">
+VanderPlas, S., Ge, Y., Unwin, A., &amp; Hofmann, H. (2023). Penguins go parallel: A grammar of graphics framework for generalized parallel coordinate plots. <em>Journal of Computational and Graphical Statistics</em>. <a href="https://doi.org/10.1080/10618600.2023.2195462">https://doi.org/10.1080/10618600.2023.2195462</a>
 </div>
-<div id="ref-hull2009near" class="csl-entry" role="doc-biblioentry">
-Hull, R., Bortfeld, H., &amp; Koons, S. (2009). Near-infrared spectroscopy and cortical responses to speech production. <em>The Open Neuroimaging Journal</em>, <em>3</em>, 26. https://doi.org/<a href="https://doi.org/10.2174/1874440000903010026">https://doi.org/10.2174/1874440000903010026</a>
+<div id="ref-cmcR" class="csl-entry" role="listitem">
+Zemmels, J., Vanderplas, S., &amp; Hofmann, H. (2023). A study in reproducibility: The congruent matching cells algorithm and cmcR package. <em>R Journal</em>, <em>14, 4</em>, 79–102. <a href="https://doi.org/10.32614/RJ-2023-014">https://doi.org/10.32614/RJ-2023-014</a>
 </div>
-<div id="ref-visualaptitude" class="csl-entry" role="doc-biblioentry">
-VanderPlas, S., &amp; Hofmann, H. (2016). Spatial reasoning and data displays. <em>IEEE Transactions on Visualization and Computer Graphics</em>, <em>22</em>(1), 459–468. https://doi.org/<a href="https://doi.org/10.1109/TVCG.2015.2469125">https://doi.org/10.1109/TVCG.2015.2469125</a>
-</div>
-<div id="ref-bradfordvanderplas2022" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bradfordvanderplas2022" class="csl-entry" role="listitem">
 Bradford, D., &amp; VanderPlas, S. (2022). Exploring rural shrink smart through guided discovery dashboards. <em>Journal of Data Science</em>, 1–12. <a href="https://doi.org/10.6339/22-JDS1080">https://doi.org/10.6339/22-JDS1080</a>
 </div>
-<div id="ref-donohoresponse" class="csl-entry" role="doc-biblioentry">
-Hofmann, H., &amp; Vanderplas, S. (2017). All of this has happened before. <span>A</span>ll of this will happen again: <span>D</span>ata <span>S</span>cience. <em>Journal of Computational and Graphical Statistics</em>, <em>26</em>(4), 775–778. https://doi.org/<a href="https://doi.org/10.1080/10618600.2017.1385474">https://doi.org/10.1080/10618600.2017.1385474</a>
-</div>
-<div id="ref-sineillusionjcgs" class="csl-entry" role="doc-biblioentry">
-Vanderplas, S., &amp; Hofmann, H. (2015). Signs of the sine illusion - why we need to care. <em>Journal of Computational and Graphical Statistics</em>, <em>24</em>(4), 1170–1190. https://doi.org/<a href="https://doi.org/10.1080/10618600.2014.951547">https://doi.org/10.1080/10618600.2014.951547</a>
-</div>
-<div id="ref-stat2020" class="csl-entry" role="doc-biblioentry">
-Vanderplas, S., Röttger, C., Cook, D., &amp; Hofmann, H. (2021). Statistical significance calculations for scenarios in visual inference. <em>Stat</em>, <em>10</em>(1), e337. https://doi.org/<a href="https://doi.org/10.1002/sta4.337">https://doi.org/10.1002/sta4.337</a>
-</div>
-<div id="ref-covid-narratives" class="csl-entry" role="doc-biblioentry">
-Wilhelm, A., &amp; VanderPlas, S. (2022). Visual narratives of the covid-19 pandemic. <em>Journal of Data Science, Statistics, and Visualisation</em>, <em>2</em>(7), 84–113. <a href="https://doi.org/10.52933/jdssv.v2i7.64">https://doi.org/10.52933/jdssv.v2i7.64</a>
-</div>
-<div id="ref-sievert2018extending" class="csl-entry" role="doc-biblioentry">
-Sievert, C., Vanderplas, S., Cai, J., Ferris, K., Khan, F. U. F., &amp; Hocking, T. D. (2018). Extending ggplot2 for linked and animated web graphics. <em>Journal of Computational and Graphical Statistics</em>, <em>28</em>(2), 299–308. https://doi.org/<a href="https://doi.org/10.1080/10618600.2018.1513367">https://doi.org/10.1080/10618600.2018.1513367</a>
-</div>
-<div id="ref-eye-fitting-straight-lines" class="csl-entry" role="doc-biblioentry">
+<div id="ref-eye-fitting-straight-lines" class="csl-entry" role="listitem">
 Robinson, E. A., Howard, R., &amp; Vanderplas, S. (2022). Eye fitting straight lines in the modern era. <em>Journal of Computational and Graphical Statistics</em>, <em>0</em>(ja), 1–19. https://doi.org/<a href="https://doi.org/10.1080/10618600.2022.2140668">https://doi.org/10.1080/10618600.2022.2140668</a>
 </div>
-<div id="ref-cmcR" class="csl-entry" role="doc-biblioentry">
-Zemmels, J., Vanderplas, S., &amp; Hofmann, H. (2022). <a href="">A study in reproducibility: The congruent matching cells algorithm and cmcR package</a>. <em>R Journal</em>.
+<div id="ref-covid-narratives" class="csl-entry" role="listitem">
+Wilhelm, A., &amp; VanderPlas, S. (2022). Visual narratives of the covid-19 pandemic. <em>Journal of Data Science, Statistics, and Visualisation</em>, <em>2</em>(7), 84–113. <a href="https://doi.org/10.52933/jdssv.v2i7.64">https://doi.org/10.52933/jdssv.v2i7.64</a>
 </div>
-<div id="ref-vanderplasDesigningGraphicsRequires2021" class="csl-entry" role="doc-biblioentry">
-VanderPlas, S. (2021). Designing <span>Graphics</span> <span>Requires</span> <span>Useful</span> <span>Experimental</span> <span>Testing</span> <span>Frameworks</span> and <span>Graphics</span> <span>Derived</span> <span>From</span> <span>Empirical</span> <span>Results</span>. <em>Harvard Data Science Review</em>, <em>3</em>(3). https://doi.org/<a href="https://doi.org/10.1162/99608f92.7d099fd0">https://doi.org/10.1162/99608f92.7d099fd0</a>
-</div>
-<div id="ref-rutter2019ggenealogy" class="csl-entry" role="doc-biblioentry">
-Rutter, L., Vanderplas, S., Cook, D., &amp; Graham, M. (2019). Ggenealogy: <span>An</span> <span>R</span> <span>Package</span> for <span>Visualizing</span> <span>Genealogical</span> <span>Data</span>. <em>Journal of Statistical Software</em>, <em>89</em>(13), 1–31. https://doi.org/<a href="https://doi.org/10.18637/jss.v089.i13">https://doi.org/10.18637/jss.v089.i13</a>
-</div>
-<div id="ref-inconclusives" class="csl-entry" role="doc-biblioentry">
+<div id="ref-inconclusives" class="csl-entry" role="listitem">
 Hofmann, H., Carriquiry, A., &amp; Vanderplas, S. (2021). <span class="nocase">Treatment of inconclusives in the <span>AFTE</span> range of conclusions</span>. <em>Law, Probability and Risk</em>, <em>19</em>(3-4), 317–364. https://doi.org/<a href="https://doi.org/10.1093/lpr/mgab002">https://doi.org/10.1093/lpr/mgab002</a>
 </div>
-<div id="ref-featurehierarchyjcgs" class="csl-entry" role="doc-biblioentry">
-Vanderplas, S., &amp; Hofmann, H. (2017). <span>C</span>lusters beat <span>T</span>rend!? <span>T</span>esting feature hierarchy in statistical graphics. <em>Journal of Computational and Graphical Statistics</em>, <em>26</em>(2), 231–242. https://doi.org/<a href="https://doi.org/10.1080/10618600.2016.1209116">https://doi.org/10.1080/10618600.2016.1209116</a>
+<div id="ref-vanderplasDesigningGraphicsRequires2021" class="csl-entry" role="listitem">
+VanderPlas, S. (2021). Designing <span>Graphics</span> <span>Requires</span> <span>Useful</span> <span>Experimental</span> <span>Testing</span> <span>Frameworks</span> and <span>Graphics</span> <span>Derived</span> <span>From</span> <span>Empirical</span> <span>Results</span>. <em>Harvard Data Science Review</em>, <em>3</em>(3). https://doi.org/<a href="https://doi.org/10.1162/99608f92.7d099fd0">https://doi.org/10.1162/99608f92.7d099fd0</a>
 </div>
-<div id="ref-machinelearningforensics2019" class="csl-entry" role="doc-biblioentry">
-Carriquiry, A., Hofmann, H., Tai, X. H., &amp; Vanderplas, S. (2019). Machine learning in forensic applications. <em>Significance</em>, <em>16</em>(2), 29–35. https://doi.org/<a href="https://doi.org/10.1111/j.1740-9713.2019.01252.x">https://doi.org/10.1111/j.1740-9713.2019.01252.x</a>
+<div id="ref-stat2020" class="csl-entry" role="listitem">
+Vanderplas, S., Röttger, C., Cook, D., &amp; Hofmann, H. (2021). Statistical significance calculations for scenarios in visual inference. <em>Stat</em>, <em>10</em>(1), e337. https://doi.org/<a href="https://doi.org/10.1002/sta4.337">https://doi.org/10.1002/sta4.337</a>
 </div>
-<div id="ref-framedjcgs" class="csl-entry" role="doc-biblioentry">
-Vanderplas, S., Goluch, R. C., &amp; Hofmann, H. (2019). Framed! Reproducing and revisiting 150-year-old charts. <em>Journal of Computational and Graphical Statistics</em>, <em>28</em>(3), 620–634. https://doi.org/<a href="https://doi.org/10.1080/10618600.2018.1562937">https://doi.org/10.1080/10618600.2018.1562937</a>
+<div id="ref-vanderplasIntroductionFirearmsExamination2020" class="csl-entry" role="listitem">
+Vanderplas, S., Carriquiry, A., Hofmann, H., Hamby, J., &amp; Tai, X. H. (2020). An introduction to firearms examination for researchers in statistics. In Banks, D., Kafadar, K., Kaye, D., &amp; Tackett, M. (Eds.), <em>Handbook of <span>Forensic</span> <span>Statistics</span></em>. New York: Chapman; Hall/CRC. https://doi.org/<a href="https://doi.org/10.1201/9780367527709">https://doi.org/10.1201/9780367527709</a>
 </div>
-<div id="ref-vanderplasTestingStatisticalCharts2020" class="csl-entry" role="doc-biblioentry">
+<div id="ref-vanderplasTestingStatisticalCharts2020" class="csl-entry" role="listitem">
 Vanderplas, S., Cook, D., &amp; Hofmann, H. (2020). Testing statistical charts: What makes a good graph? <em>Annual Review of Statistics and Its Application</em>, <em>7</em>(1), 61–88. https://doi.org/<a href="https://doi.org/10.1146/annurev-statistics-031219-041252">https://doi.org/10.1146/annurev-statistics-031219-041252</a>
 </div>
-<div id="ref-vanderplasComparisonThreeSimilarity2020" class="csl-entry" role="doc-biblioentry">
+<div id="ref-vanderplasComparisonThreeSimilarity2020" class="csl-entry" role="listitem">
 Vanderplas, S., Nally, M., Klep, T., Cadevall, C., &amp; Hofmann, H. (2020). Comparison of three similarity scores for bullet LEA matching. <em>Forensic Science International</em>, <em>308</em>, 110167. https://doi.org/<a href="https://doi.org/10.1016/j.forsciint.2020.110167">https://doi.org/10.1016/j.forsciint.2020.110167</a>
 </div>
-<div id="ref-robinsonvanderplas2023" class="csl-entry" role="doc-biblioentry">
-Robinson, E., Howard, R., &amp; VanderPlas, S. (2023). You draw it: Implementation of visually fitted trends with r2d3. <em>Journal of Data Science</em>. <a href="https://doi.org/10.6339/22-JDS1083">https://doi.org/10.6339/22-JDS1083</a>
+<div id="ref-machinelearningforensics2019" class="csl-entry" role="listitem">
+Carriquiry, A., Hofmann, H., Tai, X. H., &amp; Vanderplas, S. (2019). Machine learning in forensic applications. <em>Significance</em>, <em>16</em>(2), 29–35. https://doi.org/<a href="https://doi.org/10.1111/j.1740-9713.2019.01252.x">https://doi.org/10.1111/j.1740-9713.2019.01252.x</a>
+</div>
+<div id="ref-rutter2019ggenealogy" class="csl-entry" role="listitem">
+Rutter, L., Vanderplas, S., Cook, D., &amp; Graham, M. (2019). Ggenealogy: <span>An</span> <span>R</span> <span>Package</span> for <span>Visualizing</span> <span>Genealogical</span> <span>Data</span>. <em>Journal of Statistical Software</em>, <em>89</em>(13), 1–31. https://doi.org/<a href="https://doi.org/10.18637/jss.v089.i13">https://doi.org/10.18637/jss.v089.i13</a>
+</div>
+<div id="ref-framedjcgs" class="csl-entry" role="listitem">
+Vanderplas, S., Goluch, R. C., &amp; Hofmann, H. (2019). Framed! Reproducing and revisiting 150-year-old charts. <em>Journal of Computational and Graphical Statistics</em>, <em>28</em>(3), 620–634. https://doi.org/<a href="https://doi.org/10.1080/10618600.2018.1562937">https://doi.org/10.1080/10618600.2018.1562937</a>
+</div>
+<div id="ref-sievert2018extending" class="csl-entry" role="listitem">
+Sievert, C., Vanderplas, S., Cai, J., Ferris, K., Khan, F. U. F., &amp; Hocking, T. D. (2018). Extending ggplot2 for linked and animated web graphics. <em>Journal of Computational and Graphical Statistics</em>, <em>28</em>(2), 299–308. https://doi.org/<a href="https://doi.org/10.1080/10618600.2018.1513367">https://doi.org/10.1080/10618600.2018.1513367</a>
+</div>
+<div id="ref-donohoresponse" class="csl-entry" role="listitem">
+Hofmann, H., &amp; Vanderplas, S. (2017). All of this has happened before. <span>A</span>ll of this will happen again: <span>D</span>ata <span>S</span>cience. <em>Journal of Computational and Graphical Statistics</em>, <em>26</em>(4), 775–778. https://doi.org/<a href="https://doi.org/10.1080/10618600.2017.1385474">https://doi.org/10.1080/10618600.2017.1385474</a>
+</div>
+<div id="ref-featurehierarchyjcgs" class="csl-entry" role="listitem">
+Vanderplas, S., &amp; Hofmann, H. (2017). <span>C</span>lusters beat <span>T</span>rend!? <span>T</span>esting feature hierarchy in statistical graphics. <em>Journal of Computational and Graphical Statistics</em>, <em>26</em>(2), 231–242. https://doi.org/<a href="https://doi.org/10.1080/10618600.2016.1209116">https://doi.org/10.1080/10618600.2016.1209116</a>
+</div>
+<div id="ref-visualaptitude" class="csl-entry" role="listitem">
+VanderPlas, S., &amp; Hofmann, H. (2016). Spatial reasoning and data displays. <em>IEEE Transactions on Visualization and Computer Graphics</em>, <em>22</em>(1), 459–468. https://doi.org/<a href="https://doi.org/10.1109/TVCG.2015.2469125">https://doi.org/10.1109/TVCG.2015.2469125</a>
+</div>
+<div id="ref-sineillusionjcgs" class="csl-entry" role="listitem">
+Vanderplas, S., &amp; Hofmann, H. (2015). Signs of the sine illusion - why we need to care. <em>Journal of Computational and Graphical Statistics</em>, <em>24</em>(4), 1170–1190. https://doi.org/<a href="https://doi.org/10.1080/10618600.2014.951547">https://doi.org/10.1080/10618600.2014.951547</a>
+</div>
+<div id="ref-budrus2013tennis" class="csl-entry" role="listitem">
+Budrus, S., Vanderplas, S., &amp; Cook, D. (2013). In tennis, do smashes win matches? <em>Significance</em>, <em>10</em>(3), 35–38. https://doi.org/<a href="https://doi.org/10.1111/j.1740-9713.2013.00665.x">https://doi.org/10.1111/j.1740-9713.2013.00665.x</a>
+</div>
+<div id="ref-towfic2010detection" class="csl-entry" role="listitem">
+Towfic, F., Vanderplas, S., Oliver, C. A., Couture, O., Tuggle, C. K., Greenlee, M. H. W., &amp; Honavar, V. (2010). Detection of gene orthology from gene co-expression and protein interaction networks. <em>BMC Bioinformatics</em>, <em>11</em>(Suppl 3), S7. https://doi.org/<a href="https://doi.org/10.1186/1471-2105-11-S3-S7">https://doi.org/10.1186/1471-2105-11-S3-S7</a>
+</div>
+<div id="ref-hull2009near" class="csl-entry" role="listitem">
+Hull, R., Bortfeld, H., &amp; Koons, S. (2009). Near-infrared spectroscopy and cortical responses to speech production. <em>The Open Neuroimaging Journal</em>, <em>3</em>, 26. https://doi.org/<a href="https://doi.org/10.2174/1874440000903010026">https://doi.org/10.2174/1874440000903010026</a>
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -266,9 +288,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -304,10 +340,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -317,8 +352,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -333,6 +377,241 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    const typesetMath = (el) => {
+      if (window.MathJax) {
+        // MathJax Typeset
+        window.MathJax.typeset([el]);
+      } else if (window.katex) {
+        // KaTeX Render
+        var mathElements = el.getElementsByClassName("math");
+        var macros = [];
+        for (var i = 0; i < mathElements.length; i++) {
+          var texText = mathElements[i].firstChild;
+          if (mathElements[i].tagName == "SPAN") {
+            window.katex.render(texText.data, mathElements[i], {
+              displayMode: mathElements[i].classList.contains('display'),
+              throwOnError: false,
+              macros: macros,
+              fleqn: false
+            });
+          }
+        }
+      }
+    }
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        for (let i = 0; i < 2; i++) {
+          container.appendChild(note.children[i].cloneNode(true));
+        }
+        typesetMath(container);
+        return container.innerHTML
+      } else {
+        typesetMath(note);
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      typesetMath(note);
+      return note.innerHTML;
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -373,6 +652,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

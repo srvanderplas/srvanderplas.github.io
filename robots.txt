@@ -1,1 +1,1 @@
-Sitemap: https://github.com/srvanderplas/srvanderplas.github.io/sitemap.xml
+Sitemap: srvanderplas.github.io/sitemap.xml

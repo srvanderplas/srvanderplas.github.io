@@ -6,32 +6,420 @@
       version="2.0">
 <channel>
 <title>Susan Vanderplas</title>
-<link>https://github.com/srvanderplas/srvanderplas.github.io/index.html</link>
-<atom:link href="https://github.com/srvanderplas/srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<link>srvanderplas.github.io/</link>
+<atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.2.335</generator>
-<lastBuildDate>Sun, 01 Jan 2023 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.489</generator>
+<lastBuildDate>Thu, 14 Dec 2023 06:00:00 GMT</lastBuildDate>
 <item>
-  <title>You Draw It: Implementation of visually fitted trends with r2d3</title>
-  <dc:creator>Emily Robinson, Reka Howard, Susan VanderPlas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/robinsonvanderplas2023.html</link>
+  <title>Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design</title>
+  <dc:creator>Susan Vanderplas, Reka Howard, Emily Robinson</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/https:/github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true" class="preview-image img-fluid"></p>
+
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/Presentations/2023-ASC/index.html" height="auto" width="80%">
+</iframe>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p>Australian Statistical Conference, Conference Wollongong, NSW, AUS</p>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html</guid>
+  <pubDate>Thu, 14 Dec 2023 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>How Do You Define a Circle? Perception and Computer Vision Diagnostics</title>
+  <dc:creator>Susan Vanderplas, Muxin Hua</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p>Asian Regional Section Meeting International Association for Statistical Computing, Conference Macquarie, NSW, AUS</p>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html</guid>
+  <pubDate>Wed, 06 Dec 2023 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Measuring Your Tools, for Science!</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/other/wire-measurements.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This project is a bit of informal data collection meant to help me calibrate the likelihood of a random tool matching a wire in evidence of a given gauge/diameter.</p>
+<p>To participate, collect any tools you have that you might use to cut a wire under normal circumstances.</p>
+<p>We surveyed our workbench and pulled out tools we’d used to cut wires (whether or not the were intended for that purpose) in the past<sup>1</sup>.</p>
+<div>
+
+</div>
+<div id="shop-layout" class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://i.imgur.com/VU5v4oy.jpg" class="img-fluid" alt="Workbench and tool storage"> <img src="https://i.imgur.com/wyAZff9.jpg" class="img-fluid" alt="Side of workbench - more tools"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p>We measured available tools - e.g.&nbsp;the ones that were clearly visible/accessible. No need to go digging to find every tool - this is an estimation task.</p>
+</div>
+</div>
+</div>
+<section id="about-toolmarks" class="level2">
+<h2 class="anchored" data-anchor-id="about-toolmarks">About Toolmarks</h2>
+<p>As a quick digression, let’s talk about toolmarks. We can look at microscopic imperfections in a wire cut, screwdriver scratch, or plier mark and see striations - little lines that are on the surface of the mark. A scan of a cut wire is shown in Figure&nbsp;1. A more macroscopic example is when you spread butter on toast, the butter knife often leaves little grooves behind in the butter<sup>2</sup>.</p>
+<div id="fig-wire-striae" class="quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-wire-striae-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://i.imgur.com/ycv5Zs8.png" class="img-fluid figure-img">
+</div>
+<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-wire-striae-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Striations on the surface of a cut wire.
+</figcaption>
+</figure>
+</div>
+<p>In order to assess how many different cutting surfaces there are in a shop, we need to look at the different way tools are configured.</p>
+<p><img src="https://i.imgur.com/oPTXpni.png" id="fig-tool-cuts" class="img-fluid" alt="Different tool configurations. On the top row, there are cross-sectional shapes representing the blades; each cutting surface that will leave a residual mark on the cut material is numbered. On the bottom, tehre are examples of tools with this configuration of blades (note that not all similar looking tools are necessarily configured the same)."> <strong>?@fig-tool-cuts</strong> shows the different configurations of blades of common tools that may be used to cut wires in a household environment. When measuring a tool’s cutting length, record the number of cutting surfaces as well as the length of the blade - each surface leaves different impressions and must be compared separately.</p>
+<p>Steps:</p>
+<ol type="1">
+<li><p>Gather tools which can be used for wire cutting from your house and shop.</p></li>
+<li><p>Open up the <a href="https://uofnelincoln-my.sharepoint.com/:x:/r/personal/svanderplas2_unl_edu/Documents/Data/Forensics-Wirecuts-Garage-Survey.xlsx?d=wea8b6c2ee3864a9abd2a31418698a6b3&amp;csf=1&amp;web=1&amp;e=GffbXY&amp;nav=MTVfezZGMkQ3MzI5LTM0OTEtNEZDQS05NTY3LUI1MDk1QjQzMjM5QX0">communal Excel sheet</a> and <strong>duplicate</strong> the sheet labeled Template.</p></li>
+<li><p>Rename the <strong>new sheet</strong> to an identifier you would like me to use (I’m not publishing this data - this is just for internal purposes). This identifier will ensure that no one overwrites your data accidentally (hopefully).</p></li>
+<li><p>For each tool type, record the blade length (in cm), number of cutting surfaces, and (if there are multiple tools with the same cutting surface configuration and blade length) number of tools. Reporting blade length to the nearest mm is fine, as is estimation if it is difficult to precisely measure the tool.</p></li>
+</ol>
+<p>Thank you so much for your help!</p>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><aside id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>If you like to improvise, then for the purposes of this study, please don’t include things like rocks or teeth (both examples from a friend) - pretend you’re a sensible person and not an engineer in a rush.↩︎</p></li>
+<li id="fn2"><p>This is what is known as a <strong>class characteristic</strong>, incidentally - most butter knives in a set have similar groove patterns, but if one of the knives has been damaged (say, caught in the garbage disposal), it will leave a different pattern than the other knives because it has <strong>individual characteristics</strong> that were introduced later.↩︎</p></li>
+</ol>
+</aside></div> ]]></description>
+  <category>other</category>
+  <guid>srvanderplas.github.io/posts/other/wire-measurements.html</guid>
+  <pubDate>Sat, 18 Nov 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://i.imgur.com/kpMV6fO.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Statistical Computing Using R and Python</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/vanderplasStatisticalComputingUsing2023.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-vanderplasStatisticalComputingUsing2023"></a>[1] S. Vanderplas. <em>Statistical Computing Using R and Python</em>. Nov.&nbsp;01, 2023. URL: <a href="https://srvanderplas.github.io/stat-computing-r-python/">https://srvanderplas.github.io/stat-computing-r-python/</a> (visited on 07/06/2023).</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@misc{vanderplasStatisticalComputingUsing2023,
+  title = {Statistical {{Computing}} Using {{R}} and {{Python}}},
+  author = {Susan Vanderplas},
+  year = {2023},
+  month = {6},
+  url = {https://srvanderplas.github.io/stat-computing-r-python/},
+  note = {Last visited on 07/06/2023},
+}</code></pre>
+</div>
+</div>
+</div>
+<section id="contribution" class="level3">
+<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
+<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
+<p>Writing (100%). This online textbook is published on Github and continually updated. It serves UNL Stat 850, Stat 151, and Stat 251 and has been used in classes at California Polytechnic and Chadron State College.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/vanderplasStatisticalComputingUsing2023.html</guid>
+  <pubDate>Wed, 01 Nov 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Graphics and Cognition: How Do We Perceive Charts?</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/Presentations/2023-Graphics-Cognition/" height="auto" width="80%">
+</iframe>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p>University of Nebraska-Lincoln, Iowa State University, and other interested affiliates Graphics Group, Interest Group Online</p>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html</guid>
+  <pubDate>Thu, 12 Oct 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Testing Statistical Graphics</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/testing-statistical-graphics.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/Presentations/2023-JSM-Testing-Graphics/" height="auto" width="80%">
+</iframe>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p>Section on Statistical Graphics JSM, Conference Toronto, ON, CA</p>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/testing-statistical-graphics.html</guid>
+  <pubDate>Tue, 08 Aug 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>What Makes a Good Graph? Graphical Testing and Principles for Graph Design</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/Presentations/2023-C3B" height="auto" width="80%">
+</iframe>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p>University of Nebraska Center for Brain, Biology, and Behavior, Department Seminar Lincoln, NE</p>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html</guid>
+  <pubDate>Mon, 27 Mar 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots</title>
+  <dc:creator>Susan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/ggpcp.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true" class="preview-image img-fluid"></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-ggpcp"></a>[1] S. VanderPlas, Y. Ge, A. Unwin, et al.&nbsp;“Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots”. In: <em>Journal of Computational and Graphical Statistics</em> (Mar.&nbsp;2023). DOI: <a href="https://doi.org/10.1080%2F10618600.2023.2195462">10.1080/10618600.2023.2195462</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{ggpcp,
+  author = {Susan VanderPlas and Yawei Ge and Antony Unwin and Heike Hofmann},
+  title = {Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots},
+  journal = {Journal of Computational and Graphical Statistics},
+  year = {2023},
+  doi = {10.1080/10618600.2023.2195462},
+  publisher = {Taylor &amp; Francis},
+  month = {mar},
+}</code></pre>
+</div>
+</div>
+</div>
+<section id="contribution" class="level3">
+<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
+<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
+<p>Writing (50%)</p>
+<p><a href="https://github.com/srvanderplas/ggpcp-paper" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/ggpcp.html</guid>
+  <pubDate>Wed, 01 Mar 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true" medium="image"/>
+</item>
+<item>
+  <title>Inconclusive Conclusions: Biases and Consequences</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/inconclusive-conclusions-biases-and-consequences.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/Presentations/2023-Hopkins-Inconclusives" height="auto" width="80%">
+</iframe>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p>Johns Hopkins University Biostatistics, Department Seminar Baltimore, MD</p>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/inconclusive-conclusions-biases-and-consequences.html</guid>
+  <pubDate>Wed, 15 Feb 2023 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package</title>
+  <dc:creator>Joseph Zemmels, Susan Vanderplas, Heike Hofmann</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/cmcR.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true" class="preview-image img-fluid"></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-cmcR"></a>[1] J. Zemmels, S. Vanderplas, and H. Hofmann. “A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package”. In: <em>R Journal</em> (4 Feb.&nbsp;09, 2023), pp.&nbsp;79-102. DOI: <a href="https://doi.org/10.32614%2FRJ-2023-014">10.32614/RJ-2023-014</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{cmcR,
+  title = {A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package},
+  author = {Joseph Zemmels and Susan Vanderplas and Heike Hofmann},
+  number = {14},
+  doi = {10.32614/RJ-2023-014},
+  pages = {79-102},
+  year = {2023},
+  month = {feb},
+}</code></pre>
+</div>
+</div>
+</div>
+<section id="contribution" class="level3">
+<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
+<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
+<p>Programming and analysis (10%), Writing (20%), Advising (40%)</p>
+<p><a href="https://github.com/jzemmels/cmcRwriteup" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/cmcR.html</guid>
+  <pubDate>Thu, 09 Feb 2023 06:00:00 GMT</pubDate>
+  <media:content url="https://github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true" medium="image"/>
+</item>
+<item>
+  <title>You Draw It: Implementation of visually fitted trends with r2d3</title>
+  <dc:creator>Emily Robinson, Reka Howard, Susan VanderPlas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/robinsonvanderplas2023.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
 <p><a name="bib-robinsonvanderplas2023"></a>[1] E. Robinson, R. Howard, and S. VanderPlas. “You Draw It: Implementation of visually fitted trends with r2d3”. In: <em>Journal of Data Science</em> (Jan.&nbsp;2023). ISSN: 1680-743X. DOI: <a href="https://doi.org/10.6339%2F22-JDS1083">10.6339/22-JDS1083</a>.</p>
 </blockquote>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
@@ -42,10 +430,10 @@ Bibtex
   author = {Emily Robinson and Reka Howard and Susan VanderPlas},
   title = {You Draw It: Implementation of visually fitted trends with r2d3},
   journal = {Journal of Data Science},
-  year = {2023},
-  month = {Jan},
   doi = {10.6339/22-JDS1083},
   publisher = {School of Statistics, Renmin University of China},
+  year = {2023},
+  month = {jan},
 }</code></pre>
 </div>
 </div>
@@ -57,44 +445,37 @@ Bibtex
 <p><a href="https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
 
 
-
 </section>
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
+ ]]></description>
   <category>papers</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/robinsonvanderplas2023.html</guid>
-  <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+  <guid>srvanderplas.github.io/posts/papers/robinsonvanderplas2023.html</guid>
+  <pubDate>Sun, 01 Jan 2023 06:00:00 GMT</pubDate>
   <media:content url="https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true" medium="image"/>
 </item>
 <item>
   <title>Exploring Rural Shrink Smart Through Guided Discovery Dashboards</title>
   <dc:creator>Denise Bradford, Susan VanderPlas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/bradfordvanderplas2022.html</link>
+  <link>srvanderplas.github.io/posts/papers/bradfordvanderplas2022.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/https:/github.com/drbradford12/SDSS-2022/blob/main/SDSS%20Journal%20Paper/images/map.png?raw=true" class="preview-image img-fluid"></p>
+
+<p><img src="https://github.com/drbradford12/SDSS-2022/blob/main/SDSS%20Journal%20Paper/images/map.png?raw=true" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
 <p><a name="bib-bradfordvanderplas2022"></a>[1] D. Bradford and S. VanderPlas. “Exploring Rural Shrink Smart Through Guided Discovery Dashboards”. In: <em>Journal of Data Science</em> (Dec.&nbsp;2022), pp.&nbsp;1-12. ISSN: 1680-743X. DOI: <a href="https://doi.org/10.6339%2F22-JDS1080">10.6339/22-JDS1080</a>.</p>
 </blockquote>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
@@ -106,7 +487,7 @@ Bibtex
   title = {Exploring Rural Shrink Smart Through Guided Discovery Dashboards},
   journal = {Journal of Data Science},
   year = {2022},
-  month = {Dec},
+  month = {12},
   pages = {1--12},
   doi = {10.6339/22-JDS1080},
   publisher = {School of Statistics, Renmin University of China},
@@ -121,44 +502,96 @@ Bibtex
 <p><a href="https://github.com/drbradford12/SDSS-Abstract-2022" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
 
 
-
 </section>
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
+ ]]></description>
   <category>papers</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/bradfordvanderplas2022.html</guid>
-  <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
+  <guid>srvanderplas.github.io/posts/papers/bradfordvanderplas2022.html</guid>
+  <pubDate>Thu, 01 Dec 2022 06:00:00 GMT</pubDate>
   <media:content url="https://github.com/drbradford12/SDSS-2022/blob/main/SDSS%20Journal%20Paper/images/map.png?raw=true" medium="image"/>
 </item>
 <item>
-  <title>Visual Narratives of the Covid-19 pandemic</title>
-  <dc:creator>Adalbert Wilhelm, Susan VanderPlas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/covid-narratives.html</link>
+  <title>Eye Fitting Straight Lines in the Modern Era</title>
+  <dc:creator>Emily A. Robinson, Reka Howard, Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/eye-fitting-straight-lines.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/https:/github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true" class="preview-image img-fluid"></p>
+
+<p><img src="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" class="preview-image img-fluid"></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-eye-fitting-straight-lines"></a>[1] E. A. Robinson, R. Howard, and S. Vanderplas. “Eye Fitting Straight Lines in the Modern Era”. In: <em>Journal of Computational and Graphical Statistics</em> 0.ja (Nov.&nbsp;01, 2022), pp.&nbsp;1-19. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2022.2140668">https://doi.org/10.1080/10618600.2022.2140668</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{eye-fitting-straight-lines,
+  author = {Emily A. Robinson and Reka Howard and Susan Vanderplas},
+  title = {Eye Fitting Straight Lines in the Modern Era},
+  journal = {Journal of Computational and Graphical Statistics},
+  volume = {0},
+  number = {ja},
+  pages = {1-19},
+  publisher = {Taylor &amp; Francis},
+  doi = {https://doi.org/10.1080/10618600.2022.2140668},
+  year = {2022},
+  month = {nov},
+}</code></pre>
+</div>
+</div>
+</div>
+<section id="contribution" class="level3">
+<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
+<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
+<p>Programming and analysis (10%), Writing (10%), Advising (60%)</p>
+<p><a href="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/eye-fitting-straight-lines.html</guid>
+  <pubDate>Tue, 01 Nov 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" medium="image"/>
+</item>
+<item>
+  <title>Visual Narratives of the Covid-19 pandemic</title>
+  <dc:creator>Adalbert Wilhelm, Susan VanderPlas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/covid-narratives.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
 <p><a name="bib-covid-narratives"></a>[1] A. Wilhelm and S. VanderPlas. “Visual Narratives of the Covid-19 pandemic”. In: <em>Journal of Data Science, Statistics, and Visualisation</em> 2.7 (Nov.&nbsp;2022), p.&nbsp;84–113. DOI: <a href="https://doi.org/10.52933%2Fjdssv.v2i7.64">10.52933/jdssv.v2i7.64</a>. URL: <a href="https://jdssv.org/index.php/jdssv/article/view/64">https://jdssv.org/index.php/jdssv/article/view/64</a>.</p>
 </blockquote>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
@@ -173,9 +606,9 @@ Bibtex
   number = {7},
   journal = {Journal of Data Science, Statistics, and Visualisation},
   author = {Adalbert Wilhelm and Susan VanderPlas},
-  month = {Nov},
   pages = {84–113},
   year = {2022},
+  month = {nov},
 }</code></pre>
 </div>
 </div>
@@ -187,94 +620,21 @@ Bibtex
 <p><a href="https://github.com/srvanderplas/covid-visualization-dssv" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
 
 
-
 </section>
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
+ ]]></description>
   <category>papers</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/covid-narratives.html</guid>
-  <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
+  <guid>srvanderplas.github.io/posts/papers/covid-narratives.html</guid>
+  <pubDate>Tue, 01 Nov 2022 05:00:00 GMT</pubDate>
   <media:content url="https://github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Eye Fitting Straight Lines in the Modern Era</title>
-  <dc:creator>Emily A. Robinson, Reka Howard, Susan Vanderplas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/eye-fitting-straight-lines.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/https:/github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-eye-fitting-straight-lines"></a>[1] E. A. Robinson, R. Howard, and S. Vanderplas. “Eye Fitting Straight Lines in the Modern Era”. In: <em>Journal of Computational and Graphical Statistics</em> 0.ja (Nov.&nbsp;01, 2022), pp.&nbsp;1-19. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2022.2140668">https://doi.org/10.1080/10618600.2022.2140668</a>.</p>
-</blockquote>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{eye-fitting-straight-lines,
-  author = {Emily A. Robinson and Reka Howard and Susan Vanderplas},
-  title = {Eye Fitting Straight Lines in the Modern Era},
-  journal = {Journal of Computational and Graphical Statistics},
-  volume = {0},
-  number = {ja},
-  pages = {1-19},
-  year = {2022},
-  publisher = {Taylor &amp; Francis},
-  doi = {https://doi.org/10.1080/10618600.2022.2140668},
-  month = {nov},
-}</code></pre>
-</div>
-</div>
-</div>
-<section id="contribution" class="level3">
-<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
-<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
-<p>Programming and analysis (10%), Writing (10%), Advising (60%)</p>
-<p><a href="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-
-</section>
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <category>papers</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/eye-fitting-straight-lines.html</guid>
-  <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" medium="image"/>
 </item>
 <item>
   <title>Reproducible Science: Statistics, Forensics, and the Law</title>
   <dc:creator>Susan Vanderplas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.html</link>
+  <link>srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -289,87 +649,19 @@ No matching items
 <p>University of Nebraska - Lincoln Statistics, Department Seminar Lincoln, NE</p>
 
 
-
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
+ ]]></description>
   <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.html</guid>
-  <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package</title>
-  <dc:creator>Joseph Zemmels, Susan Vanderplas, Heike Hofmann</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/cmcR.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/https:/github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-cmcR"></a>[1] J. Zemmels, S. Vanderplas, and H. Hofmann. “A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package”. In: <em>R Journal</em> (Oct.&nbsp;01, 2022). Accepted October 2022.</p>
-</blockquote>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{cmcR,
-  title = {A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package},
-  author = {Joseph Zemmels and Susan Vanderplas and Heike Hofmann},
-  year = {2022},
-  note = {Accepted October 2022},
-  month = {oct},
-}</code></pre>
-</div>
-</div>
-</div>
-<section id="contribution" class="level3">
-<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
-<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
-<p>Programming and analysis (10%), Writing (20%), Advising (40%)</p>
-<p><a href="https://github.com/jzemmels/cmcRwriteup" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-
-</section>
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <category>papers</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/cmcR.html</guid>
-  <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true" medium="image"/>
+  <guid>srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.html</guid>
+  <pubDate>Wed, 05 Oct 2022 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>How to make good charts</title>
   <dc:creator>Susan Vanderplas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</link>
+  <link>srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -384,26 +676,19 @@ No matching items
 <p>University of Nebraska - Lincoln Complex Biosystems, Department Seminar Lincoln, NE</p>
 
 
-
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
+ ]]></description>
   <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</guid>
-  <pubDate>Thu, 22 Sep 2022 00:00:00 GMT</pubDate>
+  <guid>srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</guid>
+  <pubDate>Thu, 22 Sep 2022 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis</title>
   <dc:creator>Susan Vanderplas, Rick Stone</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html</link>
+  <link>srvanderplas.github.io/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -413,26 +698,19 @@ No matching items
 <p>International Association for Identification Meeting, Conference Workshop Omaha, NE</p>
 
 
-
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
+ ]]></description>
   <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html</guid>
-  <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
+  <guid>srvanderplas.github.io/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html</guid>
+  <pubDate>Wed, 03 Aug 2022 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>From Scans to Scores</title>
   <dc:creator>Susan Vanderplas, Heike Hofmann</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/from-scans-to-scores.html</link>
+  <link>srvanderplas.github.io/posts/talks/from-scans-to-scores.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -442,26 +720,19 @@ No matching items
 <p>International Association for Identification Meeting, Conference Workshop Omaha, NE</p>
 
 
-
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
+ ]]></description>
   <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/from-scans-to-scores.html</guid>
-  <pubDate>Tue, 02 Aug 2022 00:00:00 GMT</pubDate>
+  <guid>srvanderplas.github.io/posts/talks/from-scans-to-scores.html</guid>
+  <pubDate>Tue, 02 Aug 2022 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Pandemics, Graphics, and Perception of Log Scales</title>
   <dc:creator>Susan Vanderplas, Emily Robinson, Reka Howard</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/pandemics-graphics-and-perception-of-log-scales.html</link>
+  <link>srvanderplas.github.io/posts/talks/pandemics-graphics-and-perception-of-log-scales.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -476,26 +747,19 @@ No matching items
 <p>University of Nebraska - Omaha Math, Department Seminar Omaha, NE</p>
 
 
-
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
+ ]]></description>
   <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/pandemics-graphics-and-perception-of-log-scales.html</guid>
-  <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
+  <guid>srvanderplas.github.io/posts/talks/pandemics-graphics-and-perception-of-log-scales.html</guid>
+  <pubDate>Fri, 08 Apr 2022 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Automatic Acquisition of Footwear Class Characteristics</title>
   <dc:creator>Susan Vanderplas, Rick Stone</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html</link>
+  <link>srvanderplas.github.io/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -510,412 +774,12 @@ No matching items
 <p>Center for Statistical Applications in Forensic Evidence, Webinar Online</p>
 
 
-
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
+ ]]></description>
   <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html</guid>
-  <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Statistical significance calculations for scenarios in visual inference</title>
-  <dc:creator>Susan Vanderplas, Christian Röttger, Dianne Cook, Heike Hofmann</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/stat2020.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/https:/i.imgur.com/D9ZpjyJ.png" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-stat2020"></a>[1] S. Vanderplas, C. Röttger, D. Cook, et al.&nbsp;“Statistical significance calculations for scenarios in visual inference”. In: <em>Stat</em> 10.1 (Dec.&nbsp;01, 2021), p.&nbsp;e337. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1002%2Fsta4.337">https://doi.org/10.1002/sta4.337</a>.</p>
-</blockquote>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{stat2020,
-  author = {Susan Vanderplas and Christian R{\"o}ttger and Dianne Cook and Heike Hofmann},
-  title = {Statistical significance calculations for scenarios in visual inference},
-  journal = {Stat},
-  volume = {10},
-  number = {1},
-  pages = {e337},
-  doi = {https://doi.org/10.1002/sta4.337},
-  year = {2021},
-  month = {dec},
-}</code></pre>
-</div>
-</div>
-</div>
-<section id="contribution" class="level3">
-<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
-<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
-<p>Programming and analysis (30%), Writing (65%)</p>
-<p><a href="https://github.com/srvanderplas/visual-inference-alpha" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-
-</section>
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <category>papers</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/stat2020.html</guid>
-  <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://i.imgur.com/D9ZpjyJ.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>How do you define a circle? Perception and Computer Vision Diagnostics</title>
-  <dc:creator>Susan Vanderplas, Miranda Tilton, Jayden Stack</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/Presentations/2021-JSM-DetectingCircles/#1" height="auto" width="80%">
-</iframe>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>Section on Statistical Graphics JSM, Conference Seattle, WA</p>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html</guid>
-  <pubDate>Mon, 09 Aug 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results</title>
-  <dc:creator>Susan VanderPlas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/vanderplasDesigningGraphicsRequires2021.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/https:/i.imgur.com/MMBggrj.png" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-vanderplasDesigningGraphicsRequires2021"></a>[1] S. VanderPlas. “Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results”. In: <em>Harvard Data Science Review</em> 3.3 (Jul.&nbsp;30, 2021). DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1162%2F99608f92.7d099fd0">https://doi.org/10.1162/99608f92.7d099fd0</a>.</p>
-</blockquote>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{vanderplasDesigningGraphicsRequires2021,
-  author = {Susan VanderPlas},
-  title = {Designing {Graphics} {Requires} {Useful} {Experimental} {Testing} {Frameworks} and {Graphics} {Derived} {From} {Empirical} {Results}},
-  journal = {Harvard Data Science Review},
-  volume = {3},
-  number = {3},
-  year = {2021},
-  month = {July},
-  doi = {https://doi.org/10.1162/99608f92.7d099fd0},
-}</code></pre>
-</div>
-</div>
-</div>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <category>papers</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/vanderplasDesigningGraphicsRequires2021.html</guid>
-  <pubDate>Fri, 30 Jul 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://i.imgur.com/MMBggrj.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Treatment of inconclusives in the AFTE range of conclusions</title>
-  <dc:creator>Heike Hofmann, Alicia Carriquiry, Susan Vanderplas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/inconclusives.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><img src="https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/https:/github.com/heike/inconclusives/blob/master/figures/shape-overview-study-1.png?raw=true" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-inconclusives"></a>[1] H. Hofmann, A. Carriquiry, and S. Vanderplas. “Treatment of inconclusives in the AFTE range of conclusions”. In: <em>Law, Probability and Risk</em> 19.3-4 (May. 05, 2021), pp.&nbsp;317-364. ISSN: 1470-8396. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1093%2Flpr%2Fmgab002">https://doi.org/10.1093/lpr/mgab002</a>.</p>
-</blockquote>
-<div class="callout-note callout callout-style-default callout-captioned">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{inconclusives,
-  author = {Heike Hofmann and Alicia Carriquiry and Susan Vanderplas},
-  title = {{Treatment of inconclusives in the {AFTE} range of conclusions}},
-  journal = {Law, Probability and Risk},
-  volume = {19},
-  number = {3-4},
-  pages = {317-364},
-  year = {2021},
-  month = {05},
-  doi = {https://doi.org/10.1093/lpr/mgab002},
-}</code></pre>
-</div>
-</div>
-</div>
-<section id="contribution" class="level3">
-<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
-<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
-<p>Writing (50%)</p>
-<p><a href="https://github.com/heike/inconclusives" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-
-</section>
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <category>papers</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/papers/inconclusives.html</guid>
-  <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/heike/inconclusives/blob/master/figures/shape-overview-study-1.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Exploring Rural Quality of Life Using Data Science and Public Data</title>
-  <dc:creator>Susan Vanderplas, Denise Bradford</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/Presentations/2021-QQPM-Rural-Smart-Shrinkage/#1" height="auto" width="80%">
-</iframe>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>University of Nebraska - Lincoln QQPM, Department Lincoln, NE</p>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html</guid>
-  <pubDate>Fri, 09 Apr 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Inconclusive Conclusions: Biases and Consequences</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/inconclusive-conclusions-biases-and-consequences.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/Presentations/2021-LawPsych-Inconclusives/#1" height="auto" width="80%">
-</iframe>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>University of Nebraska - Lincoln Law and Psychology Brown Bag, Interest Group Lincoln, NE</p>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/inconclusive-conclusions-biases-and-consequences.html</guid>
-  <pubDate>Tue, 30 Mar 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Visual Statistics: Communication and Graphical Testing</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/visual-statistics-communication-and-graphical-testing.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/Presentations/2021-ANSC-Graphics/#1" height="auto" width="80%">
-</iframe>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>University of Nebraska - Lincoln Animal Science, Department Seminar Lincoln, NE</p>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/visual-statistics-communication-and-graphical-testing.html</guid>
-  <pubDate>Tue, 16 Mar 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Welcome to Forensic Statistics</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/welcome-to-forensic-statistics.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/Presentations/2021-Data-Mishaps/index.html" height="auto" width="80%">
-</iframe>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>Data Mishaps Night, Meetup Online</p>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/welcome-to-forensic-statistics.html</guid>
-  <pubDate>Fri, 05 Feb 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Perception and Visual Communication in a Global Pandemic</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/perception-and-visual-communication-in-a-global-pandemic.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/Presentations/2020-DSSV/#1" height="auto" width="80%">
-</iframe>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>SAMSI Data Science, Statistics, and Visualization, Conference Online</p>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <category>talks</category>
-  <guid>https://github.com/srvanderplas/srvanderplas.github.io/posts/talks/perception-and-visual-communication-in-a-global-pandemic.html</guid>
-  <pubDate>Wed, 29 Jul 2020 00:00:00 GMT</pubDate>
+  <guid>srvanderplas.github.io/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html</guid>
+  <pubDate>Thu, 24 Mar 2022 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

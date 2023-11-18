@@ -4,6 +4,8 @@ library(dplyr)
 library(stringr)
 library(purrr)
 
+gs4_auth(path = Sys.getenv('GS_AUTH'))
+
 # Update to match your info
 sheet_link <- "https://docs.google.com/spreadsheets/d/1zOKie2rqIcxQMuAzn1g7K-2_O5yOhHo2QD7EAGjeFzs/edit?usp=sharing"
 talk_order <- c("Invited", "Contributed", "Seminars")

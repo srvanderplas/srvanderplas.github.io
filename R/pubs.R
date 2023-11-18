@@ -9,10 +9,15 @@ pkg_names <- c("cmcR", "animint", "ggplot2", "ggenealogy")
 
 
 # R packages
-library(RefManageR)
+library(googlesheets4)
 library(magrittr)
+library(lubridate)
+library(dplyr)
 library(stringr)
+library(purrr)
+library(RefManageR)
 
+gs4_auth(path = Sys.getenv('GS_AUTH'))
 
 month_dict <- sprintf("%02d", c(1:12, 1:12, 1:12)) %>%
   as.list() %>%

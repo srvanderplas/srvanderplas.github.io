@@ -1,0 +1,52 @@
+---
+title: "Measuring Your Tools, for Science!"
+author: "Susan Vanderplas"
+
+date: "2023-11-18"
+image: "https://i.imgur.com/kpMV6fO.png"
+categories: other
+page-layout: full
+title-block-banner: true
+keywords: [data-collection, forensics]
+editor: visual
+---
+
+This project is a bit of informal data collection meant to help me calibrate the likelihood of a random tool matching a wire in evidence of a given gauge/diameter.
+
+To participate, collect any tools you have that you might use to cut a wire under normal circumstances.
+
+We surveyed our workbench and pulled out tools we'd used to cut wires (whether or not the were intended for that purpose) in the past^[If you like to improvise, then for the purposes of this study, please don't include things like rocks or teeth (both examples from a friend) - pretend you're a sensible person and not an engineer in a rush.].
+
+::: {#shop-layout layout-ncol=2}
+
+![Workbench and tool storage](https://i.imgur.com/VU5v4oy.jpg)
+![Side of workbench - more tools](https://i.imgur.com/wyAZff9.jpg)
+
+We measured available tools - e.g. the ones that were clearly visible/accessible. No need to go digging to find every tool - this is an estimation task.
+:::
+
+
+## About Toolmarks
+
+As a quick digression, let's talk about toolmarks. We can look at microscopic imperfections in a wire cut, screwdriver scratch, or plier mark and see striations - little lines that are on the surface of the mark. A scan of a cut wire is shown in @fig-wire-striae. A more macroscopic example is when you spread butter on toast, the butter knife often leaves little grooves behind in the butter^[This is what is known as a **class characteristic**, incidentally - most butter knives in a set have similar groove patterns, but if one of the knives has been damaged (say, caught in the garbage disposal), it will leave a different pattern than the other knives because it has **individual characteristics** that were introduced later.].
+
+![Striations on the surface of a cut wire.](https://i.imgur.com/ycv5Zs8.png){#fig-wire-striae}
+
+In order to assess how many different cutting surfaces there are in a shop, we need to look at the different way tools are configured.
+
+![Different tool configurations. On the top row, there are cross-sectional shapes representing the blades; each cutting surface that will leave a residual mark on the cut material is numbered. On the bottom, tehre are examples of tools with this configuration of blades (note that not all similar looking tools are necessarily configured the same).](https://i.imgur.com/oPTXpni.png){#fig-tool-cuts}
+@fig-tool-cuts shows the different configurations of blades of common tools that may be used to cut wires in a household environment. When measuring a tool's cutting length, record the number of cutting surfaces as well as the length of the blade - each surface leaves different impressions and must be compared separately.
+
+
+
+Steps:
+
+1. Gather tools which can be used for wire cutting from your house and shop.
+
+2. Open up the [communal Excel sheet](https://uofnelincoln-my.sharepoint.com/:x:/r/personal/svanderplas2_unl_edu/Documents/Data/Forensics-Wirecuts-Garage-Survey.xlsx?d=wea8b6c2ee3864a9abd2a31418698a6b3&csf=1&web=1&e=GffbXY&nav=MTVfezZGMkQ3MzI5LTM0OTEtNEZDQS05NTY3LUI1MDk1QjQzMjM5QX0) and **duplicate** the sheet labeled Template. 
+
+3. Rename the **new sheet** to an identifier you would like me to use (I'm not publishing this data - this is just for internal purposes). This identifier will ensure that no one overwrites your data accidentally (hopefully).
+
+4. For each tool type, record the blade length (in cm), number of cutting surfaces, and (if there are multiple tools with the same cutting surface configuration and blade length) number of tools. Reporting blade length to the nearest mm is fine, as is estimation if it is difficult to precisely measure the tool. 
+
+Thank you so much for your help!

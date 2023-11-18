@@ -1,11 +1,13 @@
 project:
   type: website
+  output-dir: "_site"
   pre-render:
     - R/pubs.R
     - R/talks.R
 
 website:
   title: "Susan Vanderplas"
+  site-url: "srvanderplas.github.io"
   navbar:
     right:
       - about.qmd

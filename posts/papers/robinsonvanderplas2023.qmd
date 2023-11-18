@@ -1,13 +1,9 @@
 ---
 title: "You Draw It: Implementation of visually fitted trends with r2d3"
 author: "Emily Robinson, Reka Howard, Susan VanderPlas"
-date: "202301"
+date: "2023-01"
 image: "https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true"
 categories: papers
-listing:
-  contents: posts/papers
-  sort: date desc
-  fields: [date, title, author]
 page-layout: full
 title-block-banner: true
 keywords: [pr,  perception,  visualization,  covid,  log scales,  user testing]
@@ -28,10 +24,10 @@ format:
   author = {Emily Robinson and Reka Howard and Susan VanderPlas},
   title = {You Draw It: Implementation of visually fitted trends with r2d3},
   journal = {Journal of Data Science},
-  year = {2023},
-  month = {Jan},
   doi = {10.6339/22-JDS1083},
   publisher = {School of Statistics, Renmin University of China},
+  year = {2023},
+  month = {jan},
 }
 ```
 :::

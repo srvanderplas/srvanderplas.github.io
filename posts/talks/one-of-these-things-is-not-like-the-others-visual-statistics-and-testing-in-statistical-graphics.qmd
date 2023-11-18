@@ -3,10 +3,6 @@ title: "One of these things is not like the others: Visual Statistics and Testin
 author: "Susan Vanderplas, Heike Hofmann"
 date: "2020-02-11"
 categories: talks
-listing:
-  contents: posts/talks
-  sort: date desc
-  fields: [date, title, author]
 page-layout: full
 title-block-banner: true
 keywords: ['visual inference', 'user testing', 'perception', 'Talk']

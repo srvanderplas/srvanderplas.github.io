@@ -1,0 +1,43 @@
+---
+title: "Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots"
+author: "Susan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann"
+date: "2023-03"
+image: "https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true"
+categories: papers
+page-layout: full
+title-block-banner: true
+keywords: [pr,  perception,  visualization,  R package,  parallel coordinate plot,  multivariate]
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true){.preview-image}
+ 
+## Citation
+> <a name=bib-ggpcp></a>[[1]](#cite-ggpcp) S. VanderPlas, Y. Ge, A. Unwin, et al. “Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots”. In: _Journal of Computational and Graphical Statistics_ (Mar. 2023). DOI: [10.1080/10618600.2023.2195462](https://doi.org/10.1080%2F10618600.2023.2195462).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{ggpcp,
+  author = {Susan VanderPlas and Yawei Ge and Antony Unwin and Heike Hofmann},
+  title = {Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots},
+  journal = {Journal of Computational and Graphical Statistics},
+  year = {2023},
+  doi = {10.1080/10618600.2023.2195462},
+  publisher = {Taylor & Francis},
+  month = {mar},
+}
+```
+:::
+
+
+
+### Contribution
+
+Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.
+
+Writing (50\%)
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/srvanderplas/ggpcp-paper){.btn .btn-tip role="button"}

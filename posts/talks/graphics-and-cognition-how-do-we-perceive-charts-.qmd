@@ -1,0 +1,21 @@
+---
+title: "Graphics and Cognition: How Do We Perceive Charts?"
+author: "Susan Vanderplas"
+date: "2023-10-12"
+categories: talks
+page-layout: full
+title-block-banner: true
+keywords: ['visualization', 'user testing', 'perception', 'cognition', 'Talk']
+format:
+  html:
+    code-copy: true
+---
+ 
+## Slides
+
+<iframe src='http://srvanderplas.github.io/Presentations/2023-Graphics-Cognition/' height='auto' width='80%'>
+                        </iframe>
+## Location
+University of Nebraska-Lincoln, Iowa State University, and other interested affiliates
+Graphics Group, Interest Group
+Online

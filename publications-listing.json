@@ -1,11 +1,13 @@
 {
   "listing": "/publications.html",
   "items": [
+    "/posts/papers/vanderplasStatisticalComputingUsing2023.html",
+    "/posts/papers/ggpcp.html",
+    "/posts/papers/cmcR.html",
     "/posts/papers/robinsonvanderplas2023.html",
     "/posts/papers/bradfordvanderplas2022.html",
     "/posts/papers/covid-narratives.html",
     "/posts/papers/eye-fitting-straight-lines.html",
-    "/posts/papers/cmcR.html",
     "/posts/papers/stat2020.html",
     "/posts/papers/vanderplasDesigningGraphicsRequires2021.html",
     "/posts/papers/inconclusives.html",

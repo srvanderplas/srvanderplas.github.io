@@ -1,0 +1,21 @@
+---
+title: "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design"
+author: "Susan Vanderplas, Reka Howard, Emily Robinson"
+date: "2023-12-14"
+categories: talks
+page-layout: full
+title-block-banner: true
+keywords: ['NA', 'Talk']
+format:
+  html:
+    code-copy: true
+---
+ 
+## Slides
+
+<iframe src='http://srvanderplas.github.io/Presentations/2023-ASC/index.html' height='auto' width='80%'>
+                        </iframe>
+## Location
+
+Australian Statistical Conference, Conference
+Wollongong, NSW, AUS

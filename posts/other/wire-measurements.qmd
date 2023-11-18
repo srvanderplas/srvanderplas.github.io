@@ -36,6 +36,7 @@ As a quick digression, let's talk about toolmarks. We can look at microscopic im
 In order to assess how many different cutting surfaces there are in a shop, we need to look at the different way tools are configured.
 
 ![Different tool configurations. On the top row, there are cross-sectional shapes representing the blades; each cutting surface that will leave a residual mark on the cut material is numbered. On the bottom, tehre are examples of tools with this configuration of blades (note that not all similar looking tools are necessarily configured the same).](https://i.imgur.com/oPTXpni.png){#fig-tool-surfaces}
+
 @fig-tool-surfaces shows the different configurations of blades of common tools that may be used to cut wires in a household environment. When measuring a tool's cutting length, record the number of cutting surfaces as well as the length of the blade - each surface leaves different impressions and must be compared separately.
 
 

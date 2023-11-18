@@ -1,5 +1,250 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Publications",
+    "section": "",
+    "text": "References\n\nRobinson, E., Howard, R., & VanderPlas, S. (2023). You draw it: Implementation of visually fitted trends with r2d3. Journal of Data Science. https://doi.org/10.6339/22-JDS1083\n\n\nVanderplas, S. (2023). Statistical Computing using R and Python. https://srvanderplas.github.io/stat-computing-r-python/\n\n\nVanderPlas, S., Ge, Y., Unwin, A., & Hofmann, H. (2023). Penguins go parallel: A grammar of graphics framework for generalized parallel coordinate plots. Journal of Computational and Graphical Statistics. https://doi.org/10.1080/10618600.2023.2195462\n\n\nZemmels, J., Vanderplas, S., & Hofmann, H. (2023). A study in reproducibility: The congruent matching cells algorithm and cmcR package. R Journal, 14, 4, 79–102. https://doi.org/10.32614/RJ-2023-014\n\n\nBradford, D., & VanderPlas, S. (2022). Exploring rural shrink smart through guided discovery dashboards. Journal of Data Science, 1–12. https://doi.org/10.6339/22-JDS1080\n\n\nRobinson, E. A., Howard, R., & Vanderplas, S. (2022). Eye fitting straight lines in the modern era. Journal of Computational and Graphical Statistics, 0(ja), 1–19. https://doi.org/https://doi.org/10.1080/10618600.2022.2140668\n\n\nWilhelm, A., & VanderPlas, S. (2022). Visual narratives of the covid-19 pandemic. Journal of Data Science, Statistics, and Visualisation, 2(7), 84–113. https://doi.org/10.52933/jdssv.v2i7.64\n\n\nHofmann, H., Carriquiry, A., & Vanderplas, S. (2021). Treatment of inconclusives in the AFTE range of conclusions. Law, Probability and Risk, 19(3-4), 317–364. https://doi.org/https://doi.org/10.1093/lpr/mgab002\n\n\nVanderPlas, S. (2021). Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results. Harvard Data Science Review, 3(3). https://doi.org/https://doi.org/10.1162/99608f92.7d099fd0\n\n\nVanderplas, S., Röttger, C., Cook, D., & Hofmann, H. (2021). Statistical significance calculations for scenarios in visual inference. Stat, 10(1), e337. https://doi.org/https://doi.org/10.1002/sta4.337\n\n\nVanderplas, S., Carriquiry, A., Hofmann, H., Hamby, J., & Tai, X. H. (2020). An introduction to firearms examination for researchers in statistics. In Banks, D., Kafadar, K., Kaye, D., & Tackett, M. (Eds.), Handbook of Forensic Statistics. New York: Chapman; Hall/CRC. https://doi.org/https://doi.org/10.1201/9780367527709\n\n\nVanderplas, S., Cook, D., & Hofmann, H. (2020). Testing statistical charts: What makes a good graph? Annual Review of Statistics and Its Application, 7(1), 61–88. https://doi.org/https://doi.org/10.1146/annurev-statistics-031219-041252\n\n\nVanderplas, S., Nally, M., Klep, T., Cadevall, C., & Hofmann, H. (2020). Comparison of three similarity scores for bullet LEA matching. Forensic Science International, 308, 110167. https://doi.org/https://doi.org/10.1016/j.forsciint.2020.110167\n\n\nCarriquiry, A., Hofmann, H., Tai, X. H., & Vanderplas, S. (2019). Machine learning in forensic applications. Significance, 16(2), 29–35. https://doi.org/https://doi.org/10.1111/j.1740-9713.2019.01252.x\n\n\nRutter, L., Vanderplas, S., Cook, D., & Graham, M. (2019). Ggenealogy: An R Package for Visualizing Genealogical Data. Journal of Statistical Software, 89(13), 1–31. https://doi.org/https://doi.org/10.18637/jss.v089.i13\n\n\nVanderplas, S., Goluch, R. C., & Hofmann, H. (2019). Framed! Reproducing and revisiting 150-year-old charts. Journal of Computational and Graphical Statistics, 28(3), 620–634. https://doi.org/https://doi.org/10.1080/10618600.2018.1562937\n\n\nSievert, C., Vanderplas, S., Cai, J., Ferris, K., Khan, F. U. F., & Hocking, T. D. (2018). Extending ggplot2 for linked and animated web graphics. Journal of Computational and Graphical Statistics, 28(2), 299–308. https://doi.org/https://doi.org/10.1080/10618600.2018.1513367\n\n\nHofmann, H., & Vanderplas, S. (2017). All of this has happened before. All of this will happen again: Data Science. Journal of Computational and Graphical Statistics, 26(4), 775–778. https://doi.org/https://doi.org/10.1080/10618600.2017.1385474\n\n\nVanderplas, S., & Hofmann, H. (2017). Clusters beat Trend!? Testing feature hierarchy in statistical graphics. Journal of Computational and Graphical Statistics, 26(2), 231–242. https://doi.org/https://doi.org/10.1080/10618600.2016.1209116\n\n\nVanderPlas, S., & Hofmann, H. (2016). Spatial reasoning and data displays. IEEE Transactions on Visualization and Computer Graphics, 22(1), 459–468. https://doi.org/https://doi.org/10.1109/TVCG.2015.2469125\n\n\nVanderplas, S., & Hofmann, H. (2015). Signs of the sine illusion - why we need to care. Journal of Computational and Graphical Statistics, 24(4), 1170–1190. https://doi.org/https://doi.org/10.1080/10618600.2014.951547\n\n\nBudrus, S., Vanderplas, S., & Cook, D. (2013). In tennis, do smashes win matches? Significance, 10(3), 35–38. https://doi.org/https://doi.org/10.1111/j.1740-9713.2013.00665.x\n\n\nTowfic, F., Vanderplas, S., Oliver, C. A., Couture, O., Tuggle, C. K., Greenlee, M. H. W., & Honavar, V. (2010). Detection of gene orthology from gene co-expression and protein interaction networks. BMC Bioinformatics, 11(Suppl 3), S7. https://doi.org/https://doi.org/10.1186/1471-2105-11-S3-S7\n\n\nHull, R., Bortfeld, H., & Koons, S. (2009). Near-infrared spectroscopy and cortical responses to speech production. The Open Neuroimaging Journal, 3, 26. https://doi.org/https://doi.org/10.2174/1874440000903010026"
+  },
+  {
+    "objectID": "posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html#location",
+    "href": "posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html#location",
+    "title": "What Makes a Good Graph? Graphical Testing and Principles for Graph Design",
+    "section": "Location",
+    "text": "Location\nUniversity of Nebraska Center for Brain, Biology, and Behavior, Department Seminar Lincoln, NE"
+  },
+  {
+    "objectID": "posts/talks/perception-and-visual-communication-in-a-global-pandemic.html#location",
+    "href": "posts/talks/perception-and-visual-communication-in-a-global-pandemic.html#location",
+    "title": "Perception and Visual Communication in a Global Pandemic",
+    "section": "Location",
+    "text": "Location\nSAMSI Data Science, Statistics, and Visualization, Conference Online"
+  },
+  {
+    "objectID": "posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html#location",
+    "href": "posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html#location",
+    "title": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design",
+    "section": "Location",
+    "text": "Location\nAustralian Statistical Conference, Conference Wollongong, NSW, AUS"
+  },
+  {
+    "objectID": "posts/talks/a-bayesian-approach-to-visual-inference.html",
+    "href": "posts/talks/a-bayesian-approach-to-visual-inference.html",
+    "title": "A Bayesian Approach to Visual Inference",
+    "section": "",
+    "text": "Section on Statistical Graphics JSM, Conference Baltimore, MD"
+  },
+  {
+    "objectID": "posts/talks/a-bayesian-approach-to-visual-inference.html#location",
+    "href": "posts/talks/a-bayesian-approach-to-visual-inference.html#location",
+    "title": "A Bayesian Approach to Visual Inference",
+    "section": "",
+    "text": "Section on Statistical Graphics JSM, Conference Baltimore, MD"
+  },
+  {
+    "objectID": "posts/talks/big-data-big-experiments-and-big-problems.html#location",
+    "href": "posts/talks/big-data-big-experiments-and-big-problems.html#location",
+    "title": "Big Data, Big Experiments, and Big Problems",
+    "section": "Location",
+    "text": "Location\nPlant and Animal Genome, Conference San Diego, CA"
+  },
+  {
+    "objectID": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html#location",
+    "href": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html#location",
+    "title": "The curse of three dimensions: Why your brain is lying to you",
+    "section": "Location",
+    "text": "Location\nSection on Statistical Graphics JSM, Conference Boston, MA"
+  },
+  {
+    "objectID": "posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html#location",
+    "href": "posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html#location",
+    "title": "One of these things is not like the others: Visual Statistics and Testing in Statistical Graphics",
+    "section": "Location",
+    "text": "Location\nSouth Dakota State University Data Science Symposium, Conference Brookings, SD"
+  },
+  {
+    "objectID": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
+    "href": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
+    "title": "How Do You Define a Circle? Perception and Computer Vision Diagnostics",
+    "section": "",
+    "text": "Asian Regional Section Meeting International Association for Statistical Computing, Conference Macquarie, NSW, AUS"
+  },
+  {
+    "objectID": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html#location",
+    "href": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html#location",
+    "title": "How Do You Define a Circle? Perception and Computer Vision Diagnostics",
+    "section": "",
+    "text": "Asian Regional Section Meeting International Association for Statistical Computing, Conference Macquarie, NSW, AUS"
+  },
+  {
+    "objectID": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html#location",
+    "href": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html#location",
+    "title": "Graphics and Cognition: How Do We Perceive Charts?",
+    "section": "Location",
+    "text": "Location\nUniversity of Nebraska-Lincoln, Iowa State University, and other interested affiliates Graphics Group, Interest Group Online"
+  },
+  {
+    "objectID": "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html#location",
+    "href": "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html#location",
+    "title": "Exploring Rural Quality of Life Using Data Science and Public Data",
+    "section": "Location",
+    "text": "Location\nUniversity of Nebraska - Lincoln QQPM, Department Lincoln, NE"
+  },
+  {
+    "objectID": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html#location",
+    "href": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html#location",
+    "title": "Reproducible Science: Statistics, Forensics, and the Law",
+    "section": "Location",
+    "text": "Location\nUniversity of Nebraska - Lincoln Statistics, Department Seminar Lincoln, NE"
+  },
+  {
+    "objectID": "posts/talks/visual-statistics-communication-and-graphical-testing.html#location",
+    "href": "posts/talks/visual-statistics-communication-and-graphical-testing.html#location",
+    "title": "Visual Statistics: Communication and Graphical Testing",
+    "section": "Location",
+    "text": "Location\nUniversity of Nebraska - Lincoln Animal Science, Department Seminar Lincoln, NE"
+  },
+  {
+    "objectID": "posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html#location",
+    "href": "posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html#location",
+    "title": "Animint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics",
+    "section": "Location",
+    "text": "Location\nSection on Statistical Graphics JSM, Conference Seattle, WA"
+  },
+  {
+    "objectID": "posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html#location",
+    "href": "posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html#location",
+    "title": "Statistical Evaluation of Firearms and Toolmark Evidence",
+    "section": "Location",
+    "text": "Location\nUniversity of Nebraska - Lincoln Statistics, Department Seminar Lincoln, NE"
+  },
+  {
+    "objectID": "posts/papers/sievert2018extending.html#citation",
+    "href": "posts/papers/sievert2018extending.html#citation",
+    "title": "Extending ggplot2 for Linked and Animated Web Graphics",
+    "section": "Citation",
+    "text": "Citation\n\n[1] C. Sievert, S. Vanderplas, J. Cai, et al. “Extending ggplot2 for Linked and Animated Web Graphics”. In: Journal of Computational and Graphical Statistics 28.2 (Nov. 14, 2018), pp. 299-308. DOI: https://doi.org/10.1080/10618600.2018.1513367.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{sievert2018extending,\n  author = {Carson Sievert and Susan Vanderplas and Jun Cai and Kevin Ferris and Faizan Uddin Fahad Khan and Toby Dylan Hocking},\n  title = {Extending ggplot2 for Linked and Animated Web Graphics},\n  journal = {Journal of Computational and Graphical Statistics},\n  volume = {28},\n  number = {2},\n  pages = {299-308},\n  year = {2019},\n  publisher = {Taylor & Francis},\n  doi = {https://doi.org/10.1080/10618600.2018.1513367},\n  month = {nov},\n}"
+  },
+  {
+    "objectID": "posts/papers/budrus2013tennis.html#citation",
+    "href": "posts/papers/budrus2013tennis.html#citation",
+    "title": "In tennis, do smashes win matches?",
+    "section": "Citation",
+    "text": "Citation\n\n[1] S. Budrus, S. Vanderplas, and D. Cook. “In tennis, do smashes win matches?” In: Significance 10.3 (2013), pp. 35-38. DOI: https://doi.org/10.1111/j.1740-9713.2013.00665.x.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{budrus2013tennis,\n  author = {Sarah Budrus and Susan Vanderplas and Dianne Cook},\n  title = {In tennis, do smashes win matches?},\n  journal = {Significance},\n  volume = {10},\n  number = {3},\n  pages = {35-38},\n  doi = {https://doi.org/10.1111/j.1740-9713.2013.00665.x},\n  year = {2013},\n}"
+  },
+  {
+    "objectID": "posts/papers/robinsonvanderplas2023.html#citation",
+    "href": "posts/papers/robinsonvanderplas2023.html#citation",
+    "title": "You Draw It: Implementation of visually fitted trends with r2d3",
+    "section": "Citation",
+    "text": "Citation\n\n[1] E. Robinson, R. Howard, and S. VanderPlas. “You Draw It: Implementation of visually fitted trends with r2d3”. In: Journal of Data Science (Jan. 2023). ISSN: 1680-743X. DOI: 10.6339/22-JDS1083.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{robinsonvanderplas2023,\n  author = {Emily Robinson and Reka Howard and Susan VanderPlas},\n  title = {You Draw It: Implementation of visually fitted trends with r2d3},\n  journal = {Journal of Data Science},\n  doi = {10.6339/22-JDS1083},\n  publisher = {School of Statistics, Renmin University of China},\n  year = {2023},\n  month = {jan},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (10%), Advising (80%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/featurehierarchyjcgs.html#citation",
+    "href": "posts/papers/featurehierarchyjcgs.html#citation",
+    "title": "Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics",
+    "section": "Citation",
+    "text": "Citation\n\n[1] S. Vanderplas and H. Hofmann. “Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics”. In: Journal of Computational and Graphical Statistics 26.2 (Apr. 24, 2017), pp. 231-242. DOI: https://doi.org/10.1080/10618600.2016.1209116.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{featurehierarchyjcgs,\n  title = {{C}lusters Beat {T}rend!? {T}esting Feature Hierarchy in Statistical Graphics},\n  author = {Susan Vanderplas and Heike Hofmann},\n  journal = {Journal of Computational and Graphical Statistics},\n  year = {2017},\n  number = {2},\n  pages = {231-242},\n  volume = {26},\n  doi = {https://doi.org/10.1080/10618600.2016.1209116},\n  month = {apr},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (90%), writing (50%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/vanderplasStatisticalComputingUsing2023.html",
+    "href": "posts/papers/vanderplasStatisticalComputingUsing2023.html",
+    "title": "Statistical Computing Using R and Python",
+    "section": "",
+    "text": "[1] S. Vanderplas. Statistical Computing Using R and Python. Nov. 01, 2023. URL: https://srvanderplas.github.io/stat-computing-r-python/ (visited on 07/06/2023).\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@misc{vanderplasStatisticalComputingUsing2023,\n  title = {Statistical {{Computing}} Using {{R}} and {{Python}}},\n  author = {Susan Vanderplas},\n  year = {2023},\n  month = {6},\n  url = {https://srvanderplas.github.io/stat-computing-r-python/},\n  note = {Last visited on 07/06/2023},\n}\n\n\n\n\n\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (100%). This online textbook is published on Github and continually updated. It serves UNL Stat 850, Stat 151, and Stat 251 and has been used in classes at California Polytechnic and Chadron State College."
+  },
+  {
+    "objectID": "posts/papers/vanderplasStatisticalComputingUsing2023.html#citation",
+    "href": "posts/papers/vanderplasStatisticalComputingUsing2023.html#citation",
+    "title": "Statistical Computing Using R and Python",
+    "section": "",
+    "text": "[1] S. Vanderplas. Statistical Computing Using R and Python. Nov. 01, 2023. URL: https://srvanderplas.github.io/stat-computing-r-python/ (visited on 07/06/2023).\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@misc{vanderplasStatisticalComputingUsing2023,\n  title = {Statistical {{Computing}} Using {{R}} and {{Python}}},\n  author = {Susan Vanderplas},\n  year = {2023},\n  month = {6},\n  url = {https://srvanderplas.github.io/stat-computing-r-python/},\n  note = {Last visited on 07/06/2023},\n}\n\n\n\n\n\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (100%). This online textbook is published on Github and continually updated. It serves UNL Stat 850, Stat 151, and Stat 251 and has been used in classes at California Polytechnic and Chadron State College."
+  },
+  {
+    "objectID": "posts/papers/sineillusionjcgs.html#citation",
+    "href": "posts/papers/sineillusionjcgs.html#citation",
+    "title": "Signs of the Sine Illusion - why we need to care",
+    "section": "Citation",
+    "text": "Citation\n\n[1] S. Vanderplas and H. Hofmann. “Signs of the Sine Illusion - why we need to care”. In: Journal of Computational and Graphical Statistics 24.4 (Dec. 10, 2015), pp. 1170-1190. DOI: https://doi.org/10.1080/10618600.2014.951547.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{sineillusionjcgs,\n  title = {Signs of the Sine Illusion - why we need to care},\n  author = {Susan Vanderplas and Heike Hofmann},\n  journal = {Journal of Computational and Graphical Statistics},\n  volume = {24},\n  number = {4},\n  pages = {1170-1190},\n  year = {2015},\n  doi = {https://doi.org/10.1080/10618600.2014.951547},\n  month = {dec},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (50%), writing (60%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/donohoresponse.html#citation",
+    "href": "posts/papers/donohoresponse.html#citation",
+    "title": "All of This Has Happened Before. All of This Will Happen Again: Data Science",
+    "section": "Citation",
+    "text": "Citation\n\n[1] H. Hofmann and S. Vanderplas. “All of This Has Happened Before. All of This Will Happen Again: Data Science”. In: Journal of Computational and Graphical Statistics 26.4 (Dec. 19, 2017), pp. 775-778. DOI: https://doi.org/10.1080/10618600.2017.1385474.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{donohoresponse,\n  title = {All of This Has Happened Before. {A}ll of This Will Happen Again: {D}ata {S}cience},\n  author = {Heike Hofmann and Susan Vanderplas},\n  journal = {Journal of Computational and Graphical Statistics},\n  doi = {https://doi.org/10.1080/10618600.2017.1385474},\n  volume = {26},\n  number = {4},\n  pages = {775-778},\n  year = {2017},\n  publisher = {Taylor & Francis},\n  month = {dec},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (75%)"
+  },
+  {
+    "objectID": "posts/papers/machinelearningforensics2019.html#citation",
+    "href": "posts/papers/machinelearningforensics2019.html#citation",
+    "title": "Machine learning in forensic applications",
+    "section": "Citation",
+    "text": "Citation\n\n[1] A. Carriquiry, H. Hofmann, X. H. Tai, et al. “Machine learning in forensic applications”. In: Significance 16.2 (Apr. 01, 2019), pp. 29-35. DOI: https://doi.org/10.1111/j.1740-9713.2019.01252.x.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{machinelearningforensics2019,\n  author = {Alicia Carriquiry and Heike Hofmann and Xiao Hui Tai and Susan Vanderplas},\n  title = {Machine learning in forensic applications},\n  journal = {Significance},\n  volume = {16},\n  number = {2},\n  pages = {29-35},\n  doi = {https://doi.org/10.1111/j.1740-9713.2019.01252.x},\n  year = {2019},\n  month = {apr},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (50%)"
+  },
+  {
+    "objectID": "posts/papers/vanderplasTestingStatisticalCharts2020.html#citation",
+    "href": "posts/papers/vanderplasTestingStatisticalCharts2020.html#citation",
+    "title": "Testing Statistical Charts: What Makes a Good Graph?",
+    "section": "Citation",
+    "text": "Citation\n\n[1] S. Vanderplas, D. Cook, and H. Hofmann. “Testing Statistical Charts: What Makes a Good Graph?” In: Annual Review of Statistics and Its Application 7.1 (Mar. 01, 2020), pp. 61-88. DOI: https://doi.org/10.1146/annurev-statistics-031219-041252.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{vanderplasTestingStatisticalCharts2020,\n  author = {Susan Vanderplas and Dianne Cook and Heike Hofmann},\n  title = {Testing Statistical Charts: What Makes a Good Graph?},\n  journal = {Annual Review of Statistics and Its Application},\n  volume = {7},\n  number = {1},\n  pages = {61-88},\n  year = {2020},\n  doi = {https://doi.org/10.1146/annurev-statistics-031219-041252},\n  month = {mar},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (85%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/visualaptitude.html#citation",
+    "href": "posts/papers/visualaptitude.html#citation",
+    "title": "Spatial Reasoning and Data Displays",
+    "section": "Citation",
+    "text": "Citation\n\n[1] S. VanderPlas and H. Hofmann. “Spatial Reasoning and Data Displays”. In: IEEE Transactions on Visualization and Computer Graphics 22.1 (Dec. 31, 2016), pp. 459-468. DOI: https://doi.org/10.1109/TVCG.2015.2469125.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{visualaptitude,\n  author = {Susan VanderPlas and Heike Hofmann},\n  journal = {IEEE Transactions on Visualization and Computer Graphics},\n  title = {Spatial Reasoning and Data Displays},\n  doi = {https://doi.org/10.1109/TVCG.2015.2469125},\n  year = {2016},\n  volume = {22},\n  number = {1},\n  pages = {459-468},\n  month = {dec},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (90%), writing (75%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/vanderplasComparisonThreeSimilarity2020.html#citation",
+    "href": "posts/papers/vanderplasComparisonThreeSimilarity2020.html#citation",
+    "title": "Comparison of three similarity scores for bullet LEA matching",
+    "section": "Citation",
+    "text": "Citation\n\n[1] S. Vanderplas, M. Nally, T. Klep, et al. “Comparison of three similarity scores for bullet LEA matching”. In: Forensic Science International 308 (Mar. 01, 2020), p. 110167. ISSN: 0379-0738. DOI: https://doi.org/10.1016/j.forsciint.2020.110167. URL: https://www.sciencedirect.com/science/article/pii/S0379073820300293.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{vanderplasComparisonThreeSimilarity2020,\n  title = {Comparison of three similarity scores for bullet LEA matching},\n  author = {Susan Vanderplas and Melissa Nally and Tylor Klep and Cristina Cadevall and Heike Hofmann},\n  journal = {Forensic Science International},\n  volume = {308},\n  pages = {110167},\n  year = {2020},\n  doi = {https://doi.org/10.1016/j.forsciint.2020.110167},\n  url = {https://www.sciencedirect.com/science/article/pii/S0379073820300293},\n  month = {mar},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (20%), Writing (55%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/inconclusives.html#citation",
+    "href": "posts/papers/inconclusives.html#citation",
+    "title": "Treatment of inconclusives in the AFTE range of conclusions",
+    "section": "Citation",
+    "text": "Citation\n\n[1] H. Hofmann, A. Carriquiry, and S. Vanderplas. “Treatment of inconclusives in the AFTE range of conclusions”. In: Law, Probability and Risk 19.3-4 (May. 05, 2021), pp. 317-364. ISSN: 1470-8396. DOI: https://doi.org/10.1093/lpr/mgab002.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{inconclusives,\n  author = {Heike Hofmann and Alicia Carriquiry and Susan Vanderplas},\n  title = {{Treatment of inconclusives in the {AFTE} range of conclusions}},\n  journal = {Law, Probability and Risk},\n  volume = {19},\n  number = {3-4},\n  pages = {317-364},\n  year = {2021},\n  month = {05},\n  doi = {https://doi.org/10.1093/lpr/mgab002},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (50%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/other/wire-measurements.html",
+    "href": "posts/other/wire-measurements.html",
+    "title": "Measuring Your Tools, for Science!",
+    "section": "",
+    "text": "This project is a bit of informal data collection meant to help me calibrate the likelihood of a random tool matching a wire in evidence of a given gauge/diameter.\nTo participate, collect any tools you have that you might use to cut a wire under normal circumstances.\nWe surveyed our workbench and pulled out tools we’d used to cut wires (whether or not the were intended for that purpose) in the past1."
+  },
+  {
+    "objectID": "posts/other/wire-measurements.html#about-toolmarks",
+    "href": "posts/other/wire-measurements.html#about-toolmarks",
+    "title": "Measuring Your Tools, for Science!",
+    "section": "About Toolmarks",
+    "text": "About Toolmarks\nAs a quick digression, let’s talk about toolmarks. We can look at microscopic imperfections in a wire cut, screwdriver scratch, or plier mark and see striations - little lines that are on the surface of the mark. A scan of a cut wire is shown in Figure 1. A more macroscopic example is when you spread butter on toast, the butter knife often leaves little grooves behind in the butter2.\n\n\n\nFigure 1: Striations on the surface of a cut wire.\n\n\nIn order to assess how many different cutting surfaces there are in a shop, we need to look at the different way tools are configured.\n ?@fig-tool-cuts shows the different configurations of blades of common tools that may be used to cut wires in a household environment. When measuring a tool’s cutting length, record the number of cutting surfaces as well as the length of the blade - each surface leaves different impressions and must be compared separately.\nSteps:\n\nGather tools which can be used for wire cutting from your house and shop.\nOpen up the communal Excel sheet and duplicate the sheet labeled Template.\nRename the new sheet to an identifier you would like me to use (I’m not publishing this data - this is just for internal purposes). This identifier will ensure that no one overwrites your data accidentally (hopefully).\nFor each tool type, record the blade length (in cm), number of cutting surfaces, and (if there are multiple tools with the same cutting surface configuration and blade length) number of tools. Reporting blade length to the nearest mm is fine, as is estimation if it is difficult to precisely measure the tool.\n\nThank you so much for your help!"
+  },
+  {
+    "objectID": "posts/other/wire-measurements.html#footnotes",
+    "href": "posts/other/wire-measurements.html#footnotes",
+    "title": "Measuring Your Tools, for Science!",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIf you like to improvise, then for the purposes of this study, please don’t include things like rocks or teeth (both examples from a friend) - pretend you’re a sensible person and not an engineer in a rush.↩︎\nThis is what is known as a class characteristic, incidentally - most butter knives in a set have similar groove patterns, but if one of the knives has been damaged (say, caught in the garbage disposal), it will leave a different pattern than the other knives because it has individual characteristics that were introduced later.↩︎"
+  },
+  {
+    "objectID": "other.html.html",
+    "href": "other.html.html",
+    "title": "Other",
+    "section": "",
+    "text": "Measuring Your Tools, for Science!\n\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 14, 2023\n\n\nMultimodal User Testing: Producing comprehensive, task-focused guidelines for chart design\n\n\nSusan Vanderplas, Reka Howard, Emily Robinson\n\n\n\n\nDec 6, 2023\n\n\nHow Do You Define a Circle? Perception and Computer Vision Diagnostics\n\n\nSusan Vanderplas, Muxin Hua\n\n\n\n\nOct 12, 2023\n\n\nGraphics and Cognition: How Do We Perceive Charts?\n\n\nSusan Vanderplas\n\n\n\n\nAug 8, 2023\n\n\nTesting Statistical Graphics\n\n\nSusan Vanderplas\n\n\n\n\nMar 27, 2023\n\n\nWhat Makes a Good Graph? Graphical Testing and Principles for Graph Design\n\n\nSusan Vanderplas\n\n\n\n\nFeb 15, 2023\n\n\nInconclusive Conclusions: Biases and Consequences\n\n\nSusan Vanderplas\n\n\n\n\nOct 5, 2022\n\n\nReproducible Science: Statistics, Forensics, and the Law\n\n\nSusan Vanderplas\n\n\n\n\nSep 22, 2022\n\n\nHow to make good charts\n\n\nSusan Vanderplas\n\n\n\n\nAug 3, 2022\n\n\nLocal Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\nAug 2, 2022\n\n\nFrom Scans to Scores\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nApr 8, 2022\n\n\nPandemics, Graphics, and Perception of Log Scales\n\n\nSusan Vanderplas, Emily Robinson, Reka Howard\n\n\n\n\nMar 24, 2022\n\n\nAutomatic Acquisition of Footwear Class Characteristics\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\nApr 9, 2021\n\n\nExploring Rural Quality of Life Using Data Science and Public Data\n\n\nSusan Vanderplas, Denise Bradford\n\n\n\n\nMar 16, 2021\n\n\nVisual Statistics: Communication and Graphical Testing\n\n\nSusan Vanderplas\n\n\n\n\nFeb 5, 2021\n\n\nWelcome to Forensic Statistics\n\n\nSusan Vanderplas\n\n\n\n\nJul 29, 2020\n\n\nPerception and Visual Communication in a Global Pandemic\n\n\nSusan Vanderplas\n\n\n\n\nMar 11, 2020\n\n\nStatistical Evaluation of Firearms and Toolmark Evidence\n\n\nSusan Vanderplas\n\n\n\n\nFeb 11, 2020\n\n\nOne of these things is not like the others: Visual Statistics and Testing in Statistical Graphics\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nJan 12, 2020\n\n\nBig Data, Big Experiments, and Big Problems\n\n\nSusan Vanderplas\n\n\n\n\nJul 31, 2019\n\n\nStatistical Lineups for Bayesians\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 1, 2018\n\n\nFramed Charts in the 1870 Statistical Atlas\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nMay 17, 2018\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 2, 2017\n\n\nA Bayesian Approach to Visual Inference\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 10, 2015\n\n\nVisual Aptitude and Statistical Graphics\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 10, 2015\n\n\nAnimint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics\n\n\nSusan Vanderplas, Toby Hocking\n\n\n\n\nAug 4, 2014\n\n\nThe curse of three dimensions: Why your brain is lying to you\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 4, 2014\n\n\nDo You See What I See? Using Shiny for User Testing\n\n\nSusan Vanderplas\n\n\n\n\nMay 30, 2014\n\n\nAnimint: Interactive, Web-Ready Graphics with R\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 7, 2013\n\n\nSigns of the Sine Illusion – why we need to care\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "courses.html",
     "href": "courses.html",
     "title": "Teaching",
@@ -28,473 +273,32 @@
     "text": "Other\n\nR Workshops\n\nSite\nOffered: January 2023, May 2022, January 2022"
   },
   {
-    "objectID": "other.html",
-    "href": "other.html",
-    "title": "Other",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Notes and Musings",
     "section": "",
-    "text": "Measuring Your Tools, for Science!\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\nNo matching items"
+    "text": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nDec 14, 2023\n\n\nSusan Vanderplas, Reka Howard, Emily Robinson\n\n\n\n\n\n\n  \n\n\n\n\nHow Do You Define a Circle? Perception and Computer Vision Diagnostics\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nDec 6, 2023\n\n\nSusan Vanderplas, Muxin Hua\n\n\n\n\n\n\n  \n\n\n\n\nMeasuring Your Tools, for Science!\n\n\n\n\n\n\n\nother\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nStatistical Computing Using R and Python\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nGraphics and Cognition: How Do We Perceive Charts?\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nTesting Statistical Graphics\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nWhat Makes a Good Graph? Graphical Testing and Principles for Graph Design\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nPenguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2023\n\n\nSusan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nInconclusive Conclusions: Biases and Consequences\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nA Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nJoseph Zemmels, Susan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nYou Draw It: Implementation of visually fitted trends with r2d3\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2023\n\n\nEmily Robinson, Reka Howard, Susan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nExploring Rural Shrink Smart Through Guided Discovery Dashboards\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nDenise Bradford, Susan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nEye Fitting Straight Lines in the Modern Era\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nEmily A. Robinson, Reka Howard, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nVisual Narratives of the Covid-19 pandemic\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nAdalbert Wilhelm, Susan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nReproducible Science: Statistics, Forensics, and the Law\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nOct 5, 2022\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nHow to make good charts\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nSep 22, 2022\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nLocal Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nAug 3, 2022\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\n\n\n  \n\n\n\n\nFrom Scans to Scores\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2022\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nPandemics, Graphics, and Perception of Log Scales\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nApr 8, 2022\n\n\nSusan Vanderplas, Emily Robinson, Reka Howard\n\n\n\n\n\n\n  \n\n\n\n\nAutomatic Acquisition of Footwear Class Characteristics\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nMar 24, 2022\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\n\n\n  \n\n\n\n\nStatistical significance calculations for scenarios in visual inference\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2021\n\n\nSusan Vanderplas, Christian Röttger, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nDesigning Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nJul 30, 2021\n\n\nSusan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nTreatment of inconclusives in the AFTE range of conclusions\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nMay 5, 2021\n\n\nHeike Hofmann, Alicia Carriquiry, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nExploring Rural Quality of Life Using Data Science and Public Data\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nApr 9, 2021\n\n\nSusan Vanderplas, Denise Bradford\n\n\n\n\n\n\n  \n\n\n\n\nVisual Statistics: Communication and Graphical Testing\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nMar 16, 2021\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nWelcome to Forensic Statistics\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2021\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nPerception and Visual Communication in a Global Pandemic\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2020\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nStatistical Evaluation of Firearms and Toolmark Evidence\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nMar 11, 2020\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nComparison of three similarity scores for bullet LEA matching\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nTesting Statistical Charts: What Makes a Good Graph?\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nOne of these things is not like the others: Visual Statistics and Testing in Statistical Graphics\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nFeb 11, 2020\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nBig Data, Big Experiments, and Big Problems\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2020\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nAn introduction to firearms examination for researchers in statistics\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\nSusan Vanderplas, Alicia Carriquiry, Heike Hofmann, James Hamby, Xiao Hui Tai\n\n\n\n\n\n\n  \n\n\n\n\nStatistical Lineups for Bayesians\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nJul 31, 2019\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nggenealogy: An R Package for Visualizing Genealogical Data\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2019\n\n\nLindsay Rutter, Susan Vanderplas, Dianne Cook, Michelle Graham\n\n\n\n\n\n\n  \n\n\n\n\nFramed! Reproducing and Revisiting 150-Year-Old Charts\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nSusan Vanderplas, Ryan C Goluch, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nMachine learning in forensic applications\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nAlicia Carriquiry, Heike Hofmann, Xiao Hui Tai, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nExtending ggplot2 for Linked and Animated Web Graphics\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nNov 14, 2018\n\n\nCarson Sievert, Susan Vanderplas, Jun Cai, Kevin Ferris, Faizan Uddin Fahad Khan, Toby Dylan Hocking\n\n\n\n\n\n\n  \n\n\n\n\nFramed Charts in the 1870 Statistical Atlas\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nAug 1, 2018\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nMay 17, 2018\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nAll of This Has Happened Before. All of This Will Happen Again: Data Science\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2017\n\n\nHeike Hofmann, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nA Bayesian Approach to Visual Inference\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2017\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nApr 24, 2017\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nSpatial Reasoning and Data Displays\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2016\n\n\nSusan VanderPlas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nSigns of the Sine Illusion - why we need to care\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nDec 10, 2015\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nAnimint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nAug 10, 2015\n\n\nSusan Vanderplas, Toby Hocking\n\n\n\n\n\n\n  \n\n\n\n\nVisual Aptitude and Statistical Graphics\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nAug 10, 2015\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nDo You See What I See? Using Shiny for User Testing\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nAug 4, 2014\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nThe curse of three dimensions: Why your brain is lying to you\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nAug 4, 2014\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nAnimint: Interactive, Web-Ready Graphics with R\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nMay 30, 2014\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nSigns of the Sine Illusion – why we need to care\n\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\n\n\nAug 7, 2013\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nIn tennis, do smashes win matches?\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2013\n\n\nSarah Budrus, Susan Vanderplas, Dianne Cook\n\n\n\n\n\n\n  \n\n\n\n\nDetection of gene orthology from gene co-expression and protein interaction networks\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2010\n\n\nFadi Towfic, Susan Vanderplas, Casey A Oliver, Oliver Couture, Christopher K Tuggle, M Heather West Greenlee, Vasant Honavar\n\n\n\n\n\n\n  \n\n\n\n\nNear-infrared spectroscopy and cortical responses to speech production\n\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2009\n\n\nRachel Hull, Heather Bortfeld, Susan Koons\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html.html",
+    "href": "research.html.html",
+    "title": "Publications",
+    "section": "",
+    "text": "References\n\nRobinson, E., Howard, R., & VanderPlas, S. (2023). You draw it: Implementation of visually fitted trends with r2d3. Journal of Data Science. https://doi.org/10.6339/22-JDS1083\n\n\nVanderplas, S. (2023). Statistical Computing using R and Python. https://srvanderplas.github.io/stat-computing-r-python/\n\n\nVanderPlas, S., Ge, Y., Unwin, A., & Hofmann, H. (2023). Penguins go parallel: A grammar of graphics framework for generalized parallel coordinate plots. Journal of Computational and Graphical Statistics. https://doi.org/10.1080/10618600.2023.2195462\n\n\nZemmels, J., Vanderplas, S., & Hofmann, H. (2023). A study in reproducibility: The congruent matching cells algorithm and cmcR package. R Journal, 14, 4, 79–102. https://doi.org/10.32614/RJ-2023-014\n\n\nBradford, D., & VanderPlas, S. (2022). Exploring rural shrink smart through guided discovery dashboards. Journal of Data Science, 1–12. https://doi.org/10.6339/22-JDS1080\n\n\nRobinson, E. A., Howard, R., & Vanderplas, S. (2022). Eye fitting straight lines in the modern era. Journal of Computational and Graphical Statistics, 0(ja), 1–19. https://doi.org/https://doi.org/10.1080/10618600.2022.2140668\n\n\nWilhelm, A., & VanderPlas, S. (2022). Visual narratives of the covid-19 pandemic. Journal of Data Science, Statistics, and Visualisation, 2(7), 84–113. https://doi.org/10.52933/jdssv.v2i7.64\n\n\nHofmann, H., Carriquiry, A., & Vanderplas, S. (2021). Treatment of inconclusives in the AFTE range of conclusions. Law, Probability and Risk, 19(3-4), 317–364. https://doi.org/https://doi.org/10.1093/lpr/mgab002\n\n\nVanderPlas, S. (2021). Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results. Harvard Data Science Review, 3(3). https://doi.org/https://doi.org/10.1162/99608f92.7d099fd0\n\n\nVanderplas, S., Röttger, C., Cook, D., & Hofmann, H. (2021). Statistical significance calculations for scenarios in visual inference. Stat, 10(1), e337. https://doi.org/https://doi.org/10.1002/sta4.337\n\n\nVanderplas, S., Carriquiry, A., Hofmann, H., Hamby, J., & Tai, X. H. (2020). An introduction to firearms examination for researchers in statistics. In Banks, D., Kafadar, K., Kaye, D., & Tackett, M. (Eds.), Handbook of Forensic Statistics. New York: Chapman; Hall/CRC. https://doi.org/https://doi.org/10.1201/9780367527709\n\n\nVanderplas, S., Cook, D., & Hofmann, H. (2020). Testing statistical charts: What makes a good graph? Annual Review of Statistics and Its Application, 7(1), 61–88. https://doi.org/https://doi.org/10.1146/annurev-statistics-031219-041252\n\n\nVanderplas, S., Nally, M., Klep, T., Cadevall, C., & Hofmann, H. (2020). Comparison of three similarity scores for bullet LEA matching. Forensic Science International, 308, 110167. https://doi.org/https://doi.org/10.1016/j.forsciint.2020.110167\n\n\nCarriquiry, A., Hofmann, H., Tai, X. H., & Vanderplas, S. (2019). Machine learning in forensic applications. Significance, 16(2), 29–35. https://doi.org/https://doi.org/10.1111/j.1740-9713.2019.01252.x\n\n\nRutter, L., Vanderplas, S., Cook, D., & Graham, M. (2019). Ggenealogy: An R Package for Visualizing Genealogical Data. Journal of Statistical Software, 89(13), 1–31. https://doi.org/https://doi.org/10.18637/jss.v089.i13\n\n\nVanderplas, S., Goluch, R. C., & Hofmann, H. (2019). Framed! Reproducing and revisiting 150-year-old charts. Journal of Computational and Graphical Statistics, 28(3), 620–634. https://doi.org/https://doi.org/10.1080/10618600.2018.1562937\n\n\nSievert, C., Vanderplas, S., Cai, J., Ferris, K., Khan, F. U. F., & Hocking, T. D. (2018). Extending ggplot2 for linked and animated web graphics. Journal of Computational and Graphical Statistics, 28(2), 299–308. https://doi.org/https://doi.org/10.1080/10618600.2018.1513367\n\n\nHofmann, H., & Vanderplas, S. (2017). All of this has happened before. All of this will happen again: Data Science. Journal of Computational and Graphical Statistics, 26(4), 775–778. https://doi.org/https://doi.org/10.1080/10618600.2017.1385474\n\n\nVanderplas, S., & Hofmann, H. (2017). Clusters beat Trend!? Testing feature hierarchy in statistical graphics. Journal of Computational and Graphical Statistics, 26(2), 231–242. https://doi.org/https://doi.org/10.1080/10618600.2016.1209116\n\n\nVanderPlas, S., & Hofmann, H. (2016). Spatial reasoning and data displays. IEEE Transactions on Visualization and Computer Graphics, 22(1), 459–468. https://doi.org/https://doi.org/10.1109/TVCG.2015.2469125\n\n\nVanderplas, S., & Hofmann, H. (2015). Signs of the sine illusion - why we need to care. Journal of Computational and Graphical Statistics, 24(4), 1170–1190. https://doi.org/https://doi.org/10.1080/10618600.2014.951547\n\n\nBudrus, S., Vanderplas, S., & Cook, D. (2013). In tennis, do smashes win matches? Significance, 10(3), 35–38. https://doi.org/https://doi.org/10.1111/j.1740-9713.2013.00665.x\n\n\nTowfic, F., Vanderplas, S., Oliver, C. A., Couture, O., Tuggle, C. K., Greenlee, M. H. W., & Honavar, V. (2010). Detection of gene orthology from gene co-expression and protein interaction networks. BMC Bioinformatics, 11(Suppl 3), S7. https://doi.org/https://doi.org/10.1186/1471-2105-11-S3-S7\n\n\nHull, R., Bortfeld, H., & Koons, S. (2009). Near-infrared spectroscopy and cortical responses to speech production. The Open Neuroimaging Journal, 3, 26. https://doi.org/https://doi.org/10.2174/1874440000903010026"
+  },
+  {
+    "objectID": "publications.html.html",
+    "href": "publications.html.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Statistical Computing Using R and Python\n\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nPenguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots\n\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2023\n\n\nSusan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nA Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nJoseph Zemmels, Susan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nYou Draw It: Implementation of visually fitted trends with r2d3\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2023\n\n\nEmily Robinson, Reka Howard, Susan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nExploring Rural Shrink Smart Through Guided Discovery Dashboards\n\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nDenise Bradford, Susan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nVisual Narratives of the Covid-19 pandemic\n\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nAdalbert Wilhelm, Susan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nEye Fitting Straight Lines in the Modern Era\n\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nEmily A. Robinson, Reka Howard, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nStatistical significance calculations for scenarios in visual inference\n\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2021\n\n\nSusan Vanderplas, Christian Röttger, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nDesigning Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results\n\n\n\n\n\n\n\n\n\n\n\n\nJul 30, 2021\n\n\nSusan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nTreatment of inconclusives in the AFTE range of conclusions\n\n\n\n\n\n\n\n\n\n\n\n\nMay 5, 2021\n\n\nHeike Hofmann, Alicia Carriquiry, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nTesting Statistical Charts: What Makes a Good Graph?\n\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nComparison of three similarity scores for bullet LEA matching\n\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nAn introduction to firearms examination for researchers in statistics\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\nSusan Vanderplas, Alicia Carriquiry, Heike Hofmann, James Hamby, Xiao Hui Tai\n\n\n\n\n\n\n  \n\n\n\n\nggenealogy: An R Package for Visualizing Genealogical Data\n\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2019\n\n\nLindsay Rutter, Susan Vanderplas, Dianne Cook, Michelle Graham\n\n\n\n\n\n\n  \n\n\n\n\nMachine learning in forensic applications\n\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nAlicia Carriquiry, Heike Hofmann, Xiao Hui Tai, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nFramed! Reproducing and Revisiting 150-Year-Old Charts\n\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nSusan Vanderplas, Ryan C Goluch, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nExtending ggplot2 for Linked and Animated Web Graphics\n\n\n\n\n\n\n\n\n\n\n\n\nNov 14, 2018\n\n\nCarson Sievert, Susan Vanderplas, Jun Cai, Kevin Ferris, Faizan Uddin Fahad Khan, Toby Dylan Hocking\n\n\n\n\n\n\n  \n\n\n\n\nAll of This Has Happened Before. All of This Will Happen Again: Data Science\n\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2017\n\n\nHeike Hofmann, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\n\n\n\n\n\n\n\n\n\n\nApr 24, 2017\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nSpatial Reasoning and Data Displays\n\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2016\n\n\nSusan VanderPlas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nSigns of the Sine Illusion - why we need to care\n\n\n\n\n\n\n\n\n\n\n\n\nDec 10, 2015\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nIn tennis, do smashes win matches?\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2013\n\n\nSarah Budrus, Susan Vanderplas, Dianne Cook\n\n\n\n\n\n\n  \n\n\n\n\nDetection of gene orthology from gene co-expression and protein interaction networks\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2010\n\n\nFadi Towfic, Susan Vanderplas, Casey A Oliver, Oliver Couture, Christopher K Tuggle, M Heather West Greenlee, Vasant Honavar\n\n\n\n\n\n\n  \n\n\n\n\nNear-infrared spectroscopy and cortical responses to speech production\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2009\n\n\nRachel Hull, Heather Bortfeld, Susan Koons\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Statistical Computing Using R and Python\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nPenguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2023\n\n\nSusan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nA Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nJoseph Zemmels, Susan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nYou Draw It: Implementation of visually fitted trends with r2d3\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2023\n\n\nEmily Robinson, Reka Howard, Susan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Rural Shrink Smart Through Guided Discovery Dashboards\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nDenise Bradford, Susan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nVisual Narratives of the Covid-19 pandemic\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nAdalbert Wilhelm, Susan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nEye Fitting Straight Lines in the Modern Era\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nEmily A. Robinson, Reka Howard, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical significance calculations for scenarios in visual inference\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2021\n\n\nSusan Vanderplas, Christian Röttger, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nDesigning Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results\n\n\n\n\n\n\n\n\n\n\n\nJul 30, 2021\n\n\nSusan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nTreatment of inconclusives in the AFTE range of conclusions\n\n\n\n\n\n\n\n\n\n\n\nMay 5, 2021\n\n\nHeike Hofmann, Alicia Carriquiry, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nTesting Statistical Charts: What Makes a Good Graph?\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of three similarity scores for bullet LEA matching\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to firearms examination for researchers in statistics\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2019\n\n\nSusan Vanderplas, Alicia Carriquiry, Heike Hofmann, James Hamby, Xiao Hui Tai\n\n\n\n\n\n\n\n\n\n\n\n\nggenealogy: An R Package for Visualizing Genealogical Data\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2019\n\n\nLindsay Rutter, Susan Vanderplas, Dianne Cook, Michelle Graham\n\n\n\n\n\n\n\n\n\n\n\n\nMachine learning in forensic applications\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nAlicia Carriquiry, Heike Hofmann, Xiao Hui Tai, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nFramed! Reproducing and Revisiting 150-Year-Old Charts\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nSusan Vanderplas, Ryan C Goluch, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nExtending ggplot2 for Linked and Animated Web Graphics\n\n\n\n\n\n\n\n\n\n\n\nNov 14, 2018\n\n\nCarson Sievert, Susan Vanderplas, Jun Cai, Kevin Ferris, Faizan Uddin Fahad Khan, Toby Dylan Hocking\n\n\n\n\n\n\n\n\n\n\n\n\nAll of This Has Happened Before. All of This Will Happen Again: Data Science\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2017\n\n\nHeike Hofmann, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\n\n\n\n\n\n\n\n\n\nApr 24, 2017\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Reasoning and Data Displays\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2016\n\n\nSusan VanderPlas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nSigns of the Sine Illusion - why we need to care\n\n\n\n\n\n\n\n\n\n\n\nDec 10, 2015\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nIn tennis, do smashes win matches?\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2012\n\n\nSarah Budrus, Susan Vanderplas, Dianne Cook\n\n\n\n\n\n\n\n\n\n\n\n\nDetection of gene orthology from gene co-expression and protein interaction networks\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2009\n\n\nFadi Towfic, Susan Vanderplas, Casey A Oliver, Oliver Couture, Christopher K Tuggle, M Heather West Greenlee, Vasant Honavar\n\n\n\n\n\n\n\n\n\n\n\n\nNear-infrared spectroscopy and cortical responses to speech production\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2008\n\n\nRachel Hull, Heather Bortfeld, Susan Koons\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/papers/inconclusives.html#citation",
-    "href": "posts/papers/inconclusives.html#citation",
-    "title": "Treatment of inconclusives in the AFTE range of conclusions",
-    "section": "Citation",
-    "text": "Citation\n\n[1] H. Hofmann, A. Carriquiry, and S. Vanderplas. “Treatment of inconclusives in the AFTE range of conclusions”. In: Law, Probability and Risk 19.3-4 (May. 05, 2021), pp. 317-364. ISSN: 1470-8396. DOI: https://doi.org/10.1093/lpr/mgab002.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{inconclusives,\n  author = {Heike Hofmann and Alicia Carriquiry and Susan Vanderplas},\n  title = {{Treatment of inconclusives in the {AFTE} range of conclusions}},\n  journal = {Law, Probability and Risk},\n  volume = {19},\n  number = {3-4},\n  pages = {317-364},\n  year = {2021},\n  month = {05},\n  doi = {https://doi.org/10.1093/lpr/mgab002},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (50%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/featurehierarchyjcgs.html#citation",
-    "href": "posts/papers/featurehierarchyjcgs.html#citation",
-    "title": "Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics",
-    "section": "Citation",
-    "text": "Citation\n\n[1] S. Vanderplas and H. Hofmann. “Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics”. In: Journal of Computational and Graphical Statistics 26.2 (Apr. 24, 2017), pp. 231-242. DOI: https://doi.org/10.1080/10618600.2016.1209116.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{featurehierarchyjcgs,\n  title = {{C}lusters Beat {T}rend!? {T}esting Feature Hierarchy in Statistical Graphics},\n  author = {Susan Vanderplas and Heike Hofmann},\n  journal = {Journal of Computational and Graphical Statistics},\n  year = {2017},\n  number = {2},\n  pages = {231-242},\n  volume = {26},\n  doi = {https://doi.org/10.1080/10618600.2016.1209116},\n  month = {apr},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (90%), writing (50%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/covid-narratives.html#citation",
-    "href": "posts/papers/covid-narratives.html#citation",
-    "title": "Visual Narratives of the Covid-19 pandemic",
-    "section": "Citation",
-    "text": "Citation\n\n[1] A. Wilhelm and S. VanderPlas. “Visual Narratives of the Covid-19 pandemic”. In: Journal of Data Science, Statistics, and Visualisation 2.7 (Nov. 2022), p. 84–113. DOI: 10.52933/jdssv.v2i7.64. URL: https://jdssv.org/index.php/jdssv/article/view/64.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{covid-narratives,\n  title = {Visual Narratives of the Covid-19 pandemic},\n  volume = {2},\n  url = {https://jdssv.org/index.php/jdssv/article/view/64},\n  doi = {10.52933/jdssv.v2i7.64},\n  number = {7},\n  journal = {Journal of Data Science, Statistics, and Visualisation},\n  author = {Adalbert Wilhelm and Susan VanderPlas},\n  pages = {84–113},\n  year = {2022},\n  month = {nov},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (60%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/robinsonvanderplas2023.html#citation",
-    "href": "posts/papers/robinsonvanderplas2023.html#citation",
-    "title": "You Draw It: Implementation of visually fitted trends with r2d3",
-    "section": "Citation",
-    "text": "Citation\n\n[1] E. Robinson, R. Howard, and S. VanderPlas. “You Draw It: Implementation of visually fitted trends with r2d3”. In: Journal of Data Science (Jan. 2023). ISSN: 1680-743X. DOI: 10.6339/22-JDS1083.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{robinsonvanderplas2023,\n  author = {Emily Robinson and Reka Howard and Susan VanderPlas},\n  title = {You Draw It: Implementation of visually fitted trends with r2d3},\n  journal = {Journal of Data Science},\n  doi = {10.6339/22-JDS1083},\n  publisher = {School of Statistics, Renmin University of China},\n  year = {2023},\n  month = {jan},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (10%), Advising (80%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/ggpcp.html#citation",
-    "href": "posts/papers/ggpcp.html#citation",
-    "title": "Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots",
-    "section": "Citation",
-    "text": "Citation\n\n[1] S. VanderPlas, Y. Ge, A. Unwin, et al. “Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots”. In: Journal of Computational and Graphical Statistics (Mar. 2023). DOI: 10.1080/10618600.2023.2195462.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{ggpcp,\n  author = {Susan VanderPlas and Yawei Ge and Antony Unwin and Heike Hofmann},\n  title = {Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots},\n  journal = {Journal of Computational and Graphical Statistics},\n  year = {2023},\n  doi = {10.1080/10618600.2023.2195462},\n  publisher = {Taylor & Francis},\n  month = {mar},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (50%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/vanderplasComparisonThreeSimilarity2020.html#citation",
-    "href": "posts/papers/vanderplasComparisonThreeSimilarity2020.html#citation",
-    "title": "Comparison of three similarity scores for bullet LEA matching",
-    "section": "Citation",
-    "text": "Citation\n\n[1] S. Vanderplas, M. Nally, T. Klep, et al. “Comparison of three similarity scores for bullet LEA matching”. In: Forensic Science International 308 (Mar. 01, 2020), p. 110167. ISSN: 0379-0738. DOI: https://doi.org/10.1016/j.forsciint.2020.110167. URL: https://www.sciencedirect.com/science/article/pii/S0379073820300293.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{vanderplasComparisonThreeSimilarity2020,\n  title = {Comparison of three similarity scores for bullet LEA matching},\n  author = {Susan Vanderplas and Melissa Nally and Tylor Klep and Cristina Cadevall and Heike Hofmann},\n  journal = {Forensic Science International},\n  volume = {308},\n  pages = {110167},\n  year = {2020},\n  doi = {https://doi.org/10.1016/j.forsciint.2020.110167},\n  url = {https://www.sciencedirect.com/science/article/pii/S0379073820300293},\n  month = {mar},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (20%), Writing (55%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/towfic2010detection.html#citation",
-    "href": "posts/papers/towfic2010detection.html#citation",
-    "title": "Detection of gene orthology from gene co-expression and protein interaction networks",
-    "section": "Citation",
-    "text": "Citation\n\n[1] F. Towfic, S. Vanderplas, C. A. Oliver, et al. “Detection of gene orthology from gene co-expression and protein interaction networks”. In: BMC bioinformatics 11.Suppl 3 (2010), p. S7. DOI: https://doi.org/10.1186/1471-2105-11-S3-S7.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{towfic2010detection,\n  title = {Detection of gene orthology from gene co-expression and protein interaction networks},\n  author = {Fadi Towfic and Susan Vanderplas and Casey A Oliver and Oliver Couture and Christopher K Tuggle and M Heather West Greenlee and Vasant Honavar},\n  journal = {BMC bioinformatics},\n  year = {2010},\n  number = {Suppl 3},\n  pages = {S7},\n  volume = {11},\n  publisher = {BioMed Central Ltd},\n  doi = {https://doi.org/10.1186/1471-2105-11-S3-S7},\n}"
-  },
-  {
-    "objectID": "posts/papers/eye-fitting-straight-lines.html#citation",
-    "href": "posts/papers/eye-fitting-straight-lines.html#citation",
-    "title": "Eye Fitting Straight Lines in the Modern Era",
-    "section": "Citation",
-    "text": "Citation\n\n[1] E. A. Robinson, R. Howard, and S. Vanderplas. “Eye Fitting Straight Lines in the Modern Era”. In: Journal of Computational and Graphical Statistics 0.ja (Nov. 01, 2022), pp. 1-19. DOI: https://doi.org/10.1080/10618600.2022.2140668.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{eye-fitting-straight-lines,\n  author = {Emily A. Robinson and Reka Howard and Susan Vanderplas},\n  title = {Eye Fitting Straight Lines in the Modern Era},\n  journal = {Journal of Computational and Graphical Statistics},\n  volume = {0},\n  number = {ja},\n  pages = {1-19},\n  publisher = {Taylor & Francis},\n  doi = {https://doi.org/10.1080/10618600.2022.2140668},\n  year = {2022},\n  month = {nov},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (10%), Writing (10%), Advising (60%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/framedjcgs.html#citation",
-    "href": "posts/papers/framedjcgs.html#citation",
-    "title": "Framed! Reproducing and Revisiting 150-Year-Old Charts",
-    "section": "Citation",
-    "text": "Citation\n\n[1] S. Vanderplas, R. C. Goluch, and H. Hofmann. “Framed! Reproducing and Revisiting 150-Year-Old Charts”. In: Journal of Computational and Graphical Statistics 28.3 (Apr. 01, 2019), pp. 620-634. DOI: https://doi.org/10.1080/10618600.2018.1562937.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{framedjcgs,\n  author = {Susan Vanderplas and Ryan C Goluch and Heike Hofmann},\n  title = {Framed! Reproducing and Revisiting 150-Year-Old Charts},\n  journal = {Journal of Computational and Graphical Statistics},\n  volume = {28},\n  number = {3},\n  pages = {620-634},\n  year = {2019},\n  publisher = {Taylor & Francis},\n  doi = {https://doi.org/10.1080/10618600.2018.1562937},\n  month = {apr},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (60%), writing (50%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/donohoresponse.html#citation",
-    "href": "posts/papers/donohoresponse.html#citation",
-    "title": "All of This Has Happened Before. All of This Will Happen Again: Data Science",
-    "section": "Citation",
-    "text": "Citation\n\n[1] H. Hofmann and S. Vanderplas. “All of This Has Happened Before. All of This Will Happen Again: Data Science”. In: Journal of Computational and Graphical Statistics 26.4 (Dec. 19, 2017), pp. 775-778. DOI: https://doi.org/10.1080/10618600.2017.1385474.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{donohoresponse,\n  title = {All of This Has Happened Before. {A}ll of This Will Happen Again: {D}ata {S}cience},\n  author = {Heike Hofmann and Susan Vanderplas},\n  journal = {Journal of Computational and Graphical Statistics},\n  doi = {https://doi.org/10.1080/10618600.2017.1385474},\n  volume = {26},\n  number = {4},\n  pages = {775-778},\n  year = {2017},\n  publisher = {Taylor & Francis},\n  month = {dec},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (75%)"
-  },
-  {
-    "objectID": "posts/papers/visualaptitude.html#citation",
-    "href": "posts/papers/visualaptitude.html#citation",
-    "title": "Spatial Reasoning and Data Displays",
-    "section": "Citation",
-    "text": "Citation\n\n[1] S. VanderPlas and H. Hofmann. “Spatial Reasoning and Data Displays”. In: IEEE Transactions on Visualization and Computer Graphics 22.1 (Dec. 31, 2016), pp. 459-468. DOI: https://doi.org/10.1109/TVCG.2015.2469125.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{visualaptitude,\n  author = {Susan VanderPlas and Heike Hofmann},\n  journal = {IEEE Transactions on Visualization and Computer Graphics},\n  title = {Spatial Reasoning and Data Displays},\n  doi = {https://doi.org/10.1109/TVCG.2015.2469125},\n  year = {2016},\n  volume = {22},\n  number = {1},\n  pages = {459-468},\n  month = {dec},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (90%), writing (75%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/sievert2018extending.html#citation",
-    "href": "posts/papers/sievert2018extending.html#citation",
-    "title": "Extending ggplot2 for Linked and Animated Web Graphics",
-    "section": "Citation",
-    "text": "Citation\n\n[1] C. Sievert, S. Vanderplas, J. Cai, et al. “Extending ggplot2 for Linked and Animated Web Graphics”. In: Journal of Computational and Graphical Statistics 28.2 (Nov. 14, 2018), pp. 299-308. DOI: https://doi.org/10.1080/10618600.2018.1513367.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{sievert2018extending,\n  author = {Carson Sievert and Susan Vanderplas and Jun Cai and Kevin Ferris and Faizan Uddin Fahad Khan and Toby Dylan Hocking},\n  title = {Extending ggplot2 for Linked and Animated Web Graphics},\n  journal = {Journal of Computational and Graphical Statistics},\n  volume = {28},\n  number = {2},\n  pages = {299-308},\n  year = {2019},\n  publisher = {Taylor & Francis},\n  doi = {https://doi.org/10.1080/10618600.2018.1513367},\n  month = {nov},\n}"
-  },
-  {
-    "objectID": "posts/talks/inconclusive-conclusions-biases-and-consequences.html#location",
-    "href": "posts/talks/inconclusive-conclusions-biases-and-consequences.html#location",
-    "title": "Inconclusive Conclusions: Biases and Consequences",
-    "section": "Location",
-    "text": "Location\nJohns Hopkins University Biostatistics, Department Seminar Baltimore, MD"
-  },
-  {
-    "objectID": "posts/talks/a-bayesian-approach-to-visual-inference.html",
-    "href": "posts/talks/a-bayesian-approach-to-visual-inference.html",
-    "title": "A Bayesian Approach to Visual Inference",
-    "section": "",
-    "text": "Section on Statistical Graphics JSM, Conference Baltimore, MD"
-  },
-  {
-    "objectID": "posts/talks/a-bayesian-approach-to-visual-inference.html#location",
-    "href": "posts/talks/a-bayesian-approach-to-visual-inference.html#location",
-    "title": "A Bayesian Approach to Visual Inference",
-    "section": "",
-    "text": "Section on Statistical Graphics JSM, Conference Baltimore, MD"
-  },
-  {
-    "objectID": "posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html#location",
-    "href": "posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html#location",
-    "title": "One of these things is not like the others: Visual Statistics and Testing in Statistical Graphics",
-    "section": "Location",
-    "text": "Location\nSouth Dakota State University Data Science Symposium, Conference Brookings, SD"
-  },
-  {
-    "objectID": "posts/talks/automatic-acquisition-of-footwear-class-characteristics.html#location",
-    "href": "posts/talks/automatic-acquisition-of-footwear-class-characteristics.html#location",
-    "title": "Automatic Acquisition of Footwear Class Characteristics",
-    "section": "Location",
-    "text": "Location\nCenter for Statistical Applications in Forensic Evidence, Webinar Online"
-  },
-  {
-    "objectID": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html",
-    "href": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html",
-    "title": "Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis",
-    "section": "",
-    "text": "International Association for Identification Meeting, Conference Workshop Omaha, NE"
-  },
-  {
-    "objectID": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html#location",
-    "href": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html#location",
-    "title": "Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis",
-    "section": "",
-    "text": "International Association for Identification Meeting, Conference Workshop Omaha, NE"
-  },
-  {
-    "objectID": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
-    "href": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
-    "title": "How Do You Define a Circle? Perception and Computer Vision Diagnostics",
-    "section": "",
-    "text": "Asian Regional Section Meeting International Association for Statistical Computing, Conference Macquarie, NSW, AUS"
-  },
-  {
-    "objectID": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html#location",
-    "href": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html#location",
-    "title": "How Do You Define a Circle? Perception and Computer Vision Diagnostics",
-    "section": "",
-    "text": "Asian Regional Section Meeting International Association for Statistical Computing, Conference Macquarie, NSW, AUS"
-  },
-  {
-    "objectID": "posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html#location",
-    "href": "posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html#location",
-    "title": "Do You See What I See? Using Shiny for User Testing",
-    "section": "Location",
-    "text": "Location\nSection on Statistical Graphics JSM, Conference Boston, MA"
-  },
-  {
-    "objectID": "posts/talks/perception-and-visual-communication-in-a-global-pandemic.html#location",
-    "href": "posts/talks/perception-and-visual-communication-in-a-global-pandemic.html#location",
-    "title": "Perception and Visual Communication in a Global Pandemic",
-    "section": "Location",
-    "text": "Location\nSAMSI Data Science, Statistics, and Visualization, Conference Online"
-  },
-  {
-    "objectID": "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html#location",
-    "href": "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html#location",
-    "title": "Exploring Rural Quality of Life Using Data Science and Public Data",
-    "section": "Location",
-    "text": "Location\nUniversity of Nebraska - Lincoln QQPM, Department Lincoln, NE"
-  },
-  {
-    "objectID": "posts/talks/animint-interactive-web-ready-graphics-with-r.html#location",
-    "href": "posts/talks/animint-interactive-web-ready-graphics-with-r.html#location",
-    "title": "Animint: Interactive, Web-Ready Graphics with R",
-    "section": "Location",
-    "text": "Location\nGreat Plains R User Group, User Group Sioux Center, IA"
-  },
-  {
-    "objectID": "posts/talks/testing-statistical-graphics.html#location",
-    "href": "posts/talks/testing-statistical-graphics.html#location",
-    "title": "Testing Statistical Graphics",
-    "section": "Location",
-    "text": "Location\nSection on Statistical Graphics JSM, Conference Toronto, ON, CA"
-  },
-  {
-    "objectID": "posts/talks/how-to-make-good-charts.html#location",
-    "href": "posts/talks/how-to-make-good-charts.html#location",
-    "title": "How to make good charts",
-    "section": "Location",
-    "text": "Location\nUniversity of Nebraska - Lincoln Complex Biosystems, Department Seminar Lincoln, NE"
-  },
-  {
-    "objectID": "posts/talks/visual-aptitude-and-statistical-graphics.html",
-    "href": "posts/talks/visual-aptitude-and-statistical-graphics.html",
-    "title": "Visual Aptitude and Statistical Graphics",
-    "section": "",
-    "text": "IEEE InfoVis, Conference Chicago, IL"
-  },
-  {
-    "objectID": "posts/talks/visual-aptitude-and-statistical-graphics.html#location",
-    "href": "posts/talks/visual-aptitude-and-statistical-graphics.html#location",
-    "title": "Visual Aptitude and Statistical Graphics",
-    "section": "",
-    "text": "IEEE InfoVis, Conference Chicago, IL"
-  },
-  {
-    "objectID": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html#location",
-    "href": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html#location",
-    "title": "The curse of three dimensions: Why your brain is lying to you",
-    "section": "Location",
-    "text": "Location\nSection on Statistical Graphics JSM, Conference Boston, MA"
-  },
-  {
-    "objectID": "posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html#location",
-    "href": "posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html#location",
-    "title": "Animint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics",
-    "section": "Location",
-    "text": "Location\nSection on Statistical Graphics JSM, Conference Seattle, WA"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Publications",
-    "section": "",
-    "text": "References\n\nRobinson, E., Howard, R., & VanderPlas, S. (2023). You draw it: Implementation of visually fitted trends with r2d3. Journal of Data Science. https://doi.org/10.6339/22-JDS1083\n\n\nVanderplas, S. (2023). Statistical Computing using R and Python. https://srvanderplas.github.io/stat-computing-r-python/\n\n\nVanderPlas, S., Ge, Y., Unwin, A., & Hofmann, H. (2023). Penguins go parallel: A grammar of graphics framework for generalized parallel coordinate plots. Journal of Computational and Graphical Statistics. https://doi.org/10.1080/10618600.2023.2195462\n\n\nZemmels, J., Vanderplas, S., & Hofmann, H. (2023). A study in reproducibility: The congruent matching cells algorithm and cmcR package. R Journal, 14, 4, 79–102. https://doi.org/10.32614/RJ-2023-014\n\n\nBradford, D., & VanderPlas, S. (2022). Exploring rural shrink smart through guided discovery dashboards. Journal of Data Science, 1–12. https://doi.org/10.6339/22-JDS1080\n\n\nRobinson, E. A., Howard, R., & Vanderplas, S. (2022). Eye fitting straight lines in the modern era. Journal of Computational and Graphical Statistics, 0(ja), 1–19. https://doi.org/https://doi.org/10.1080/10618600.2022.2140668\n\n\nWilhelm, A., & VanderPlas, S. (2022). Visual narratives of the covid-19 pandemic. Journal of Data Science, Statistics, and Visualisation, 2(7), 84–113. https://doi.org/10.52933/jdssv.v2i7.64\n\n\nHofmann, H., Carriquiry, A., & Vanderplas, S. (2021). Treatment of inconclusives in the AFTE range of conclusions. Law, Probability and Risk, 19(3-4), 317–364. https://doi.org/https://doi.org/10.1093/lpr/mgab002\n\n\nVanderPlas, S. (2021). Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results. Harvard Data Science Review, 3(3). https://doi.org/https://doi.org/10.1162/99608f92.7d099fd0\n\n\nVanderplas, S., Röttger, C., Cook, D., & Hofmann, H. (2021). Statistical significance calculations for scenarios in visual inference. Stat, 10(1), e337. https://doi.org/https://doi.org/10.1002/sta4.337\n\n\nVanderplas, S., Carriquiry, A., Hofmann, H., Hamby, J., & Tai, X. H. (2020). An introduction to firearms examination for researchers in statistics. In Banks, D., Kafadar, K., Kaye, D., & Tackett, M. (Eds.), Handbook of Forensic Statistics. New York: Chapman; Hall/CRC. https://doi.org/https://doi.org/10.1201/9780367527709\n\n\nVanderplas, S., Cook, D., & Hofmann, H. (2020). Testing statistical charts: What makes a good graph? Annual Review of Statistics and Its Application, 7(1), 61–88. https://doi.org/https://doi.org/10.1146/annurev-statistics-031219-041252\n\n\nVanderplas, S., Nally, M., Klep, T., Cadevall, C., & Hofmann, H. (2020). Comparison of three similarity scores for bullet LEA matching. Forensic Science International, 308, 110167. https://doi.org/https://doi.org/10.1016/j.forsciint.2020.110167\n\n\nCarriquiry, A., Hofmann, H., Tai, X. H., & Vanderplas, S. (2019). Machine learning in forensic applications. Significance, 16(2), 29–35. https://doi.org/https://doi.org/10.1111/j.1740-9713.2019.01252.x\n\n\nRutter, L., Vanderplas, S., Cook, D., & Graham, M. (2019). Ggenealogy: An R Package for Visualizing Genealogical Data. Journal of Statistical Software, 89(13), 1–31. https://doi.org/https://doi.org/10.18637/jss.v089.i13\n\n\nVanderplas, S., Goluch, R. C., & Hofmann, H. (2019). Framed! Reproducing and revisiting 150-year-old charts. Journal of Computational and Graphical Statistics, 28(3), 620–634. https://doi.org/https://doi.org/10.1080/10618600.2018.1562937\n\n\nSievert, C., Vanderplas, S., Cai, J., Ferris, K., Khan, F. U. F., & Hocking, T. D. (2018). Extending ggplot2 for linked and animated web graphics. Journal of Computational and Graphical Statistics, 28(2), 299–308. https://doi.org/https://doi.org/10.1080/10618600.2018.1513367\n\n\nHofmann, H., & Vanderplas, S. (2017). All of this has happened before. All of this will happen again: Data Science. Journal of Computational and Graphical Statistics, 26(4), 775–778. https://doi.org/https://doi.org/10.1080/10618600.2017.1385474\n\n\nVanderplas, S., & Hofmann, H. (2017). Clusters beat Trend!? Testing feature hierarchy in statistical graphics. Journal of Computational and Graphical Statistics, 26(2), 231–242. https://doi.org/https://doi.org/10.1080/10618600.2016.1209116\n\n\nVanderPlas, S., & Hofmann, H. (2016). Spatial reasoning and data displays. IEEE Transactions on Visualization and Computer Graphics, 22(1), 459–468. https://doi.org/https://doi.org/10.1109/TVCG.2015.2469125\n\n\nVanderplas, S., & Hofmann, H. (2015). Signs of the sine illusion - why we need to care. Journal of Computational and Graphical Statistics, 24(4), 1170–1190. https://doi.org/https://doi.org/10.1080/10618600.2014.951547\n\n\nBudrus, S., Vanderplas, S., & Cook, D. (2013). In tennis, do smashes win matches? Significance, 10(3), 35–38. https://doi.org/https://doi.org/10.1111/j.1740-9713.2013.00665.x\n\n\nTowfic, F., Vanderplas, S., Oliver, C. A., Couture, O., Tuggle, C. K., Greenlee, M. H. W., & Honavar, V. (2010). Detection of gene orthology from gene co-expression and protein interaction networks. BMC Bioinformatics, 11(Suppl 3), S7. https://doi.org/https://doi.org/10.1186/1471-2105-11-S3-S7\n\n\nHull, R., Bortfeld, H., & Koons, S. (2009). Near-infrared spectroscopy and cortical responses to speech production. The Open Neuroimaging Journal, 3, 26. https://doi.org/https://doi.org/10.2174/1874440000903010026"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Notes and Musings",
-    "section": "",
-    "text": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nDec 14, 2023\n\n\nSusan Vanderplas, Reka Howard, Emily Robinson\n\n\n\n\n\n\n\n\n\n\n\n\nHow Do You Define a Circle? Perception and Computer Vision Diagnostics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nDec 6, 2023\n\n\nSusan Vanderplas, Muxin Hua\n\n\n\n\n\n\n\n\n\n\n\n\nMeasuring Your Tools, for Science!\n\n\n\n\n\n\nother\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Computing Using R and Python\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nNov 1, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nGraphics and Cognition: How Do We Perceive Charts?\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nOct 12, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nTesting Statistical Graphics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nWhat Makes a Good Graph? Graphical Testing and Principles for Graph Design\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMar 27, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nPenguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMar 1, 2023\n\n\nSusan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nInconclusive Conclusions: Biases and Consequences\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nA Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nJoseph Zemmels, Susan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nYou Draw It: Implementation of visually fitted trends with r2d3\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJan 1, 2023\n\n\nEmily Robinson, Reka Howard, Susan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Rural Shrink Smart Through Guided Discovery Dashboards\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nDenise Bradford, Susan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nEye Fitting Straight Lines in the Modern Era\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nEmily A. Robinson, Reka Howard, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nVisual Narratives of the Covid-19 pandemic\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nAdalbert Wilhelm, Susan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Science: Statistics, Forensics, and the Law\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nOct 5, 2022\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nHow to make good charts\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nSep 22, 2022\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nLocal Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 3, 2022\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Scans to Scores\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 2, 2022\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nPandemics, Graphics, and Perception of Log Scales\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nApr 8, 2022\n\n\nSusan Vanderplas, Emily Robinson, Reka Howard\n\n\n\n\n\n\n\n\n\n\n\n\nAutomatic Acquisition of Footwear Class Characteristics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMar 24, 2022\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical significance calculations for scenarios in visual inference\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 1, 2021\n\n\nSusan Vanderplas, Christian Röttger, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nDesigning Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJul 30, 2021\n\n\nSusan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nTreatment of inconclusives in the AFTE range of conclusions\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMay 5, 2021\n\n\nHeike Hofmann, Alicia Carriquiry, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Rural Quality of Life Using Data Science and Public Data\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nApr 9, 2021\n\n\nSusan Vanderplas, Denise Bradford\n\n\n\n\n\n\n\n\n\n\n\n\nVisual Statistics: Communication and Graphical Testing\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMar 16, 2021\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to Forensic Statistics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nFeb 5, 2021\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nPerception and Visual Communication in a Global Pandemic\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nJul 29, 2020\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Evaluation of Firearms and Toolmark Evidence\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMar 11, 2020\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nTesting Statistical Charts: What Makes a Good Graph?\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of three similarity scores for bullet LEA matching\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nOne of these things is not like the others: Visual Statistics and Testing in Statistical Graphics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nFeb 11, 2020\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nBig Data, Big Experiments, and Big Problems\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nJan 12, 2020\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to firearms examination for researchers in statistics\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 31, 2019\n\n\nSusan Vanderplas, Alicia Carriquiry, Heike Hofmann, James Hamby, Xiao Hui Tai\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Lineups for Bayesians\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nJul 31, 2019\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nggenealogy: An R Package for Visualizing Genealogical Data\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMay 29, 2019\n\n\nLindsay Rutter, Susan Vanderplas, Dianne Cook, Michelle Graham\n\n\n\n\n\n\n\n\n\n\n\n\nFramed! Reproducing and Revisiting 150-Year-Old Charts\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nSusan Vanderplas, Ryan C Goluch, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nMachine learning in forensic applications\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nAlicia Carriquiry, Heike Hofmann, Xiao Hui Tai, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nExtending ggplot2 for Linked and Animated Web Graphics\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nNov 14, 2018\n\n\nCarson Sievert, Susan Vanderplas, Jun Cai, Kevin Ferris, Faizan Uddin Fahad Khan, Toby Dylan Hocking\n\n\n\n\n\n\n\n\n\n\n\n\nFramed Charts in the 1870 Statistical Atlas\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 1, 2018\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMay 17, 2018\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nAll of This Has Happened Before. All of This Will Happen Again: Data Science\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 19, 2017\n\n\nHeike Hofmann, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nA Bayesian Approach to Visual Inference\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 2, 2017\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nApr 24, 2017\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Reasoning and Data Displays\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 31, 2016\n\n\nSusan VanderPlas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nSigns of the Sine Illusion - why we need to care\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 10, 2015\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nAnimint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 10, 2015\n\n\nSusan Vanderplas, Toby Hocking\n\n\n\n\n\n\n\n\n\n\n\n\nVisual Aptitude and Statistical Graphics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 10, 2015\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nThe curse of three dimensions: Why your brain is lying to you\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 4, 2014\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nDo You See What I See? Using Shiny for User Testing\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 4, 2014\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nAnimint: Interactive, Web-Ready Graphics with R\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMay 30, 2014\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nSigns of the Sine Illusion – why we need to care\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 7, 2013\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nIn tennis, do smashes win matches?\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 31, 2012\n\n\nSarah Budrus, Susan Vanderplas, Dianne Cook\n\n\n\n\n\n\n\n\n\n\n\n\nDetection of gene orthology from gene co-expression and protein interaction networks\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 31, 2009\n\n\nFadi Towfic, Susan Vanderplas, Casey A Oliver, Oliver Couture, Christopher K Tuggle, M Heather West Greenlee, Vasant Honavar\n\n\n\n\n\n\n\n\n\n\n\n\nNear-infrared spectroscopy and cortical responses to speech production\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 31, 2008\n\n\nRachel Hull, Heather Bortfeld, Susan Koons\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/talks/welcome-to-forensic-statistics.html#location",
-    "href": "posts/talks/welcome-to-forensic-statistics.html#location",
-    "title": "Welcome to Forensic Statistics",
-    "section": "Location",
-    "text": "Location\nData Mishaps Night, Meetup Online"
-  },
-  {
-    "objectID": "posts/talks/statistical-lineups-for-bayesians.html#location",
-    "href": "posts/talks/statistical-lineups-for-bayesians.html#location",
-    "title": "Statistical Lineups for Bayesians",
-    "section": "Location",
-    "text": "Location\nSection on Statistical Graphics JSM, Conference Denver, CO"
-  },
-  {
-    "objectID": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html#location",
-    "href": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html#location",
-    "title": "Graphics and Cognition: How Do We Perceive Charts?",
-    "section": "Location",
-    "text": "Location\nUniversity of Nebraska-Lincoln, Iowa State University, and other interested affiliates Graphics Group, Interest Group Online"
-  },
-  {
-    "objectID": "posts/talks/framed-charts-in-the-statistical-atlas.html#location",
-    "href": "posts/talks/framed-charts-in-the-statistical-atlas.html#location",
-    "title": "Framed Charts in the 1870 Statistical Atlas",
-    "section": "Location",
-    "text": "Location\nSection on Statistical Graphics JSM, Conference Vancouver, BC, CA"
-  },
-  {
-    "objectID": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html#location",
-    "href": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html#location",
-    "title": "Reproducible Science: Statistics, Forensics, and the Law",
-    "section": "Location",
-    "text": "Location\nUniversity of Nebraska - Lincoln Statistics, Department Seminar Lincoln, NE"
-  },
-  {
-    "objectID": "posts/talks/big-data-big-experiments-and-big-problems.html#location",
-    "href": "posts/talks/big-data-big-experiments-and-big-problems.html#location",
-    "title": "Big Data, Big Experiments, and Big Problems",
-    "section": "Location",
-    "text": "Location\nPlant and Animal Genome, Conference San Diego, CA"
-  },
-  {
-    "objectID": "posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html",
-    "href": "posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html",
-    "title": "Signs of the Sine Illusion – why we need to care",
-    "section": "",
-    "text": "Section on Statistical Graphics JSM, Conference Montreal, ON, CA"
-  },
-  {
-    "objectID": "posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html#location",
-    "href": "posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html#location",
-    "title": "Signs of the Sine Illusion – why we need to care",
-    "section": "",
-    "text": "Section on Statistical Graphics JSM, Conference Montreal, ON, CA"
-  },
-  {
-    "objectID": "posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html#location",
-    "href": "posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html#location",
-    "title": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design",
-    "section": "Location",
-    "text": "Location\nAustralian Statistical Conference, Conference Wollongong, NSW, AUS"
-  },
-  {
-    "objectID": "posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html#location",
-    "href": "posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html#location",
-    "title": "Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics",
-    "section": "Location",
-    "text": "Location\nSDSS, Conference Reston, VA"
-  },
-  {
-    "objectID": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html#location",
-    "href": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html#location",
-    "title": "Pandemics, Graphics, and Perception of Log Scales",
-    "section": "Location",
-    "text": "Location\nUniversity of Nebraska - Omaha Math, Department Seminar Omaha, NE"
-  },
-  {
-    "objectID": "posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html#location",
-    "href": "posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html#location",
-    "title": "What Makes a Good Graph? Graphical Testing and Principles for Graph Design",
-    "section": "Location",
-    "text": "Location\nUniversity of Nebraska Center for Brain, Biology, and Behavior, Department Seminar Lincoln, NE"
-  },
-  {
-    "objectID": "posts/talks/visual-statistics-communication-and-graphical-testing.html#location",
-    "href": "posts/talks/visual-statistics-communication-and-graphical-testing.html#location",
-    "title": "Visual Statistics: Communication and Graphical Testing",
-    "section": "Location",
-    "text": "Location\nUniversity of Nebraska - Lincoln Animal Science, Department Seminar Lincoln, NE"
-  },
-  {
-    "objectID": "posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html#location",
-    "href": "posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html#location",
-    "title": "Statistical Evaluation of Firearms and Toolmark Evidence",
-    "section": "Location",
-    "text": "Location\nUniversity of Nebraska - Lincoln Statistics, Department Seminar Lincoln, NE"
-  },
-  {
-    "objectID": "posts/talks/from-scans-to-scores.html",
-    "href": "posts/talks/from-scans-to-scores.html",
-    "title": "From Scans to Scores",
-    "section": "",
-    "text": "International Association for Identification Meeting, Conference Workshop Omaha, NE"
-  },
-  {
-    "objectID": "posts/talks/from-scans-to-scores.html#location",
-    "href": "posts/talks/from-scans-to-scores.html#location",
-    "title": "From Scans to Scores",
-    "section": "",
-    "text": "International Association for Identification Meeting, Conference Workshop Omaha, NE"
-  },
-  {
-    "objectID": "posts/other/wire-measurements.html",
-    "href": "posts/other/wire-measurements.html",
-    "title": "Measuring Your Tools, for Science!",
-    "section": "",
-    "text": "This project is a bit of informal data collection meant to help me calibrate the likelihood of a random tool matching a wire in evidence of a given gauge/diameter.\nTo participate, collect any tools you have that you might use to cut a wire under normal circumstances.\nWe surveyed our workbench and pulled out tools we’d used to cut wires (whether or not the were intended for that purpose) in the past1."
-  },
-  {
-    "objectID": "posts/other/wire-measurements.html#about-toolmarks",
-    "href": "posts/other/wire-measurements.html#about-toolmarks",
-    "title": "Measuring Your Tools, for Science!",
-    "section": "About Toolmarks",
-    "text": "About Toolmarks\nAs a quick digression, let’s talk about toolmarks. We can look at microscopic imperfections in a wire cut, screwdriver scratch, or plier mark and see striations - little lines that are on the surface of the mark. A scan of a cut wire is shown in Figure 1. A more macroscopic example is when you spread butter on toast, the butter knife often leaves little grooves behind in the butter2.\n\n\n\n\n\n\nFigure 1: Striations on the surface of a cut wire.\n\n\n\nIn order to assess how many different cutting surfaces there are in a shop, we need to look at the different way tools are configured.\n ?@fig-tool-cuts shows the different configurations of blades of common tools that may be used to cut wires in a household environment. When measuring a tool’s cutting length, record the number of cutting surfaces as well as the length of the blade - each surface leaves different impressions and must be compared separately.\nSteps:\n\nGather tools which can be used for wire cutting from your house and shop.\nOpen up the communal Excel sheet and duplicate the sheet labeled Template.\nRename the new sheet to an identifier you would like me to use (I’m not publishing this data - this is just for internal purposes). This identifier will ensure that no one overwrites your data accidentally (hopefully).\nFor each tool type, record the blade length (in cm), number of cutting surfaces, and (if there are multiple tools with the same cutting surface configuration and blade length) number of tools. Reporting blade length to the nearest mm is fine, as is estimation if it is difficult to precisely measure the tool.\n\nThank you so much for your help!"
-  },
-  {
-    "objectID": "posts/papers/vanderplasTestingStatisticalCharts2020.html#citation",
-    "href": "posts/papers/vanderplasTestingStatisticalCharts2020.html#citation",
-    "title": "Testing Statistical Charts: What Makes a Good Graph?",
-    "section": "Citation",
-    "text": "Citation\n\n[1] S. Vanderplas, D. Cook, and H. Hofmann. “Testing Statistical Charts: What Makes a Good Graph?” In: Annual Review of Statistics and Its Application 7.1 (Mar. 01, 2020), pp. 61-88. DOI: https://doi.org/10.1146/annurev-statistics-031219-041252.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{vanderplasTestingStatisticalCharts2020,\n  author = {Susan Vanderplas and Dianne Cook and Heike Hofmann},\n  title = {Testing Statistical Charts: What Makes a Good Graph?},\n  journal = {Annual Review of Statistics and Its Application},\n  volume = {7},\n  number = {1},\n  pages = {61-88},\n  year = {2020},\n  doi = {https://doi.org/10.1146/annurev-statistics-031219-041252},\n  month = {mar},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (85%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/sineillusionjcgs.html#citation",
-    "href": "posts/papers/sineillusionjcgs.html#citation",
-    "title": "Signs of the Sine Illusion - why we need to care",
-    "section": "Citation",
-    "text": "Citation\n\n[1] S. Vanderplas and H. Hofmann. “Signs of the Sine Illusion - why we need to care”. In: Journal of Computational and Graphical Statistics 24.4 (Dec. 10, 2015), pp. 1170-1190. DOI: https://doi.org/10.1080/10618600.2014.951547.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{sineillusionjcgs,\n  title = {Signs of the Sine Illusion - why we need to care},\n  author = {Susan Vanderplas and Heike Hofmann},\n  journal = {Journal of Computational and Graphical Statistics},\n  volume = {24},\n  number = {4},\n  pages = {1170-1190},\n  year = {2015},\n  doi = {https://doi.org/10.1080/10618600.2014.951547},\n  month = {dec},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (50%), writing (60%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/bradfordvanderplas2022.html#citation",
-    "href": "posts/papers/bradfordvanderplas2022.html#citation",
-    "title": "Exploring Rural Shrink Smart Through Guided Discovery Dashboards",
-    "section": "Citation",
-    "text": "Citation\n\n[1] D. Bradford and S. VanderPlas. “Exploring Rural Shrink Smart Through Guided Discovery Dashboards”. In: Journal of Data Science (Dec. 2022), pp. 1-12. ISSN: 1680-743X. DOI: 10.6339/22-JDS1080.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{bradfordvanderplas2022,\n  author = {Denise Bradford and Susan VanderPlas},\n  title = {Exploring Rural Shrink Smart Through Guided Discovery Dashboards},\n  journal = {Journal of Data Science},\n  year = {2022},\n  month = {12},\n  pages = {1--12},\n  doi = {10.6339/22-JDS1080},\n  publisher = {School of Statistics, Renmin University of China},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (10%), Writing (10%), Advising (100%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/cmcR.html#citation",
-    "href": "posts/papers/cmcR.html#citation",
-    "title": "A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package",
-    "section": "Citation",
-    "text": "Citation\n\n[1] J. Zemmels, S. Vanderplas, and H. Hofmann. “A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package”. In: R Journal (4 Feb. 09, 2023), pp. 79-102. DOI: 10.32614/RJ-2023-014.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{cmcR,\n  title = {A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package},\n  author = {Joseph Zemmels and Susan Vanderplas and Heike Hofmann},\n  number = {14},\n  doi = {10.32614/RJ-2023-014},\n  pages = {79-102},\n  year = {2023},\n  month = {feb},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (10%), Writing (20%), Advising (40%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/budrus2013tennis.html#citation",
-    "href": "posts/papers/budrus2013tennis.html#citation",
-    "title": "In tennis, do smashes win matches?",
-    "section": "Citation",
-    "text": "Citation\n\n[1] S. Budrus, S. Vanderplas, and D. Cook. “In tennis, do smashes win matches?” In: Significance 10.3 (2013), pp. 35-38. DOI: https://doi.org/10.1111/j.1740-9713.2013.00665.x.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{budrus2013tennis,\n  author = {Sarah Budrus and Susan Vanderplas and Dianne Cook},\n  title = {In tennis, do smashes win matches?},\n  journal = {Significance},\n  volume = {10},\n  number = {3},\n  pages = {35-38},\n  doi = {https://doi.org/10.1111/j.1740-9713.2013.00665.x},\n  year = {2013},\n}"
-  },
-  {
-    "objectID": "posts/papers/rutter2019ggenealogy.html#citation",
-    "href": "posts/papers/rutter2019ggenealogy.html#citation",
-    "title": "ggenealogy: An R Package for Visualizing Genealogical Data",
-    "section": "Citation",
-    "text": "Citation\n\n[1] L. Rutter, S. Vanderplas, D. Cook, et al. “ggenealogy: An R Package for Visualizing Genealogical Data”. In: Journal of Statistical Software 89.13 (May. 29, 2019), pp. 1-31. DOI: https://doi.org/10.18637/jss.v089.i13.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{rutter2019ggenealogy,\n  title = {ggenealogy: {An} {R} {Package} for {Visualizing} {Genealogical} {Data}},\n  volume = {89},\n  doi = {https://doi.org/10.18637/jss.v089.i13},\n  number = {13},\n  journal = {Journal of Statistical Software},\n  author = {Lindsay Rutter and Susan Vanderplas and Dianne Cook and Michelle Graham},\n  year = {2019},\n  pages = {1-31},\n  month = {may},\n}"
-  },
-  {
-    "objectID": "posts/papers/vanderplasDesigningGraphicsRequires2021.html#citation",
-    "href": "posts/papers/vanderplasDesigningGraphicsRequires2021.html#citation",
-    "title": "Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results",
-    "section": "Citation",
-    "text": "Citation\n\n[1] S. VanderPlas. “Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results”. In: Harvard Data Science Review 3.3 (Jul. 30, 2021). DOI: https://doi.org/10.1162/99608f92.7d099fd0.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{vanderplasDesigningGraphicsRequires2021,\n  author = {Susan VanderPlas},\n  title = {Designing {Graphics} {Requires} {Useful} {Experimental} {Testing} {Frameworks} and {Graphics} {Derived} {From} {Empirical} {Results}},\n  journal = {Harvard Data Science Review},\n  volume = {3},\n  number = {3},\n  year = {2021},\n  month = {7},\n  doi = {https://doi.org/10.1162/99608f92.7d099fd0},\n}"
-  },
-  {
-    "objectID": "posts/papers/hull2009near.html#citation",
-    "href": "posts/papers/hull2009near.html#citation",
-    "title": "Near-infrared spectroscopy and cortical responses to speech production",
-    "section": "Citation",
-    "text": "Citation\n\n[1] R. Hull, H. Bortfeld, and S. Koons. “Near-infrared spectroscopy and cortical responses to speech production”. In: The open neuroimaging journal 3 (2009), p. 26. DOI: https://doi.org/10.2174/1874440000903010026.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{hull2009near,\n  title = {Near-infrared spectroscopy and cortical responses to speech production},\n  author = {Rachel Hull and Heather Bortfeld and Susan Koons},\n  journal = {The open neuroimaging journal},\n  doi = {https://doi.org/10.2174/1874440000903010026},\n  year = {2009},\n  pages = {26},\n  volume = {3},\n  publisher = {Bentham Science Publishers},\n}"
-  },
-  {
-    "objectID": "posts/papers/stat2020.html#citation",
-    "href": "posts/papers/stat2020.html#citation",
-    "title": "Statistical significance calculations for scenarios in visual inference",
-    "section": "Citation",
-    "text": "Citation\n\n[1] S. Vanderplas, C. Röttger, D. Cook, et al. “Statistical significance calculations for scenarios in visual inference”. In: Stat 10.1 (Dec. 01, 2021), p. e337. DOI: https://doi.org/10.1002/sta4.337.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{stat2020,\n  author = {Susan Vanderplas and Christian R{\\\"o}ttger and Dianne Cook and Heike Hofmann},\n  title = {Statistical significance calculations for scenarios in visual inference},\n  journal = {Stat},\n  volume = {10},\n  number = {1},\n  pages = {e337},\n  doi = {https://doi.org/10.1002/sta4.337},\n  year = {2021},\n  month = {dec},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (30%), Writing (65%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/vanderplasStatisticalComputingUsing2023.html",
-    "href": "posts/papers/vanderplasStatisticalComputingUsing2023.html",
-    "title": "Statistical Computing Using R and Python",
-    "section": "",
-    "text": "[1] S. Vanderplas. Statistical Computing Using R and Python. Nov. 01, 2023. URL: https://srvanderplas.github.io/stat-computing-r-python/ (visited on 07/06/2023).\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@misc{vanderplasStatisticalComputingUsing2023,\n  title = {Statistical {{Computing}} Using {{R}} and {{Python}}},\n  author = {Susan Vanderplas},\n  year = {2023},\n  month = {6},\n  url = {https://srvanderplas.github.io/stat-computing-r-python/},\n  note = {Last visited on 07/06/2023},\n}\n\n\n\n\n\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (100%). This online textbook is published on Github and continually updated. It serves UNL Stat 850, Stat 151, and Stat 251 and has been used in classes at California Polytechnic and Chadron State College."
-  },
-  {
-    "objectID": "posts/papers/vanderplasStatisticalComputingUsing2023.html#citation",
-    "href": "posts/papers/vanderplasStatisticalComputingUsing2023.html#citation",
-    "title": "Statistical Computing Using R and Python",
-    "section": "",
-    "text": "[1] S. Vanderplas. Statistical Computing Using R and Python. Nov. 01, 2023. URL: https://srvanderplas.github.io/stat-computing-r-python/ (visited on 07/06/2023).\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@misc{vanderplasStatisticalComputingUsing2023,\n  title = {Statistical {{Computing}} Using {{R}} and {{Python}}},\n  author = {Susan Vanderplas},\n  year = {2023},\n  month = {6},\n  url = {https://srvanderplas.github.io/stat-computing-r-python/},\n  note = {Last visited on 07/06/2023},\n}\n\n\n\n\n\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (100%). This online textbook is published on Github and continually updated. It serves UNL Stat 850, Stat 151, and Stat 251 and has been used in classes at California Polytechnic and Chadron State College."
-  },
-  {
-    "objectID": "posts/papers/vanderplasIntroductionFirearmsExamination2020.html#citation",
-    "href": "posts/papers/vanderplasIntroductionFirearmsExamination2020.html#citation",
-    "title": "An introduction to firearms examination for researchers in statistics",
-    "section": "Citation",
-    "text": "Citation\n\n[1] S. Vanderplas, A. Carriquiry, H. Hofmann, et al. “An introduction to firearms examination for researchers in statistics”. In: Handbook of Forensic Statistics. Ed. by Banks, D., Kafadar, K., Kaye, D. and Tackett, M.. New York: Chapman and Hall/CRC, 2020. DOI: https://doi.org/10.1201/9780367527709.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@incollection{vanderplasIntroductionFirearmsExamination2020,\n  title = {An introduction to firearms examination for researchers in statistics},\n  doi = {https://doi.org/10.1201/9780367527709},\n  booktitle = {Handbook of {Forensic} {Statistics}},\n  publisher = {New York: Chapman and Hall/CRC},\n  author = {Susan Vanderplas and Alicia Carriquiry and Heike Hofmann and James Hamby and Xiao Hui Tai},\n  editor = {{Banks, D.} and {Kafadar, K.} and {Kaye, D.} and {Tackett, M.}},\n  year = {2020},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (50%)\n Repository for Paper and Additional Resources"
-  },
-  {
-    "objectID": "posts/papers/machinelearningforensics2019.html#citation",
-    "href": "posts/papers/machinelearningforensics2019.html#citation",
-    "title": "Machine learning in forensic applications",
-    "section": "Citation",
-    "text": "Citation\n\n[1] A. Carriquiry, H. Hofmann, X. H. Tai, et al. “Machine learning in forensic applications”. In: Significance 16.2 (Apr. 01, 2019), pp. 29-35. DOI: https://doi.org/10.1111/j.1740-9713.2019.01252.x.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{machinelearningforensics2019,\n  author = {Alicia Carriquiry and Heike Hofmann and Xiao Hui Tai and Susan Vanderplas},\n  title = {Machine learning in forensic applications},\n  journal = {Significance},\n  volume = {16},\n  number = {2},\n  pages = {29-35},\n  doi = {https://doi.org/10.1111/j.1740-9713.2019.01252.x},\n  year = {2019},\n  month = {apr},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (50%)"
-  },
-  {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 14, 2023\n\n\nMultimodal User Testing: Producing comprehensive, task-focused guidelines for chart design\n\n\nSusan Vanderplas, Reka Howard, Emily Robinson\n\n\n\n\nDec 6, 2023\n\n\nHow Do You Define a Circle? Perception and Computer Vision Diagnostics\n\n\nSusan Vanderplas, Muxin Hua\n\n\n\n\nOct 12, 2023\n\n\nGraphics and Cognition: How Do We Perceive Charts?\n\n\nSusan Vanderplas\n\n\n\n\nAug 8, 2023\n\n\nTesting Statistical Graphics\n\n\nSusan Vanderplas\n\n\n\n\nMar 27, 2023\n\n\nWhat Makes a Good Graph? Graphical Testing and Principles for Graph Design\n\n\nSusan Vanderplas\n\n\n\n\nFeb 15, 2023\n\n\nInconclusive Conclusions: Biases and Consequences\n\n\nSusan Vanderplas\n\n\n\n\nOct 5, 2022\n\n\nReproducible Science: Statistics, Forensics, and the Law\n\n\nSusan Vanderplas\n\n\n\n\nSep 22, 2022\n\n\nHow to make good charts\n\n\nSusan Vanderplas\n\n\n\n\nAug 3, 2022\n\n\nLocal Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\nAug 2, 2022\n\n\nFrom Scans to Scores\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nApr 8, 2022\n\n\nPandemics, Graphics, and Perception of Log Scales\n\n\nSusan Vanderplas, Emily Robinson, Reka Howard\n\n\n\n\nMar 24, 2022\n\n\nAutomatic Acquisition of Footwear Class Characteristics\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\nApr 9, 2021\n\n\nExploring Rural Quality of Life Using Data Science and Public Data\n\n\nSusan Vanderplas, Denise Bradford\n\n\n\n\nMar 16, 2021\n\n\nVisual Statistics: Communication and Graphical Testing\n\n\nSusan Vanderplas\n\n\n\n\nFeb 5, 2021\n\n\nWelcome to Forensic Statistics\n\n\nSusan Vanderplas\n\n\n\n\nJul 29, 2020\n\n\nPerception and Visual Communication in a Global Pandemic\n\n\nSusan Vanderplas\n\n\n\n\nMar 11, 2020\n\n\nStatistical Evaluation of Firearms and Toolmark Evidence\n\n\nSusan Vanderplas\n\n\n\n\nFeb 11, 2020\n\n\nOne of these things is not like the others: Visual Statistics and Testing in Statistical Graphics\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nJan 12, 2020\n\n\nBig Data, Big Experiments, and Big Problems\n\n\nSusan Vanderplas\n\n\n\n\nJul 31, 2019\n\n\nStatistical Lineups for Bayesians\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 1, 2018\n\n\nFramed Charts in the 1870 Statistical Atlas\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nMay 17, 2018\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 2, 2017\n\n\nA Bayesian Approach to Visual Inference\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 10, 2015\n\n\nVisual Aptitude and Statistical Graphics\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 10, 2015\n\n\nAnimint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics\n\n\nSusan Vanderplas, Toby Hocking\n\n\n\n\nAug 4, 2014\n\n\nThe curse of three dimensions: Why your brain is lying to you\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 4, 2014\n\n\nDo You See What I See? Using Shiny for User Testing\n\n\nSusan Vanderplas\n\n\n\n\nMay 30, 2014\n\n\nAnimint: Interactive, Web-Ready Graphics with R\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 7, 2013\n\n\nSigns of the Sine Illusion – why we need to care\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\nNo matching items"
+    "text": "Statistical Computing Using R and Python\n\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nPenguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots\n\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2023\n\n\nSusan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nA Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package\n\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nJoseph Zemmels, Susan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nYou Draw It: Implementation of visually fitted trends with r2d3\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2023\n\n\nEmily Robinson, Reka Howard, Susan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nExploring Rural Shrink Smart Through Guided Discovery Dashboards\n\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nDenise Bradford, Susan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nVisual Narratives of the Covid-19 pandemic\n\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nAdalbert Wilhelm, Susan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nEye Fitting Straight Lines in the Modern Era\n\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nEmily A. Robinson, Reka Howard, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nStatistical significance calculations for scenarios in visual inference\n\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2021\n\n\nSusan Vanderplas, Christian Röttger, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nDesigning Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results\n\n\n\n\n\n\n\n\n\n\n\n\nJul 30, 2021\n\n\nSusan VanderPlas\n\n\n\n\n\n\n  \n\n\n\n\nTreatment of inconclusives in the AFTE range of conclusions\n\n\n\n\n\n\n\n\n\n\n\n\nMay 5, 2021\n\n\nHeike Hofmann, Alicia Carriquiry, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nTesting Statistical Charts: What Makes a Good Graph?\n\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nComparison of three similarity scores for bullet LEA matching\n\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nAn introduction to firearms examination for researchers in statistics\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\nSusan Vanderplas, Alicia Carriquiry, Heike Hofmann, James Hamby, Xiao Hui Tai\n\n\n\n\n\n\n  \n\n\n\n\nggenealogy: An R Package for Visualizing Genealogical Data\n\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2019\n\n\nLindsay Rutter, Susan Vanderplas, Dianne Cook, Michelle Graham\n\n\n\n\n\n\n  \n\n\n\n\nMachine learning in forensic applications\n\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nAlicia Carriquiry, Heike Hofmann, Xiao Hui Tai, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nFramed! Reproducing and Revisiting 150-Year-Old Charts\n\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nSusan Vanderplas, Ryan C Goluch, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nExtending ggplot2 for Linked and Animated Web Graphics\n\n\n\n\n\n\n\n\n\n\n\n\nNov 14, 2018\n\n\nCarson Sievert, Susan Vanderplas, Jun Cai, Kevin Ferris, Faizan Uddin Fahad Khan, Toby Dylan Hocking\n\n\n\n\n\n\n  \n\n\n\n\nAll of This Has Happened Before. All of This Will Happen Again: Data Science\n\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2017\n\n\nHeike Hofmann, Susan Vanderplas\n\n\n\n\n\n\n  \n\n\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\n\n\n\n\n\n\n\n\n\n\nApr 24, 2017\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nSpatial Reasoning and Data Displays\n\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2016\n\n\nSusan VanderPlas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nSigns of the Sine Illusion - why we need to care\n\n\n\n\n\n\n\n\n\n\n\n\nDec 10, 2015\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n  \n\n\n\n\nIn tennis, do smashes win matches?\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2013\n\n\nSarah Budrus, Susan Vanderplas, Dianne Cook\n\n\n\n\n\n\n  \n\n\n\n\nDetection of gene orthology from gene co-expression and protein interaction networks\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2010\n\n\nFadi Towfic, Susan Vanderplas, Casey A Oliver, Oliver Couture, Christopher K Tuggle, M Heather West Greenlee, Vasant Honavar\n\n\n\n\n\n\n  \n\n\n\n\nNear-infrared spectroscopy and cortical responses to speech production\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2009\n\n\nRachel Hull, Heather Bortfeld, Susan Koons\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -523,5 +327,236 @@
     "title": "About",
     "section": "Education",
     "text": "Education\n\nPhD\nStatistics, Iowa State University, 2015. Dissertation: Perception of Statistical Graphics\n\n\nMS\nStatistics, Iowa State University, 2011\n\n\nBS\nPsychology and Applied Mathematical Sciences, Texas A&M University, 2009"
+  },
+  {
+    "objectID": "talks.html.html",
+    "href": "talks.html.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 14, 2023\n\n\nMultimodal User Testing: Producing comprehensive, task-focused guidelines for chart design\n\n\nSusan Vanderplas, Reka Howard, Emily Robinson\n\n\n\n\nDec 6, 2023\n\n\nHow Do You Define a Circle? Perception and Computer Vision Diagnostics\n\n\nSusan Vanderplas, Muxin Hua\n\n\n\n\nOct 12, 2023\n\n\nGraphics and Cognition: How Do We Perceive Charts?\n\n\nSusan Vanderplas\n\n\n\n\nAug 8, 2023\n\n\nTesting Statistical Graphics\n\n\nSusan Vanderplas\n\n\n\n\nMar 27, 2023\n\n\nWhat Makes a Good Graph? Graphical Testing and Principles for Graph Design\n\n\nSusan Vanderplas\n\n\n\n\nFeb 15, 2023\n\n\nInconclusive Conclusions: Biases and Consequences\n\n\nSusan Vanderplas\n\n\n\n\nOct 5, 2022\n\n\nReproducible Science: Statistics, Forensics, and the Law\n\n\nSusan Vanderplas\n\n\n\n\nSep 22, 2022\n\n\nHow to make good charts\n\n\nSusan Vanderplas\n\n\n\n\nAug 3, 2022\n\n\nLocal Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\nAug 2, 2022\n\n\nFrom Scans to Scores\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nApr 8, 2022\n\n\nPandemics, Graphics, and Perception of Log Scales\n\n\nSusan Vanderplas, Emily Robinson, Reka Howard\n\n\n\n\nMar 24, 2022\n\n\nAutomatic Acquisition of Footwear Class Characteristics\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\nApr 9, 2021\n\n\nExploring Rural Quality of Life Using Data Science and Public Data\n\n\nSusan Vanderplas, Denise Bradford\n\n\n\n\nMar 16, 2021\n\n\nVisual Statistics: Communication and Graphical Testing\n\n\nSusan Vanderplas\n\n\n\n\nFeb 5, 2021\n\n\nWelcome to Forensic Statistics\n\n\nSusan Vanderplas\n\n\n\n\nJul 29, 2020\n\n\nPerception and Visual Communication in a Global Pandemic\n\n\nSusan Vanderplas\n\n\n\n\nMar 11, 2020\n\n\nStatistical Evaluation of Firearms and Toolmark Evidence\n\n\nSusan Vanderplas\n\n\n\n\nFeb 11, 2020\n\n\nOne of these things is not like the others: Visual Statistics and Testing in Statistical Graphics\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nJan 12, 2020\n\n\nBig Data, Big Experiments, and Big Problems\n\n\nSusan Vanderplas\n\n\n\n\nJul 31, 2019\n\n\nStatistical Lineups for Bayesians\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 1, 2018\n\n\nFramed Charts in the 1870 Statistical Atlas\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nMay 17, 2018\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 2, 2017\n\n\nA Bayesian Approach to Visual Inference\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 10, 2015\n\n\nVisual Aptitude and Statistical Graphics\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 10, 2015\n\n\nAnimint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics\n\n\nSusan Vanderplas, Toby Hocking\n\n\n\n\nAug 4, 2014\n\n\nThe curse of three dimensions: Why your brain is lying to you\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 4, 2014\n\n\nDo You See What I See? Using Shiny for User Testing\n\n\nSusan Vanderplas\n\n\n\n\nMay 30, 2014\n\n\nAnimint: Interactive, Web-Ready Graphics with R\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\nAug 7, 2013\n\n\nSigns of the Sine Illusion – why we need to care\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other",
+    "section": "",
+    "text": "Measuring Your Tools, for Science!\n\n\n\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/papers/stat2020.html#citation",
+    "href": "posts/papers/stat2020.html#citation",
+    "title": "Statistical significance calculations for scenarios in visual inference",
+    "section": "Citation",
+    "text": "Citation\n\n[1] S. Vanderplas, C. Röttger, D. Cook, et al. “Statistical significance calculations for scenarios in visual inference”. In: Stat 10.1 (Dec. 01, 2021), p. e337. DOI: https://doi.org/10.1002/sta4.337.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{stat2020,\n  author = {Susan Vanderplas and Christian R{\\\"o}ttger and Dianne Cook and Heike Hofmann},\n  title = {Statistical significance calculations for scenarios in visual inference},\n  journal = {Stat},\n  volume = {10},\n  number = {1},\n  pages = {e337},\n  doi = {https://doi.org/10.1002/sta4.337},\n  year = {2021},\n  month = {dec},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (30%), Writing (65%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/hull2009near.html#citation",
+    "href": "posts/papers/hull2009near.html#citation",
+    "title": "Near-infrared spectroscopy and cortical responses to speech production",
+    "section": "Citation",
+    "text": "Citation\n\n[1] R. Hull, H. Bortfeld, and S. Koons. “Near-infrared spectroscopy and cortical responses to speech production”. In: The open neuroimaging journal 3 (2009), p. 26. DOI: https://doi.org/10.2174/1874440000903010026.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{hull2009near,\n  title = {Near-infrared spectroscopy and cortical responses to speech production},\n  author = {Rachel Hull and Heather Bortfeld and Susan Koons},\n  journal = {The open neuroimaging journal},\n  doi = {https://doi.org/10.2174/1874440000903010026},\n  year = {2009},\n  pages = {26},\n  volume = {3},\n  publisher = {Bentham Science Publishers},\n}"
+  },
+  {
+    "objectID": "posts/papers/framedjcgs.html#citation",
+    "href": "posts/papers/framedjcgs.html#citation",
+    "title": "Framed! Reproducing and Revisiting 150-Year-Old Charts",
+    "section": "Citation",
+    "text": "Citation\n\n[1] S. Vanderplas, R. C. Goluch, and H. Hofmann. “Framed! Reproducing and Revisiting 150-Year-Old Charts”. In: Journal of Computational and Graphical Statistics 28.3 (Apr. 01, 2019), pp. 620-634. DOI: https://doi.org/10.1080/10618600.2018.1562937.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{framedjcgs,\n  author = {Susan Vanderplas and Ryan C Goluch and Heike Hofmann},\n  title = {Framed! Reproducing and Revisiting 150-Year-Old Charts},\n  journal = {Journal of Computational and Graphical Statistics},\n  volume = {28},\n  number = {3},\n  pages = {620-634},\n  year = {2019},\n  publisher = {Taylor & Francis},\n  doi = {https://doi.org/10.1080/10618600.2018.1562937},\n  month = {apr},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (60%), writing (50%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/bradfordvanderplas2022.html#citation",
+    "href": "posts/papers/bradfordvanderplas2022.html#citation",
+    "title": "Exploring Rural Shrink Smart Through Guided Discovery Dashboards",
+    "section": "Citation",
+    "text": "Citation\n\n[1] D. Bradford and S. VanderPlas. “Exploring Rural Shrink Smart Through Guided Discovery Dashboards”. In: Journal of Data Science (Dec. 2022), pp. 1-12. ISSN: 1680-743X. DOI: 10.6339/22-JDS1080.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{bradfordvanderplas2022,\n  author = {Denise Bradford and Susan VanderPlas},\n  title = {Exploring Rural Shrink Smart Through Guided Discovery Dashboards},\n  journal = {Journal of Data Science},\n  year = {2022},\n  month = {12},\n  pages = {1--12},\n  doi = {10.6339/22-JDS1080},\n  publisher = {School of Statistics, Renmin University of China},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (10%), Writing (10%), Advising (100%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/eye-fitting-straight-lines.html#citation",
+    "href": "posts/papers/eye-fitting-straight-lines.html#citation",
+    "title": "Eye Fitting Straight Lines in the Modern Era",
+    "section": "Citation",
+    "text": "Citation\n\n[1] E. A. Robinson, R. Howard, and S. Vanderplas. “Eye Fitting Straight Lines in the Modern Era”. In: Journal of Computational and Graphical Statistics 0.ja (Nov. 01, 2022), pp. 1-19. DOI: https://doi.org/10.1080/10618600.2022.2140668.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{eye-fitting-straight-lines,\n  author = {Emily A. Robinson and Reka Howard and Susan Vanderplas},\n  title = {Eye Fitting Straight Lines in the Modern Era},\n  journal = {Journal of Computational and Graphical Statistics},\n  volume = {0},\n  number = {ja},\n  pages = {1-19},\n  publisher = {Taylor & Francis},\n  doi = {https://doi.org/10.1080/10618600.2022.2140668},\n  year = {2022},\n  month = {nov},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (10%), Writing (10%), Advising (60%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/vanderplasDesigningGraphicsRequires2021.html#citation",
+    "href": "posts/papers/vanderplasDesigningGraphicsRequires2021.html#citation",
+    "title": "Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results",
+    "section": "Citation",
+    "text": "Citation\n\n[1] S. VanderPlas. “Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results”. In: Harvard Data Science Review 3.3 (Jul. 30, 2021). DOI: https://doi.org/10.1162/99608f92.7d099fd0.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{vanderplasDesigningGraphicsRequires2021,\n  author = {Susan VanderPlas},\n  title = {Designing {Graphics} {Requires} {Useful} {Experimental} {Testing} {Frameworks} and {Graphics} {Derived} {From} {Empirical} {Results}},\n  journal = {Harvard Data Science Review},\n  volume = {3},\n  number = {3},\n  year = {2021},\n  month = {7},\n  doi = {https://doi.org/10.1162/99608f92.7d099fd0},\n}"
+  },
+  {
+    "objectID": "posts/papers/towfic2010detection.html#citation",
+    "href": "posts/papers/towfic2010detection.html#citation",
+    "title": "Detection of gene orthology from gene co-expression and protein interaction networks",
+    "section": "Citation",
+    "text": "Citation\n\n[1] F. Towfic, S. Vanderplas, C. A. Oliver, et al. “Detection of gene orthology from gene co-expression and protein interaction networks”. In: BMC bioinformatics 11.Suppl 3 (2010), p. S7. DOI: https://doi.org/10.1186/1471-2105-11-S3-S7.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{towfic2010detection,\n  title = {Detection of gene orthology from gene co-expression and protein interaction networks},\n  author = {Fadi Towfic and Susan Vanderplas and Casey A Oliver and Oliver Couture and Christopher K Tuggle and M Heather West Greenlee and Vasant Honavar},\n  journal = {BMC bioinformatics},\n  year = {2010},\n  number = {Suppl 3},\n  pages = {S7},\n  volume = {11},\n  publisher = {BioMed Central Ltd},\n  doi = {https://doi.org/10.1186/1471-2105-11-S3-S7},\n}"
+  },
+  {
+    "objectID": "posts/papers/rutter2019ggenealogy.html#citation",
+    "href": "posts/papers/rutter2019ggenealogy.html#citation",
+    "title": "ggenealogy: An R Package for Visualizing Genealogical Data",
+    "section": "Citation",
+    "text": "Citation\n\n[1] L. Rutter, S. Vanderplas, D. Cook, et al. “ggenealogy: An R Package for Visualizing Genealogical Data”. In: Journal of Statistical Software 89.13 (May. 29, 2019), pp. 1-31. DOI: https://doi.org/10.18637/jss.v089.i13.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{rutter2019ggenealogy,\n  title = {ggenealogy: {An} {R} {Package} for {Visualizing} {Genealogical} {Data}},\n  volume = {89},\n  doi = {https://doi.org/10.18637/jss.v089.i13},\n  number = {13},\n  journal = {Journal of Statistical Software},\n  author = {Lindsay Rutter and Susan Vanderplas and Dianne Cook and Michelle Graham},\n  year = {2019},\n  pages = {1-31},\n  month = {may},\n}"
+  },
+  {
+    "objectID": "posts/papers/vanderplasIntroductionFirearmsExamination2020.html#citation",
+    "href": "posts/papers/vanderplasIntroductionFirearmsExamination2020.html#citation",
+    "title": "An introduction to firearms examination for researchers in statistics",
+    "section": "Citation",
+    "text": "Citation\n\n[1] S. Vanderplas, A. Carriquiry, H. Hofmann, et al. “An introduction to firearms examination for researchers in statistics”. In: Handbook of Forensic Statistics. Ed. by Banks, D., Kafadar, K., Kaye, D. and Tackett, M.. New York: Chapman and Hall/CRC, 2020. DOI: https://doi.org/10.1201/9780367527709.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@incollection{vanderplasIntroductionFirearmsExamination2020,\n  title = {An introduction to firearms examination for researchers in statistics},\n  doi = {https://doi.org/10.1201/9780367527709},\n  booktitle = {Handbook of {Forensic} {Statistics}},\n  publisher = {New York: Chapman and Hall/CRC},\n  author = {Susan Vanderplas and Alicia Carriquiry and Heike Hofmann and James Hamby and Xiao Hui Tai},\n  editor = {{Banks, D.} and {Kafadar, K.} and {Kaye, D.} and {Tackett, M.}},\n  year = {2020},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (50%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/ggpcp.html#citation",
+    "href": "posts/papers/ggpcp.html#citation",
+    "title": "Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots",
+    "section": "Citation",
+    "text": "Citation\n\n[1] S. VanderPlas, Y. Ge, A. Unwin, et al. “Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots”. In: Journal of Computational and Graphical Statistics (Mar. 2023). DOI: 10.1080/10618600.2023.2195462.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{ggpcp,\n  author = {Susan VanderPlas and Yawei Ge and Antony Unwin and Heike Hofmann},\n  title = {Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots},\n  journal = {Journal of Computational and Graphical Statistics},\n  year = {2023},\n  doi = {10.1080/10618600.2023.2195462},\n  publisher = {Taylor & Francis},\n  month = {mar},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (50%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/covid-narratives.html#citation",
+    "href": "posts/papers/covid-narratives.html#citation",
+    "title": "Visual Narratives of the Covid-19 pandemic",
+    "section": "Citation",
+    "text": "Citation\n\n[1] A. Wilhelm and S. VanderPlas. “Visual Narratives of the Covid-19 pandemic”. In: Journal of Data Science, Statistics, and Visualisation 2.7 (Nov. 2022), p. 84–113. DOI: 10.52933/jdssv.v2i7.64. URL: https://jdssv.org/index.php/jdssv/article/view/64.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{covid-narratives,\n  title = {Visual Narratives of the Covid-19 pandemic},\n  volume = {2},\n  url = {https://jdssv.org/index.php/jdssv/article/view/64},\n  doi = {10.52933/jdssv.v2i7.64},\n  number = {7},\n  journal = {Journal of Data Science, Statistics, and Visualisation},\n  author = {Adalbert Wilhelm and Susan VanderPlas},\n  pages = {84–113},\n  year = {2022},\n  month = {nov},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nWriting (60%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/papers/cmcR.html#citation",
+    "href": "posts/papers/cmcR.html#citation",
+    "title": "A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package",
+    "section": "Citation",
+    "text": "Citation\n\n[1] J. Zemmels, S. Vanderplas, and H. Hofmann. “A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package”. In: R Journal (4 Feb. 09, 2023), pp. 79-102. DOI: 10.32614/RJ-2023-014.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{cmcR,\n  title = {A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package},\n  author = {Joseph Zemmels and Susan Vanderplas and Heike Hofmann},\n  number = {14},\n  doi = {10.32614/RJ-2023-014},\n  pages = {79-102},\n  year = {2023},\n  month = {feb},\n}\n\n\n\n\nContribution\nWriting and programming entries estimated from git fame for repositories where this would be meaningful.\nProgramming and analysis (10%), Writing (20%), Advising (40%)\n Repository for Paper and Additional Resources"
+  },
+  {
+    "objectID": "posts/talks/animint-interactive-web-ready-graphics-with-r.html#location",
+    "href": "posts/talks/animint-interactive-web-ready-graphics-with-r.html#location",
+    "title": "Animint: Interactive, Web-Ready Graphics with R",
+    "section": "Location",
+    "text": "Location\nGreat Plains R User Group, User Group Sioux Center, IA"
+  },
+  {
+    "objectID": "posts/talks/testing-statistical-graphics.html#location",
+    "href": "posts/talks/testing-statistical-graphics.html#location",
+    "title": "Testing Statistical Graphics",
+    "section": "Location",
+    "text": "Location\nSection on Statistical Graphics JSM, Conference Toronto, ON, CA"
+  },
+  {
+    "objectID": "posts/talks/from-scans-to-scores.html",
+    "href": "posts/talks/from-scans-to-scores.html",
+    "title": "From Scans to Scores",
+    "section": "",
+    "text": "International Association for Identification Meeting, Conference Workshop Omaha, NE"
+  },
+  {
+    "objectID": "posts/talks/from-scans-to-scores.html#location",
+    "href": "posts/talks/from-scans-to-scores.html#location",
+    "title": "From Scans to Scores",
+    "section": "",
+    "text": "International Association for Identification Meeting, Conference Workshop Omaha, NE"
+  },
+  {
+    "objectID": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html#location",
+    "href": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html#location",
+    "title": "Pandemics, Graphics, and Perception of Log Scales",
+    "section": "Location",
+    "text": "Location\nUniversity of Nebraska - Omaha Math, Department Seminar Omaha, NE"
+  },
+  {
+    "objectID": "posts/talks/visual-aptitude-and-statistical-graphics.html",
+    "href": "posts/talks/visual-aptitude-and-statistical-graphics.html",
+    "title": "Visual Aptitude and Statistical Graphics",
+    "section": "",
+    "text": "IEEE InfoVis, Conference Chicago, IL"
+  },
+  {
+    "objectID": "posts/talks/visual-aptitude-and-statistical-graphics.html#location",
+    "href": "posts/talks/visual-aptitude-and-statistical-graphics.html#location",
+    "title": "Visual Aptitude and Statistical Graphics",
+    "section": "",
+    "text": "IEEE InfoVis, Conference Chicago, IL"
+  },
+  {
+    "objectID": "posts/talks/welcome-to-forensic-statistics.html#location",
+    "href": "posts/talks/welcome-to-forensic-statistics.html#location",
+    "title": "Welcome to Forensic Statistics",
+    "section": "Location",
+    "text": "Location\nData Mishaps Night, Meetup Online"
+  },
+  {
+    "objectID": "posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html#location",
+    "href": "posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html#location",
+    "title": "Do You See What I See? Using Shiny for User Testing",
+    "section": "Location",
+    "text": "Location\nSection on Statistical Graphics JSM, Conference Boston, MA"
+  },
+  {
+    "objectID": "posts/talks/inconclusive-conclusions-biases-and-consequences.html#location",
+    "href": "posts/talks/inconclusive-conclusions-biases-and-consequences.html#location",
+    "title": "Inconclusive Conclusions: Biases and Consequences",
+    "section": "Location",
+    "text": "Location\nJohns Hopkins University Biostatistics, Department Seminar Baltimore, MD"
+  },
+  {
+    "objectID": "posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html#location",
+    "href": "posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html#location",
+    "title": "Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics",
+    "section": "Location",
+    "text": "Location\nSDSS, Conference Reston, VA"
+  },
+  {
+    "objectID": "posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html",
+    "href": "posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html",
+    "title": "Signs of the Sine Illusion – why we need to care",
+    "section": "",
+    "text": "Section on Statistical Graphics JSM, Conference Montreal, ON, CA"
+  },
+  {
+    "objectID": "posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html#location",
+    "href": "posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html#location",
+    "title": "Signs of the Sine Illusion – why we need to care",
+    "section": "",
+    "text": "Section on Statistical Graphics JSM, Conference Montreal, ON, CA"
+  },
+  {
+    "objectID": "posts/talks/framed-charts-in-the-statistical-atlas.html#location",
+    "href": "posts/talks/framed-charts-in-the-statistical-atlas.html#location",
+    "title": "Framed Charts in the 1870 Statistical Atlas",
+    "section": "Location",
+    "text": "Location\nSection on Statistical Graphics JSM, Conference Vancouver, BC, CA"
+  },
+  {
+    "objectID": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html",
+    "href": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html",
+    "title": "Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis",
+    "section": "",
+    "text": "International Association for Identification Meeting, Conference Workshop Omaha, NE"
+  },
+  {
+    "objectID": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html#location",
+    "href": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html#location",
+    "title": "Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis",
+    "section": "",
+    "text": "International Association for Identification Meeting, Conference Workshop Omaha, NE"
+  },
+  {
+    "objectID": "posts/talks/statistical-lineups-for-bayesians.html#location",
+    "href": "posts/talks/statistical-lineups-for-bayesians.html#location",
+    "title": "Statistical Lineups for Bayesians",
+    "section": "Location",
+    "text": "Location\nSection on Statistical Graphics JSM, Conference Denver, CO"
+  },
+  {
+    "objectID": "posts/talks/automatic-acquisition-of-footwear-class-characteristics.html#location",
+    "href": "posts/talks/automatic-acquisition-of-footwear-class-characteristics.html#location",
+    "title": "Automatic Acquisition of Footwear Class Characteristics",
+    "section": "Location",
+    "text": "Location\nCenter for Statistical Applications in Forensic Evidence, Webinar Online"
+  },
+  {
+    "objectID": "posts/talks/how-to-make-good-charts.html#location",
+    "href": "posts/talks/how-to-make-good-charts.html#location",
+    "title": "How to make good charts",
+    "section": "Location",
+    "text": "Location\nUniversity of Nebraska - Lincoln Complex Biosystems, Department Seminar Lincoln, NE"
   }
 ]

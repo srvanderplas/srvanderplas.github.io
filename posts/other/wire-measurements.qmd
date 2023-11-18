@@ -15,9 +15,9 @@ This project is a bit of informal data collection meant to help me calibrate the
 
 To participate, collect any tools you have that you might use to cut a wire under normal circumstances.
 
-We surveyed our workbench and pulled out tools we'd used to cut wires (whether or not the were intended for that purpose) in the past^[If you like to improvise, then for the purposes of this study, please don't include things like rocks or teeth (both examples from a friend) - pretend you're a sensible person and not an engineer in a rush.].
+We surveyed our workbench (@fig-shop-layout) and pulled out tools we'd used to cut wires (whether or not the were intended for that purpose) in the past^[If you like to improvise, then for the purposes of this study, please don't include things like rocks or teeth (both examples from a friend) - pretend you're a sensible person and not an engineer in a rush.].
 
-::: {#shop-layout layout-ncol=2}
+::: {#fig-shop-layout layout-ncol=2}
 
 ![Workbench and tool storage](https://i.imgur.com/VU5v4oy.jpg)
 

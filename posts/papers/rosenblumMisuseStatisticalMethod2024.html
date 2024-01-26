@@ -6,11 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Susan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann">
-<meta name="dcterms.date" content="2020-03-01">
-<meta name="keywords" content="pr, forensics, firearms, algorithms, machine learning">
+<meta name="author" content="Michael Rosenblum, Elizabeth T Chin, Elizabeth L Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C Thompson">
+<meta name="dcterms.date" content="2024-01-01">
+<meta name="keywords" content="pr, forensics, error rates">
 
-<title>Susan Vanderplas - Comparison of three similarity scores for bullet LEA matching</title>
+<title>Susan Vanderplas - Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al.&nbsp;2023</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -42,8 +42,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -146,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
-      <h1 class="title">Comparison of three similarity scores for bullet LEA matching</h1>
+      <h1 class="title">Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al.&nbsp;2023</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">papers</div>
               </div>
@@ -159,14 +157,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Susan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann </p>
+               <p>Michael Rosenblum, Elizabeth T Chin, Elizabeth L Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C Thompson </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">March 1, 2020</p>
+        <p class="date">January 1, 2024</p>
       </div>
     </div>
     
@@ -177,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
   <div>
     <div class="keywords">
       <div class="block-title">Keywords</div>
-      <p>pr, forensics, firearms, algorithms, machine learning</p>
+      <p>pr, forensics, error rates</p>
     </div>
   </div>
   
@@ -192,11 +190,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><img src="https://github.com/heike/case-study-validation/blob/master/images/B8-B2-L2.png?raw=true" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
-<p><a name="bib-vanderplasComparisonThreeSimilarity2020"></a><a href="#cite-vanderplasComparisonThreeSimilarity2020">[1]</a> S. Vanderplas, M. Nally, T. Klep, et al.&nbsp;“Comparison of three similarity scores for bullet LEA matching”. In: <em>Forensic Science International</em> 308 (Mar.&nbsp;01, 2020), p.&nbsp;110167. ISSN: 0379-0738. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.forsciint.2020.110167">https://doi.org/10.1016/j.forsciint.2020.110167</a>.</p>
+<p><a name="bib-rosenblumMisuseStatisticalMethod2024"></a><a href="#cite-rosenblumMisuseStatisticalMethod2024">[1]</a> M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al.&nbsp;(2023)”. In: <em>Law, Probability and Risk</em> 23.1 (Jan.&nbsp;01, 2024), p.&nbsp;mgad010. ISSN: 1470-8396. DOI: <a href="https://doi.org/10.1093%2Flpr%2Fmgad010">10.1093/lpr/mgad010</a>. URL: <a href="https://doi.org/10.1093/lpr/mgad010">https://doi.org/10.1093/lpr/mgad010</a> (visited on 01/15/2024).</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
@@ -210,15 +207,17 @@ Bibtex
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<pre><code>@article{vanderplasComparisonThreeSimilarity2020,
-  title = {Comparison of three similarity scores for bullet LEA matching},
-  author = {Susan Vanderplas and Melissa Nally and Tylor Klep and Cristina Cadevall and Heike Hofmann},
-  journal = {Forensic Science International},
-  volume = {308},
-  pages = {110167},
-  year = {2020},
-  doi = {https://doi.org/10.1016/j.forsciint.2020.110167},
-  month = {mar},
+<pre><code>@article{rosenblumMisuseStatisticalMethod2024,
+  title = {Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. (2023)},
+  volume = {23},
+  url = {https://doi.org/10.1093/lpr/mgad010},
+  doi = {10.1093/lpr/mgad010},
+  pages = {mgad010},
+  number = {1},
+  author = {Michael Rosenblum and Elizabeth T Chin and Elizabeth L Ogburn and Akihiko Nishimura and Daniel Westreich and Abhirup Datta and Susan Vanderplas and Maria Cuellar and William C Thompson},
+  year = {2024},
+  month = {jan},
+  note = {Last visited on 01/15/2024},
 }</code></pre>
 </div>
 </div>
@@ -226,8 +225,7 @@ Bibtex
 <section id="contribution" class="level3">
 <h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
 <p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
-<p>Programming and analysis (20%), Writing (55%)</p>
-<p><a href="https://github.com/heike/case-study-validation" class="btn btn-tip" role="button"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+<p>Writing (10%). This paper is a collaboration between all authors resulting from discussions about the Guyll et al.&nbsp;paper.</p>
 
 
 </section>

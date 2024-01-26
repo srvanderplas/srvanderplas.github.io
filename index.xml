@@ -6,16 +6,100 @@
       version="2.0">
 <channel>
 <title>Susan Vanderplas</title>
-<link>srvanderplas.github.io/index.html</link>
+<link>srvanderplas.github.io/</link>
 <atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Thu, 14 Dec 2023 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.549</generator>
+<lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Cultivating Insights: Harnessing the Power of Data Visualization in Agriculture</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/01-ICOFPE/#/title-slide" height="auto" width="80%">
+</iframe>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p>International Conference for On-Farm Precision Experimentation, Conference Corpus Christie, TX</p>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html</guid>
+  <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. 2023</title>
+  <dc:creator>Michael Rosenblum, Elizabeth T Chin, Elizabeth L Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C Thompson</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/rosenblumMisuseStatisticalMethod2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-rosenblumMisuseStatisticalMethod2024"></a>[1] M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al.&nbsp;(2023)”. In: <em>Law, Probability and Risk</em> 23.1 (Jan.&nbsp;01, 2024), p.&nbsp;mgad010. ISSN: 1470-8396. DOI: <a href="https://doi.org/10.1093%2Flpr%2Fmgad010">10.1093/lpr/mgad010</a>. URL: <a href="https://doi.org/10.1093/lpr/mgad010">https://doi.org/10.1093/lpr/mgad010</a> (visited on 01/15/2024).</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{rosenblumMisuseStatisticalMethod2024,
+  title = {Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. (2023)},
+  volume = {23},
+  url = {https://doi.org/10.1093/lpr/mgad010},
+  doi = {10.1093/lpr/mgad010},
+  pages = {mgad010},
+  number = {1},
+  author = {Michael Rosenblum and Elizabeth T Chin and Elizabeth L Ogburn and Akihiko Nishimura and Daniel Westreich and Abhirup Datta and Susan Vanderplas and Maria Cuellar and William C Thompson},
+  year = {2024},
+  month = {jan},
+  note = {Last visited on 01/15/2024},
+}</code></pre>
+</div>
+</div>
+</div>
+<section id="contribution" class="level3">
+<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
+<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
+<p>Writing (10%). This paper is a collaboration between all authors resulting from discussions about the Guyll et al.&nbsp;paper.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/rosenblumMisuseStatisticalMethod2024.html</guid>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design</title>
   <dc:creator>Susan Vanderplas, Reka Howard, Emily Robinson</dc:creator>
   <link>srvanderplas.github.io/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -46,6 +130,7 @@
 
 
 
+
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
 <p>Asian Regional Section Meeting International Association for Statistical Computing, Conference Macquarie, NSW, AUS</p>
@@ -67,46 +152,59 @@
 
 
 
+
 <p>This project is a bit of informal data collection meant to help me calibrate the likelihood of a random tool matching a wire in evidence of a given gauge/diameter.</p>
 <p>To participate, collect any tools you have that you might use to cut a wire under normal circumstances.</p>
 <p>We surveyed our workbench (Figure&nbsp;1) and pulled out tools we’d used to cut wires (whether or not the were intended for that purpose) in the past<sup>1</sup>.</p>
 <div id="fig-shop-layout" class="quarto-layout-panel">
-<figure class="figure">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-shop-layout-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="srvanderplas.github.io/posts/other/https:/i.imgur.com/VU5v4oy.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Workbench and tool storage</figcaption>
+<p><img src="https://i.imgur.com/VU5v4oy.jpg" class="img-fluid figure-img"></p>
+<figcaption>Workbench and tool storage</figcaption>
 </figure>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="srvanderplas.github.io/posts/other/https:/i.imgur.com/wyAZff9.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Side of workbench - more tools</figcaption>
+<p><img src="https://i.imgur.com/wyAZff9.jpg" class="img-fluid figure-img"></p>
+<figcaption>Side of workbench - more tools</figcaption>
 </figure>
 </div>
 </div>
 </div>
-<p></p><figcaption class="figure-caption">Figure&nbsp;1: We measured available tools - e.g.&nbsp;the ones that were clearly visible/accessible. No need to go digging to find every tool - this is an estimation task.</figcaption><p></p>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-shop-layout-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: We measured available tools - e.g.&nbsp;the ones that were clearly visible/accessible. No need to go digging to find every tool - this is an estimation task.
+</figcaption>
 </figure>
 </div>
 <section id="about-toolmarks" class="level2">
 <h2 class="anchored" data-anchor-id="about-toolmarks">About Toolmarks</h2>
 <p>As a quick digression, let’s talk about toolmarks. We can look at microscopic imperfections in a wire cut, screwdriver scratch, or plier mark and see striations - little lines that are on the surface of the mark. A scan of a cut wire is shown in Figure&nbsp;2. A more macroscopic example is when you spread butter on toast, the butter knife often leaves little grooves behind in the butter<sup>2</sup>.</p>
-<div id="fig-wire-striae" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="srvanderplas.github.io/posts/other/https:/i.imgur.com/ycv5Zs8.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;2: Striations on the surface of a cut wire.</figcaption>
+<div id="fig-wire-striae" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-wire-striae-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://i.imgur.com/ycv5Zs8.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-wire-striae-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Striations on the surface of a cut wire.
+</figcaption>
 </figure>
 </div>
 <p>In order to assess how many different cutting surfaces there are in a shop, we need to look at the different way tools are configured.</p>
-<div id="fig-tool-surfaces" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="srvanderplas.github.io/posts/other/https:/i.imgur.com/oPTXpni.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;3: Different tool configurations. On the top row, there are cross-sectional shapes representing the blades; each cutting surface that will leave a residual mark on the cut material is numbered. On the bottom, tehre are examples of tools with this configuration of blades (note that not all similar looking tools are necessarily configured the same).</figcaption>
+<div id="fig-tool-surfaces" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-tool-surfaces-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://i.imgur.com/oPTXpni.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-tool-surfaces-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Different tool configurations. On the top row, there are cross-sectional shapes representing the blades; each cutting surface that will leave a residual mark on the cut material is numbered. On the bottom, there are examples of tools with this configuration of blades (note that not all similar looking tools are necessarily configured the same).
+</figcaption>
 </figure>
 </div>
 <p>Figure&nbsp;3 shows the different configurations of blades of common tools that may be used to cut wires in a household environment. When measuring a tool’s cutting length, record the number of cutting surfaces as well as the length of the blade - each surface leaves different impressions and must be compared separately.</p>
@@ -140,6 +238,7 @@
   <dc:creator>Susan Vanderplas</dc:creator>
   <link>srvanderplas.github.io/posts/papers/vanderplasStatisticalComputingUsing2023.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -195,6 +294,7 @@ Bibtex
 
 
 
+
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
 <iframe src="http://srvanderplas.github.io/Presentations/2023-Graphics-Cognition/" height="auto" width="80%">
@@ -213,10 +313,68 @@ Bibtex
   <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Eye Fitting Straight Lines in the Modern Era</title>
+  <dc:creator>Emily A. Robinson, Reka Howard, Susan VanderPlas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/robinsonEyeFittingStraight2023.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" class="preview-image img-fluid"></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-robinsonEyeFittingStraight2023"></a>[1] E. A. Robinson, R. Howard, and S. VanderPlas. “Eye Fitting Straight Lines in the Modern Era”. In: <em>Journal of Computational and Graphical Statistics</em> 32.4 (Oct.&nbsp;02, 2023), pp.&nbsp;1537-1544. ISSN: 1061-8600. DOI: <a href="https://doi.org/10.1080%2F10618600.2022.2140668">10.1080/10618600.2022.2140668</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{robinsonEyeFittingStraight2023,
+  title = {Eye Fitting Straight Lines in the Modern Era},
+  volume = {32},
+  doi = {10.1080/10618600.2022.2140668},
+  pages = {1537--1544},
+  number = {4},
+  author = {Emily A. Robinson and Reka Howard and Susan VanderPlas},
+  year = {2023},
+  month = {oct},
+}</code></pre>
+</div>
+</div>
+</div>
+<section id="contribution" class="level3">
+<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
+<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
+<p>Programming and analysis (10%), Writing (10%), Advising (60%)</p>
+<p><a href="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/robinsonEyeFittingStraight2023.html</guid>
+  <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" medium="image"/>
+</item>
+<item>
   <title>Testing Statistical Graphics</title>
   <dc:creator>Susan Vanderplas</dc:creator>
   <link>srvanderplas.github.io/posts/talks/testing-statistical-graphics.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -247,6 +405,7 @@ Bibtex
 
 
 
+
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
 <iframe src="http://srvanderplas.github.io/Presentations/2023-C3B" height="auto" width="80%">
@@ -273,7 +432,8 @@ Bibtex
 
 
 
-<p><img src="srvanderplas.github.io/posts/papers/https:/github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true" class="preview-image img-fluid"></p>
+
+<p><img src="https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
@@ -328,6 +488,7 @@ Bibtex
 
 
 
+
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
 <iframe src="http://srvanderplas.github.io/Presentations/2023-Hopkins-Inconclusives" height="auto" width="80%">
@@ -354,7 +515,8 @@ Bibtex
 
 
 
-<p><img src="srvanderplas.github.io/posts/papers/https:/github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true" class="preview-image img-fluid"></p>
+
+<p><img src="https://github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
@@ -409,7 +571,8 @@ Bibtex
 
 
 
-<p><img src="srvanderplas.github.io/posts/papers/https:/github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true" class="preview-image img-fluid"></p>
+
+<p><img src="https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
@@ -464,7 +627,8 @@ Bibtex
 
 
 
-<p><img src="srvanderplas.github.io/posts/papers/https:/github.com/drbradford12/SDSS-2022/blob/main/SDSS%20Journal%20Paper/images/map.png?raw=true" class="preview-image img-fluid"></p>
+
+<p><img src="https://github.com/drbradford12/SDSS-2022/blob/main/SDSS%20Journal%20Paper/images/map.png?raw=true" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
@@ -520,7 +684,8 @@ Bibtex
 
 
 
-<p><img src="srvanderplas.github.io/posts/papers/https:/github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" class="preview-image img-fluid"></p>
+
+<p><img src="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
@@ -578,11 +743,12 @@ Bibtex
 
 
 
-<p><img src="srvanderplas.github.io/posts/papers/https:/github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true" class="preview-image img-fluid"></p>
+
+<p><img src="https://github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
-<p><a name="bib-covid-narratives"></a>[1] A. Wilhelm and S. VanderPlas. “Visual Narratives of the Covid-19 pandemic”. In: <em>Journal of Data Science, Statistics, and Visualisation</em> 2.7 (Nov.&nbsp;2022), p.&nbsp;84–113. DOI: <a href="https://doi.org/10.52933%2Fjdssv.v2i7.64">10.52933/jdssv.v2i7.64</a>. URL: <a href="https://jdssv.org/index.php/jdssv/article/view/64">https://jdssv.org/index.php/jdssv/article/view/64</a>.</p>
+<p><a name="bib-covid-narratives"></a>[1] A. Wilhelm and S. VanderPlas. “Visual Narratives of the Covid-19 pandemic”. In: <em>Journal of Data Science, Statistics, and Visualisation</em> 2.7 (Nov.&nbsp;2022), p.&nbsp;84–113. DOI: <a href="https://doi.org/10.52933%2Fjdssv.v2i7.64">10.52933/jdssv.v2i7.64</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
@@ -599,7 +765,6 @@ Bibtex
 <pre><code>@article{covid-narratives,
   title = {Visual Narratives of the Covid-19 pandemic},
   volume = {2},
-  url = {https://jdssv.org/index.php/jdssv/article/view/64},
   doi = {10.52933/jdssv.v2i7.64},
   number = {7},
   journal = {Journal of Data Science, Statistics, and Visualisation},
@@ -636,6 +801,7 @@ Bibtex
 
 
 
+
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
 <iframe src="https://srvanderplas.github.io/Presentations/2022-StatDeptSeminar/#/title-slide" height="auto" width="80%">
@@ -658,6 +824,7 @@ Bibtex
   <dc:creator>Susan Vanderplas</dc:creator>
   <link>srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -688,6 +855,7 @@ Bibtex
 
 
 
+
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
 <p>International Association for Identification Meeting, Conference Workshop Omaha, NE</p>
@@ -699,79 +867,6 @@ Bibtex
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html</guid>
   <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>From Scans to Scores</title>
-  <dc:creator>Susan Vanderplas, Heike Hofmann</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/from-scans-to-scores.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>International Association for Identification Meeting, Conference Workshop Omaha, NE</p>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/from-scans-to-scores.html</guid>
-  <pubDate>Tue, 02 Aug 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Pandemics, Graphics, and Perception of Log Scales</title>
-  <dc:creator>Susan Vanderplas, Emily Robinson, Reka Howard</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/pandemics-graphics-and-perception-of-log-scales.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/Presentations/2022-UNO/#1" height="auto" width="80%">
-</iframe>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>University of Nebraska - Omaha Math, Department Seminar Omaha, NE</p>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/pandemics-graphics-and-perception-of-log-scales.html</guid>
-  <pubDate>Fri, 08 Apr 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Automatic Acquisition of Footwear Class Characteristics</title>
-  <dc:creator>Susan Vanderplas, Rick Stone</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/Presentations/2022-CSAFE-Webinar/#1" height="auto" width="80%">
-</iframe>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>Center for Statistical Applications in Forensic Evidence, Webinar Online</p>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html</guid>
-  <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

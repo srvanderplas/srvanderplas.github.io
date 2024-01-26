@@ -6,11 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Susan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann">
-<meta name="dcterms.date" content="2020-03-01">
-<meta name="keywords" content="pr, forensics, firearms, algorithms, machine learning">
+<meta name="author" content="Susan Vanderplas">
+<meta name="dcterms.date" content="2024-01-26">
+<meta name="keywords" content="graphics, perception">
 
-<title>Susan Vanderplas - Comparison of three similarity scores for bullet LEA matching</title>
+<title>Susan Vanderplas - Parsing Cleveland &amp; McGill</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,7 +23,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -42,8 +62,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,6 +90,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -146,9 +193,9 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
-      <h1 class="title">Comparison of three similarity scores for bullet LEA matching</h1>
+      <h1 class="title">Parsing Cleveland &amp; McGill</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">papers</div>
+                <div class="quarto-category">other</div>
               </div>
                   </div>
   </div>
@@ -159,14 +206,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Susan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann </p>
+               <p>Susan Vanderplas </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">March 1, 2020</p>
+        <p class="date">January 26, 2024</p>
       </div>
     </div>
     
@@ -177,7 +224,7 @@ ul.task-list li input[type="checkbox"] {
   <div>
     <div class="keywords">
       <div class="block-title">Keywords</div>
-      <p>pr, forensics, firearms, algorithms, machine learning</p>
+      <p>graphics, perception</p>
     </div>
   </div>
   
@@ -192,48 +239,66 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><img src="https://github.com/heike/case-study-validation/blob/master/images/B8-B2-L2.png?raw=true" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-vanderplasComparisonThreeSimilarity2020"></a><a href="#cite-vanderplasComparisonThreeSimilarity2020">[1]</a> S. Vanderplas, M. Nally, T. Klep, et al.&nbsp;“Comparison of three similarity scores for bullet LEA matching”. In: <em>Forensic Science International</em> 308 (Mar.&nbsp;01, 2020), p.&nbsp;110167. ISSN: 0379-0738. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.forsciint.2020.110167">https://doi.org/10.1016/j.forsciint.2020.110167</a>.</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{vanderplasComparisonThreeSimilarity2020,
-  title = {Comparison of three similarity scores for bullet LEA matching},
-  author = {Susan Vanderplas and Melissa Nally and Tylor Klep and Cristina Cadevall and Heike Hofmann},
-  journal = {Forensic Science International},
-  volume = {308},
-  pages = {110167},
-  year = {2020},
-  doi = {https://doi.org/10.1016/j.forsciint.2020.110167},
-  month = {mar},
-}</code></pre>
-</div>
-</div>
-</div>
-<section id="contribution" class="level3">
-<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
-<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
-<p>Programming and analysis (20%), Writing (55%)</p>
-<p><a href="https://github.com/heike/case-study-validation" class="btn btn-tip" role="button"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+<p>This post concerns <span class="citation" data-cites="clevelandGraphicalPerceptionTheory1984">Cleveland and McGill (<a href="#ref-clevelandGraphicalPerceptionTheory1984" role="doc-biblioref">1984</a>)</span>, <span class="citation" data-cites="clevelandGraphicalPerceptionGraphical1985">Cleveland and McGill (<a href="#ref-clevelandGraphicalPerceptionGraphical1985" role="doc-biblioref">1985</a>)</span>, <span class="citation" data-cites="clevelandExperimentGraphicalPerception1986">Cleveland and McGill (<a href="#ref-clevelandExperimentGraphicalPerception1986" role="doc-biblioref">1986</a>)</span>, and <span class="citation" data-cites="clevelandGraphicalPerceptionVisual1987">Cleveland and McGill (<a href="#ref-clevelandGraphicalPerceptionVisual1987" role="doc-biblioref">1987</a>)</span>.</p>
+<section id="experiments-performed" class="level2">
+<h2 class="anchored" data-anchor-id="experiments-performed">Experiments performed</h2>
+<ul>
+<li>position-length (1984)
+<ul>
+<li>55 subjects, 5 types of charts <img src="CM1984Fig4.svg" class="img-fluid" alt="Cleveland and McGill (1984), Fig 4, recreated."></li>
+<li>Comparisons
+<ul>
+<li>Grouped bar charts: second and third bars of the left group or second bars of the two groups.</li>
+<li>Stacked bar charts: bottom divisions of the two bars or in the top divisions of the two bars or in the top divisions of the left bar.</li>
+<li>Type 1-3: position on common scale, Type 4-5: length</li>
+</ul></li>
+<li>Composition of bars
+<ul>
+<li>Values <span class="math inline">\(s_i = 10 \times 10^{(i - 1)/12}, i = 1, ..., 10\)</span>, <code>r round(10* 10^((0:9)/12), 3)</code></li>
+<li>Subjects judged ratios of 10 pairs of values ranging from 0.18 to 0.83; each pair of values judged 5x (one per comparison type)</li>
+<li>Other segment heights chosen at random subject to constraints to prevent common-scale judgments.</li>
+</ul></li>
+<li>Procedure for a graph:
+<ul>
+<li>indicate which was smaller</li>
+<li>judge what percentage the smaller was of the larger</li>
+</ul></li>
+<li>only 4 errors in which bar/segment was smaller</li>
+<li>Kits
+<ul>
+<li>Charts on 8.5x11 page, filling a large portion of the page</li>
+<li>5 practice graphs (one of each type) + 50 graphs in random order</li>
+<li>all packets identical</li>
+</ul></li>
+</ul></li>
+<li>position-angle (1984)
+<ul>
+<li>54 subjects, 2 types of charts <img src="CM1984Fig3.svg" class="img-fluid" alt="Cleveland and McGill (1984), Fig 3, recreated."></li>
+<li>Comparisons:
+<ul>
+<li></li>
+</ul></li>
+</ul></li>
+</ul>
+
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-clevelandGraphicalPerceptionTheory1984" class="csl-entry" role="listitem">
+Cleveland, William S., and Robert McGill. 1984. <span>“Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods.”</span> <em>Journal of the American Statistical Association</em> 79 (387): 531–54. <a href="https://doi.org/10.1080/01621459.1984.10478080">https://doi.org/10.1080/01621459.1984.10478080</a>.
+</div>
+<div id="ref-clevelandGraphicalPerceptionGraphical1985" class="csl-entry" role="listitem">
+———. 1985. <span>“Graphical Perception and Graphical Methods for Analyzing Scientific Data.”</span> <em>Science</em> 229 (4716): 828–33. <a href="https://doi.org/10.1126/science.229.4716.828">https://doi.org/10.1126/science.229.4716.828</a>.
+</div>
+<div id="ref-clevelandExperimentGraphicalPerception1986" class="csl-entry" role="listitem">
+———. 1986. <span>“An Experiment in Graphical Perception.”</span> <em>International Journal of Man-Machine Studies</em> 25 (5): 491–500. <a href="https://doi.org/10.1016/S0020-7373(86)80019-0">https://doi.org/10.1016/S0020-7373(86)80019-0</a>.
+</div>
+<div id="ref-clevelandGraphicalPerceptionVisual1987" class="csl-entry" role="listitem">
+———. 1987. <span>“Graphical Perception: The Visual Decoding of Quantitative Information on Graphical Displays of Data.”</span> <em>Journal of the Royal Statistical Society. Series A (General)</em> 150 (3): 192. <a href="https://doi.org/10.2307/2981473">https://doi.org/10.2307/2981473</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

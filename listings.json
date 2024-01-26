@@ -1,13 +1,8 @@
 [
   {
-    "listing": "/other.html.html",
-    "items": [
-      "/posts/other/wire-measurements.html"
-    ]
-  },
-  {
     "listing": "/talks.html",
     "items": [
+      "/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html",
       "/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html",
       "/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
       "/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html",
@@ -42,11 +37,14 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html",
+      "/posts/papers/rosenblumMisuseStatisticalMethod2024.html",
       "/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html",
       "/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
       "/posts/other/wire-measurements.html",
       "/posts/papers/vanderplasStatisticalComputingUsing2023.html",
       "/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html",
+      "/posts/papers/robinsonEyeFittingStraight2023.html",
       "/posts/talks/testing-statistical-graphics.html",
       "/posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html",
       "/posts/papers/ggpcp.html",
@@ -87,8 +85,8 @@
       "/posts/papers/featurehierarchyjcgs.html",
       "/posts/papers/visualaptitude.html",
       "/posts/papers/sineillusionjcgs.html",
-      "/posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html",
       "/posts/talks/visual-aptitude-and-statistical-graphics.html",
+      "/posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html",
       "/posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html",
       "/posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html",
       "/posts/talks/animint-interactive-web-ready-graphics-with-r.html",
@@ -99,38 +97,17 @@
     ]
   },
   {
-    "listing": "/publications.html.html",
+    "listing": "/other.html",
     "items": [
-      "/posts/papers/vanderplasStatisticalComputingUsing2023.html",
-      "/posts/papers/ggpcp.html",
-      "/posts/papers/cmcR.html",
-      "/posts/papers/robinsonvanderplas2023.html",
-      "/posts/papers/bradfordvanderplas2022.html",
-      "/posts/papers/covid-narratives.html",
-      "/posts/papers/eye-fitting-straight-lines.html",
-      "/posts/papers/stat2020.html",
-      "/posts/papers/vanderplasDesigningGraphicsRequires2021.html",
-      "/posts/papers/inconclusives.html",
-      "/posts/papers/vanderplasTestingStatisticalCharts2020.html",
-      "/posts/papers/vanderplasComparisonThreeSimilarity2020.html",
-      "/posts/papers/vanderplasIntroductionFirearmsExamination2020.html",
-      "/posts/papers/rutter2019ggenealogy.html",
-      "/posts/papers/machinelearningforensics2019.html",
-      "/posts/papers/framedjcgs.html",
-      "/posts/papers/sievert2018extending.html",
-      "/posts/papers/donohoresponse.html",
-      "/posts/papers/featurehierarchyjcgs.html",
-      "/posts/papers/visualaptitude.html",
-      "/posts/papers/sineillusionjcgs.html",
-      "/posts/papers/budrus2013tennis.html",
-      "/posts/papers/towfic2010detection.html",
-      "/posts/papers/hull2009near.html"
+      "/posts/other/wire-measurements.html"
     ]
   },
   {
     "listing": "/publications.html",
     "items": [
+      "/posts/papers/rosenblumMisuseStatisticalMethod2024.html",
       "/posts/papers/vanderplasStatisticalComputingUsing2023.html",
+      "/posts/papers/robinsonEyeFittingStraight2023.html",
       "/posts/papers/ggpcp.html",
       "/posts/papers/cmcR.html",
       "/posts/papers/robinsonvanderplas2023.html",
@@ -154,46 +131,6 @@
       "/posts/papers/budrus2013tennis.html",
       "/posts/papers/towfic2010detection.html",
       "/posts/papers/hull2009near.html"
-    ]
-  },
-  {
-    "listing": "/talks.html.html",
-    "items": [
-      "/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html",
-      "/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
-      "/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html",
-      "/posts/talks/testing-statistical-graphics.html",
-      "/posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html",
-      "/posts/talks/inconclusive-conclusions-biases-and-consequences.html",
-      "/posts/talks/reproducible-science-statistics-forensics-and-the-law.html",
-      "/posts/talks/how-to-make-good-charts.html",
-      "/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html",
-      "/posts/talks/from-scans-to-scores.html",
-      "/posts/talks/pandemics-graphics-and-perception-of-log-scales.html",
-      "/posts/talks/automatic-acquisition-of-footwear-class-characteristics.html",
-      "/posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html",
-      "/posts/talks/visual-statistics-communication-and-graphical-testing.html",
-      "/posts/talks/welcome-to-forensic-statistics.html",
-      "/posts/talks/perception-and-visual-communication-in-a-global-pandemic.html",
-      "/posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html",
-      "/posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html",
-      "/posts/talks/big-data-big-experiments-and-big-problems.html",
-      "/posts/talks/statistical-lineups-for-bayesians.html",
-      "/posts/talks/framed-charts-in-the-statistical-atlas.html",
-      "/posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html",
-      "/posts/talks/a-bayesian-approach-to-visual-inference.html",
-      "/posts/talks/visual-aptitude-and-statistical-graphics.html",
-      "/posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html",
-      "/posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html",
-      "/posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html",
-      "/posts/talks/animint-interactive-web-ready-graphics-with-r.html",
-      "/posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html"
-    ]
-  },
-  {
-    "listing": "/other.html",
-    "items": [
-      "/posts/other/wire-measurements.html"
     ]
   }
 ]

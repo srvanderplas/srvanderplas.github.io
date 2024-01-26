@@ -1,0 +1,11 @@
+---
+title: "Parsing Cleveland & McGill"
+author: "Susan Vanderplas"
+
+date: "2024-1-26"
+image: "https://i.imgur.com/2CShMoh.png"
+categories: other
+page-layout: full
+title-block-banner: true
+keywords: [graphics, perception]
+---

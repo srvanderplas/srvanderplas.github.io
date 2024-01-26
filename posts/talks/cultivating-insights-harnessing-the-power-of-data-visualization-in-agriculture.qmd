@@ -1,0 +1,21 @@
+---
+title: "Cultivating Insights: Harnessing the Power of Data Visualization in Agriculture"
+author: "Susan Vanderplas"
+date: "2024-01-09"
+categories: talks
+page-layout: full
+title-block-banner: true
+keywords: ['visualization', 'ag', 'design', 'Talk']
+format:
+  html:
+    code-copy: true
+---
+ 
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2024-Presentations/01-ICOFPE/#/title-slide' height='auto' width='80%'>
+                        </iframe>
+## Location
+
+International Conference for On-Farm Precision Experimentation, Conference
+Corpus Christie, TX

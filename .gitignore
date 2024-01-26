@@ -7,4 +7,5 @@
 /_site/
 .secrets
 .Renviron
-
+posts/papers/*.html
+posts/talks/*.html

@@ -41,6 +41,8 @@ jobs:
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
+        env:
+          GS_Auth: ${{ secrets.GS_AUTH }}
 
       - name: Publish
         uses: quarto-dev/quarto-actions/publish@v2

@@ -1,11 +1,43 @@
 ---
 title: "Parsing Cleveland & McGill"
 author: "Susan Vanderplas"
-
+draft: true
 date: "2024-1-26"
 image: "https://i.imgur.com/2CShMoh.png"
 categories: other
 page-layout: full
 title-block-banner: true
 keywords: [graphics, perception]
+bibliography: cm.bib
 ---
+
+This post concerns @clevelandGraphicalPerceptionTheory1984, @clevelandGraphicalPerceptionGraphical1985, @clevelandExperimentGraphicalPerception1986, and @clevelandGraphicalPerceptionVisual1987. 
+
+## Experiments performed
+
+- position-length (1984)
+    - 55 subjects, 5 types of charts
+    ![@clevelandGraphicalPerceptionTheory1984, Fig 4, recreated.](CM1984Fig4.svg)
+    - Comparisons
+        - Grouped bar charts: second and third bars of the left group or second bars of the two groups. 
+        - Stacked bar charts: bottom divisions of the two bars or in the top divisions of the two bars or in the top divisions of the left bar.
+        - Type 1-3: position on common scale, Type 4-5: length
+    - Composition of bars
+        - Values $s_i = 10 \times 10^{(i - 1)/12}, i = 1, ..., 10$, `r round(10* 10^((0:9)/12), 3)`
+        - Subjects judged ratios of 10 pairs of values ranging from 0.18 to 0.83; each pair of values judged 5x (one per comparison type)
+      - Other segment heights chosen at random subject to constraints to prevent common-scale judgments.
+    - Procedure for a graph:
+      - indicate which was smaller
+      - judge what percentage the smaller was of the larger
+      
+    - only 4 errors in which bar/segment was smaller
+    - Kits
+        - Charts on 8.5x11 page, filling a large portion of the page
+        - 5 practice graphs (one of each type) + 50 graphs in random order
+        - all packets identical
+
+- position-angle (1984)
+    - 54 subjects, 2 types of charts
+    ![@clevelandGraphicalPerceptionTheory1984, Fig 3, recreated.](CM1984Fig3.svg)
+    - Comparisons: 
+        - 

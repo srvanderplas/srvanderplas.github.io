@@ -9,7 +9,7 @@
 <link>srvanderplas.github.io/</link>
 <atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.549</generator>
+<generator>quarto-1.4.550</generator>
 <lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Cultivating Insights: Harnessing the Power of Data Visualization in Agriculture</title>
@@ -106,7 +106,7 @@ Bibtex
 
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="http://srvanderplas.github.io/Presentations/2023-ASC/index.html" height="auto" width="80%">
+<iframe src="http://srvanderplas.github.io/2023-Presentations/ASC/index.html" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
@@ -131,6 +131,11 @@ Bibtex
 
 
 
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/2023-Presentations/12-IASCARS/" height="auto" width="80%">
+</iframe>
+</section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
 <p>Asian Regional Section Meeting International Association for Statistical Computing, Conference Macquarie, NSW, AUS</p>
@@ -297,7 +302,7 @@ Bibtex
 
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="http://srvanderplas.github.io/Presentations/2023-Graphics-Cognition/" height="auto" width="80%">
+<iframe src="http://srvanderplas.github.io/2023-Presentations/10-Graphics-Cognition/" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
@@ -381,7 +386,7 @@ Bibtex
 
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="http://srvanderplas.github.io/Presentations/2023-JSM-Testing-Graphics/" height="auto" width="80%">
+<iframe src="http://srvanderplas.github.io/2023-Presentations/08-JSM-Testing-Graphics/" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
@@ -408,7 +413,7 @@ Bibtex
 
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="http://srvanderplas.github.io/Presentations/2023-C3B" height="auto" width="80%">
+<iframe src="http://srvanderplas.github.io/2023-Presentations/03-C3B" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
@@ -491,7 +496,7 @@ Bibtex
 
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="http://srvanderplas.github.io/Presentations/2023-Hopkins-Inconclusives" height="auto" width="80%">
+<iframe src="http://srvanderplas.github.io/2023-Presentations/02-Hopkins-Inconclusives" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
@@ -804,7 +809,7 @@ Bibtex
 
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/Presentations/2022-StatDeptSeminar/#/title-slide" height="auto" width="80%">
+<iframe src="https://srvanderplas.github.io/2022-Presentations10-/StatDeptSeminar/#/title-slide" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
@@ -831,7 +836,7 @@ Bibtex
 
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/Presentations/2022-CBIO/" height="auto" width="80%">
+<iframe src="https://srvanderplas.github.io/2022-Presentations/09-CBIO/" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
@@ -856,6 +861,11 @@ Bibtex
 
 
 
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2022-Presentations/08-IAI/" height="auto" width="80%">
+</iframe>
+</section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
 <p>International Association for Identification Meeting, Conference Workshop Omaha, NE</p>

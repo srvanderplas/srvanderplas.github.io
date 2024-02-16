@@ -32,4 +32,4 @@ I wrote and continue to update/improve a textbook, [Statistical Computing in R a
 
 - [Site](https://unl-statistics.github.io/R-workshops/README.html)
 
-- Offered: January 2023, May 2022, January 2022
+- Offered: January 2024, January 2023, May 2022, January 2022

@@ -6,7 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 
-keywords: ['inconclusives', 'firearms', 'error rates', 'forensics', 'Talk']
+keywords: [inconclusives, firearms, error rates, forensics, Talk]
 format:
   html:
     code-copy: true

@@ -6,7 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 image: "clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.png"
-keywords: ['user testing', 'perception', 'visual inference', 'Talk']
+keywords: [user testing, perception, visual inference, Talk]
 format:
   html:
     code-copy: true

@@ -6,7 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 image: "big-data-big-experiments-and-big-problems.png"
-keywords: ['funny', 'data science', 'reproducibility', 'methods', 'design', 'Talk']
+keywords: [funny, data science, reproducibility, methods, design, Talk]
 format:
   html:
     code-copy: true

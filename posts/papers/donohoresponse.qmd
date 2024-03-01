@@ -37,8 +37,3 @@ format:
 
 
 
-### Contribution
-
-Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.
-
-Writing (75\%)

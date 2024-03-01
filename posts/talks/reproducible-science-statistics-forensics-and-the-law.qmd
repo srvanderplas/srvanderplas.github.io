@@ -6,7 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 image: "reproducible-science-statistics-forensics-and-the-law.png"
-keywords: ['forensics', 'reproducibility', 'machine learning', 'firearms', 'error rates', 'inconclusives', 'advocacy', 'Talk']
+keywords: [forensics, reproducibility, machine learning, firearms, error rates, inconclusives, advocacy, Talk]
 format:
   html:
     code-copy: true

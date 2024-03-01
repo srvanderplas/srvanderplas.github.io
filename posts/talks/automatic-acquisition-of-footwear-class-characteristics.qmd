@@ -6,7 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 image: "automatic-acquisition-of-footwear-class-characteristics.png"
-keywords: ['computer vision', 'machine learning', 'forensics', 'perception', 'engineering', 'Talk']
+keywords: [computer vision, machine learning, forensics, perception, engineering, Talk]
 format:
   html:
     code-copy: true

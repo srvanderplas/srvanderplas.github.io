@@ -6,7 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 image: "cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.png"
-keywords: ['visualization', 'ag', 'design', 'Talk']
+keywords: [visualization, ag, design, Talk]
 format:
   html:
     code-copy: true

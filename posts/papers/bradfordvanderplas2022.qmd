@@ -2,7 +2,7 @@
 title: "Exploring Rural Shrink Smart Through Guided Discovery Dashboards"
 author: "Denise Bradford, Susan VanderPlas"
 date: "2022-12"
-image: "https://github.com/drbradford12/SDSS-2022/blob/main/SDSS%20Journal%20Paper/images/map.png?raw=true"
+
 categories: papers
 page-layout: full
 title-block-banner: true
@@ -12,7 +12,7 @@ format:
     code-copy: true
 ---
  
-![](https://github.com/drbradford12/SDSS-2022/blob/main/SDSS%20Journal%20Paper/images/map.png?raw=true){.preview-image}
+
  
 ## Citation
 > <a name=bib-bradfordvanderplas2022></a>[[1]](#cite-bradfordvanderplas2022) D. Bradford and S. VanderPlas. “Exploring Rural Shrink Smart Through Guided Discovery Dashboards”. In: _Journal of Data Science_ (Dec. 2022), pp. 1-12. ISSN: 1680-743X. DOI: [10.6339/22-JDS1080](https://doi.org/10.6339%2F22-JDS1080).
@@ -35,10 +35,5 @@ format:
 
 
 
-### Contribution
-
-Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.
-
-Programming and analysis (10\%), Writing (10\%), Advising (100\%)
 
 [{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/drbradford12/SDSS-Abstract-2022){.btn .btn-tip role="button"}

@@ -35,10 +35,5 @@ format:
 
 
 
-### Contribution
-
-Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.
-
-Programming and analysis (10\%), Writing (10\%), Advising (60\%)
 
 [{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era){.btn .btn-tip role="button"}

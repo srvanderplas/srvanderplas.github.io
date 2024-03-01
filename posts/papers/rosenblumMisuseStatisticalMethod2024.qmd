@@ -37,8 +37,3 @@ format:
 
 
 
-### Contribution
-
-Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.
-
-Writing (10\%). This paper is a collaboration between all authors resulting from discussions about the Guyll et al. paper.

@@ -6,7 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 image: "welcome-to-forensic-statistics.png"
-keywords: ['forensics', 'funny', 'data science', 'reproducibility', 'design', 'Talk']
+keywords: [forensics, funny, data science, reproducibility, design, Talk]
 format:
   html:
     code-copy: true

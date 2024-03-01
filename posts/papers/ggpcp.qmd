@@ -34,10 +34,5 @@ format:
 
 
 
-### Contribution
-
-Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.
-
-Writing (50\%)
 
 [{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/srvanderplas/ggpcp-paper){.btn .btn-tip role="button"}

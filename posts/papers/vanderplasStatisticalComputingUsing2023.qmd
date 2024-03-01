@@ -32,8 +32,3 @@ format:
 
 
 
-### Contribution
-
-Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.
-
-Writing (100\%). This online textbook is published on Github and continually updated. It serves UNL Stat 850, Stat 151, and Stat 251 and has been used in classes at California Polytechnic and Chadron State College.

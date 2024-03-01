@@ -6,7 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 
-keywords: ['forensics', 'firearms', 'machine learning', 'Talk']
+keywords: [forensics, firearms, machine learning, Talk]
 format:
   html:
     code-copy: true

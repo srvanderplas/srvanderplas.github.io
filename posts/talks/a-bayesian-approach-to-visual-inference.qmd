@@ -6,7 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 
-keywords: ['user testing', 'visual inference', 'perception', 'Talk']
+keywords: [user testing, visual inference, perception, Talk]
 format:
   html:
     code-copy: true

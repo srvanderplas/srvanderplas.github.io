@@ -5,7 +5,7 @@ date: "2020-03-11"
 categories: talks
 page-layout: full
 title-block-banner: true
-image: "posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.png"
+image: "statistical-evaluation-of-firearms-and-toolmark-evidence.png"
 keywords: ['forensics', 'firearms', 'inconclusives', 'error rates', 'Talk']
 format:
   html:

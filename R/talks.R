@@ -150,7 +150,7 @@ get_image_link <- function(params, path = "posts/talks") {
     img_acquired <- ""
   }
 
-  return(img_acquired)
+  return(basename(img_acquired))
 }
 
 # This function writes out a qmd file in the correct directory corresponding to a post

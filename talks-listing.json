@@ -1,6 +1,8 @@
 {
   "listing": "/talks.html",
   "items": [
+    "/posts/talks/building-a-cv-with-r-and-google-sheets.html",
+    "/posts/talks/using-git-submodules.html",
     "/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html",
     "/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html",
     "/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",

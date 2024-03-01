@@ -5,7 +5,7 @@ date: "2018-08-01"
 categories: talks
 page-layout: full
 title-block-banner: true
-image: "posts/talks/framed-charts-in-the-statistical-atlas.png"
+image: "framed-charts-in-the-statistical-atlas.png"
 keywords: ['statistical atlas', 'visualization', 'design', 'user testing', 'public data', 'Talk']
 format:
   html:

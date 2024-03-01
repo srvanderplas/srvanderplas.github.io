@@ -1,8 +1,8 @@
 {
   "listing": "/publications.html",
   "items": [
-    "/posts/papers/rosenblumMisuseStatisticalMethod2024.html",
     "/posts/papers/vanderplasStatisticalComputingUsing2023.html",
+    "/posts/papers/rosenblumMisuseStatisticalMethod2024.html",
     "/posts/papers/robinsonEyeFittingStraight2023.html",
     "/posts/papers/ggpcp.html",
     "/posts/papers/cmcR.html",

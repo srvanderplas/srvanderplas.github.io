@@ -5,6 +5,7 @@ date: "2021-04-09"
 categories: talks
 page-layout: full
 title-block-banner: true
+image: "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.png"
 keywords: ['extension', 'data science', 'reproducibility', 'public data', 'Talk']
 format:
   html:
@@ -13,7 +14,7 @@ format:
  
 ## Slides
 
-<iframe src='https://srvanderplas.github.io/Presentations/2021-QQPM-Rural-Smart-Shrinkage/#1' height='auto' width='80%'>
+<iframe src='https://srvanderplas.github.io/2021-Presentations/04-QQPM-Rural-Smart-Shrinkage/#1' height='auto' width='80%'>
                         </iframe>
 ## Location
 University of Nebraska - Lincoln

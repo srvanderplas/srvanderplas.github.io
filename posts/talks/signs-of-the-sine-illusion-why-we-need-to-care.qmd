@@ -5,6 +5,7 @@ date: "2013-08-07"
 categories: talks
 page-layout: full
 title-block-banner: true
+
 keywords: ['illusion', 'perception', 'user testing', 'Talk']
 format:
   html:

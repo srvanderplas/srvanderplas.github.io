@@ -5,6 +5,7 @@ date: "2014-08-04"
 categories: talks
 page-layout: full
 title-block-banner: true
+image: "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.png"
 keywords: ['illusion', 'perception', 'user testing', 'visualization', 'Talk']
 format:
   html:

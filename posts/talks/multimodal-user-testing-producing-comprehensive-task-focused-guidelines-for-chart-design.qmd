@@ -5,7 +5,8 @@ date: "2023-12-14"
 categories: talks
 page-layout: full
 title-block-banner: true
-keywords: ['NA', 'Talk']
+image: "posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.png"
+keywords: ['graphics', 'visualization,', 'Talk']
 format:
   html:
     code-copy: true
@@ -13,7 +14,7 @@ format:
  
 ## Slides
 
-<iframe src='http://srvanderplas.github.io/Presentations/2023-ASC/index.html' height='auto' width='80%'>
+<iframe src='http://srvanderplas.github.io/2023-Presentations/12-ASC/index.html' height='auto' width='80%'>
                         </iframe>
 ## Location
 

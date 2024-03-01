@@ -1,0 +1,22 @@
+---
+title: "Using Git Submodules"
+author: "Susan Vanderplas"
+date: "2024-02-08"
+categories: talks
+page-layout: full
+title-block-banner: true
+image: "posts/talks/using-git-submodules.png"
+keywords: ['computing', 'reproducibility', 'data', 'workflow', 'Talk']
+format:
+  html:
+    code-copy: true
+---
+ 
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2024-Presentations/02-graphics-git-submodules/#/title-slide' height='auto' width='80%'>
+                        </iframe>
+## Location
+University of Nebraska
+Graphics Group, Interest Group
+Online

@@ -5,6 +5,7 @@ date: "2015-08-10"
 categories: talks
 page-layout: full
 title-block-banner: true
+image: "posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.png"
 keywords: ['R package', 'animation', 'interactivity', 'exploratory data analysis', 'visualization', 'Talk']
 format:
   html:

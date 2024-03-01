@@ -5,6 +5,7 @@ date: "2020-02-11"
 categories: talks
 page-layout: full
 title-block-banner: true
+image: "posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.png"
 keywords: ['visual inference', 'user testing', 'perception', 'Talk']
 format:
   html:
@@ -13,7 +14,7 @@ format:
  
 ## Slides
 
-<iframe src='https://srvanderplas.github.io/Presentations/2020-SDSU/#1' height='auto' width='80%'>
+<iframe src='https://srvanderplas.github.io/2020-Presentations/02-SDSU/' height='auto' width='80%'>
                         </iframe>
 ## Location
 South Dakota State University

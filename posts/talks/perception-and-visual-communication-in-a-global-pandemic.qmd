@@ -5,6 +5,7 @@ date: "2020-07-29"
 categories: talks
 page-layout: full
 title-block-banner: true
+image: "posts/talks/perception-and-visual-communication-in-a-global-pandemic.png"
 keywords: ['visualization', 'covid', 'design', 'Talk']
 format:
   html:
@@ -13,7 +14,7 @@ format:
  
 ## Slides
 
-<iframe src='https://srvanderplas.github.io/Presentations/2020-DSSV/#1' height='auto' width='80%'>
+<iframe src='https://srvanderplas.github.io/2020-Presentations/07-DSSV/' height='auto' width='80%'>
                         </iframe>
 ## Location
 SAMSI

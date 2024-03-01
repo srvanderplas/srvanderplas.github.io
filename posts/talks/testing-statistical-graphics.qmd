@@ -5,6 +5,7 @@ date: "2023-08-08"
 categories: talks
 page-layout: full
 title-block-banner: true
+image: "posts/talks/testing-statistical-graphics.png"
 keywords: ['user testing', 'visualization', 'design', 'perception', 'Talk']
 format:
   html:
@@ -13,7 +14,7 @@ format:
  
 ## Slides
 
-<iframe src='http://srvanderplas.github.io/Presentations/2023-JSM-Testing-Graphics/' height='auto' width='80%'>
+<iframe src='http://srvanderplas.github.io/2023-Presentations/08-JSM-Testing-Graphics/' height='auto' width='80%'>
                         </iframe>
 ## Location
 Section on Statistical Graphics

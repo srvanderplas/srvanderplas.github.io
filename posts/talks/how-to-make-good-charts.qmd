@@ -5,6 +5,7 @@ date: "2022-09-22"
 categories: talks
 page-layout: full
 title-block-banner: true
+image: "posts/talks/how-to-make-good-charts.png"
 keywords: ['visualization', 'design', 'Talk']
 format:
   html:
@@ -13,7 +14,7 @@ format:
  
 ## Slides
 
-<iframe src='https://srvanderplas.github.io/Presentations/2022-CBIO/' height='auto' width='80%'>
+<iframe src='https://srvanderplas.github.io/2022-Presentations/09-CBIO/' height='auto' width='80%'>
                         </iframe>
 ## Location
 University of Nebraska - Lincoln

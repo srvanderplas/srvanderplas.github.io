@@ -5,6 +5,7 @@ date: "2022-03-24"
 categories: talks
 page-layout: full
 title-block-banner: true
+image: "posts/talks/automatic-acquisition-of-footwear-class-characteristics.png"
 keywords: ['computer vision', 'machine learning', 'forensics', 'perception', 'engineering', 'Talk']
 format:
   html:
@@ -13,7 +14,7 @@ format:
  
 ## Slides
 
-<iframe src='https://srvanderplas.github.io/Presentations/2022-CSAFE-Webinar/#1' height='auto' width='80%'>
+<iframe src='https://srvanderplas.github.io/2022-Presentations/03-CSAFE-Webinar/#1' height='auto' width='80%'>
                         </iframe>
 ## Location
 

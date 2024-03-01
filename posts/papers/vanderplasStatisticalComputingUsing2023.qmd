@@ -1,7 +1,7 @@
 ---
 title: "Statistical Computing Using R and Python"
 author: "Susan Vanderplas"
-date: "2023-11-01"
+date: "2024-02-14"
 
 categories: papers
 page-layout: full
@@ -15,7 +15,7 @@ format:
 
  
 ## Citation
-> <a name=bib-vanderplasStatisticalComputingUsing2023></a>[[1]](#cite-vanderplasStatisticalComputingUsing2023) S. Vanderplas. _Statistical Computing Using R and Python_. Nov. 01, 2023. URL: [https://srvanderplas.github.io/stat-computing-r-python/](https://srvanderplas.github.io/stat-computing-r-python/) (visited on 07/06/2023).
+> <a name=bib-vanderplasStatisticalComputingUsing2023></a>[[1]](#cite-vanderplasStatisticalComputingUsing2023) S. Vanderplas. _Statistical Computing Using R and Python_. Feb. 14, 2024. URL: [https://srvanderplas.github.io/stat-computing-r-python/](https://srvanderplas.github.io/stat-computing-r-python/).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -23,10 +23,9 @@ format:
 @misc{vanderplasStatisticalComputingUsing2023,
   title = {Statistical {{Computing}} Using {{R}} and {{Python}}},
   author = {Susan Vanderplas},
-  year = {2023},
-  month = {6},
+  year = {2024},
   url = {https://srvanderplas.github.io/stat-computing-r-python/},
-  note = {Last visited on 07/06/2023},
+  month = {feb},
 }
 ```
 :::

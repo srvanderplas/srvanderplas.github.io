@@ -5,6 +5,7 @@ date: "2024-01-09"
 categories: talks
 page-layout: full
 title-block-banner: true
+image: "posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.png"
 keywords: ['visualization', 'ag', 'design', 'Talk']
 format:
   html:

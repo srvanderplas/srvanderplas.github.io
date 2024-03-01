@@ -2,8 +2,8 @@
   {
     "listing": "/publications.html",
     "items": [
-      "/posts/papers/rosenblumMisuseStatisticalMethod2024.html",
       "/posts/papers/vanderplasStatisticalComputingUsing2023.html",
+      "/posts/papers/rosenblumMisuseStatisticalMethod2024.html",
       "/posts/papers/robinsonEyeFittingStraight2023.html",
       "/posts/papers/ggpcp.html",
       "/posts/papers/cmcR.html",
@@ -33,6 +33,8 @@
   {
     "listing": "/talks.html",
     "items": [
+      "/posts/talks/building-a-cv-with-r-and-google-sheets.html",
+      "/posts/talks/using-git-submodules.html",
       "/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html",
       "/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html",
       "/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
@@ -68,12 +70,14 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/talks/building-a-cv-with-r-and-google-sheets.html",
+      "/posts/papers/vanderplasStatisticalComputingUsing2023.html",
+      "/posts/talks/using-git-submodules.html",
       "/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html",
       "/posts/papers/rosenblumMisuseStatisticalMethod2024.html",
       "/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html",
       "/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
       "/posts/other/wire-measurements.html",
-      "/posts/papers/vanderplasStatisticalComputingUsing2023.html",
       "/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html",
       "/posts/papers/robinsonEyeFittingStraight2023.html",
       "/posts/talks/testing-statistical-graphics.html",

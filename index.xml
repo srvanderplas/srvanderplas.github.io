@@ -10,7 +10,114 @@
 <atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.550</generator>
-<lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Building a CV with R and Google Sheets</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/building-a-cv-with-r-and-google-sheets.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/02-graphics-cv/" height="auto" width="80%">
+</iframe>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p>University of Nebraska Graphics Group, Interest Group Online</p>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/building-a-cv-with-r-and-google-sheets.html</guid>
+  <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/building-a-cv-with-r-and-google-sheets.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Statistical Computing Using R and Python</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/vanderplasStatisticalComputingUsing2023.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-vanderplasStatisticalComputingUsing2023"></a>[1] S. Vanderplas. <em>Statistical Computing Using R and Python</em>. Feb.&nbsp;14, 2024. URL: <a href="https://srvanderplas.github.io/stat-computing-r-python/">https://srvanderplas.github.io/stat-computing-r-python/</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@misc{vanderplasStatisticalComputingUsing2023,
+  title = {Statistical {{Computing}} Using {{R}} and {{Python}}},
+  author = {Susan Vanderplas},
+  year = {2024},
+  url = {https://srvanderplas.github.io/stat-computing-r-python/},
+  month = {feb},
+}</code></pre>
+</div>
+</div>
+</div>
+<section id="contribution" class="level3">
+<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
+<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
+<p>Writing (100%). This online textbook is published on Github and continually updated. It serves UNL Stat 850, Stat 151, and Stat 251 and has been used in classes at California Polytechnic and Chadron State College.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/vanderplasStatisticalComputingUsing2023.html</guid>
+  <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Using Git Submodules</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/using-git-submodules.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/02-graphics-git-submodules/#/title-slide" height="auto" width="80%">
+</iframe>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<p>University of Nebraska Graphics Group, Interest Group Online</p>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/using-git-submodules.html</guid>
+  <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/using-git-submodules.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>Cultivating Insights: Harnessing the Power of Data Visualization in Agriculture</title>
   <dc:creator>Susan Vanderplas</dc:creator>
@@ -37,6 +144,7 @@
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html</guid>
   <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. 2023</title>
@@ -106,7 +214,7 @@ Bibtex
 
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="http://srvanderplas.github.io/2023-Presentations/ASC/index.html" height="auto" width="80%">
+<iframe src="http://srvanderplas.github.io/2023-Presentations/12-ASC/index.html" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
@@ -120,6 +228,7 @@ Bibtex
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html</guid>
   <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>How Do You Define a Circle? Perception and Computer Vision Diagnostics</title>
@@ -147,6 +256,7 @@ Bibtex
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html</guid>
   <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Measuring Your Tools, for Science!</title>
@@ -239,58 +349,6 @@ Figure&nbsp;3: Different tool configurations. On the top row, there are cross-se
   <media:content url="https://i.imgur.com/kpMV6fO.png" medium="image" type="image/png"/>
 </item>
 <item>
-  <title>Statistical Computing Using R and Python</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/papers/vanderplasStatisticalComputingUsing2023.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-vanderplasStatisticalComputingUsing2023"></a>[1] S. Vanderplas. <em>Statistical Computing Using R and Python</em>. Nov.&nbsp;01, 2023. URL: <a href="https://srvanderplas.github.io/stat-computing-r-python/">https://srvanderplas.github.io/stat-computing-r-python/</a> (visited on 07/06/2023).</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@misc{vanderplasStatisticalComputingUsing2023,
-  title = {Statistical {{Computing}} Using {{R}} and {{Python}}},
-  author = {Susan Vanderplas},
-  year = {2023},
-  month = {6},
-  url = {https://srvanderplas.github.io/stat-computing-r-python/},
-  note = {Last visited on 07/06/2023},
-}</code></pre>
-</div>
-</div>
-</div>
-<section id="contribution" class="level3">
-<h3 class="anchored" data-anchor-id="contribution">Contribution</h3>
-<p>Writing and programming entries estimated from <code>git fame</code> for repositories where this would be meaningful.</p>
-<p>Writing (100%). This online textbook is published on Github and continually updated. It serves UNL Stat 850, Stat 151, and Stat 251 and has been used in classes at California Polytechnic and Chadron State College.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>papers</category>
-  <guid>srvanderplas.github.io/posts/papers/vanderplasStatisticalComputingUsing2023.html</guid>
-  <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
   <title>Graphics and Cognition: How Do We Perceive Charts?</title>
   <dc:creator>Susan Vanderplas</dc:creator>
   <link>srvanderplas.github.io/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html</link>
@@ -316,6 +374,7 @@ Bibtex
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html</guid>
   <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Eye Fitting Straight Lines in the Modern Era</title>
@@ -400,6 +459,7 @@ Bibtex
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/testing-statistical-graphics.html</guid>
   <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/testing-statistical-graphics.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>What Makes a Good Graph? Graphical Testing and Principles for Graph Design</title>
@@ -427,6 +487,7 @@ Bibtex
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html</guid>
   <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots</title>
@@ -809,7 +870,7 @@ Bibtex
 
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/2022-Presentations10-/StatDeptSeminar/#/title-slide" height="auto" width="80%">
+<iframe src="https://srvanderplas.github.io/2022-Presentations/10-StatDeptSeminar/#/title-slide" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
@@ -823,60 +884,7 @@ Bibtex
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.html</guid>
   <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>How to make good charts</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/2022-Presentations/09-CBIO/" height="auto" width="80%">
-</iframe>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>University of Nebraska - Lincoln Complex Biosystems, Department Seminar Lincoln, NE</p>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</guid>
-  <pubDate>Thu, 22 Sep 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis</title>
-  <dc:creator>Susan Vanderplas, Rick Stone</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/2022-Presentations/08-IAI/" height="auto" width="80%">
-</iframe>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>International Association for Identification Meeting, Conference Workshop Omaha, NE</p>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html</guid>
-  <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>

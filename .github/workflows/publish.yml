@@ -27,7 +27,10 @@ jobs:
           quarto --version
 
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install R
         uses: r-lib/actions/setup-r@v2

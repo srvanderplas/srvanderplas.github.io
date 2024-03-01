@@ -2,8 +2,7 @@ project:
   type: website
   output-dir: "_site"
   pre-render:
-    - R/pubs.R
-    - R/talks.R
+    - code/create_posts.R
 
 website:
   title: "Susan Vanderplas"

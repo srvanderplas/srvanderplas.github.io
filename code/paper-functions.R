@@ -1,28 +1,7 @@
-# This script reads in a bibtex file and generates posts for each paper in the file
-#
-# Configuration:
-#   Link to bib file
-pub_bib <- "data/CV.bib"
-# pub_bib <- "https://raw.githubusercontent.com/srvanderplas/CV/master/CV.bib"
-#   vector of package names in paper tiles
-pkg_names <- c("cmcR", "animint", "ggplot2", "ggenealogy")
-
-
-
-# R packages
-# library(googlesheets4)
-# gs4_auth(path = Sys.getenv('GS_AUTH'))
-library(magrittr)
-library(lubridate)
-library(dplyr)
-library(stringr)
-library(purrr)
-library(RefManageR)
-
 
 month_dict <- sprintf("%02d", c(1:12, 1:12, 1:12)) %>%
   as.list() %>%
-  set_names(c(month.abb, month.name, sprintf("%02d", 1:12)))
+  magrittr::set_names(c(month.abb, month.name, sprintf("%02d", 1:12)))
 
 
 # This function converts publications to a list of information necessary to make the post
@@ -58,15 +37,14 @@ pub_to_params <- function(entry) {
   post_params$citation <- capture.output(
     RefManageR::PrintBibliography(
       entry,
-      .opts = list(no.print.fields = "addendum",
+      .opts = list(no.print.fields = c("addendum", "keywords"),
                    style = "markdown",
-                   # bib.style = "authoryear",
                    first.inits = T,
                    dashed = F))
   ) %>%
     paste(collapse = " ")
 
-  post_params$citation <- str_replace(post_params$citation, "NA", "")
+  post_params$citation <- stringr::str_replace(post_params$citation, "NA", "")
 
   post_params$bibtex <-  capture.output(
     RefManageR::PrintBibliography(
@@ -85,11 +63,16 @@ pub_to_params <- function(entry) {
 
   if ("addendum" %in% names(entrylist)) {
     addendum <- entrylist[["addendum"]]
-    post_params$other <- c(post_params$other, "### Contribution", "", "Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.", "", addendum)
+    post_params$other <- c(post_params$other,
+                           "### Contribution",
+                           "",
+                           "Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.", "",
+                           addendum)
   }
 
   if ("keywords" %in% names(entrylist)) {
-    post_params$keywords <- stringr::str_split(entrylist$keywords, ",")
+    post_params$keywords <- stringr::str_split(
+      entrylist$keywords, ",")
   } else {
     post_params$keywords <- ""
   }
@@ -165,17 +148,3 @@ create_paper <- function(params, path = "posts/papers") {
   writeLines(md_lines, con = file.path(path, post_name))
 }
 
-
-bibfile <- readLines(pub_bib)
-# Remove author annotations for now
-bibfile <- bibfile[!grepl("\\+an", bibfile)]
-tfile <- tempfile(fileext = ".bib")
-writeLines(bibfile, tfile)
-pubs <- RefManageR::ReadBib(tfile)
-# pub_df <- as.data.frame(pubs)
-
-pkg_names_fix <- paste("`", pkg_names, "`", sep = "")
-names(pkg_names_fix) <- pkg_names
-
-pub_info <- lapply(pubs, pub_to_params)
-purrr::walk(pub_info, create_paper)

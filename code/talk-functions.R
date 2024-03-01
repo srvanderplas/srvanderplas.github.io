@@ -1,24 +1,6 @@
-# library(googlesheets4)
-# gs4_auth(path = Sys.getenv('GS_AUTH'))
-# Update to match your info
-# sheet_link <- "https://docs.google.com/spreadsheets/d/1zOKie2rqIcxQMuAzn1g7K-2_O5yOhHo2QD7EAGjeFzs/edit?usp=sharing"
-# talk_data <- read_sheet(sheet_link, sheet = "Talks")
-
-library(lubridate)
-library(dplyr)
-library(stringr)
-library(purrr)
-library(webshot2)
-library(readxl)
-
-talk_data <- read_xlsx("data/CV.xlsx", sheet = "Talks")
-
-talk_order <- c("Invited", "Contributed", "Seminars")
-
-
 
 format_abstract <- function(x) {
-  if_else(
+  dplyr::if_else(
     is.na(x), "",
     paste("## Abstract",
           paste("> ", x, collapse = "\n"),
@@ -26,7 +8,7 @@ format_abstract <- function(x) {
 }
 
 format_slides <- function(x) {
-  if_else(
+  dplyr::if_else(
     is.na(x), "",
     paste("## Slides",
           sprintf("<iframe src='%s' height='auto' width='80%%'>
@@ -36,13 +18,13 @@ format_slides <- function(x) {
 }
 
 format_keywords <- function(x) {
-  y <- str_split(x, ", ", simplify = F)
-  y <- map(y, append, values = "Talk")
+  y <- stringr::str_split(x, ", ", simplify = F)
+  y <- purrr::map(y, append, values = "Talk")
   y
 }
 
 talk_to_params <- function(df) {
-  post_params <- select(
+  post_params <- dplyr::select(
     df,
     title = Title,
     author = Authors,
@@ -52,7 +34,9 @@ talk_to_params <- function(df) {
     url = Link,
     image = Image,
     keywords = Keywords) %>%
-    mutate(name = title %>% str_to_lower %>% str_replace_all("[^[a-z]]{1,}", "-"),
+    dplyr::mutate(name = title %>%
+                    stringr::str_to_lower() %>%
+                    stringr::str_replace_all("[^[a-z]]{1,}", "-"),
            date = format.Date(date, "%Y-%m-%d"),
            abstract = format_abstract(abstract),
            slides = format_slides(slides),
@@ -63,7 +47,7 @@ talk_to_params <- function(df) {
                                df$Event, df$EventType,
                                df$Location) %>%
     # Remove any missing information
-    str_remove_all("( ,)?NA( ,)?")
+    stringr::str_remove_all("( ,)?NA( ,)?")
 
   post_params
 }
@@ -82,7 +66,7 @@ yaml_kv <- function(key,value) {
 # yaml_kv("keywords", value = c("1", "2", "3"))
 
 make_post_name <- function(name) {
-  str_replace_all(name, "[[:punct:][:space:]]{1,}", "-")
+  stringr::str_replace_all(name, "[[:punct:][:space:]]{1,}", "-")
 }
 
 # https://stackoverflow.com/questions/52911812/check-if-url-exists-in-r
@@ -90,7 +74,7 @@ valid_url <- function(url_in,t=2){
   con <- url(url_in)
   check <- suppressWarnings(try(open.connection(con,open="rt",timeout=t),silent=T)[1])
   suppressWarnings(try(close.connection(con),silent=T))
-  ifelse(is.null(check),TRUE,FALSE)
+  return(is.null(check))
 }
 
 screenshot_slides <- function(url, output_file, width = 1920, height = 1080, ...) {
@@ -108,7 +92,7 @@ get_image <- function(x, output_file, verbose = F, ...) {
     # Handle case where image is a file path - copy to posts/talks/file-name
     ext <- tools::file_ext(x)
     ext2 <- tools::file_ext(output_file)
-    output_file <- str_replace(output_file, paste0(ext, "$"), ext2)
+    output_file <- stringr::str_replace(output_file, paste0(ext, "$"), ext2)
     if(file.copy(x, output_file)) {
       return(output_file)
     } else {
@@ -173,8 +157,8 @@ create_talk <- function(params, path = "posts/talks") {
            yaml_kv("image", post_img),
            ""),
     ifelse(length(params$keywords) > 0,
-      yaml_kv("keywords", params$keywords),
-      ""),
+           yaml_kv("keywords", params$keywords),
+           ""),
     "format:",
     "  html:",
     "    code-copy: true",
@@ -186,11 +170,4 @@ create_talk <- function(params, path = "posts/talks") {
 
   writeLines(md_lines, con = file.path(path, post_name))
 }
-
-
-
-talk_data %>%
-  talk_to_params %>%
-  purrr::transpose() %>%
-  walk(., create_talk)
 

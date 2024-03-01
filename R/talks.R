@@ -1,17 +1,21 @@
 # library(googlesheets4)
+# gs4_auth(path = Sys.getenv('GS_AUTH'))
+# Update to match your info
+# sheet_link <- "https://docs.google.com/spreadsheets/d/1zOKie2rqIcxQMuAzn1g7K-2_O5yOhHo2QD7EAGjeFzs/edit?usp=sharing"
+# talk_data <- read_sheet(sheet_link, sheet = "Talks")
+
 library(lubridate)
 library(dplyr)
 library(stringr)
 library(purrr)
 library(webshot2)
+library(readxl)
 
-# gs4_auth(path = Sys.getenv('GS_AUTH'))
+talk_data <- read_xlsx("data/CV.xlsx", sheet = "Talks")
 
-# Update to match your info
-sheet_link <- "https://docs.google.com/spreadsheets/d/1zOKie2rqIcxQMuAzn1g7K-2_O5yOhHo2QD7EAGjeFzs/edit?usp=sharing"
 talk_order <- c("Invited", "Contributed", "Seminars")
 
-talk_data <- read_sheet(sheet_link, sheet = "Talks")
+
 
 format_abstract <- function(x) {
   if_else(

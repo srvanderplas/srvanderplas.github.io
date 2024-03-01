@@ -2,7 +2,8 @@
 #
 # Configuration:
 #   Link to bib file
-pub_bib <- "https://raw.githubusercontent.com/srvanderplas/CV/master/CV.bib"
+pub_bib <- "data/CV.bib"
+# pub_bib <- "https://raw.githubusercontent.com/srvanderplas/CV/master/CV.bib"
 #   vector of package names in paper tiles
 pkg_names <- c("cmcR", "animint", "ggplot2", "ggenealogy")
 
@@ -10,6 +11,7 @@ pkg_names <- c("cmcR", "animint", "ggplot2", "ggenealogy")
 
 # R packages
 # library(googlesheets4)
+# gs4_auth(path = Sys.getenv('GS_AUTH'))
 library(magrittr)
 library(lubridate)
 library(dplyr)
@@ -17,7 +19,6 @@ library(stringr)
 library(purrr)
 library(RefManageR)
 
-# gs4_auth(path = Sys.getenv('GS_AUTH'))
 
 month_dict <- sprintf("%02d", c(1:12, 1:12, 1:12)) %>%
   as.list() %>%

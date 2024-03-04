@@ -1,5 +1,4 @@
 
-
 # https://stackoverflow.com/questions/52911812/check-if-url-exists-in-r
 valid_url <- function(url_in,t=2){
   con <- url(url_in)
@@ -32,7 +31,13 @@ get_image <- function(x, output_file, verbose = F, ...) {
   } else {
     if (valid_url(x)) {
       if (!file.exists(output_file)) {
-        screenshot_slides(x, output_file, ...)
+        if (stringr::str_detect(x, "\\.svg$")) {
+          # webshot doesn't screenshot svgs without issues... this is faster.
+          output_file <- stringr::str_replace(output_file, "\\.png$", ".svg")
+          download.file(x, destfile = output_file, mode = "wb")
+        } else {
+          screenshot_slides(x, output_file, ...)
+        }
       } else {
         if(verbose) message("File exists, will not overwrite")
       }

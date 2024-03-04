@@ -18,5 +18,6 @@ format:
                         </iframe>
 ## Location
 
-Australian Statistical Conference, Conference
-Wollongong, NSW, AUS
+    , Australian Statistical Conference
+    Event Type: Conference
+    Location: Wollongong, NSW, AUS

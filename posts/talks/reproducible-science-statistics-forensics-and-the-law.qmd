@@ -17,6 +17,7 @@ format:
 <iframe src='https://srvanderplas.github.io/2022-Presentations/10-StatDeptSeminar/#/title-slide' height='auto' width='80%'>
                         </iframe>
 ## Location
-University of Nebraska - Lincoln
-Statistics, Department Seminar
-Lincoln, NE
+
+    University of Nebraska - Lincoln, Statistics
+    Event Type: Department Seminar
+    Location: Lincoln, NE

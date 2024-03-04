@@ -1,0 +1,38 @@
+---
+title: "An introduction to firearms examination for researchers in statistics"
+author: "Susan Vanderplas, Alicia Carriquiry, Heike Hofmann, James Hamby, Xiao Hui Tai"
+date: "2020"
+image: "https://github.com/srvanderplas/2019_book_chapter/blob/master/figure/Luger-Cutaway.png?raw=true"
+categories: papers
+page-layout: full
+title-block-banner: true
+keywords: [pr,  forensics,  firearms,  algorithms,  machine learning]
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://github.com/srvanderplas/2019_book_chapter/blob/master/figure/Luger-Cutaway.png?raw=true){.preview-image}
+ 
+## Citation
+> <a name=bib-vanderplasIntroductionFirearmsExamination2020></a>[[1]](#cite-vanderplasIntroductionFirearmsExamination2020) S. Vanderplas, A. Carriquiry, H. Hofmann, et al. “An introduction to firearms examination for researchers in statistics”. In: _Handbook of Forensic Statistics_. Ed. by Banks, D., Kafadar, K., Kaye, D. and Tackett, M.. New York: Chapman and Hall/CRC, 2020. DOI: [https://doi.org/10.1201/9780367527709](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1201%2F9780367527709).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@incollection{vanderplasIntroductionFirearmsExamination2020,
+  title = {An introduction to firearms examination for researchers in statistics},
+  doi = {https://doi.org/10.1201/9780367527709},
+  booktitle = {Handbook of {Forensic} {Statistics}},
+  publisher = {New York: Chapman and Hall/CRC},
+  author = {Susan Vanderplas and Alicia Carriquiry and Heike Hofmann and James Hamby and Xiao Hui Tai},
+  editor = {{Banks, D.} and {Kafadar, K.} and {Kaye, D.} and {Tackett, M.}},
+  year = {2020},
+}
+```
+:::
+
+
+
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/srvanderplas/2019_book_chapter){.btn .btn-tip role="button"}

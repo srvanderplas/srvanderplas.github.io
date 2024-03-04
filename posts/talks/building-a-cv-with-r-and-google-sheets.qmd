@@ -17,6 +17,7 @@ format:
 <iframe src='https://srvanderplas.github.io/2024-Presentations/02-graphics-cv/' height='auto' width='80%'>
                         </iframe>
 ## Location
-University of Nebraska
-Graphics Group, Interest Group
-Online
+
+    University of Nebraska, Graphics Group
+    Event Type: Interest Group
+    Location: Online

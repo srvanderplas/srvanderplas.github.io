@@ -18,5 +18,6 @@ format:
                         </iframe>
 ## Location
 
-Center for Statistical Applications in Forensic Evidence, Webinar
-Online
+    , Center for Statistical Applications in Forensic Evidence
+    Event Type: Webinar
+    Location: Online

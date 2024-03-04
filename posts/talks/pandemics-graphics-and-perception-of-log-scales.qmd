@@ -17,6 +17,7 @@ format:
 <iframe src='https://srvanderplas.github.io/2022-Presentations/04-UNO/#1' height='auto' width='80%'>
                         </iframe>
 ## Location
-University of Nebraska - Omaha
-Math, Department Seminar
-Omaha, NE
+
+    University of Nebraska - Omaha, Math
+    Event Type: Department Seminar
+    Location: Omaha, NE

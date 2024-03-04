@@ -17,6 +17,7 @@ format:
 <iframe src='https://srvanderplas.github.io/Presentation-Archive/JSM2019/#1' height='auto' width='80%'>
                         </iframe>
 ## Location
-Section on Statistical Graphics
-JSM, Conference
-Denver, CO
+
+    Section on Statistical Graphics, JSM
+    Event Type: Conference
+    Location: Denver, CO

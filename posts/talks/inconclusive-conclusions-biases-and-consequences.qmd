@@ -17,6 +17,7 @@ format:
 <iframe src='http://srvanderplas.github.io/2023-Presentations/02-Hopkins-Inconclusives' height='auto' width='80%'>
                         </iframe>
 ## Location
-Johns Hopkins University
-Biostatistics, Department Seminar
-Baltimore, MD
+
+    Johns Hopkins University, Biostatistics
+    Event Type: Department Seminar
+    Location: Baltimore, MD

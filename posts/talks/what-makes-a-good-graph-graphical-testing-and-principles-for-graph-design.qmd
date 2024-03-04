@@ -17,6 +17,7 @@ format:
 <iframe src='http://srvanderplas.github.io/2023-Presentations/03-C3B' height='auto' width='80%'>
                         </iframe>
 ## Location
-University of Nebraska
-Center for Brain, Biology, and Behavior, Department Seminar
-Lincoln, NE
+
+    University of Nebraska, Center for Brain, Biology, and Behavior
+    Event Type: Department Seminar
+    Location: Lincoln, NE

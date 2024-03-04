@@ -17,6 +17,7 @@ format:
 <iframe src='https://srvanderplas.github.io/2020-Presentations/07-DSSV/' height='auto' width='80%'>
                         </iframe>
 ## Location
-SAMSI
-Data Science, Statistics, and Visualization, Conference
-Online
+
+    SAMSI, Data Science, Statistics, and Visualization
+    Event Type: Conference
+    Location: Online

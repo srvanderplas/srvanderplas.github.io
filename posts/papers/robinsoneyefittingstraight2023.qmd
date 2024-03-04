@@ -1,0 +1,39 @@
+---
+title: "Eye Fitting Straight Lines in the Modern Era"
+author: "Emily A. Robinson, Reka Howard, Susan VanderPlas"
+date: "2023-10-02"
+image: "https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true"
+categories: papers
+page-layout: full
+title-block-banner: true
+keywords: [pr,  perception,  user testing,  visualization]
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true){.preview-image}
+ 
+## Citation
+> <a name=bib-robinsonEyeFittingStraight2023></a>[[1]](#cite-robinsonEyeFittingStraight2023) E. A. Robinson, R. Howard, and S. VanderPlas. “Eye Fitting Straight Lines in the Modern Era”. In: _Journal of Computational and Graphical Statistics_ 32.4 (Oct. 02, 2023), pp. 1537-1544. ISSN: 1061-8600. DOI: [10.1080/10618600.2022.2140668](https://doi.org/10.1080%2F10618600.2022.2140668).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{robinsonEyeFittingStraight2023,
+  title = {Eye Fitting Straight Lines in the Modern Era},
+  volume = {32},
+  doi = {10.1080/10618600.2022.2140668},
+  pages = {1537--1544},
+  number = {4},
+  author = {Emily A. Robinson and Reka Howard and Susan VanderPlas},
+  year = {2023},
+  month = {oct},
+}
+```
+:::
+
+
+
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era){.btn .btn-tip role="button"}

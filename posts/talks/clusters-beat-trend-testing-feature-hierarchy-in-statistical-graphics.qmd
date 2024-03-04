@@ -18,5 +18,6 @@ format:
                         </iframe>
 ## Location
 
-SDSS, Conference
-Reston, VA
+    , SDSS
+    Event Type: Conference
+    Location: Reston, VA

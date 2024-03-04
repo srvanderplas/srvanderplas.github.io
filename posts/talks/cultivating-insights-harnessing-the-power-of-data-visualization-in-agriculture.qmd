@@ -18,5 +18,6 @@ format:
                         </iframe>
 ## Location
 
-International Conference for On-Farm Precision Experimentation, Conference
-Corpus Christie, TX
+    , International Conference for On-Farm Precision Experimentation
+    Event Type: Conference
+    Location: Corpus Christie, TX

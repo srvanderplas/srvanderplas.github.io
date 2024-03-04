@@ -18,5 +18,6 @@ format:
                         </iframe>
 ## Location
 
-International Association for Identification Meeting, Conference Workshop
-Omaha, NE
+    , International Association for Identification Meeting
+    Event Type: Conference Workshop
+    Location: Omaha, NE

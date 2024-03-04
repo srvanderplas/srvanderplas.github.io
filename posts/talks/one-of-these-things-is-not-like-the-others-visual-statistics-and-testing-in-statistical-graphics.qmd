@@ -17,6 +17,7 @@ format:
 <iframe src='https://srvanderplas.github.io/2020-Presentations/02-SDSU/' height='auto' width='80%'>
                         </iframe>
 ## Location
-South Dakota State University
-Data Science Symposium, Conference
-Brookings, SD
+
+    South Dakota State University, Data Science Symposium
+    Event Type: Conference
+    Location: Brookings, SD

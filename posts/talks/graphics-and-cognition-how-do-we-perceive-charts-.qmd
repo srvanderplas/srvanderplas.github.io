@@ -17,6 +17,7 @@ format:
 <iframe src='http://srvanderplas.github.io/2023-Presentations/10-Graphics-Cognition/' height='auto' width='80%'>
                         </iframe>
 ## Location
-University of Nebraska-Lincoln, Iowa State University, and other interested affiliates
-Graphics Group, Interest Group
-Online
+
+    University of Nebraska-Lincoln, Iowa State University, and other interested affiliates, Graphics Group
+    Event Type: Interest Group
+    Location: Online

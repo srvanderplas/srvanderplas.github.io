@@ -18,5 +18,6 @@ format:
                         </iframe>
 ## Location
 
-Data Mishaps Night, Meetup
-Online
+    , Data Mishaps Night
+    Event Type: Meetup
+    Location: Online

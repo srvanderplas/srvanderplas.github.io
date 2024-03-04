@@ -1,0 +1,39 @@
+---
+title: "Comparison of three similarity scores for bullet LEA matching"
+author: "Susan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann"
+date: "2020-03-01"
+image: "https://github.com/heike/case-study-validation/blob/master/images/B8-B2-L2.png?raw=true"
+categories: papers
+page-layout: full
+title-block-banner: true
+keywords: [pr,  forensics,  firearms,  algorithms,  machine learning]
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://github.com/heike/case-study-validation/blob/master/images/B8-B2-L2.png?raw=true){.preview-image}
+ 
+## Citation
+> <a name=bib-vanderplasComparisonThreeSimilarity2020></a>[[1]](#cite-vanderplasComparisonThreeSimilarity2020) S. Vanderplas, M. Nally, T. Klep, et al. “Comparison of three similarity scores for bullet LEA matching”. In: _Forensic Science International_ 308 (Mar. 01, 2020), p. 110167. ISSN: 0379-0738. DOI: [https://doi.org/10.1016/j.forsciint.2020.110167](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.forsciint.2020.110167).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{vanderplasComparisonThreeSimilarity2020,
+  title = {Comparison of three similarity scores for bullet LEA matching},
+  author = {Susan Vanderplas and Melissa Nally and Tylor Klep and Cristina Cadevall and Heike Hofmann},
+  journal = {Forensic Science International},
+  volume = {308},
+  pages = {110167},
+  year = {2020},
+  doi = {https://doi.org/10.1016/j.forsciint.2020.110167},
+  month = {mar},
+}
+```
+:::
+
+
+
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/heike/case-study-validation){.btn .btn-tip role="button"}

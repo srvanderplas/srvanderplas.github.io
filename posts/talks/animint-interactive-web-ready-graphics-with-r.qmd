@@ -18,5 +18,6 @@ format:
                         </iframe>
 ## Location
 
-Great Plains R User Group, User Group
-Sioux Center, IA
+    , Great Plains R User Group
+    Event Type: User Group
+    Location: Sioux Center, IA

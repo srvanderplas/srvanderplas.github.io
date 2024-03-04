@@ -17,6 +17,7 @@ format:
 <iframe src='http://srvanderplas.github.io/2023-Presentations/08-JSM-Testing-Graphics/' height='auto' width='80%'>
                         </iframe>
 ## Location
-Section on Statistical Graphics
-JSM, Conference
-Toronto, ON, CA
+
+    Section on Statistical Graphics, JSM
+    Event Type: Conference
+    Location: Toronto, ON, CA

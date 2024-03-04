@@ -14,6 +14,7 @@ format:
  
 
 ## Location
-Section on Statistical Graphics
-JSM, Conference
-Montreal, ON, CA
+
+    Section on Statistical Graphics, JSM
+    Event Type: Conference
+    Location: Montreal, ON, CA

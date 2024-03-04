@@ -18,5 +18,6 @@ format:
                         </iframe>
 ## Location
 
-Plant and Animal Genome, Conference
-San Diego, CA
+    , Plant and Animal Genome
+    Event Type: Conference
+    Location: San Diego, CA

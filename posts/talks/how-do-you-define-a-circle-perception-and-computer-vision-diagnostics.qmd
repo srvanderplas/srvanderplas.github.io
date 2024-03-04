@@ -17,6 +17,7 @@ format:
 <iframe src='http://srvanderplas.github.io/2023-Presentations/12-IASCARS/' height='auto' width='80%'>
                         </iframe>
 ## Location
-Asian Regional Section Meeting
-International Association for Statistical Computing, Conference
-Macquarie, NSW, AUS
+
+    Asian Regional Section Meeting, International Association for Statistical Computing
+    Event Type: Conference
+    Location: Macquarie, NSW, AUS

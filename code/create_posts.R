@@ -17,8 +17,6 @@ talk_data <- read_xlsx("data/CV.xlsx", sheet ="Talks")
 
 if (!dir.exists("posts/talks")) dir.create("posts/talks", recursive = T)
 talk_data %>%
-  # Cleaning
-  mutate(across(everything(), ~str_remove(., ", ?$"))) %>%
   talk_to_params %>%
   purrr::transpose() %>%
   purrr::walk(., create_talk)

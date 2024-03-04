@@ -1,4 +1,10 @@
 
+format_post_name <- function(name) {
+  name %>%
+    stringr::str_to_lower() %>%
+    stringr::str_replace_all("[[:punct:][:space:]]{1,}", "-")
+}
+
 format_abstract <- function(x) {
   dplyr::if_else(
     is.na(x), "",
@@ -18,36 +24,60 @@ format_slides <- function(x) {
 }
 
 format_keywords <- function(x) {
-  y <- stringr::str_split(x, ", ", simplify = F)
+  y <- stringr::str_split(x, ", ", simplify = F) %>%
+    purrr::map(stringr::str_squish) %>%
+    purrr::map(~.[nchar(.) > 0])
   y <- purrr::map(y, append, values = "Talk")
   y
 }
 
-talk_to_params <- function(df) {
-  post_params <- dplyr::select(
-    df,
-    title = Title,
-    author = Authors,
-    date = Date,
-    abstract = Abstract,
-    slides = Link,
-    url = Link,
-    image = Image,
-    keywords = Keywords) %>%
-    dplyr::mutate(name = title %>%
-                    stringr::str_to_lower() %>%
-                    stringr::str_replace_all("[^[a-z]]{1,}", "-"),
-           date = format.Date(date, "%Y-%m-%d"),
-           abstract = format_abstract(abstract),
-           slides = format_slides(slides),
-           keywords = format_keywords(keywords))
+format_event <- function(df) {
+  stopifnot(all(c("Event2", "Event", "EventType", "Location") %in% names(df)))
 
-  post_params$event <- sprintf("## Location\n%s\n%s, %s\n%s",
-                               df$Event2,
-                               df$Event, df$EventType,
-                               df$Location) %>%
+  sprintf(
+    "## Location\n
+    %s, %s
+    Event Type: %s
+    Location: %s",
+    df$Event2,
+    df$Event, df$EventType,
+    df$Location) %>%
     # Remove any missing information
-    stringr::str_remove_all("( ,)?NA( ,)?")
+    stringr::str_remove_all("Event Type: NA    \\n") %>%
+    stringr::str_remove_all("Location: NA") %>%
+    stringr::str_remove_all("(\\s,)?NA(\\s,)?")
+}
+
+talk_to_params <- function(df) {
+  post_params <- df %>%
+    # Combine event data into a larger
+    # event string with all 4 fields
+    tidyr::nest(
+      eventdata = c(Event2, Event, EventType, Location)
+    ) %>%
+    dplyr::mutate(
+      event = purrr::map_chr(eventdata, format_event)
+    ) %>%
+    # Select cols corresponding to fields
+    dplyr::select(
+      title = Title,
+      author = Authors,
+      date = Date,
+      abstract = Abstract,
+      slides = Link,
+      url = Link,
+      image = Image,
+      keywords = Keywords,
+      event
+    ) %>%
+    # Create/format simple fields
+    dplyr::mutate(
+      name = format_post_name(title),
+      date = format.Date(date, "%Y-%m-%d"),
+      abstract = format_abstract(abstract),
+      slides = format_slides(slides),
+      keywords = format_keywords(keywords))
+
 
   post_params
 }
@@ -64,10 +94,6 @@ yaml_kv <- function(key,value) {
 }
 # yaml_kv("test", 1)
 # yaml_kv("keywords", value = c("1", "2", "3"))
-
-make_post_name <- function(name) {
-  stringr::str_replace_all(name, "[[:punct:][:space:]]{1,}", "-")
-}
 
 # https://stackoverflow.com/questions/52911812/check-if-url-exists-in-r
 valid_url <- function(url_in,t=2){
@@ -115,7 +141,7 @@ get_image <- function(x, output_file, verbose = F, ...) {
 
 get_image_link <- function(params, path = "posts/talks") {
 
-  post_name <- make_post_name(params$name)
+  post_name <- format_post_name(params$name)
   output_file <- file.path(path, paste0(post_name, ".png"))
 
   # Choose between specified image (if it exists and is not NA) and first slide
@@ -140,8 +166,7 @@ get_image_link <- function(params, path = "posts/talks") {
 # This function writes out a qmd file in the correct directory corresponding to a post
 create_talk <- function(params, path = "posts/talks") {
 
-  post_name <- make_post_name(params$name)
-  post_name <- paste0(post_name, ".qmd")
+  post_name <- paste0(params$name, ".qmd")
 
   post_img <- get_image_link(params, path)
 

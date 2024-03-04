@@ -133,11 +133,39 @@
     "text": "Citation\n\n[1] S. VanderPlas. “Designing Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results”. In: Harvard Data Science Review 3.3 (Jul. 30, 2021). DOI: https://doi.org/10.1162/99608f92.7d099fd0.\n\n\n\n\n\n\n\nBibtex\n\n\n\n\n\n@article{vanderplasDesigningGraphicsRequires2021,\n  author = {Susan VanderPlas},\n  title = {Designing {Graphics} {Requires} {Useful} {Experimental} {Testing} {Frameworks} and {Graphics} {Derived} {From} {Empirical} {Results}},\n  journal = {Harvard Data Science Review},\n  volume = {3},\n  number = {3},\n  year = {2021},\n  month = {7},\n  doi = {https://doi.org/10.1162/99608f92.7d099fd0},\n}"
   },
   {
+    "objectID": "posts/talks/testing-statistical-graphics.html",
+    "href": "posts/talks/testing-statistical-graphics.html",
+    "title": "Testing Statistical Graphics",
+    "section": "",
+    "text": "Section on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Toronto, ON, CA"
+  },
+  {
     "objectID": "posts/talks/testing-statistical-graphics.html#location",
     "href": "posts/talks/testing-statistical-graphics.html#location",
     "title": "Testing Statistical Graphics",
-    "section": "Location",
-    "text": "Location\nSection on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Toronto, ON, CA"
+    "section": "",
+    "text": "Section on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Toronto, ON, CA"
+  },
+  {
+    "objectID": "posts/talks/testing-statistical-graphics.html#slides",
+    "href": "posts/talks/testing-statistical-graphics.html#slides",
+    "title": "Testing Statistical Graphics",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html",
+    "href": "posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html",
+    "title": "Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics",
+    "section": "",
+    "text": "Graphics are very effective for communicating numerical information quickly and efficiently, but many of the design choices we make are based on subjective measures, such as personal taste or conventions of the discipline rather than objective criteria. We briefly introduce perceptual principles such as preattentive features and gestalt heuristics, and then discuss the design and results of a factorial experiment examining the effect of plot aesthetics such as color and trend lines on participants’ assessment of ambiguous data displays. The quantitative and qualitative experimental results strongly suggest that plot aesthetics have a significant impact on the perception of important features in data displays."
+  },
+  {
+    "objectID": "posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html#abstract",
+    "href": "posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html#abstract",
+    "title": "Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics",
+    "section": "",
+    "text": "Graphics are very effective for communicating numerical information quickly and efficiently, but many of the design choices we make are based on subjective measures, such as personal taste or conventions of the discipline rather than objective criteria. We briefly introduce perceptual principles such as preattentive features and gestalt heuristics, and then discuss the design and results of a factorial experiment examining the effect of plot aesthetics such as color and trend lines on participants’ assessment of ambiguous data displays. The quantitative and qualitative experimental results strongly suggest that plot aesthetics have a significant impact on the perception of important features in data displays."
   },
   {
     "objectID": "posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html#location",
@@ -147,11 +175,46 @@
     "text": "Location\n, SDSS\nEvent Type: Conference\nLocation: Reston, VA"
   },
   {
+    "objectID": "posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html#slides",
+    "href": "posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html#slides",
+    "title": "Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/automatic-acquisition-of-footwear-class-characteristics.html",
+    "href": "posts/talks/automatic-acquisition-of-footwear-class-characteristics.html",
+    "title": "Automatic Acquisition of Footwear Class Characteristics",
+    "section": "",
+    "text": ", Center for Statistical Applications in Forensic Evidence\nEvent Type: Webinar\nLocation: Online"
+  },
+  {
     "objectID": "posts/talks/automatic-acquisition-of-footwear-class-characteristics.html#location",
     "href": "posts/talks/automatic-acquisition-of-footwear-class-characteristics.html#location",
     "title": "Automatic Acquisition of Footwear Class Characteristics",
-    "section": "Location",
-    "text": "Location\n, Center for Statistical Applications in Forensic Evidence\nEvent Type: Webinar\nLocation: Online"
+    "section": "",
+    "text": ", Center for Statistical Applications in Forensic Evidence\nEvent Type: Webinar\nLocation: Online"
+  },
+  {
+    "objectID": "posts/talks/automatic-acquisition-of-footwear-class-characteristics.html#slides",
+    "href": "posts/talks/automatic-acquisition-of-footwear-class-characteristics.html#slides",
+    "title": "Automatic Acquisition of Footwear Class Characteristics",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/perception-and-visual-communication-in-a-global-pandemic.html",
+    "href": "posts/talks/perception-and-visual-communication-in-a-global-pandemic.html",
+    "title": "Perception and Visual Communication in a Global Pandemic",
+    "section": "",
+    "text": "In the early months of 2020, as the novel coronavirus spread around the globe, we all turned to graphics and data visualizations in order to make sense of the unfolding catastrophe. What were the latest case counts? How many people were in ICUs? What were epidemiological models predicting the case load would be in a month? In response, journalists, academics, and amateurs generated an astonishing amount of visualizations. Novel graphical forms and approaches to the data appeared amid the more traditional maps and case count charts. This creativity was in part a result of the challenges of depicting data which was exponentially increasing, from countries and states with vast differences in population size and different dates of initial infection, resulting from an assortment of testing strategies and public health interventions. Some approaches distilled complex information down into very simple (but imprecise) representations, while others provided incredibly detailed data that obscured the messy real-world situation with precise numbers and ratios. These graphics and trade offs highlight how little we know about graphical perception and visual numeracy, and how important it is to understand the impact of graphical design choices when communicating scientific information in a visual domain. Using COVID-related graphics, this presentation will examine what we know, what we think we know, and what we still need to explore to create useful, accurate, and informative statistical graphics."
+  },
+  {
+    "objectID": "posts/talks/perception-and-visual-communication-in-a-global-pandemic.html#abstract",
+    "href": "posts/talks/perception-and-visual-communication-in-a-global-pandemic.html#abstract",
+    "title": "Perception and Visual Communication in a Global Pandemic",
+    "section": "",
+    "text": "In the early months of 2020, as the novel coronavirus spread around the globe, we all turned to graphics and data visualizations in order to make sense of the unfolding catastrophe. What were the latest case counts? How many people were in ICUs? What were epidemiological models predicting the case load would be in a month? In response, journalists, academics, and amateurs generated an astonishing amount of visualizations. Novel graphical forms and approaches to the data appeared amid the more traditional maps and case count charts. This creativity was in part a result of the challenges of depicting data which was exponentially increasing, from countries and states with vast differences in population size and different dates of initial infection, resulting from an assortment of testing strategies and public health interventions. Some approaches distilled complex information down into very simple (but imprecise) representations, while others provided incredibly detailed data that obscured the messy real-world situation with precise numbers and ratios. These graphics and trade offs highlight how little we know about graphical perception and visual numeracy, and how important it is to understand the impact of graphical design choices when communicating scientific information in a visual domain. Using COVID-related graphics, this presentation will examine what we know, what we think we know, and what we still need to explore to create useful, accurate, and informative statistical graphics."
   },
   {
     "objectID": "posts/talks/perception-and-visual-communication-in-a-global-pandemic.html#location",
@@ -161,25 +224,67 @@
     "text": "Location\nSAMSI, Data Science, Statistics, and Visualization\nEvent Type: Conference\nLocation: Online"
   },
   {
+    "objectID": "posts/talks/perception-and-visual-communication-in-a-global-pandemic.html#slides",
+    "href": "posts/talks/perception-and-visual-communication-in-a-global-pandemic.html#slides",
+    "title": "Perception and Visual Communication in a Global Pandemic",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html",
+    "href": "posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html",
+    "title": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design",
+    "section": "",
+    "text": ", Australian Statistical Conference\nEvent Type: Conference\nLocation: Wollongong, NSW, AUS"
+  },
+  {
     "objectID": "posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html#location",
     "href": "posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html#location",
     "title": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design",
-    "section": "Location",
-    "text": "Location\n, Australian Statistical Conference\nEvent Type: Conference\nLocation: Wollongong, NSW, AUS"
+    "section": "",
+    "text": ", Australian Statistical Conference\nEvent Type: Conference\nLocation: Wollongong, NSW, AUS"
+  },
+  {
+    "objectID": "posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html#slides",
+    "href": "posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html#slides",
+    "title": "Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design",
+    "section": "Slides",
+    "text": "Slides"
   },
   {
     "objectID": "posts/talks/a-bayesian-approach-to-visual-inference.html",
     "href": "posts/talks/a-bayesian-approach-to-visual-inference.html",
     "title": "A Bayesian Approach to Visual Inference",
     "section": "",
-    "text": "Section on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Baltimore, MD"
+    "text": "Graphics play a crucial role in statistical analysis and data mining. The lineup protocol for experimentally testing graphics has traditionally used p-values to identify plots which are significantly visually distinct from distractor plots, but this approach does not easily translate to examining randomly generated plots to determine the strength of the distractor effect. This study presents a Bayesian approach to visual inference, using bayes factors to examine the difference in signal strength in two-target statistical lineups."
+  },
+  {
+    "objectID": "posts/talks/a-bayesian-approach-to-visual-inference.html#abstract",
+    "href": "posts/talks/a-bayesian-approach-to-visual-inference.html#abstract",
+    "title": "A Bayesian Approach to Visual Inference",
+    "section": "",
+    "text": "Graphics play a crucial role in statistical analysis and data mining. The lineup protocol for experimentally testing graphics has traditionally used p-values to identify plots which are significantly visually distinct from distractor plots, but this approach does not easily translate to examining randomly generated plots to determine the strength of the distractor effect. This study presents a Bayesian approach to visual inference, using bayes factors to examine the difference in signal strength in two-target statistical lineups."
   },
   {
     "objectID": "posts/talks/a-bayesian-approach-to-visual-inference.html#location",
     "href": "posts/talks/a-bayesian-approach-to-visual-inference.html#location",
     "title": "A Bayesian Approach to Visual Inference",
+    "section": "Location",
+    "text": "Location\nSection on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Baltimore, MD"
+  },
+  {
+    "objectID": "posts/talks/framed-charts-in-the-1870-statistical-atlas.html",
+    "href": "posts/talks/framed-charts-in-the-1870-statistical-atlas.html",
+    "title": "Framed Charts in the 1870 Statistical Atlas",
     "section": "",
-    "text": "Section on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Baltimore, MD"
+    "text": "Computational Reproducibility is a fundamental aspect of the scientific method. One question that we need to therefore ask ourselves is “how reproducible are our charts?”. Recent developments have made it much easier to ensure computational reproducibility of results and visualizations. In this paper, we investigate reproducibility of charts created almost 150 years ago based on data collected from the US census in 1870. Three times in the past, the US Census Bureau published a Statistical Atlas to map the state of the Union based on data collected in the 9th, 10th, and 11th US census. Each of these atlases represents a masterpiece in science and technology. The atlases also introduced novel ways of visualizing data. In this paper, we discuss two plates of the Statistical Atlas of 1874, show a way to re-create the charts using modern tools and freely accessible data, and we re-display the data to emphasize missing values. We also present results of a user study designed to compare the framed plots in the statistical atlas to more modern methods of displaying the same data."
+  },
+  {
+    "objectID": "posts/talks/framed-charts-in-the-1870-statistical-atlas.html#abstract",
+    "href": "posts/talks/framed-charts-in-the-1870-statistical-atlas.html#abstract",
+    "title": "Framed Charts in the 1870 Statistical Atlas",
+    "section": "",
+    "text": "Computational Reproducibility is a fundamental aspect of the scientific method. One question that we need to therefore ask ourselves is “how reproducible are our charts?”. Recent developments have made it much easier to ensure computational reproducibility of results and visualizations. In this paper, we investigate reproducibility of charts created almost 150 years ago based on data collected from the US census in 1870. Three times in the past, the US Census Bureau published a Statistical Atlas to map the state of the Union based on data collected in the 9th, 10th, and 11th US census. Each of these atlases represents a masterpiece in science and technology. The atlases also introduced novel ways of visualizing data. In this paper, we discuss two plates of the Statistical Atlas of 1874, show a way to re-create the charts using modern tools and freely accessible data, and we re-display the data to emphasize missing values. We also present results of a user study designed to compare the framed plots in the statistical atlas to more modern methods of displaying the same data."
   },
   {
     "objectID": "posts/talks/framed-charts-in-the-1870-statistical-atlas.html#location",
@@ -189,11 +294,32 @@
     "text": "Location\nSection on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Vancouver, BC, CA"
   },
   {
+    "objectID": "posts/talks/framed-charts-in-the-1870-statistical-atlas.html#slides",
+    "href": "posts/talks/framed-charts-in-the-1870-statistical-atlas.html#slides",
+    "title": "Framed Charts in the 1870 Statistical Atlas",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
     "objectID": "posts/talks/framed-charts-in-the-statistical-atlas.html#location",
     "href": "posts/talks/framed-charts-in-the-statistical-atlas.html#location",
     "title": "Framed Charts in the 1870 Statistical Atlas",
     "section": "Location",
     "text": "Location\nSection on Statistical Graphics JSM, Conference Vancouver, BC, CA"
+  },
+  {
+    "objectID": "posts/talks/inconclusive-conclusions-biases-and-consequences.html",
+    "href": "posts/talks/inconclusive-conclusions-biases-and-consequences.html",
+    "title": "Inconclusive Conclusions: Biases and Consequences",
+    "section": "",
+    "text": "Forensic pattern evidence is often evaluated using categorical scales, such as identification (evidence is from the same source), inconclusive, or elimination (evidence is from different sources). I will talk about how these evaluations are made, what error rate studies show, and the implications for interpretation of forensic evidence."
+  },
+  {
+    "objectID": "posts/talks/inconclusive-conclusions-biases-and-consequences.html#abstract",
+    "href": "posts/talks/inconclusive-conclusions-biases-and-consequences.html#abstract",
+    "title": "Inconclusive Conclusions: Biases and Consequences",
+    "section": "",
+    "text": "Forensic pattern evidence is often evaluated using categorical scales, such as identification (evidence is from the same source), inconclusive, or elimination (evidence is from different sources). I will talk about how these evaluations are made, what error rate studies show, and the implications for interpretation of forensic evidence."
   },
   {
     "objectID": "posts/talks/inconclusive-conclusions-biases-and-consequences.html#location",
@@ -203,6 +329,27 @@
     "text": "Location\nJohns Hopkins University, Biostatistics\nEvent Type: Department Seminar\nLocation: Baltimore, MD"
   },
   {
+    "objectID": "posts/talks/inconclusive-conclusions-biases-and-consequences.html#slides",
+    "href": "posts/talks/inconclusive-conclusions-biases-and-consequences.html#slides",
+    "title": "Inconclusive Conclusions: Biases and Consequences",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html",
+    "href": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html",
+    "title": "Reproducible Science: Statistics, Forensics, and the Law",
+    "section": "",
+    "text": "In science, we strive to design and create reproducible experiments that can be replicated by other researchers. We also usually require that scientists use good experimental design and approved statistical methods for results to be judged credible. In this talk, I’ll review the status quo in forensics: what studies support the use of forensic comparison methods as reliable? Are these studies reliable based on the criteria used in other disciplines? I’ll discuss two major, national reports about the validity of forensic science, why statistics as a discipline is critically important to forensics - and what statisticians can do and are doing to improve forensic science."
+  },
+  {
+    "objectID": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html#abstract",
+    "href": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html#abstract",
+    "title": "Reproducible Science: Statistics, Forensics, and the Law",
+    "section": "",
+    "text": "In science, we strive to design and create reproducible experiments that can be replicated by other researchers. We also usually require that scientists use good experimental design and approved statistical methods for results to be judged credible. In this talk, I’ll review the status quo in forensics: what studies support the use of forensic comparison methods as reliable? Are these studies reliable based on the criteria used in other disciplines? I’ll discuss two major, national reports about the validity of forensic science, why statistics as a discipline is critically important to forensics - and what statisticians can do and are doing to improve forensic science."
+  },
+  {
     "objectID": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html#location",
     "href": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html#location",
     "title": "Reproducible Science: Statistics, Forensics, and the Law",
@@ -210,25 +357,88 @@
     "text": "Location\nUniversity of Nebraska - Lincoln, Statistics\nEvent Type: Department Seminar\nLocation: Lincoln, NE"
   },
   {
+    "objectID": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html#slides",
+    "href": "posts/talks/reproducible-science-statistics-forensics-and-the-law.html#slides",
+    "title": "Reproducible Science: Statistics, Forensics, and the Law",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/visual-statistics-communication-and-graphical-testing.html",
+    "href": "posts/talks/visual-statistics-communication-and-graphical-testing.html",
+    "title": "Visual Statistics: Communication and Graphical Testing",
+    "section": "",
+    "text": "University of Nebraska - Lincoln, Animal Science\nEvent Type: Department Seminar\nLocation: Lincoln, NE"
+  },
+  {
     "objectID": "posts/talks/visual-statistics-communication-and-graphical-testing.html#location",
     "href": "posts/talks/visual-statistics-communication-and-graphical-testing.html#location",
     "title": "Visual Statistics: Communication and Graphical Testing",
-    "section": "Location",
-    "text": "Location\nUniversity of Nebraska - Lincoln, Animal Science\nEvent Type: Department Seminar\nLocation: Lincoln, NE"
+    "section": "",
+    "text": "University of Nebraska - Lincoln, Animal Science\nEvent Type: Department Seminar\nLocation: Lincoln, NE"
+  },
+  {
+    "objectID": "posts/talks/visual-statistics-communication-and-graphical-testing.html#slides",
+    "href": "posts/talks/visual-statistics-communication-and-graphical-testing.html#slides",
+    "title": "Visual Statistics: Communication and Graphical Testing",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html",
+    "href": "posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html",
+    "title": "What Makes a Good Graph? Graphical Testing and Principles for Graph Design",
+    "section": "",
+    "text": "University of Nebraska, Center for Brain, Biology, and Behavior\nEvent Type: Department Seminar\nLocation: Lincoln, NE"
   },
   {
     "objectID": "posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html#location",
     "href": "posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html#location",
     "title": "What Makes a Good Graph? Graphical Testing and Principles for Graph Design",
-    "section": "Location",
-    "text": "Location\nUniversity of Nebraska, Center for Brain, Biology, and Behavior\nEvent Type: Department Seminar\nLocation: Lincoln, NE"
+    "section": "",
+    "text": "University of Nebraska, Center for Brain, Biology, and Behavior\nEvent Type: Department Seminar\nLocation: Lincoln, NE"
+  },
+  {
+    "objectID": "posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html#slides",
+    "href": "posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html#slides",
+    "title": "What Makes a Good Graph? Graphical Testing and Principles for Graph Design",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/animint-interactive-web-ready-graphics-with-r.html",
+    "href": "posts/talks/animint-interactive-web-ready-graphics-with-r.html",
+    "title": "Animint: Interactive, Web-Ready Graphics with R",
+    "section": "",
+    "text": ", Great Plains R User Group\nEvent Type: User Group\nLocation: Sioux Center, IA"
   },
   {
     "objectID": "posts/talks/animint-interactive-web-ready-graphics-with-r.html#location",
     "href": "posts/talks/animint-interactive-web-ready-graphics-with-r.html#location",
     "title": "Animint: Interactive, Web-Ready Graphics with R",
-    "section": "Location",
-    "text": "Location\n, Great Plains R User Group\nEvent Type: User Group\nLocation: Sioux Center, IA"
+    "section": "",
+    "text": ", Great Plains R User Group\nEvent Type: User Group\nLocation: Sioux Center, IA"
+  },
+  {
+    "objectID": "posts/talks/animint-interactive-web-ready-graphics-with-r.html#slides",
+    "href": "posts/talks/animint-interactive-web-ready-graphics-with-r.html#slides",
+    "title": "Animint: Interactive, Web-Ready Graphics with R",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/animint-interactive-web-based-animations-using-ggplot2-s-grammar-of-graphics.html",
+    "href": "posts/talks/animint-interactive-web-based-animations-using-ggplot2-s-grammar-of-graphics.html",
+    "title": "Animint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics",
+    "section": "",
+    "text": "Animint is a high-level modification of the grammar of graphics used in ggplot2 for linked, interactive, animated plots. It builds on top of ggplot2 to create interactive visualizations using web standards (D3 in JavaScript). In other data visualization systems, interactive animations are difficult to accomplish, since they must be defined in terms of low-level operations and sometimes 100s of lines of code. In contrast, Animint’s high-level grammar can be used to produce a wide variety of complex interactive visualizations with only 10s of lines of code. It works by adding 2 new aesthetics to the grammar of graphics used in ggplot2: clickSelects, which allows users to select elements of the plot, and showSelected, which displays only elements corresponding to the current selection. After creating the interactive animation in R code, it is compiled and rendered in a web browser using D3. We discuss the design of Animint, then compare to related libraries, and show several example visualizations of high-dimensional time series data."
+  },
+  {
+    "objectID": "posts/talks/animint-interactive-web-based-animations-using-ggplot2-s-grammar-of-graphics.html#abstract",
+    "href": "posts/talks/animint-interactive-web-based-animations-using-ggplot2-s-grammar-of-graphics.html#abstract",
+    "title": "Animint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics",
+    "section": "",
+    "text": "Animint is a high-level modification of the grammar of graphics used in ggplot2 for linked, interactive, animated plots. It builds on top of ggplot2 to create interactive visualizations using web standards (D3 in JavaScript). In other data visualization systems, interactive animations are difficult to accomplish, since they must be defined in terms of low-level operations and sometimes 100s of lines of code. In contrast, Animint’s high-level grammar can be used to produce a wide variety of complex interactive visualizations with only 10s of lines of code. It works by adding 2 new aesthetics to the grammar of graphics used in ggplot2: clickSelects, which allows users to select elements of the plot, and showSelected, which displays only elements corresponding to the current selection. After creating the interactive animation in R code, it is compiled and rendered in a web browser using D3. We discuss the design of Animint, then compare to related libraries, and show several example visualizations of high-dimensional time series data."
   },
   {
     "objectID": "posts/talks/animint-interactive-web-based-animations-using-ggplot2-s-grammar-of-graphics.html#location",
@@ -238,6 +448,27 @@
     "text": "Location\nSection on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Seattle, WA"
   },
   {
+    "objectID": "posts/talks/animint-interactive-web-based-animations-using-ggplot2-s-grammar-of-graphics.html#slides",
+    "href": "posts/talks/animint-interactive-web-based-animations-using-ggplot2-s-grammar-of-graphics.html#slides",
+    "title": "Animint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/using-git-submodules.html",
+    "href": "posts/talks/using-git-submodules.html",
+    "title": "Using Git Submodules",
+    "section": "",
+    "text": "Sometimes, we want to have git repositories that are nested within each other, but git doesn’t allow us to do that. Instead, there are git submodules! I’ll talk about how submodules work conceptually and introduce two examples of places I’m using submodules in my own work. I’ll cover how to create, modify, update, and use projects with submodules."
+  },
+  {
+    "objectID": "posts/talks/using-git-submodules.html#abstract",
+    "href": "posts/talks/using-git-submodules.html#abstract",
+    "title": "Using Git Submodules",
+    "section": "",
+    "text": "Sometimes, we want to have git repositories that are nested within each other, but git doesn’t allow us to do that. Instead, there are git submodules! I’ll talk about how submodules work conceptually and introduce two examples of places I’m using submodules in my own work. I’ll cover how to create, modify, update, and use projects with submodules."
+  },
+  {
     "objectID": "posts/talks/using-git-submodules.html#location",
     "href": "posts/talks/using-git-submodules.html#location",
     "title": "Using Git Submodules",
@@ -245,18 +476,53 @@
     "text": "Location\nUniversity of Nebraska, Graphics Group\nEvent Type: Interest Group\nLocation: Online"
   },
   {
+    "objectID": "posts/talks/using-git-submodules.html#slides",
+    "href": "posts/talks/using-git-submodules.html#slides",
+    "title": "Using Git Submodules",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html",
+    "href": "posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html",
+    "title": "One of these things is not like the others: Visual Statistics and Testing in Statistical Graphics",
+    "section": "",
+    "text": "South Dakota State University, Data Science Symposium\nEvent Type: Conference\nLocation: Brookings, SD"
+  },
+  {
     "objectID": "posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html#location",
     "href": "posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html#location",
     "title": "One of these things is not like the others: Visual Statistics and Testing in Statistical Graphics",
-    "section": "Location",
-    "text": "Location\nSouth Dakota State University, Data Science Symposium\nEvent Type: Conference\nLocation: Brookings, SD"
+    "section": "",
+    "text": "South Dakota State University, Data Science Symposium\nEvent Type: Conference\nLocation: Brookings, SD"
+  },
+  {
+    "objectID": "posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html#slides",
+    "href": "posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html#slides",
+    "title": "One of these things is not like the others: Visual Statistics and Testing in Statistical Graphics",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html",
+    "href": "posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html",
+    "title": "Statistical Evaluation of Firearms and Toolmark Evidence",
+    "section": "",
+    "text": "University of Nebraska - Lincoln, Statistics\nEvent Type: Department Seminar\nLocation: Lincoln, NE"
   },
   {
     "objectID": "posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html#location",
     "href": "posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html#location",
     "title": "Statistical Evaluation of Firearms and Toolmark Evidence",
-    "section": "Location",
-    "text": "Location\nUniversity of Nebraska - Lincoln, Statistics\nEvent Type: Department Seminar\nLocation: Lincoln, NE"
+    "section": "",
+    "text": "University of Nebraska - Lincoln, Statistics\nEvent Type: Department Seminar\nLocation: Lincoln, NE"
+  },
+  {
+    "objectID": "posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html#slides",
+    "href": "posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html#slides",
+    "title": "Statistical Evaluation of Firearms and Toolmark Evidence",
+    "section": "Slides",
+    "text": "Slides"
   },
   {
     "objectID": "courses.html",
@@ -329,11 +595,46 @@
     "text": "Building a CV with R and Google Sheets\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Computing Using R and Python\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nFeb 14, 2024\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Computing Using R and Python\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nFeb 14, 2024\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nUsing Git Submodules\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nFeb 8, 2024\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nCultivating Insights: Harnessing the Power of Data Visualization in Agriculture\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nJan 9, 2024\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nMisuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. 2023\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nMichael Rosenblum, Elizabeth T Chin, Elizabeth L Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C Thompson\n\n\n\n\n\n\n\n\n\n\n\n\nMisuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. 2023\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nMichael Rosenblum, Elizabeth T Chin, Elizabeth L Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C Thompson\n\n\n\n\n\n\n\n\n\n\n\n\nMultimodal User Testing: Producing comprehensive, task-focused guidelines for chart design\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nDec 14, 2023\n\n\nSusan Vanderplas, Reka Howard, Emily Robinson\n\n\n\n\n\n\n\n\n\n\n\n\nHow Do You Define a Circle? Perception and Computer Vision Diagnostics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nDec 6, 2023\n\n\nSusan Vanderplas, Muxin Hua\n\n\n\n\n\n\n\n\n\n\n\n\nMeasuring Your Tools, for Science!\n\n\n\n\n\n\nother\n\n\n\n\n\n\n\n\n\nNov 18, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nGraphics and Cognition: How Do We Perceive Charts?\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nOct 12, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nEye Fitting Straight Lines in the Modern Era\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nOct 2, 2023\n\n\nEmily A. Robinson, Reka Howard, Susan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nEye Fitting Straight Lines in the Modern Era\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nOct 2, 2023\n\n\nEmily A. Robinson, Reka Howard, Susan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nTesting Statistical Graphics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 8, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nWhat Makes a Good Graph? Graphical Testing and Principles for Graph Design\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMar 27, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nPenguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMar 1, 2023\n\n\nSusan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nInconclusive Conclusions: Biases and Consequences\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nFeb 15, 2023\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nA Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nJoseph Zemmels, Susan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nA Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nFeb 9, 2023\n\n\nJoseph Zemmels, Susan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nYou Draw It: Implementation of visually fitted trends with r2d3\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJan 1, 2023\n\n\nEmily Robinson, Reka Howard, Susan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Rural Shrink Smart Through Guided Discovery Dashboards\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\nDenise Bradford, Susan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nEye Fitting Straight Lines in the Modern Era\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nEmily A. Robinson, Reka Howard, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nVisual Narratives of the Covid-19 pandemic\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nAdalbert Wilhelm, Susan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Science: Statistics, Forensics, and the Law\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nOct 5, 2022\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nHow to make good charts\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nSep 22, 2022\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nLocal Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 3, 2022\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Scans to Scores\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 2, 2022\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nPandemics, Graphics, and Perception of Log Scales\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nApr 8, 2022\n\n\nSusan Vanderplas, Emily Robinson, Reka Howard\n\n\n\n\n\n\n\n\n\n\n\n\nAutomatic Acquisition of Footwear Class Characteristics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMar 24, 2022\n\n\nSusan Vanderplas, Rick Stone\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical significance calculations for scenarios in visual inference\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 1, 2021\n\n\nSusan Vanderplas, Christian Röttger, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nDesigning Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJul 30, 2021\n\n\nSusan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nDesigning Graphics Requires Useful Experimental Testing Frameworks and Graphics Derived From Empirical Results\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJul 30, 2021\n\n\nSusan VanderPlas\n\n\n\n\n\n\n\n\n\n\n\n\nTreatment of inconclusives in the AFTE range of conclusions\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMay 5, 2021\n\n\nHeike Hofmann, Alicia Carriquiry, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nExploring Rural Quality of Life Using Data Science and Public Data\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nApr 9, 2021\n\n\nSusan Vanderplas, Denise Bradford\n\n\n\n\n\n\n\n\n\n\n\n\nVisual Statistics: Communication and Graphical Testing\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMar 16, 2021\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to Forensic Statistics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nFeb 5, 2021\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nPerception and Visual Communication in a Global Pandemic\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nJul 29, 2020\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Evaluation of Firearms and Toolmark Evidence\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMar 11, 2020\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of three similarity scores for bullet LEA matching\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nTesting Statistical Charts: What Makes a Good Graph?\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nTesting Statistical Charts: What Makes a Good Graph?\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Dianne Cook, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nComparison of three similarity scores for bullet LEA matching\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nSusan Vanderplas, Melissa Nally, Tylor Klep, Cristina Cadevall, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nOne of these things is not like the others: Visual Statistics and Testing in Statistical Graphics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nFeb 11, 2020\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nBig Data, Big Experiments, and Big Problems\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nJan 12, 2020\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to firearms examination for researchers in statistics\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\nSusan Vanderplas, Alicia Carriquiry, Heike Hofmann, James Hamby, Xiao Hui Tai\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to firearms examination for researchers in statistics\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\nSusan Vanderplas, Alicia Carriquiry, Heike Hofmann, James Hamby, Xiao Hui Tai\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Lineups for Bayesians\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nJul 31, 2019\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nggenealogy: An R Package for Visualizing Genealogical Data\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nMay 29, 2019\n\n\nLindsay Rutter, Susan Vanderplas, Dianne Cook, Michelle Graham\n\n\n\n\n\n\n\n\n\n\n\n\nFramed! Reproducing and Revisiting 150-Year-Old Charts\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nSusan Vanderplas, Ryan C Goluch, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nMachine learning in forensic applications\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nApr 1, 2019\n\n\nAlicia Carriquiry, Heike Hofmann, Xiao Hui Tai, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nExtending ggplot2 for Linked and Animated Web Graphics\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nNov 14, 2018\n\n\nCarson Sievert, Susan Vanderplas, Jun Cai, Kevin Ferris, Faizan Uddin Fahad Khan, Toby Dylan Hocking\n\n\n\n\n\n\n\n\n\n\n\n\nFramed Charts in the 1870 Statistical Atlas\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 1, 2018\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nFramed Charts in the 1870 Statistical Atlas\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 1, 2018\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMay 17, 2018\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nAll of This Has Happened Before. All of This Will Happen Again: Data Science\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 19, 2017\n\n\nHeike Hofmann, Susan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nA Bayesian Approach to Visual Inference\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 2, 2017\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nClusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nApr 24, 2017\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Reasoning and Data Displays\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 31, 2016\n\n\nSusan VanderPlas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nSigns of the Sine Illusion - why we need to care\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nDec 10, 2015\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nAnimint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 10, 2015\n\n\nSusan Vanderplas, Toby Hocking\n\n\n\n\n\n\n\n\n\n\n\n\nAnimint: Interactive Web-Based Animations using Ggplot2’s Grammar of Graphics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 10, 2015\n\n\nSusan Vanderplas, Toby Hocking\n\n\n\n\n\n\n\n\n\n\n\n\nVisual Aptitude and Statistical Graphics\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 10, 2015\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nDo You See What I See? Using Shiny for User Testing\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 4, 2014\n\n\nSusan Vanderplas\n\n\n\n\n\n\n\n\n\n\n\n\nThe curse of three dimensions: Why your brain is lying to you\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 4, 2014\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nAnimint: Interactive, Web-Ready Graphics with R\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nMay 30, 2014\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nSigns of the Sine Illusion – why we need to care\n\n\n\n\n\n\ntalks\n\n\n\n\n\n\n\n\n\nAug 7, 2013\n\n\nSusan Vanderplas, Heike Hofmann\n\n\n\n\n\n\n\n\n\n\n\n\nIn tennis, do smashes win matches?\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJan 1, 2013\n\n\nSarah Budrus, Susan Vanderplas, Dianne Cook\n\n\n\n\n\n\n\n\n\n\n\n\nDetection of gene orthology from gene co-expression and protein interaction networks\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJan 1, 2010\n\n\nFadi Towfic, Susan Vanderplas, Casey A Oliver, Oliver Couture, Christopher K Tuggle, M Heather West Greenlee, Vasant Honavar\n\n\n\n\n\n\n\n\n\n\n\n\nNear-infrared spectroscopy and cortical responses to speech production\n\n\n\n\n\n\npapers\n\n\n\n\n\n\n\n\n\nJan 1, 2009\n\n\nRachel Hull, Heather Bortfeld, Susan Koons\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html",
+    "href": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html",
+    "title": "Pandemics, Graphics, and Perception of Log Scales",
+    "section": "",
+    "text": "In 2020, there was suddenly worldwide interest in graphics on a level we don’t normally see - people were checking news sites daily looking for graphs, maps, and any information about how the COVID pandemic was progressing over time. Along with this, there were some very novel forms of graphics, some of which worked and many of which did not. As the pandemic continued, however, most news organizations seemed to settle on certain categories of graphics for displaying COVID case counts, hospitalizations, and deaths. Watching the pandemic and the graphics explosion that resulted, I found relatively little research into how people perceive exponential growth, and even less research into the effectiveness of log scales for conveying information. I’ll talk about a series of experiments that we are currently running to explore these two topics, as well as the evolution of graphics over the course of the pandemic."
+  },
+  {
+    "objectID": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html#abstract",
+    "href": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html#abstract",
+    "title": "Pandemics, Graphics, and Perception of Log Scales",
+    "section": "",
+    "text": "In 2020, there was suddenly worldwide interest in graphics on a level we don’t normally see - people were checking news sites daily looking for graphs, maps, and any information about how the COVID pandemic was progressing over time. Along with this, there were some very novel forms of graphics, some of which worked and many of which did not. As the pandemic continued, however, most news organizations seemed to settle on certain categories of graphics for displaying COVID case counts, hospitalizations, and deaths. Watching the pandemic and the graphics explosion that resulted, I found relatively little research into how people perceive exponential growth, and even less research into the effectiveness of log scales for conveying information. I’ll talk about a series of experiments that we are currently running to explore these two topics, as well as the evolution of graphics over the course of the pandemic."
+  },
+  {
     "objectID": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html#location",
     "href": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html#location",
     "title": "Pandemics, Graphics, and Perception of Log Scales",
     "section": "Location",
     "text": "Location\nUniversity of Nebraska - Omaha, Math\nEvent Type: Department Seminar\nLocation: Omaha, NE"
+  },
+  {
+    "objectID": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html#slides",
+    "href": "posts/talks/pandemics-graphics-and-perception-of-log-scales.html#slides",
+    "title": "Pandemics, Graphics, and Perception of Log Scales",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html",
+    "href": "posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html",
+    "title": "Cultivating Insights: Harnessing the Power of Data Visualization in Agriculture",
+    "section": "",
+    "text": "Data visualization is an important tool for examining the results of on-farm experiments before, during, and after formal modeling. This talk shows the different types of charts which can be used to gain insight into on-farm results as well as how the charts should be read."
+  },
+  {
+    "objectID": "posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html#abstract",
+    "href": "posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html#abstract",
+    "title": "Cultivating Insights: Harnessing the Power of Data Visualization in Agriculture",
+    "section": "",
+    "text": "Data visualization is an important tool for examining the results of on-farm experiments before, during, and after formal modeling. This talk shows the different types of charts which can be used to gain insight into on-farm results as well as how the charts should be read."
   },
   {
     "objectID": "posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html#location",
@@ -343,11 +644,53 @@
     "text": "Location\n, International Conference for On-Farm Precision Experimentation\nEvent Type: Conference\nLocation: Corpus Christie, TX"
   },
   {
+    "objectID": "posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html#slides",
+    "href": "posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html#slides",
+    "title": "Cultivating Insights: Harnessing the Power of Data Visualization in Agriculture",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
+    "href": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
+    "title": "How Do You Define a Circle? Perception and Computer Vision Diagnostics",
+    "section": "",
+    "text": "Neural Networks are very complicated and very useful models for image recognition, but they are generally used to recognize very complex and multifaceted stimuli, like cars or people. When neural networks are used to recognize simpler objects with overlapping feature sets, things can go a bit haywire. In this talk, we’ll discuss a model built for applications in statistical forensics which uncovered some very interesting problems between model-based perception and human perception. I will show visual diagnostics which provide insight into the model, and talk about ways we might address the discrepancy between human perception and model perception to produce more accurate and useful model predictions."
+  },
+  {
+    "objectID": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html#abstract",
+    "href": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html#abstract",
+    "title": "How Do You Define a Circle? Perception and Computer Vision Diagnostics",
+    "section": "",
+    "text": "Neural Networks are very complicated and very useful models for image recognition, but they are generally used to recognize very complex and multifaceted stimuli, like cars or people. When neural networks are used to recognize simpler objects with overlapping feature sets, things can go a bit haywire. In this talk, we’ll discuss a model built for applications in statistical forensics which uncovered some very interesting problems between model-based perception and human perception. I will show visual diagnostics which provide insight into the model, and talk about ways we might address the discrepancy between human perception and model perception to produce more accurate and useful model predictions."
+  },
+  {
     "objectID": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html#location",
     "href": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html#location",
     "title": "How Do You Define a Circle? Perception and Computer Vision Diagnostics",
     "section": "Location",
     "text": "Location\nAsian Regional Section Meeting, International Association for Statistical Computing\nEvent Type: Conference\nLocation: Macquarie, NSW, AUS"
+  },
+  {
+    "objectID": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html#slides",
+    "href": "posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html#slides",
+    "title": "How Do You Define a Circle? Perception and Computer Vision Diagnostics",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/building-a-cv-with-r-and-google-sheets.html",
+    "href": "posts/talks/building-a-cv-with-r-and-google-sheets.html",
+    "title": "Building a CV with R and Google Sheets",
+    "section": "",
+    "text": "This week will be the first of a 2-part workshop. First, we’ll talk about how to make a CV with R and a google spreadsheet (and why you might want to do so). On March 7, we’ll talk about how to use this same setup to build a blog-type website with posts for each paper and presentation, using quarto. Setup steps:\n 1. Create your own CV spreadsheet using this template: https://docs.google.com/spreadsheets/d/11S8-U4vasXgPbW-IKQPCy1nO-1UsmvzNLz7GvdONN_w/edit?usp=sharing . Copy the sheet over to your own google account (File -&gt; make a copy) and fill it in. You don't need to use every tab - I've included many different options that won't apply to everyone (but this setup works for me, so it is a viable long-term solution for an academic).\n 2. Clone or fork the github repository I've made: https://github.com/srvanderplas/cv-template.\n 3. You can see the sample CV that I use, but there are other compatible templates if you don't like the timeline look.\n 4. Modify the bib file in the repository to contain your publications, if you want to include them on the CV. Publications are the one piece of a CV that I find more convenient as a separate file.\nDuring the presentation, I’ll walk you through the workflow I use and show you how to use the code I’ve written to write your own CV from a spreadsheet."
+  },
+  {
+    "objectID": "posts/talks/building-a-cv-with-r-and-google-sheets.html#abstract",
+    "href": "posts/talks/building-a-cv-with-r-and-google-sheets.html#abstract",
+    "title": "Building a CV with R and Google Sheets",
+    "section": "",
+    "text": "This week will be the first of a 2-part workshop. First, we’ll talk about how to make a CV with R and a google spreadsheet (and why you might want to do so). On March 7, we’ll talk about how to use this same setup to build a blog-type website with posts for each paper and presentation, using quarto. Setup steps:\n 1. Create your own CV spreadsheet using this template: https://docs.google.com/spreadsheets/d/11S8-U4vasXgPbW-IKQPCy1nO-1UsmvzNLz7GvdONN_w/edit?usp=sharing . Copy the sheet over to your own google account (File -&gt; make a copy) and fill it in. You don't need to use every tab - I've included many different options that won't apply to everyone (but this setup works for me, so it is a viable long-term solution for an academic).\n 2. Clone or fork the github repository I've made: https://github.com/srvanderplas/cv-template.\n 3. You can see the sample CV that I use, but there are other compatible templates if you don't like the timeline look.\n 4. Modify the bib file in the repository to contain your publications, if you want to include them on the CV. Publications are the one piece of a CV that I find more convenient as a separate file.\nDuring the presentation, I’ll walk you through the workflow I use and show you how to use the code I’ve written to write your own CV from a spreadsheet."
   },
   {
     "objectID": "posts/talks/building-a-cv-with-r-and-google-sheets.html#location",
@@ -357,11 +700,39 @@
     "text": "Location\nUniversity of Nebraska, Graphics Group\nEvent Type: Interest Group\nLocation: Online"
   },
   {
+    "objectID": "posts/talks/building-a-cv-with-r-and-google-sheets.html#slides",
+    "href": "posts/talks/building-a-cv-with-r-and-google-sheets.html#slides",
+    "title": "Building a CV with R and Google Sheets",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html",
+    "href": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html",
+    "title": "Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis",
+    "section": "",
+    "text": "In this workshop we demonstrate the use of a footwear scanner which can collect data about population-level tread characteristics in a local area. We discuss the scanner’s abilities and potential use in cases and demonstrate the ability of the scanner to not only collect data about tread pattern features common to the local area but also to automatically analyze images for specific features of interest using computer vision."
+  },
+  {
+    "objectID": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html#abstract",
+    "href": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html#abstract",
+    "title": "Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis",
+    "section": "",
+    "text": "In this workshop we demonstrate the use of a footwear scanner which can collect data about population-level tread characteristics in a local area. We discuss the scanner’s abilities and potential use in cases and demonstrate the ability of the scanner to not only collect data about tread pattern features common to the local area but also to automatically analyze images for specific features of interest using computer vision."
+  },
+  {
     "objectID": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html#location",
     "href": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html#location",
     "title": "Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis",
     "section": "Location",
     "text": "Location\n, International Association for Identification Meeting\nEvent Type: Conference Workshop\nLocation: Omaha, NE"
+  },
+  {
+    "objectID": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html#slides",
+    "href": "posts/talks/local-population-footwear-class-characteristics-an-end-to-end-pipeline-for-automatic-data-acquisition-and-analysis.html#slides",
+    "title": "Local Population Footwear Class Characteristics - An End-to-End Pipeline for Automatic Data Acquisition and Analysis",
+    "section": "Slides",
+    "text": "Slides"
   },
   {
     "objectID": "posts/talks/animint-interactive-web-based-animations-using-ggplot-s-grammar-of-graphics.html#location",
@@ -371,11 +742,32 @@
     "text": "Location\nSection on Statistical Graphics JSM, Conference Seattle, WA"
   },
   {
+    "objectID": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html",
+    "href": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html",
+    "title": "Graphics and Cognition: How Do We Perceive Charts?",
+    "section": "",
+    "text": "In this talk, I walk through a few cognitive components that affect how we use charts: perception, attention, and memory, with a focus on the process of understanding and using the data displayed in charts. To do this, I lean heavily on Padilla et al. (2018) (DOI: https://doi.org/10.1186/s41235-018-0120-9), as well as examples that allow you to see these processes at work in your own mind."
+  },
+  {
+    "objectID": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html#abstract",
+    "href": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html#abstract",
+    "title": "Graphics and Cognition: How Do We Perceive Charts?",
+    "section": "",
+    "text": "In this talk, I walk through a few cognitive components that affect how we use charts: perception, attention, and memory, with a focus on the process of understanding and using the data displayed in charts. To do this, I lean heavily on Padilla et al. (2018) (DOI: https://doi.org/10.1186/s41235-018-0120-9), as well as examples that allow you to see these processes at work in your own mind."
+  },
+  {
     "objectID": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html#location",
     "href": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html#location",
     "title": "Graphics and Cognition: How Do We Perceive Charts?",
     "section": "Location",
     "text": "Location\nUniversity of Nebraska-Lincoln, Iowa State University, and other interested affiliates, Graphics Group\nEvent Type: Interest Group\nLocation: Online"
+  },
+  {
+    "objectID": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html#slides",
+    "href": "posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html#slides",
+    "title": "Graphics and Cognition: How Do We Perceive Charts?",
+    "section": "Slides",
+    "text": "Slides"
   },
   {
     "objectID": "posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html",
@@ -392,11 +784,39 @@
     "text": "Section on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Montreal, ON, CA"
   },
   {
+    "objectID": "posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html",
+    "href": "posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html",
+    "title": "Do You See What I See? Using Shiny for User Testing",
+    "section": "",
+    "text": "Section on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Boston, MA"
+  },
+  {
     "objectID": "posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html#location",
     "href": "posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html#location",
     "title": "Do You See What I See? Using Shiny for User Testing",
-    "section": "Location",
-    "text": "Location\nSection on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Boston, MA"
+    "section": "",
+    "text": "Section on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Boston, MA"
+  },
+  {
+    "objectID": "posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html#slides",
+    "href": "posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html#slides",
+    "title": "Do You See What I See? Using Shiny for User Testing",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/how-to-make-good-charts.html",
+    "href": "posts/talks/how-to-make-good-charts.html",
+    "title": "How to make good charts",
+    "section": "",
+    "text": "Data visualizations are an important component of scientific research and communication. We use charts to explore our data before we know how to model it, and we use charts to disseminate results. But how do we know what a “good” chart is? In this talk, I’ll discuss some basic principles of good chart design, including experimental results for evaluating charts in realistic settings. We’ll talk about chart creation, decoration, and how to make visualizations more accessible."
+  },
+  {
+    "objectID": "posts/talks/how-to-make-good-charts.html#abstract",
+    "href": "posts/talks/how-to-make-good-charts.html#abstract",
+    "title": "How to make good charts",
+    "section": "",
+    "text": "Data visualizations are an important component of scientific research and communication. We use charts to explore our data before we know how to model it, and we use charts to disseminate results. But how do we know what a “good” chart is? In this talk, I’ll discuss some basic principles of good chart design, including experimental results for evaluating charts in realistic settings. We’ll talk about chart creation, decoration, and how to make visualizations more accessible."
   },
   {
     "objectID": "posts/talks/how-to-make-good-charts.html#location",
@@ -406,6 +826,27 @@
     "text": "Location\nUniversity of Nebraska - Lincoln, Complex Biosystems\nEvent Type: Department Seminar\nLocation: Lincoln, NE"
   },
   {
+    "objectID": "posts/talks/how-to-make-good-charts.html#slides",
+    "href": "posts/talks/how-to-make-good-charts.html#slides",
+    "title": "How to make good charts",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html",
+    "href": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html",
+    "title": "The curse of three dimensions: Why your brain is lying to you",
+    "section": "",
+    "text": "One of the basic principles of visual graphics is that the graphic should accurately reflect the data. Tufte’s lie factor was created with the idea that graphs that do not represent the underlying data accurately should be avoided. In this paper, we examine a second level of graph distortion that occurs during the perceptual process. The human visual system is largely optimized for perception of three dimensions. Generally, the brain processes potential ambiguities in the rendering as the most-common three-dimensional object. This can lead to visual distortions, such as occur with the Necker figure or in the Muller-Lyer illusion. We discuss the underlying psychological mechanisms for the distortions, examine the effect these distortions have on judgments, and consider the implications for graph design. Using the sine illusion as a case study, we quantify the effects of the distortion that create a “perceptual lie factor” for the sine illusion."
+  },
+  {
+    "objectID": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html#abstract",
+    "href": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html#abstract",
+    "title": "The curse of three dimensions: Why your brain is lying to you",
+    "section": "",
+    "text": "One of the basic principles of visual graphics is that the graphic should accurately reflect the data. Tufte’s lie factor was created with the idea that graphs that do not represent the underlying data accurately should be avoided. In this paper, we examine a second level of graph distortion that occurs during the perceptual process. The human visual system is largely optimized for perception of three dimensions. Generally, the brain processes potential ambiguities in the rendering as the most-common three-dimensional object. This can lead to visual distortions, such as occur with the Necker figure or in the Muller-Lyer illusion. We discuss the underlying psychological mechanisms for the distortions, examine the effect these distortions have on judgments, and consider the implications for graph design. Using the sine illusion as a case study, we quantify the effects of the distortion that create a “perceptual lie factor” for the sine illusion."
+  },
+  {
     "objectID": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html#location",
     "href": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html#location",
     "title": "The curse of three dimensions: Why your brain is lying to you",
@@ -413,11 +854,46 @@
     "text": "Location\nSection on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Boston, MA"
   },
   {
+    "objectID": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html#slides",
+    "href": "posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html#slides",
+    "title": "The curse of three dimensions: Why your brain is lying to you",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/welcome-to-forensic-statistics.html",
+    "href": "posts/talks/welcome-to-forensic-statistics.html",
+    "title": "Welcome to Forensic Statistics",
+    "section": "",
+    "text": ", Data Mishaps Night\nEvent Type: Meetup\nLocation: Online"
+  },
+  {
     "objectID": "posts/talks/welcome-to-forensic-statistics.html#location",
     "href": "posts/talks/welcome-to-forensic-statistics.html#location",
     "title": "Welcome to Forensic Statistics",
-    "section": "Location",
-    "text": "Location\n, Data Mishaps Night\nEvent Type: Meetup\nLocation: Online"
+    "section": "",
+    "text": ", Data Mishaps Night\nEvent Type: Meetup\nLocation: Online"
+  },
+  {
+    "objectID": "posts/talks/welcome-to-forensic-statistics.html#slides",
+    "href": "posts/talks/welcome-to-forensic-statistics.html#slides",
+    "title": "Welcome to Forensic Statistics",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/statistical-lineups-for-bayesians.html",
+    "href": "posts/talks/statistical-lineups-for-bayesians.html",
+    "title": "Statistical Lineups for Bayesians",
+    "section": "",
+    "text": "Graphics play a crucial role in statistical analysis and data mining. The lineup protocol for experimentally testing graphics has traditionally used p-values to identify plots which are significantly visually distinct from randomly generated ``distractor” plots, but this approach does not easily facilitate the examination of randomly generated plots to determine the strength of the distractor effect. This study presents a Bayesian approach to visual inference, using Bayes factors to examine the difference in signal strength in two-target statistical lineups."
+  },
+  {
+    "objectID": "posts/talks/statistical-lineups-for-bayesians.html#abstract",
+    "href": "posts/talks/statistical-lineups-for-bayesians.html#abstract",
+    "title": "Statistical Lineups for Bayesians",
+    "section": "",
+    "text": "Graphics play a crucial role in statistical analysis and data mining. The lineup protocol for experimentally testing graphics has traditionally used p-values to identify plots which are significantly visually distinct from randomly generated ``distractor” plots, but this approach does not easily facilitate the examination of randomly generated plots to determine the strength of the distractor effect. This study presents a Bayesian approach to visual inference, using Bayes factors to examine the difference in signal strength in two-target statistical lineups."
   },
   {
     "objectID": "posts/talks/statistical-lineups-for-bayesians.html#location",
@@ -427,18 +903,46 @@
     "text": "Location\nSection on Statistical Graphics, JSM\nEvent Type: Conference\nLocation: Denver, CO"
   },
   {
+    "objectID": "posts/talks/statistical-lineups-for-bayesians.html#slides",
+    "href": "posts/talks/statistical-lineups-for-bayesians.html#slides",
+    "title": "Statistical Lineups for Bayesians",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
     "objectID": "posts/talks/from-scans-to-scores.html",
     "href": "posts/talks/from-scans-to-scores.html",
     "title": "From Scans to Scores",
     "section": "",
-    "text": ", International Association for Identification Meeting\nEvent Type: Conference Workshop\nLocation: Omaha, NE"
+    "text": "3D microscopy has opened up ways to assess similarity between different sources of evidence. Algorithms are used to turn a pair of scans into a number. But what can these numbers really tell us and how do these algorithms come up with the number? At the example of bullet scans, we will go over the concepts of what is going on behind the scenes that turn a scan into a single number."
+  },
+  {
+    "objectID": "posts/talks/from-scans-to-scores.html#abstract",
+    "href": "posts/talks/from-scans-to-scores.html#abstract",
+    "title": "From Scans to Scores",
+    "section": "",
+    "text": "3D microscopy has opened up ways to assess similarity between different sources of evidence. Algorithms are used to turn a pair of scans into a number. But what can these numbers really tell us and how do these algorithms come up with the number? At the example of bullet scans, we will go over the concepts of what is going on behind the scenes that turn a scan into a single number."
   },
   {
     "objectID": "posts/talks/from-scans-to-scores.html#location",
     "href": "posts/talks/from-scans-to-scores.html#location",
     "title": "From Scans to Scores",
+    "section": "Location",
+    "text": "Location\n, International Association for Identification Meeting\nEvent Type: Conference Workshop\nLocation: Omaha, NE"
+  },
+  {
+    "objectID": "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html",
+    "href": "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html",
+    "title": "Exploring Rural Quality of Life Using Data Science and Public Data",
     "section": "",
-    "text": ", International Association for Identification Meeting\nEvent Type: Conference Workshop\nLocation: Omaha, NE"
+    "text": "In many situations, subjective assessments and objective data capture similar (but not identical) aspects of the same underlying phenomenon. In this talk, I’ll discuss how we can use objective data to potentially improve the capture of subjective information, focusing specifically on a current project involving quality of life in shrinking towns. I’ll describe the different facets of quality of life, as well as data sets which are publicly available and relate to those facets of quality of life. As this work is ongoing, I’ll also discuss the problems with using data from the era of COVID-19 to draw any conclusions, and more generally talk about the problems arising from trying to combine data sets from several different geographic divisions into a single dataset."
+  },
+  {
+    "objectID": "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html#abstract",
+    "href": "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html#abstract",
+    "title": "Exploring Rural Quality of Life Using Data Science and Public Data",
+    "section": "",
+    "text": "In many situations, subjective assessments and objective data capture similar (but not identical) aspects of the same underlying phenomenon. In this talk, I’ll discuss how we can use objective data to potentially improve the capture of subjective information, focusing specifically on a current project involving quality of life in shrinking towns. I’ll describe the different facets of quality of life, as well as data sets which are publicly available and relate to those facets of quality of life. As this work is ongoing, I’ll also discuss the problems with using data from the era of COVID-19 to draw any conclusions, and more generally talk about the problems arising from trying to combine data sets from several different geographic divisions into a single dataset."
   },
   {
     "objectID": "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html#location",
@@ -448,11 +952,39 @@
     "text": "Location\nUniversity of Nebraska - Lincoln, QQPM\nEvent Type: Department\nLocation: Lincoln, NE"
   },
   {
+    "objectID": "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html#slides",
+    "href": "posts/talks/exploring-rural-quality-of-life-using-data-science-and-public-data.html#slides",
+    "title": "Exploring Rural Quality of Life Using Data Science and Public Data",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "posts/talks/big-data-big-experiments-and-big-problems.html",
+    "href": "posts/talks/big-data-big-experiments-and-big-problems.html",
+    "title": "Big Data, Big Experiments, and Big Problems",
+    "section": "",
+    "text": "If data creates problems, then big data creates even bigger problems. In this talk, I discuss many different ways you can ensure a study fails, and how those decisions are magnified in “big data” settings. If you’ve ever thought pilot studies are a waste of time, or that planning your data analysis before data collection begins is for losers, or if you think of your instrumentation as a magic box that produces data, this talk is for you. Using several recent experiments which generated TB of data, I talk about the analysis of misshapen, noisy, and problematic data, and how to avoid these pitfalls in during experimental design and data collection."
+  },
+  {
+    "objectID": "posts/talks/big-data-big-experiments-and-big-problems.html#abstract",
+    "href": "posts/talks/big-data-big-experiments-and-big-problems.html#abstract",
+    "title": "Big Data, Big Experiments, and Big Problems",
+    "section": "",
+    "text": "If data creates problems, then big data creates even bigger problems. In this talk, I discuss many different ways you can ensure a study fails, and how those decisions are magnified in “big data” settings. If you’ve ever thought pilot studies are a waste of time, or that planning your data analysis before data collection begins is for losers, or if you think of your instrumentation as a magic box that produces data, this talk is for you. Using several recent experiments which generated TB of data, I talk about the analysis of misshapen, noisy, and problematic data, and how to avoid these pitfalls in during experimental design and data collection."
+  },
+  {
     "objectID": "posts/talks/big-data-big-experiments-and-big-problems.html#location",
     "href": "posts/talks/big-data-big-experiments-and-big-problems.html#location",
     "title": "Big Data, Big Experiments, and Big Problems",
     "section": "Location",
     "text": "Location\n, Plant and Animal Genome\nEvent Type: Conference\nLocation: San Diego, CA"
+  },
+  {
+    "objectID": "posts/talks/big-data-big-experiments-and-big-problems.html#slides",
+    "href": "posts/talks/big-data-big-experiments-and-big-problems.html#slides",
+    "title": "Big Data, Big Experiments, and Big Problems",
+    "section": "Slides",
+    "text": "Slides"
   },
   {
     "objectID": "posts/talks/visual-aptitude-and-statistical-graphics.html",

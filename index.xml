@@ -21,16 +21,27 @@
 
 
 
-<section id="slides" class="level2">
-
-<iframe src="https://srvanderplas.github.io/2024-Presentations/02-graphics-cv/" height="auto" width="80%">
-</iframe>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>This week will be the first of a 2-part workshop. First, we’ll talk about how to make a CV with R and a google spreadsheet (and why you might want to do so). On March 7, we’ll talk about how to use this same setup to build a blog-type website with posts for each paper and presentation, using quarto. Setup steps:</p>
+<pre><code> 1. Create your own CV spreadsheet using this template: https://docs.google.com/spreadsheets/d/11S8-U4vasXgPbW-IKQPCy1nO-1UsmvzNLz7GvdONN_w/edit?usp=sharing . Copy the sheet over to your own google account (File -&gt; make a copy) and fill it in. You don't need to use every tab - I've included many different options that won't apply to everyone (but this setup works for me, so it is a viable long-term solution for an academic).
+ 2. Clone or fork the github repository I've made: https://github.com/srvanderplas/cv-template.
+ 3. You can see the sample CV that I use, but there are other compatible templates if you don't like the timeline look.
+ 4. Modify the bib file in the repository to contain your publications, if you want to include them on the CV. Publications are the one piece of a CV that I find more convenient as a separate file.</code></pre>
+<p>During the presentation, I’ll walk you through the workflow I use and show you how to use the code I’ve written to write your own CV from a spreadsheet.</p>
+</blockquote>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
 <pre><code>University of Nebraska, Graphics Group
 Event Type: Interest Group
 Location: Online</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/02-graphics-cv/" height="800px" width="500px">
+</iframe>
 
 
 </section>
@@ -39,7 +50,7 @@ Location: Online</code></pre>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/building-a-cv-with-r-and-google-sheets.html</guid>
   <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
-  <media:content url="srvanderplas.github.io/posts/talks/building-a-cv-with-r-and-google-sheets.png" medium="image" type="image/png"/>
+  <media:content url="srvanderplas.github.io/posts/talks/building-a-cv-with-r-and-google-sheets.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
   <title>Statistical Computing Using R and Python</title>
@@ -143,16 +154,22 @@ Bibtex
 
 
 
-<section id="slides" class="level2">
-
-<iframe src="https://srvanderplas.github.io/2024-Presentations/02-graphics-git-submodules/#/title-slide" height="auto" width="80%">
-</iframe>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>Sometimes, we want to have git repositories that are nested within each other, but git doesn’t allow us to do that. Instead, there are git submodules! I’ll talk about how submodules work conceptually and introduce two examples of places I’m using submodules in my own work. I’ll cover how to create, modify, update, and use projects with submodules.</p>
+</blockquote>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
 <pre><code>University of Nebraska, Graphics Group
 Event Type: Interest Group
 Location: Online</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/02-graphics-git-submodules/#/title-slide" height="800px" width="500px">
+</iframe>
 
 
 </section>
@@ -173,16 +190,22 @@ Location: Online</code></pre>
 
 
 
-<section id="slides" class="level2">
-
-<iframe src="https://srvanderplas.github.io/2024-Presentations/01-ICOFPE/#/title-slide" height="auto" width="80%">
-</iframe>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>Data visualization is an important tool for examining the results of on-farm experiments before, during, and after formal modeling. This talk shows the different types of charts which can be used to gain insight into on-farm results as well as how the charts should be read.</p>
+</blockquote>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
 <pre><code>, International Conference for On-Farm Precision Experimentation
 Event Type: Conference
 Location: Corpus Christie, TX</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/01-ICOFPE/#/title-slide" height="800px" width="500px">
+</iframe>
 
 
 </section>
@@ -305,16 +328,16 @@ Bibtex
 
 
 
-<section id="slides" class="level2">
-
-<iframe src="http://srvanderplas.github.io/2023-Presentations/12-ASC/index.html" height="auto" width="80%">
-</iframe>
-</section>
 <section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
+
 <pre><code>, Australian Statistical Conference
 Event Type: Conference
 Location: Wollongong, NSW, AUS</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/2023-Presentations/12-ASC/index.html" height="800px" width="500px">
+</iframe>
 
 
 </section>
@@ -335,16 +358,22 @@ Location: Wollongong, NSW, AUS</code></pre>
 
 
 
-<section id="slides" class="level2">
-
-<iframe src="http://srvanderplas.github.io/2023-Presentations/12-IASCARS/" height="auto" width="80%">
-</iframe>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>Neural Networks are very complicated and very useful models for image recognition, but they are generally used to recognize very complex and multifaceted stimuli, like cars or people. When neural networks are used to recognize simpler objects with overlapping feature sets, things can go a bit haywire. In this talk, we’ll discuss a model built for applications in statistical forensics which uncovered some very interesting problems between model-based perception and human perception. I will show visual diagnostics which provide insight into the model, and talk about ways we might address the discrepancy between human perception and model perception to produce more accurate and useful model predictions.</p>
+</blockquote>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
 <pre><code>Asian Regional Section Meeting, International Association for Statistical Computing
 Event Type: Conference
 Location: Macquarie, NSW, AUS</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/2023-Presentations/12-IASCARS/" height="800px" width="500px">
+</iframe>
 
 
 </section>
@@ -455,16 +484,22 @@ Figure&nbsp;3: Different tool configurations. On the top row, there are cross-se
 
 
 
-<section id="slides" class="level2">
-
-<iframe src="http://srvanderplas.github.io/2023-Presentations/10-Graphics-Cognition/" height="auto" width="80%">
-</iframe>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>In this talk, I walk through a few cognitive components that affect how we use charts: perception, attention, and memory, with a focus on the process of understanding and using the data displayed in charts. To do this, I lean heavily on Padilla et al.&nbsp;(2018) (DOI: https://doi.org/10.1186/s41235-018-0120-9), as well as examples that allow you to see these processes at work in your own mind.</p>
+</blockquote>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
 <pre><code>University of Nebraska-Lincoln, Iowa State University, and other interested affiliates, Graphics Group
 Event Type: Interest Group
 Location: Online</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/2023-Presentations/10-Graphics-Cognition/" height="800px" width="500px">
+</iframe>
 
 
 </section>
@@ -589,16 +624,16 @@ Bibtex
 
 
 
-<section id="slides" class="level2">
-
-<iframe src="http://srvanderplas.github.io/2023-Presentations/08-JSM-Testing-Graphics/" height="auto" width="80%">
-</iframe>
-</section>
 <section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
+
 <pre><code>Section on Statistical Graphics, JSM
 Event Type: Conference
 Location: Toronto, ON, CA</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/2023-Presentations/08-JSM-Testing-Graphics/" height="800px" width="500px">
+</iframe>
 
 
 </section>
@@ -619,16 +654,16 @@ Location: Toronto, ON, CA</code></pre>
 
 
 
-<section id="slides" class="level2">
-
-<iframe src="http://srvanderplas.github.io/2023-Presentations/03-C3B" height="auto" width="80%">
-</iframe>
-</section>
 <section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
+
 <pre><code>University of Nebraska, Center for Brain, Biology, and Behavior
 Event Type: Department Seminar
 Location: Lincoln, NE</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/2023-Presentations/03-C3B" height="800px" width="500px">
+</iframe>
 
 
 </section>
@@ -700,16 +735,22 @@ Bibtex
 
 
 
-<section id="slides" class="level2">
-
-<iframe src="http://srvanderplas.github.io/2023-Presentations/02-Hopkins-Inconclusives" height="auto" width="80%">
-</iframe>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>Forensic pattern evidence is often evaluated using categorical scales, such as identification (evidence is from the same source), inconclusive, or elimination (evidence is from different sources). I will talk about how these evaluations are made, what error rate studies show, and the implications for interpretation of forensic evidence.</p>
+</blockquote>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
 <pre><code>Johns Hopkins University, Biostatistics
 Event Type: Department Seminar
 Location: Baltimore, MD</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="http://srvanderplas.github.io/2023-Presentations/02-Hopkins-Inconclusives" height="800px" width="500px">
+</iframe>
 
 
 </section>

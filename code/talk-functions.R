@@ -5,22 +5,26 @@ format_post_name <- function(name) {
     stringr::str_replace_all("[[:punct:][:space:]]{1,}", "-")
 }
 
-format_abstract <- function(x) {
-  dplyr::if_else(
-    is.na(x), "",
-    paste("## Abstract",
-          paste("> ", x, collapse = "\n"),
-          sep = "\n\n"))
+make_abstract <- function(x) {
+  c("## Abstract", paste("> ", x, collapse = "\n"), "", "")
 }
 
-format_slides <- function(x) {
-  dplyr::if_else(
-    is.na(x), "",
-    paste("## Slides",
-          sprintf("<iframe src='%s' height='auto' width='80%%'>
-                        </iframe>",
-                  x),
-          sep = "\n\n"))
+format_abstract <- function(x) {
+  y <- x %>%
+    str_split(., "\n", simplify = F) %>%
+    map(make_abstract) %>%
+    map_chr(~paste(., collapse = "\n"))
+
+  dplyr::if_else(is.na(x), "", y)
+}
+
+format_slides <- function(x, width = 800, height = 500) {
+  y <- paste(
+    "## Slides",
+    sprintf("<iframe src='%s' height='%spx' width='%spx'></iframe>",
+            x, width, height),
+    sep = "\n\n")
+  dplyr::if_else(is.na(x), "", y)
 }
 
 format_keywords <- function(x) {
@@ -127,7 +131,13 @@ get_image <- function(x, output_file, verbose = F, ...) {
   } else {
     if (valid_url(x)) {
       if (!file.exists(output_file)) {
-        screenshot_slides(x, output_file, ...)
+        if (stringr::str_detect(x, "\\.svg$")) {
+          # webshot doesn't screenshot svgs without issues... this is faster.
+          output_file <- stringr::str_replace(output_file, "\\.png$", ".svg")
+          download.file(x, destfile = output_file, mode = "wb")
+        } else {
+          screenshot_slides(x, output_file, ...)
+        }
       } else {
         if(verbose) message("File exists, will not overwrite")
       }
@@ -189,8 +199,9 @@ create_talk <- function(params, path = "posts/talks") {
     "    code-copy: true",
     "---",
     " ",
-    params$slides,
-    params$event
+    params$abstract,
+    params$event,
+    params$slides
   )
 
   writeLines(md_lines, con = file.path(path, post_name))

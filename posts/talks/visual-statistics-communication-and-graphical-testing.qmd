@@ -12,12 +12,12 @@ format:
     code-copy: true
 ---
  
-## Slides
 
-<iframe src='https://srvanderplas.github.io/2021-Presentations/03-ANSC-Graphics/#1' height='auto' width='80%'>
-                        </iframe>
 ## Location
 
     University of Nebraska - Lincoln, Animal Science
     Event Type: Department Seminar
     Location: Lincoln, NE
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2021-Presentations/03-ANSC-Graphics/#1' height='800px' width='500px'></iframe>

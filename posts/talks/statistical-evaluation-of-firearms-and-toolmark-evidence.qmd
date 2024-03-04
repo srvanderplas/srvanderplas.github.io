@@ -12,12 +12,12 @@ format:
     code-copy: true
 ---
  
-## Slides
 
-<iframe src='https://srvanderplas.github.io/2020-Presentations/03-UNL-Forensics/' height='auto' width='80%'>
-                        </iframe>
 ## Location
 
     University of Nebraska - Lincoln, Statistics
     Event Type: Department Seminar
     Location: Lincoln, NE
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2020-Presentations/03-UNL-Forensics/' height='800px' width='500px'></iframe>

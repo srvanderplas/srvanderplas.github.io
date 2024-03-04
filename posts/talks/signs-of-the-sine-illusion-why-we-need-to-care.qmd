@@ -18,3 +18,4 @@ format:
     Section on Statistical Graphics, JSM
     Event Type: Conference
     Location: Montreal, ON, CA
+

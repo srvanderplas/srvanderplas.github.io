@@ -5,19 +5,32 @@ date: "2024-02-15"
 categories: talks
 page-layout: full
 title-block-banner: true
-image: "building-a-cv-with-r-and-google-sheets.png"
+image: "building-a-cv-with-r-and-google-sheets.svg"
 keywords: [computing, workflow, professional development, Talk]
 format:
   html:
     code-copy: true
 ---
  
-## Slides
+## Abstract
+>  This week will be the first of a 2-part workshop. 
+>    First, we'll talk about how to make a CV with R and a google spreadsheet (and why you might want to do so). 
+>    On March 7, we'll talk about how to use this same setup to build a blog-type website with posts for each paper and presentation, using quarto. 
+>    Setup steps:
+>    
+>      1. Create your own CV spreadsheet using this template: https://docs.google.com/spreadsheets/d/11S8-U4vasXgPbW-IKQPCy1nO-1UsmvzNLz7GvdONN_w/edit?usp=sharing . Copy the sheet over to your own google account (File -> make a copy) and fill it in. You don't need to use every tab - I've included many different options that won't apply to everyone (but this setup works for me, so it is a viable long-term solution for an academic).
+>      2. Clone or fork the github repository I've made: https://github.com/srvanderplas/cv-template.
+>      3. You can see the sample CV that I use, but there are other compatible templates if you don't like the timeline look.
+>      4. Modify the bib file in the repository to contain your publications, if you want to include them on the CV. Publications are the one piece of a CV that I find more convenient as a separate file.
+>    
+>    During the presentation, I'll walk you through the workflow I use and show you how to use the code I've written to write your own CV from a spreadsheet.
 
-<iframe src='https://srvanderplas.github.io/2024-Presentations/02-graphics-cv/' height='auto' width='80%'>
-                        </iframe>
+
 ## Location
 
     University of Nebraska, Graphics Group
     Event Type: Interest Group
     Location: Online
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2024-Presentations/02-graphics-cv/' height='800px' width='500px'></iframe>

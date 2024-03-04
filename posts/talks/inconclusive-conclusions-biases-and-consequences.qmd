@@ -12,12 +12,15 @@ format:
     code-copy: true
 ---
  
-## Slides
+## Abstract
+>  Forensic pattern evidence is often evaluated using categorical scales, such as identification (evidence is from the same source), inconclusive, or elimination (evidence is from different sources). I will talk about how these evaluations are made, what error rate studies show, and the implications for interpretation of forensic evidence.
 
-<iframe src='http://srvanderplas.github.io/2023-Presentations/02-Hopkins-Inconclusives' height='auto' width='80%'>
-                        </iframe>
+
 ## Location
 
     Johns Hopkins University, Biostatistics
     Event Type: Department Seminar
     Location: Baltimore, MD
+## Slides
+
+<iframe src='http://srvanderplas.github.io/2023-Presentations/02-Hopkins-Inconclusives' height='800px' width='500px'></iframe>

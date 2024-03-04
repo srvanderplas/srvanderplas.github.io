@@ -12,12 +12,15 @@ format:
     code-copy: true
 ---
  
-## Slides
+## Abstract
+>  Sometimes, we want to have git repositories that are nested within each other, but git doesn't allow us to do that. Instead, there are git submodules! I'll talk about how submodules work conceptually and introduce two examples of places I'm using submodules in my own work. I'll cover how to create, modify, update, and use projects with submodules.
 
-<iframe src='https://srvanderplas.github.io/2024-Presentations/02-graphics-git-submodules/#/title-slide' height='auto' width='80%'>
-                        </iframe>
+
 ## Location
 
     University of Nebraska, Graphics Group
     Event Type: Interest Group
     Location: Online
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2024-Presentations/02-graphics-git-submodules/#/title-slide' height='800px' width='500px'></iframe>

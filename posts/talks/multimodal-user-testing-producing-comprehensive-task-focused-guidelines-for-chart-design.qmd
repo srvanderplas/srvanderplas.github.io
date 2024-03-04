@@ -12,12 +12,12 @@ format:
     code-copy: true
 ---
  
-## Slides
 
-<iframe src='http://srvanderplas.github.io/2023-Presentations/12-ASC/index.html' height='auto' width='80%'>
-                        </iframe>
 ## Location
 
     , Australian Statistical Conference
     Event Type: Conference
     Location: Wollongong, NSW, AUS
+## Slides
+
+<iframe src='http://srvanderplas.github.io/2023-Presentations/12-ASC/index.html' height='800px' width='500px'></iframe>

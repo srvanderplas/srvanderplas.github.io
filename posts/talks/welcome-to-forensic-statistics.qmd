@@ -12,12 +12,12 @@ format:
     code-copy: true
 ---
  
-## Slides
 
-<iframe src='https://srvanderplas.github.io/2021-Presentations/02-Data-Mishaps/index.html' height='auto' width='80%'>
-                        </iframe>
 ## Location
 
     , Data Mishaps Night
     Event Type: Meetup
     Location: Online
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2021-Presentations/02-Data-Mishaps/index.html' height='800px' width='500px'></iframe>

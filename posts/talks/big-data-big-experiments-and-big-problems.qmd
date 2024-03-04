@@ -12,12 +12,15 @@ format:
     code-copy: true
 ---
  
-## Slides
+## Abstract
+>  If data creates problems, then big data creates even bigger problems. In this talk, I discuss many different ways you can ensure a study fails, and how those decisions are magnified in "big data" settings. If you've ever thought pilot studies are a waste of time, or that planning your data analysis before data collection begins is for losers, or if you think of your instrumentation as a magic box that produces data, this talk is for you. Using several recent experiments which generated TB of data, I talk about the analysis of misshapen, noisy, and problematic data, and how to avoid these pitfalls in during experimental design and data collection.
 
-<iframe src='https://srvanderplas.github.io/Presentation-Archive/PAG2020/#1' height='auto' width='80%'>
-                        </iframe>
+
 ## Location
 
     , Plant and Animal Genome
     Event Type: Conference
     Location: San Diego, CA
+## Slides
+
+<iframe src='https://srvanderplas.github.io/Presentation-Archive/PAG2020/#1' height='800px' width='500px'></iframe>

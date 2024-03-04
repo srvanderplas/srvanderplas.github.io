@@ -12,12 +12,15 @@ format:
     code-copy: true
 ---
  
-## Slides
+## Abstract
+>  Graphics are very effective for communicating numerical information quickly and efficiently, but many of the design choices we make are based on subjective measures, such as personal taste or conventions of the discipline rather than objective criteria. We briefly introduce perceptual principles such as preattentive features and gestalt heuristics, and then discuss the design and results of a factorial experiment examining the effect of plot aesthetics such as color and trend lines on participants' assessment of ambiguous data displays. The quantitative and qualitative experimental results strongly suggest that plot aesthetics have a significant impact on the perception of important features in data displays.
 
-<iframe src='https://srvanderplas.github.io/Presentation-Archive/SDSS2018/FeatureHierarchy.html#clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics' height='auto' width='80%'>
-                        </iframe>
+
 ## Location
 
     , SDSS
     Event Type: Conference
     Location: Reston, VA
+## Slides
+
+<iframe src='https://srvanderplas.github.io/Presentation-Archive/SDSS2018/FeatureHierarchy.html#clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics' height='800px' width='500px'></iframe>

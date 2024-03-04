@@ -12,12 +12,12 @@ format:
     code-copy: true
 ---
  
-## Slides
 
-<iframe src='https://srvanderplas.github.io/2022-Presentations/03-CSAFE-Webinar/#1' height='auto' width='80%'>
-                        </iframe>
 ## Location
 
     , Center for Statistical Applications in Forensic Evidence
     Event Type: Webinar
     Location: Online
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2022-Presentations/03-CSAFE-Webinar/#1' height='800px' width='500px'></iframe>

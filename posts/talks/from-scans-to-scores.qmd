@@ -12,9 +12,13 @@ format:
     code-copy: true
 ---
  
+## Abstract
+>  3D microscopy has opened up ways to assess similarity between different sources of evidence. Algorithms are used to turn a pair of scans into a number. But what can these numbers really tell us and how do these algorithms come up with the number? At the example of bullet scans, we will go over the concepts of what is going on behind the scenes that turn a scan into a single number.
+
 
 ## Location
 
     , International Association for Identification Meeting
     Event Type: Conference Workshop
     Location: Omaha, NE
+

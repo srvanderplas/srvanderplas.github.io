@@ -12,12 +12,12 @@ format:
     code-copy: true
 ---
  
-## Slides
 
-<iframe src='https://srvanderplas.github.io/Presentation-Archive/JSM2014/UserTesting/UserTesting.html' height='auto' width='80%'>
-                        </iframe>
 ## Location
 
     Section on Statistical Graphics, JSM
     Event Type: Conference
     Location: Boston, MA
+## Slides
+
+<iframe src='https://srvanderplas.github.io/Presentation-Archive/JSM2014/UserTesting/UserTesting.html' height='800px' width='500px'></iframe>

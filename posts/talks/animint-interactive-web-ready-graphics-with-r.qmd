@@ -12,12 +12,12 @@ format:
     code-copy: true
 ---
  
-## Slides
 
-<iframe src='https://srvanderplas.github.io/Presentation-Archive/RUserGroups%20-%20Animint/animint.html' height='auto' width='80%'>
-                        </iframe>
 ## Location
 
     , Great Plains R User Group
     Event Type: User Group
     Location: Sioux Center, IA
+## Slides
+
+<iframe src='https://srvanderplas.github.io/Presentation-Archive/RUserGroups%20-%20Animint/animint.html' height='800px' width='500px'></iframe>

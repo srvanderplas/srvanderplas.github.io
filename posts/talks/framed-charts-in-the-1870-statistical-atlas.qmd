@@ -12,12 +12,15 @@ format:
     code-copy: true
 ---
  
-## Slides
+## Abstract
+>  Computational Reproducibility is a fundamental aspect of the scientific method. One question that we need to therefore ask ourselves is "how reproducible are our charts?". Recent developments have made it much easier to ensure computational reproducibility of results and visualizations. In this paper, we investigate reproducibility of charts created almost 150 years ago based on data collected from the US census in 1870. Three times in the past, the US Census Bureau published a Statistical Atlas to map the state of the Union based on data collected in the 9th, 10th, and 11th US census. Each of these atlases represents a masterpiece in science and technology. The atlases also introduced novel ways of visualizing data. In this paper, we discuss two plates of the Statistical Atlas of 1874, show a way to re-create the charts using modern tools and freely accessible data, and we re-display the data to emphasize missing values. We also present results of a user study designed to compare the framed plots in the statistical atlas to more modern methods of displaying the same data.
 
-<iframe src='https://srvanderplas.github.io/Presentation-Archive/JSM2018/Framed.html#1' height='auto' width='80%'>
-                        </iframe>
+
 ## Location
 
     Section on Statistical Graphics, JSM
     Event Type: Conference
     Location: Vancouver, BC, CA
+## Slides
+
+<iframe src='https://srvanderplas.github.io/Presentation-Archive/JSM2018/Framed.html#1' height='800px' width='500px'></iframe>

@@ -12,12 +12,15 @@ format:
     code-copy: true
 ---
  
-## Slides
+## Abstract
+>  Animint is a high-level modification of the grammar of graphics used in ggplot2 for linked, interactive, animated plots. It builds on top of ggplot2 to create interactive visualizations using web standards (D3 in JavaScript). In other data visualization systems, interactive animations are difficult to accomplish, since they must be defined in terms of low-level operations and sometimes 100s of lines of code. In contrast, Animint's high-level grammar can be used to produce a wide variety of complex interactive visualizations with only 10s of lines of code. It works by adding 2 new aesthetics to the grammar of graphics used in ggplot2: clickSelects, which allows users to select elements of the plot, and showSelected, which displays only elements corresponding to the current selection. After creating the interactive animation in R code, it is compiled and rendered in a web browser using D3. We discuss the design of Animint, then compare to related libraries, and show several example visualizations of high-dimensional time series data.
 
-<iframe src='https://srvanderplas.github.io/Presentation-Archive/JSM2015/Animint.html#/' height='auto' width='80%'>
-                        </iframe>
+
 ## Location
 
     Section on Statistical Graphics, JSM
     Event Type: Conference
     Location: Seattle, WA
+## Slides
+
+<iframe src='https://srvanderplas.github.io/Presentation-Archive/JSM2015/Animint.html#/' height='800px' width='500px'></iframe>

@@ -12,12 +12,15 @@ format:
     code-copy: true
 ---
  
-## Slides
+## Abstract
+>  In this talk, I walk through a few cognitive components that affect how we use charts: perception, attention, and memory, with a focus on the process of understanding and using the data displayed in charts. To do this, I lean heavily on Padilla et al. (2018) (DOI: https://doi.org/10.1186/s41235-018-0120-9), as well as examples that allow you to see these processes at work in your own mind.
 
-<iframe src='http://srvanderplas.github.io/2023-Presentations/10-Graphics-Cognition/' height='auto' width='80%'>
-                        </iframe>
+
 ## Location
 
     University of Nebraska-Lincoln, Iowa State University, and other interested affiliates, Graphics Group
     Event Type: Interest Group
     Location: Online
+## Slides
+
+<iframe src='http://srvanderplas.github.io/2023-Presentations/10-Graphics-Cognition/' height='800px' width='500px'></iframe>

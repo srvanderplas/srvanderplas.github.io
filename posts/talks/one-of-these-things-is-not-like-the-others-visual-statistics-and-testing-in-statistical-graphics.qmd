@@ -12,12 +12,12 @@ format:
     code-copy: true
 ---
  
-## Slides
 
-<iframe src='https://srvanderplas.github.io/2020-Presentations/02-SDSU/' height='auto' width='80%'>
-                        </iframe>
 ## Location
 
     South Dakota State University, Data Science Symposium
     Event Type: Conference
     Location: Brookings, SD
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2020-Presentations/02-SDSU/' height='800px' width='500px'></iframe>

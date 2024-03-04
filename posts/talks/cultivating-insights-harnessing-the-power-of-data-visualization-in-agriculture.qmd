@@ -12,12 +12,15 @@ format:
     code-copy: true
 ---
  
-## Slides
+## Abstract
+>  Data visualization is an important tool for examining the results of on-farm experiments before, during, and after formal modeling. This talk shows the different types of charts which can be used to gain insight into on-farm results as well as how the charts should be read.
 
-<iframe src='https://srvanderplas.github.io/2024-Presentations/01-ICOFPE/#/title-slide' height='auto' width='80%'>
-                        </iframe>
+
 ## Location
 
     , International Conference for On-Farm Precision Experimentation
     Event Type: Conference
     Location: Corpus Christie, TX
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2024-Presentations/01-ICOFPE/#/title-slide' height='800px' width='500px'></iframe>

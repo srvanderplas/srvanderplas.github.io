@@ -22,13 +22,15 @@
 
 
 <section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+
 <iframe src="https://srvanderplas.github.io/2024-Presentations/02-graphics-cv/" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>University of Nebraska Graphics Group, Interest Group Online</p>
+<pre><code>University of Nebraska, Graphics Group
+Event Type: Interest Group
+Location: Online</code></pre>
 
 
 </section>
@@ -96,13 +98,15 @@ Bibtex
 
 
 <section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+
 <iframe src="https://srvanderplas.github.io/2024-Presentations/02-graphics-git-submodules/#/title-slide" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>University of Nebraska Graphics Group, Interest Group Online</p>
+<pre><code>University of Nebraska, Graphics Group
+Event Type: Interest Group
+Location: Online</code></pre>
 
 
 </section>
@@ -124,13 +128,15 @@ Bibtex
 
 
 <section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+
 <iframe src="https://srvanderplas.github.io/2024-Presentations/01-ICOFPE/#/title-slide" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>International Conference for On-Farm Precision Experimentation, Conference Corpus Christie, TX</p>
+<pre><code>, International Conference for On-Farm Precision Experimentation
+Event Type: Conference
+Location: Corpus Christie, TX</code></pre>
 
 
 </section>
@@ -203,13 +209,15 @@ Bibtex
 
 
 <section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+
 <iframe src="http://srvanderplas.github.io/2023-Presentations/12-ASC/index.html" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>Australian Statistical Conference, Conference Wollongong, NSW, AUS</p>
+<pre><code>, Australian Statistical Conference
+Event Type: Conference
+Location: Wollongong, NSW, AUS</code></pre>
 
 
 </section>
@@ -231,13 +239,15 @@ Bibtex
 
 
 <section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+
 <iframe src="http://srvanderplas.github.io/2023-Presentations/12-IASCARS/" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>Asian Regional Section Meeting International Association for Statistical Computing, Conference Macquarie, NSW, AUS</p>
+<pre><code>Asian Regional Section Meeting, International Association for Statistical Computing
+Event Type: Conference
+Location: Macquarie, NSW, AUS</code></pre>
 
 
 </section>
@@ -349,13 +359,15 @@ Figure&nbsp;3: Different tool configurations. On the top row, there are cross-se
 
 
 <section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+
 <iframe src="http://srvanderplas.github.io/2023-Presentations/10-Graphics-Cognition/" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>University of Nebraska-Lincoln, Iowa State University, and other interested affiliates Graphics Group, Interest Group Online</p>
+<pre><code>University of Nebraska-Lincoln, Iowa State University, and other interested affiliates, Graphics Group
+Event Type: Interest Group
+Location: Online</code></pre>
 
 
 </section>
@@ -429,13 +441,15 @@ Bibtex
 
 
 <section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+
 <iframe src="http://srvanderplas.github.io/2023-Presentations/08-JSM-Testing-Graphics/" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>Section on Statistical Graphics JSM, Conference Toronto, ON, CA</p>
+<pre><code>Section on Statistical Graphics, JSM
+Event Type: Conference
+Location: Toronto, ON, CA</code></pre>
 
 
 </section>
@@ -457,13 +471,15 @@ Bibtex
 
 
 <section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+
 <iframe src="http://srvanderplas.github.io/2023-Presentations/03-C3B" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>University of Nebraska Center for Brain, Biology, and Behavior, Department Seminar Lincoln, NE</p>
+<pre><code>University of Nebraska, Center for Brain, Biology, and Behavior
+Event Type: Department Seminar
+Location: Lincoln, NE</code></pre>
 
 
 </section>
@@ -536,13 +552,15 @@ Bibtex
 
 
 <section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+
 <iframe src="http://srvanderplas.github.io/2023-Presentations/02-Hopkins-Inconclusives" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>Johns Hopkins University Biostatistics, Department Seminar Baltimore, MD</p>
+<pre><code>Johns Hopkins University, Biostatistics
+Event Type: Department Seminar
+Location: Baltimore, MD</code></pre>
 
 
 </section>
@@ -827,13 +845,15 @@ Bibtex
 
 
 <section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+
 <iframe src="https://srvanderplas.github.io/2022-Presentations/10-StatDeptSeminar/#/title-slide" height="auto" width="80%">
 </iframe>
 </section>
 <section id="location" class="level2">
 <h2 class="anchored" data-anchor-id="location">Location</h2>
-<p>University of Nebraska - Lincoln Statistics, Department Seminar Lincoln, NE</p>
+<pre><code>University of Nebraska - Lincoln, Statistics
+Event Type: Department Seminar
+Location: Lincoln, NE</code></pre>
 
 
 </section>

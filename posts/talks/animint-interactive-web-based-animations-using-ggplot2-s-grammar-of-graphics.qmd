@@ -1,0 +1,23 @@
+---
+title: "Animint: Interactive Web-Based Animations using Ggplot2's Grammar of Graphics"
+author: "Susan Vanderplas, Toby Hocking"
+date: "2015-08-10"
+categories: talks
+page-layout: full
+title-block-banner: true
+image: "animint-interactive-web-based-animations-using-ggplot2-s-grammar-of-graphics.png"
+keywords: [R package, animation, interactivity, exploratory data analysis, visualization, Talk]
+format:
+  html:
+    code-copy: true
+---
+ 
+## Slides
+
+<iframe src='https://srvanderplas.github.io/Presentation-Archive/JSM2015/Animint.html#/' height='auto' width='80%'>
+                        </iframe>
+## Location
+
+    Section on Statistical Graphics, JSM
+    Event Type: Conference
+    Location: Seattle, WA

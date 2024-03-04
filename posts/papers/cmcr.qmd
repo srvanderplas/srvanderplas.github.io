@@ -1,0 +1,38 @@
+---
+title: "A Study in Reproducibility: The Congruent Matching Cells Algorithm and `cmcR` package"
+author: "Joseph Zemmels, Susan Vanderplas, Heike Hofmann"
+date: "2023-02-09"
+image: "https://github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true"
+categories: papers
+page-layout: full
+title-block-banner: true
+keywords: [pr,  R package,  forensics,  firearms,  algorithms,  reproducibility,  machine learning]
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true){.preview-image}
+ 
+## Citation
+> <a name=bib-cmcR></a>[[1]](#cite-cmcR) J. Zemmels, S. Vanderplas, and H. Hofmann. “A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package”. In: _R Journal_ (4 Feb. 09, 2023), pp. 79-102. DOI: [10.32614/RJ-2023-014](https://doi.org/10.32614%2FRJ-2023-014).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{cmcR,
+  title = {A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package},
+  author = {Joseph Zemmels and Susan Vanderplas and Heike Hofmann},
+  number = {14},
+  doi = {10.32614/RJ-2023-014},
+  pages = {79-102},
+  year = {2023},
+  month = {feb},
+}
+```
+:::
+
+
+
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/jzemmels/cmcRwriteup){.btn .btn-tip role="button"}

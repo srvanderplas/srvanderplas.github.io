@@ -24,6 +24,28 @@ format_addendum <- function(x) {
     x)
 }
 
+format_citation <- function(x) {
+  RefManageR::NoCite(x)
+  y <- capture.output(
+    RefManageR::PrintBibliography(
+      entry,
+      .opts = list(no.print.fields = c("addendum", "keywords"),
+                   style = "markdown",
+                   first.inits = T,
+                   dashed = F))
+  ) %>%
+    paste(collapse = " ")
+
+  y <- stringr::str_replace(y, "NA", "")
+  return(y)
+}
+
+format_bibtex <- function(x, ...) {
+  capture.output(
+    RefManageR::PrintBibliography(x, ...)
+  )
+}
+
 # This function converts publications to a list of information necessary to make the post
 pub_to_params <- function(entry) {
   post_params <- list()
@@ -47,36 +69,20 @@ pub_to_params <- function(entry) {
     post_params$date <- "unknown"
   }
 
+  post_params$citation <- format_citation(entry)
 
-
-  RefManageR::NoCite(entry)
-  post_params$citation <- capture.output(
-    RefManageR::PrintBibliography(
-      entry,
-      .opts = list(no.print.fields = c("addendum", "keywords"),
-                   style = "markdown",
-                   first.inits = T,
-                   dashed = F))
-  ) %>%
-    paste(collapse = " ")
-
-  post_params$citation <- stringr::str_replace(post_params$citation, "NA", "")
-
-  post_params$bibtex <-  capture.output(
-    RefManageR::PrintBibliography(
-      entry,
-      .opts = list(no.print.fields = "addendum",
-                   style = "Bibtex",
-                   bib.style = "authoryear"))
-  )
+  post_params$bibtex <- format_bibtex(entry,
+    .opts = list(no.print.fields = "addendum",
+                 style = "Bibtex",
+                 bib.style = "authoryear"))
 
   if ("pic" %in% names(entrylist)) {
     post_params$image <- entry$pic
   }
 
   if ("keywords" %in% names(entrylist)) {
-    post_params$keywords <- stringr::str_split(
-      entrylist$keywords, ",")
+    post_params$keywords <- stringr::str_split(entrylist$keywords, ",")
+    post_params$keywords <- post_params$keywords[nchar(post_params$keywords) > 0]
   } else {
     post_params$keywords <- ""
   }
@@ -99,30 +105,33 @@ pub_to_params <- function(entry) {
 
 
 
-# This function writes out a qmd file in the correct directory corresponding to a post
+# This function writes out a qmd file in the correct directory
+# corresponding to a post
 create_paper <- function(params, path = "posts/papers") {
 
   post_name <- format_post_name(params$name)
   post_name <- paste0(post_name, ".qmd")
 
+  img_yaml <- ifelse("image" %in% names(params),
+                     yaml_kv("image", params$image), "")
+  kw_yaml <-  ifelse(length(params$keywords) > 0,
+                     yaml_kv("keywords", params$keywords), "")
   md_lines <- c(
     "---",
     yaml_kv("title", params$title),
     yaml_kv("author", params$author),
     yaml_kv("date", params$date),
-    ifelse("image" %in% names(params), yaml_kv("image", params$image), ""),
+    img_yaml,
+    kw_yaml,
     "categories: papers",
     "page-layout: full",
     "title-block-banner: true",
-    ifelse(length(params$keywords) > 0,
-           yaml_kv("keywords", params$keywords),
-           ""),
     "format:",
     "  html:",
     "    code-copy: true",
-    "---",
-    " ",
-    ifelse("image" %in% names(params), sprintf("![](%s){.preview-image}", params$image), ""),
+    "---", " ",
+    ifelse("image" %in% names(params),
+           sprintf("![](%s){.preview-image}", params$image), ""),
     " ",
     "## Citation",
     sprintf("> %s", params$citation),
@@ -133,8 +142,7 @@ create_paper <- function(params, path = "posts/papers") {
     params$bibtex,
     "```",
     ":::",
-    "",
-    "",
+    "", "",
     params$other
   )
 

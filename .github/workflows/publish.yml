@@ -49,5 +49,3 @@ jobs:
         env:
           GS_AUTH: ${{ secrets.GS_AUTH }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-# https://github.com/marketplace/actions/gsheet-action to automate gsheets?

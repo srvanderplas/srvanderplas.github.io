@@ -3,10 +3,10 @@ title: "Eye Fitting Straight Lines in the Modern Era"
 author: "Emily A. Robinson, Reka Howard, Susan VanderPlas"
 date: "2023-10-02"
 image: "https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true"
+keywords: [pr,  perception,  user testing,  visualization]
 categories: papers
 page-layout: full
 title-block-banner: true
-keywords: [pr,  perception,  user testing,  visualization]
 format:
   html:
     code-copy: true

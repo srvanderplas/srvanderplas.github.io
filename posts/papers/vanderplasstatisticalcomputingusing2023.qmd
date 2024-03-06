@@ -3,10 +3,10 @@ title: "Statistical Computing Using R and Python"
 author: "Susan Vanderplas"
 date: "2024-02-14"
 
+keywords: [npr,  R,  python,  textbook,  computing,  reproducibility]
 categories: papers
 page-layout: full
 title-block-banner: true
-keywords: [npr,  R,  python,  textbook,  computing,  reproducibility]
 format:
   html:
     code-copy: true

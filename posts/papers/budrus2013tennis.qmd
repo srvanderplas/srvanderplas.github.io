@@ -3,10 +3,10 @@ title: "In tennis, do smashes win matches?"
 author: "Sarah Budrus, Susan Vanderplas, Dianne Cook"
 date: "2013"
 image: "https://rss.onlinelibrary.wiley.com/cms/asset/b0ea4265-b5ea-4025-8345-6de8bf26f7c2/sign665-fig-0001-m.png"
+keywords: [npr,  visualization,  data science]
 categories: papers
 page-layout: full
 title-block-banner: true
-keywords: [npr,  visualization,  data science]
 format:
   html:
     code-copy: true

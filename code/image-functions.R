@@ -31,9 +31,14 @@ get_image <- function(x, output_file, verbose = F, ...) {
   } else {
     if (valid_url(x)) {
       if (!file.exists(output_file)) {
-        if (stringr::str_detect(x, "\\.svg$")) {
+        img_file_exts <- c("svg", "png", "jpg", "jpeg", "gif", "webp")
+        img_file_exts <- c(img_file_exts, toupper(img_file_exts))
+        img_file_ext_expr <- img_file_exts %>% paste0("\\.", ., "$")
+        is_img <- map_lgl(img_file_exts, ~stringr::str_detect(x, .))
+        if (any(is_img)) {
           # webshot doesn't screenshot svgs without issues... this is faster.
-          output_file <- stringr::str_replace(output_file, "\\.png$", ".svg")
+          img_ext <- img_file_exts[is_img]
+          output_file <- stringr::str_replace(output_file, "png$", img_ext)
           download.file(x, destfile = output_file, mode = "wb")
         } else {
           screenshot_slides(x, output_file, ...)

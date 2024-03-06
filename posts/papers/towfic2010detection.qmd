@@ -3,10 +3,10 @@ title: "Detection of gene orthology from gene co-expression and protein interact
 author: "Fadi Towfic, Susan Vanderplas, Casey A Oliver, Oliver Couture, Christopher K Tuggle, M Heather West Greenlee, Vasant Honavar"
 date: "2010"
 image: "https://i.imgur.com/8Wa9fu3.png"
+keywords: [pr,  bioinformatics,  undergraduate research]
 categories: papers
 page-layout: full
 title-block-banner: true
-keywords: [pr,  bioinformatics,  undergraduate research]
 format:
   html:
     code-copy: true

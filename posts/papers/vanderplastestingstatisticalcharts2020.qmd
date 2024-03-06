@@ -3,10 +3,10 @@ title: "Testing Statistical Charts: What Makes a Good Graph?"
 author: "Susan Vanderplas, Dianne Cook, Heike Hofmann"
 date: "2020-03-01"
 image: "https://github.com/srvanderplas/AnnualReviewStatisticsVisualization/blob/master/figure/noaa_michael.png?raw=true"
+keywords: [pr,  visualization,  user testing,  visual inference,  perception,  design,  review]
 categories: papers
 page-layout: full
 title-block-banner: true
-keywords: [pr,  visualization,  user testing,  visual inference,  perception,  design,  review]
 format:
   html:
     code-copy: true

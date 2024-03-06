@@ -3,10 +3,10 @@ title: "You Draw It: Implementation of visually fitted trends with r2d3"
 author: "Emily Robinson, Reka Howard, Susan VanderPlas"
 date: "2023-01"
 image: "https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true"
+keywords: [pr,  perception,  visualization,  covid,  log scales,  user testing]
 categories: papers
 page-layout: full
 title-block-banner: true
-keywords: [pr,  perception,  visualization,  covid,  log scales,  user testing]
 format:
   html:
     code-copy: true

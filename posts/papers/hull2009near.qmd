@@ -3,10 +3,10 @@ title: "Near-infrared spectroscopy and cortical responses to speech production"
 author: "Rachel Hull, Heather Bortfeld, Susan Koons"
 date: "2009"
 image: "https://i.imgur.com/hXnipcb.png"
+keywords: [pr,  psychology,  cognition,  undergraduate research]
 categories: papers
 page-layout: full
 title-block-banner: true
-keywords: [pr,  psychology,  cognition,  undergraduate research]
 format:
   html:
     code-copy: true

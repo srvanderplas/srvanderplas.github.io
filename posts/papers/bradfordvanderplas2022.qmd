@@ -3,10 +3,10 @@ title: "Exploring Rural Shrink Smart Through Guided Discovery Dashboards"
 author: "Denise Bradford, Susan VanderPlas"
 date: "2022-12"
 
+keywords: [pr,  perception,  visualization,  small communities]
 categories: papers
 page-layout: full
 title-block-banner: true
-keywords: [pr,  perception,  visualization,  small communities]
 format:
   html:
     code-copy: true

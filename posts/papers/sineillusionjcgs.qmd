@@ -3,10 +3,10 @@ title: "Signs of the Sine Illusion - why we need to care"
 author: "Susan Vanderplas, Heike Hofmann"
 date: "2015-12-10"
 image: "https://github.com/heike/sine-illusion/raw/master/figure/fig-origillusion.png"
+keywords: [pr,  visualization,  perception,  illusion,  user testing]
 categories: papers
 page-layout: full
 title-block-banner: true
-keywords: [pr,  visualization,  perception,  illusion,  user testing]
 format:
   html:
     code-copy: true

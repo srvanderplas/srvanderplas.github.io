@@ -3,10 +3,10 @@ title: "Clusters Beat Trend!? Testing Feature Hierarchy in Statistical Graphics"
 author: "Susan Vanderplas, Heike Hofmann"
 date: "2017-04-24"
 image: "https://github.com/srvanderplas/FeatureHierarchy/raw/master/pngs/1b4491b66980539a3d929485874ac41a.png"
+keywords: [pr,  design,  user testing,  visual inference,  visualization]
 categories: papers
 page-layout: full
 title-block-banner: true
-keywords: [pr,  design,  user testing,  visual inference,  visualization]
 format:
   html:
     code-copy: true

@@ -3,10 +3,10 @@ title: "Extending `ggplot2` for Linked and Animated Web Graphics"
 author: "Carson Sievert, Susan Vanderplas, Jun Cai, Kevin Ferris, Faizan Uddin Fahad Khan, Toby Dylan Hocking"
 date: "2018-11-14"
 image: "https://github.com/tdhock/animint/raw/master/screencast-WorldBank.gif"
+keywords: [pr,  animation,  exploratory data analysis,  visualization,  R package,  animation]
 categories: papers
 page-layout: full
 title-block-banner: true
-keywords: [pr,  animation,  exploratory data analysis,  visualization,  R package,  animation]
 format:
   html:
     code-copy: true

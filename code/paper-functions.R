@@ -27,8 +27,7 @@ format_addendum <- function(x) {
 format_citation <- function(x) {
   RefManageR::NoCite(x)
   y <- capture.output(
-    RefManageR::PrintBibliography(
-      entry,
+    RefManageR::PrintBibliography(x,
       .opts = list(no.print.fields = c("addendum", "keywords"),
                    style = "markdown",
                    first.inits = T,

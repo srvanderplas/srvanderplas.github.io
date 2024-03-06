@@ -9,7 +9,7 @@
 <link>srvanderplas.github.io/</link>
 <atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.550</generator>
+<generator>quarto-1.4.551</generator>
 <lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Building a CV with R and Google Sheets</title>
@@ -55,52 +55,6 @@ Location: Online</code></pre>
 <item>
   <title>Statistical Computing Using R and Python</title>
   <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/papers/vanderplasstatisticalcomputingusing2023.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-vanderplasStatisticalComputingUsing2023"></a>[1] S. Vanderplas. <em>Statistical Computing Using R and Python</em>. Feb.&nbsp;14, 2024. URL: <a href="https://srvanderplas.github.io/stat-computing-r-python/">https://srvanderplas.github.io/stat-computing-r-python/</a>.</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@misc{vanderplasStatisticalComputingUsing2023,
-  title = {Statistical {{Computing}} Using {{R}} and {{Python}}},
-  author = {Susan Vanderplas},
-  year = {2024},
-  url = {https://srvanderplas.github.io/stat-computing-r-python/},
-  month = {feb},
-}</code></pre>
-</div>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>papers</category>
-  <guid>srvanderplas.github.io/posts/papers/vanderplasstatisticalcomputingusing2023.html</guid>
-  <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Statistical Computing Using R and Python</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
   <link>srvanderplas.github.io/posts/papers/vanderplasStatisticalComputingUsing2023.html</link>
   <description><![CDATA[ 
 
@@ -142,6 +96,52 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/vanderplasStatisticalComputingUsing2023.html</guid>
+  <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Statistical Computing Using R and Python</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/vanderplasstatisticalcomputingusing2023.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-vanderplasStatisticalComputingUsing2023"></a>[1] S. Vanderplas. <em>Statistical Computing Using R and Python</em>. Feb.&nbsp;14, 2024. URL: <a href="https://srvanderplas.github.io/stat-computing-r-python/">https://srvanderplas.github.io/stat-computing-r-python/</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@misc{vanderplasStatisticalComputingUsing2023,
+  title = {Statistical {{Computing}} Using {{R}} and {{Python}}},
+  author = {Susan Vanderplas},
+  year = {2024},
+  url = {https://srvanderplas.github.io/stat-computing-r-python/},
+  month = {feb},
+}</code></pre>
+</div>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/vanderplasstatisticalcomputingusing2023.html</guid>
   <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
@@ -219,57 +219,6 @@ Location: Corpus Christie, TX</code></pre>
 <item>
   <title>Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. 2023</title>
   <dc:creator>Michael Rosenblum, Elizabeth T Chin, Elizabeth L Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C Thompson</dc:creator>
-  <link>srvanderplas.github.io/posts/papers/rosenblummisusestatisticalmethod2024.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-rosenblumMisuseStatisticalMethod2024"></a>[1] M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al.&nbsp;(2023)”. In: <em>Law, Probability and Risk</em> 23.1 (Jan.&nbsp;01, 2024), p.&nbsp;mgad010. ISSN: 1470-8396. DOI: <a href="https://doi.org/10.1093%2Flpr%2Fmgad010">10.1093/lpr/mgad010</a>. URL: <a href="https://doi.org/10.1093/lpr/mgad010">https://doi.org/10.1093/lpr/mgad010</a> (visited on 01/15/2024).</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{rosenblumMisuseStatisticalMethod2024,
-  title = {Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. (2023)},
-  volume = {23},
-  url = {https://doi.org/10.1093/lpr/mgad010},
-  doi = {10.1093/lpr/mgad010},
-  pages = {mgad010},
-  number = {1},
-  author = {Michael Rosenblum and Elizabeth T Chin and Elizabeth L Ogburn and Akihiko Nishimura and Daniel Westreich and Abhirup Datta and Susan Vanderplas and Maria Cuellar and William C Thompson},
-  year = {2024},
-  month = {jan},
-  note = {Last visited on 01/15/2024},
-}</code></pre>
-</div>
-</div>
-</div>
-
-
-</section>
-
- ]]></description>
-  <category>papers</category>
-  <guid>srvanderplas.github.io/posts/papers/rosenblummisusestatisticalmethod2024.html</guid>
-  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. 2023</title>
-  <dc:creator>Michael Rosenblum, Elizabeth T Chin, Elizabeth L Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C Thompson</dc:creator>
   <link>srvanderplas.github.io/posts/papers/rosenblumMisuseStatisticalMethod2024.html</link>
   <description><![CDATA[ 
 
@@ -316,6 +265,57 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/rosenblumMisuseStatisticalMethod2024.html</guid>
+  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. 2023</title>
+  <dc:creator>Michael Rosenblum, Elizabeth T Chin, Elizabeth L Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C Thompson</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/rosenblummisusestatisticalmethod2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-rosenblumMisuseStatisticalMethod2024"></a>[1] M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al.&nbsp;(2023)”. In: <em>Law, Probability and Risk</em> 23.1 (Jan.&nbsp;01, 2024), p.&nbsp;mgad010. ISSN: 1470-8396. DOI: <a href="https://doi.org/10.1093%2Flpr%2Fmgad010">10.1093/lpr/mgad010</a>. URL: <a href="https://doi.org/10.1093/lpr/mgad010">https://doi.org/10.1093/lpr/mgad010</a> (visited on 01/15/2024).</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{rosenblumMisuseStatisticalMethod2024,
+  title = {Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. (2023)},
+  volume = {23},
+  url = {https://doi.org/10.1093/lpr/mgad010},
+  doi = {10.1093/lpr/mgad010},
+  pages = {mgad010},
+  number = {1},
+  author = {Michael Rosenblum and Elizabeth T Chin and Elizabeth L Ogburn and Akihiko Nishimura and Daniel Westreich and Abhirup Datta and Susan Vanderplas and Maria Cuellar and William C Thompson},
+  year = {2024},
+  month = {jan},
+  note = {Last visited on 01/15/2024},
+}</code></pre>
+</div>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/rosenblummisusestatisticalmethod2024.html</guid>
   <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
 </item>
 <item>

@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/other.html",
+    "items": [
+      "/posts/other/wire-measurements.html"
+    ]
+  },
+  {
     "listing": "/publications.html",
     "items": [
       "/posts/papers/vanderplasStatisticalComputingUsing2023.html",
@@ -81,12 +87,12 @@
     "listing": "/index.html",
     "items": [
       "/posts/talks/building-a-cv-with-r-and-google-sheets.html",
-      "/posts/papers/vanderplasstatisticalcomputingusing2023.html",
       "/posts/papers/vanderplasStatisticalComputingUsing2023.html",
+      "/posts/papers/vanderplasstatisticalcomputingusing2023.html",
       "/posts/talks/using-git-submodules.html",
       "/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html",
-      "/posts/papers/rosenblummisusestatisticalmethod2024.html",
       "/posts/papers/rosenblumMisuseStatisticalMethod2024.html",
+      "/posts/papers/rosenblummisusestatisticalmethod2024.html",
       "/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html",
       "/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html",
       "/posts/other/wire-measurements.html",
@@ -118,18 +124,18 @@
       "/posts/talks/welcome-to-forensic-statistics.html",
       "/posts/talks/perception-and-visual-communication-in-a-global-pandemic.html",
       "/posts/talks/statistical-evaluation-of-firearms-and-toolmark-evidence.html",
+      "/posts/papers/vanderplasComparisonThreeSimilarity2020.html",
+      "/posts/papers/vanderplasTestingStatisticalCharts2020.html",
       "/posts/papers/vanderplascomparisonthreesimilarity2020.html",
       "/posts/papers/vanderplastestingstatisticalcharts2020.html",
-      "/posts/papers/vanderplasTestingStatisticalCharts2020.html",
-      "/posts/papers/vanderplasComparisonThreeSimilarity2020.html",
       "/posts/talks/one-of-these-things-is-not-like-the-others-visual-statistics-and-testing-in-statistical-graphics.html",
       "/posts/talks/big-data-big-experiments-and-big-problems.html",
       "/posts/papers/vanderplasintroductionfirearmsexamination2020.html",
       "/posts/papers/vanderplasIntroductionFirearmsExamination2020.html",
       "/posts/talks/statistical-lineups-for-bayesians.html",
       "/posts/papers/rutter2019ggenealogy.html",
-      "/posts/papers/framedjcgs.html",
       "/posts/papers/machinelearningforensics2019.html",
+      "/posts/papers/framedjcgs.html",
       "/posts/papers/sievert2018extending.html",
       "/posts/talks/framed-charts-in-the-statistical-atlas.html",
       "/posts/talks/framed-charts-in-the-1870-statistical-atlas.html",
@@ -149,12 +155,6 @@
       "/posts/papers/budrus2013tennis.html",
       "/posts/papers/towfic2010detection.html",
       "/posts/papers/hull2009near.html"
-    ]
-  },
-  {
-    "listing": "/other.html",
-    "items": [
-      "/posts/other/wire-measurements.html"
     ]
   }
 ]

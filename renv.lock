@@ -514,7 +514,6 @@
     },
     "rmarkdown": {
       "Package": "rmarkdown",
-      "Version": "2.26",
       "Source": "Repository"
     },
     "stringi": {

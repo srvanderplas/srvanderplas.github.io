@@ -1,0 +1,26 @@
+---
+title: "Web Scraping Olympics: Python"
+author: "Susan Vanderplas"
+date: "2024-11-02"
+categories: talks
+page-layout: full
+title-block-banner: true
+
+keywords: [computing, programming, web scraping, Talk]
+format:
+  html:
+    code-copy: true
+---
+ 
+## Abstract
+>  A comparison of Python, Julia, and R for web-scraping Olympic athlete names, events, and birthdays. I represented python. See the full narrative here: https://srvanderplas.github.io/2024-data-jamboree-python/python-narrative.html
+
+
+## Location
+
+    , Statistical Computing Section Mini-Symposium
+    Event Type: Webinar
+    Location: Online
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2024-Presentations/11-asa-computing/#/title-slide' height='800px' width='500px'></iframe>

@@ -1,0 +1,26 @@
+---
+title: "Building a CV/Blog Automatically"
+author: "Susan Vanderplas"
+date: "2024-03-07"
+categories: talks
+page-layout: full
+title-block-banner: true
+image: "building-a-cv-blog-automatically.png"
+keywords: [computing, workflow, professional development, Talk]
+format:
+  html:
+    code-copy: true
+---
+ 
+## Abstract
+>  This week will be the second of a 2-part workshop.    On Feb 15, we talked about how to make a CV with R and a google spreadsheet (and why you might want to do so).    This week, we'll talk about how to use this same setup to build a blog-type website with posts for each paper and presentation, using quarto.    Setup steps:        1. Clone or fork the github repository I've made: https://github.com/srvanderplas/cv-site-template.     2. Modify the data/CV.bib file in the repository to contain your publications, if you want to include them on the CV.      3. Modify the data/CV.xlsx file in the repository to contain your talks    During the presentation, I'll walk you through the workflow I use and show you how to use the code I've written to create your own CV-style blog from a spreadsheet and a bib file.   We'll also talk about how to use this workflow, git submodules, and github actions to automatically keep things updated.
+
+
+## Location
+
+    University of Nebraska, Graphics Group
+    Event Type: Interest Group
+    Location: Online
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2024-Presentations/03-graphics-blog/#/title-slide' height='800px' width='500px'></iframe>

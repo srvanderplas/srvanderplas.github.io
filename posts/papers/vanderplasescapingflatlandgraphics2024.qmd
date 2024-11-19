@@ -1,0 +1,40 @@
+---
+title: "Escaping Flatland: Graphics, Dimensionality, andHuman Perception"
+author: "Susan Vanderplas, Erin Blankenship, Tyler Wiederich"
+date: "2024-07-01"
+image: "https://github.com/srvanderplas/2024-hcii-escaping-flatland/blob/main/image/Kit_of_charts.png?raw=true"
+keywords: [pr, accuracy, graphics, perception, teaching, user-study]
+categories: papers
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://github.com/srvanderplas/2024-hcii-escaping-flatland/blob/main/image/Kit_of_charts.png?raw=true){.preview-image}
+ 
+## Citation
+> <a name=bib-vanderplasEscapingFlatlandGraphics2024></a>[[1]](#cite-vanderplasEscapingFlatlandGraphics2024) S. Vanderplas, E. Blankenship, and T. Wiederich. “Escaping Flatland: Graphics, Dimensionality, and~Human Perception”. In: _Human Interface and the Management of Information_. Ed. by H. Mori and Y. Asahi. Springer Nature Switzerland, Jul. 01, 2024, pp. 140-156. ISBN: 978-3-031-60114-9. DOI: [10.1007/978-3-031-60114-9_11](https://doi.org/10.1007%2F978-3-031-60114-9_11).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@inproceedings{vanderplasEscapingFlatlandGraphics2024,
+  title = {Escaping {{Flatland}}: {{Graphics}}, {{Dimensionality}}, and~{{Human Perception}}},
+  booktitle = {Human {{Interface}} and the {{Management}} of {{Information}}},
+  author = {Susan Vanderplas and Erin Blankenship and Tyler Wiederich},
+  editor = {Hirohiko Mori and Yumi Asahi},
+  year = {2024},
+  pages = {140--156},
+  publisher = {Springer Nature Switzerland},
+  doi = {10.1007/978-3-031-60114-9_11},
+  month = {jul},
+}
+```
+:::
+
+
+
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/srvanderplas/2024-hcii-escaping-flatland){.btn .btn-tip role="button"}

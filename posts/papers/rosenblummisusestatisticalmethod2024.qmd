@@ -1,7 +1,7 @@
 ---
 title: "Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. 2023"
 author: "Michael Rosenblum, Elizabeth T Chin, Elizabeth L Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C Thompson"
-date: "2024-01-01"
+date: "2024-01-09"
 
 keywords: [pr,  forensics,  error rates]
 categories: papers
@@ -15,7 +15,7 @@ format:
 
  
 ## Citation
-> <a name=bib-rosenblumMisuseStatisticalMethod2024></a>[[1]](#cite-rosenblumMisuseStatisticalMethod2024) M. Rosenblum, E. T. Chin, E. L. Ogburn, et al. “Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. (2023)”. In: _Law, Probability and Risk_ 23.1 (Jan. 01, 2024), p. mgad010. ISSN: 1470-8396. DOI: [10.1093/lpr/mgad010](https://doi.org/10.1093%2Flpr%2Fmgad010). URL: [https://doi.org/10.1093/lpr/mgad010](https://doi.org/10.1093/lpr/mgad010) (visited on 01/15/2024).
+> <a name=bib-rosenblumMisuseStatisticalMethod2024></a>[[1]](#cite-rosenblumMisuseStatisticalMethod2024) M. Rosenblum, E. T. Chin, E. L. Ogburn, et al. “Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. (2023)”. In: _Law, Probability and Risk_ 23.1 (Jan. 09, 2024). DOI: [10.1093/lpr/mgad010](https://doi.org/10.1093%2Flpr%2Fmgad010). URL: [https://doi.org/10.1093/lpr/mgad010](https://doi.org/10.1093/lpr/mgad010).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -25,12 +25,10 @@ format:
   volume = {23},
   url = {https://doi.org/10.1093/lpr/mgad010},
   doi = {10.1093/lpr/mgad010},
-  pages = {mgad010},
   number = {1},
   author = {Michael Rosenblum and Elizabeth T Chin and Elizabeth L Ogburn and Akihiko Nishimura and Daniel Westreich and Abhirup Datta and Susan Vanderplas and Maria Cuellar and William C Thompson},
   year = {2024},
   month = {jan},
-  note = {Last visited on 01/15/2024},
 }
 ```
 :::

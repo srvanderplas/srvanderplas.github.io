@@ -1,0 +1,26 @@
+---
+title: "Creating Effective Graphics"
+author: "Susan Vanderplas"
+date: "2024-11-13"
+categories: talks
+page-layout: full
+title-block-banner: true
+image: "creating-effective-graphics.png"
+keywords: [graphics, visualization, design, Talk]
+format:
+  html:
+    code-copy: true
+---
+ 
+## Abstract
+>  How do we create effective charts and graphs for scientific presentations? What are the elements of effective charts and graphics? Which charts should be used for different types of data? How do we make charts that are "presentation ready"? In this workshop, we'll do a quick run-through of guidelines for good charts and graphics, and then discuss how to use different scientific tools to create charts and graphics effectively.
+
+
+## Location
+
+    , Undergraduate Creative Activities and Research Experience
+    Event Type: Department Seminar
+    Location: Lincoln, NE
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2024-Presentations/11-fyre-graphics/#/title-slide' height='800px' width='500px'></iframe>

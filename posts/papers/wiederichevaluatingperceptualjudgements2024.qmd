@@ -1,0 +1,39 @@
+---
+title: "Evaluating Perceptual Judgements on 3D Printed Bar Charts"
+author: "Tyler Wiederich, Susan Vanderplas"
+date: "2024-04-24"
+
+keywords: [pr,  3d,  visualization,  user testing,  experiential learning]
+categories: papers
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    code-copy: true
+---
+ 
+
+ 
+## Citation
+> <a name=bib-wiederichEvaluatingPerceptualJudgements2024></a>[[1]](#cite-wiederichEvaluatingPerceptualJudgements2024) T. Wiederich and S. Vanderplas. “Evaluating Perceptual Judgements on 3D Printed Bar Charts”. In: _Journal of Data Science_ 22.2 (Apr. 24, 2024), pp. 176-190. ISSN: 1680743X. DOI: [10.6339/24-JDS1131](https://doi.org/10.6339%2F24-JDS1131).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{wiederichEvaluatingPerceptualJudgements2024,
+  title = {Evaluating Perceptual Judgements on 3D Printed Bar Charts},
+  volume = {22},
+  doi = {10.6339/24-JDS1131},
+  pages = {176--190},
+  number = {2},
+  author = {Tyler Wiederich and Susan Vanderplas},
+  year = {2024},
+  month = {apr},
+}
+```
+:::
+
+
+
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/TWiedRW/2023-JDS-3dcharts){.btn .btn-tip role="button"}

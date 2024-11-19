@@ -1,0 +1,38 @@
+---
+title: "One Model That Fits Them All: Psychometrics With Generalized Linear Mixed Effects Models"
+author: "Wangqian Ju, Susan R. VanderPlas, Heike Hofmann"
+date: "2024-01-24"
+
+keywords: [pr,  graphics,  psychometrics,  modeling]
+categories: papers
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    code-copy: true
+---
+ 
+
+ 
+## Citation
+> <a name=bib-juOneModelThat2024></a>[[1]](#cite-juOneModelThat2024) W. Ju, S. R. VanderPlas, and H. Hofmann. “One Model That Fits Them All: Psychometrics With Generalized Linear Mixed Effects Models”. In: _Electronic Imaging_ 36 (Jan. 24, 2024), pp. 1-8. DOI: [10.2352/EI.2024.36.1.VDA-358](https://doi.org/10.2352%2FEI.2024.36.1.VDA-358).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{juOneModelThat2024,
+  title = {One {{Model}} That {{Fits Them All}}: {{Psychometrics With Generalized Linear Mixed Effects Models}}},
+  author = {Wangqian Ju and Susan R. VanderPlas and Heike Hofmann},
+  year = {2024},
+  month = {jan},
+  journal = {Electronic Imaging},
+  volume = {36},
+  pages = {1--8},
+  publisher = {{Society for Imaging Science and Technology}},
+  doi = {10.2352/EI.2024.36.1.VDA-358},
+}
+```
+:::
+
+
+

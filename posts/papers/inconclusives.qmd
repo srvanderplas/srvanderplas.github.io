@@ -22,7 +22,7 @@ format:
 ```
 @article{inconclusives,
   author = {Heike Hofmann and Alicia Carriquiry and Susan Vanderplas},
-  title = {{Treatment of inconclusives in the {AFTE} range of conclusions}},
+  title = {Treatment of inconclusives in the {AFTE} range of conclusions},
   journal = {Law, Probability and Risk},
   volume = {19},
   number = {3-4},

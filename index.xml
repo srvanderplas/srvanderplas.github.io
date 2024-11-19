@@ -9,8 +9,560 @@
 <link>srvanderplas.github.io/</link>
 <atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.551</generator>
-<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Wed, 13 Nov 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Creating Effective Graphics</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/creating-effective-graphics.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>How do we create effective charts and graphs for scientific presentations? What are the elements of effective charts and graphics? Which charts should be used for different types of data? How do we make charts that are “presentation ready”? In this workshop, we’ll do a quick run-through of guidelines for good charts and graphics, and then discuss how to use different scientific tools to create charts and graphics effectively.</p>
+</blockquote>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<pre><code>, Undergraduate Creative Activities and Research Experience
+Event Type: Department Seminar
+Location: Lincoln, NE</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/11-fyre-graphics/#/title-slide" height="800px" width="500px">
+</iframe>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/creating-effective-graphics.html</guid>
+  <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/creating-effective-graphics.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>Incorrect statistical reasoning in Guyll et al. leads to biased claims about strength of forensic evidence</title>
+  <dc:creator>Michael Rosenblum, Elizabeth T. Chin, Elizabeth L. Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C. Thompson</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/rosenblumincorrectstatisticalreasoning2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-rosenblumIncorrectStatisticalReasoning2024"></a>[1] M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Incorrect statistical reasoning in Guyll et al.&nbsp;leads to biased claims about strength of forensic evidence”. In: <em>Proceedings of the National Academy of Sciences</em> 121.45 (Nov.&nbsp;05, 2024). DOI: <a href="https://doi.org/10.1073%2Fpnas.2315431121">10.1073/pnas.2315431121</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{rosenblumIncorrectStatisticalReasoning2024,
+  title = {Incorrect statistical reasoning in Guyll et al. leads to biased claims about strength of forensic evidence},
+  volume = {121},
+  doi = {10.1073/pnas.2315431121},
+  number = {45},
+  author = {Michael Rosenblum and Elizabeth T. Chin and Elizabeth L. Ogburn and Akihiko Nishimura and Daniel Westreich and Abhirup Datta and Susan Vanderplas and Maria Cuellar and William C. Thompson},
+  year = {2024},
+  month = {nov},
+}</code></pre>
+</div>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/rosenblumincorrectstatisticalreasoning2024.html</guid>
+  <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Web Scraping Olympics: Python</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/web-scraping-olympics-python.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>A comparison of Python, Julia, and R for web-scraping Olympic athlete names, events, and birthdays. I represented python. See the full narrative here: https://srvanderplas.github.io/2024-data-jamboree-python/python-narrative.html</p>
+</blockquote>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<pre><code>, Statistical Computing Section Mini-Symposium
+Event Type: Webinar
+Location: Online</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/11-asa-computing/#/title-slide" height="800px" width="500px">
+</iframe>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/web-scraping-olympics-python.html</guid>
+  <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A Plot is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol</title>
+  <dc:creator>Weihao (Patrick) Li, Di Cook, Emi Tanaka, Klaus Ackermann, Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>Regression experts consistently recommend plotting residuals for model diagnosis, despite the availability of many numerical hypothesis test procedures designed to use residuals to assess problems with a model fit. Here we provide evidence for why this is good advice using data from a visual inference experiment. We show how conventional tests are too sensitive, which means that too often the conclusion would be that the model fit is inadequate. The experiment uses the lineup protocol which puts a residual plot in the context of null plots. This helps generate reliable and consistent reading of residual plots for better model diagnosis. It can also help in an obverse situation where a conventional test would fail to detect a problem with a model due to contaminated data. The lineup protocol also detects a range of departures from good residuals simultaneously.</p>
+</blockquote>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<pre><code>Section on Statistical Graphics, JSM
+Event Type: Conference
+Location: Portland, Or</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/08-JSM/" height="800px" width="500px">
+</iframe>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.html</guid>
+  <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.png" medium="image" type="image/png" height="58" width="144"/>
+</item>
+<item>
+  <title>Escaping Flatland: Graphics, Dimensionality, and Human Perception</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>Almost 40 years ago, Cleveland &amp; McGill published the first of 3 papers detailing experiments assessing the accuracy of numerical perception using different types of charts. This study is often cited as a reason to avoid the use of extraneous dimensions in data visualization: 2D bar charts produced more accurate estimates than 3D bar charts; in addition, lines (length) produced more accurate estimates than circles (area). Graphics have changed fairly significantly in the last 40 years: where we once had fixed 3D perspective charts, we now can rotate 3D renderings in digital space and even 3D print our charts to examine physically. Many optical illusions result from perceptual mismatches of 3D visual heuristics and 2D, planar, data representations; more realistic renderings available with modern tools might change the outcome of the Cleveland &amp; McGill comparison of 2D vs.&nbsp;3D accuracy. In this paper, we present several experiments which replicate the bar chart portion of Cleveland &amp; McGill’s original study, comparing 2D, 3D fixed perspective, 3D rendered, and 3D printed charts. We discuss the findings and the importance of replicating classic experiments using modern technology, as well as the benefits of incorporating hands-on research in introductory classes as experiential learning activities.</p>
+</blockquote>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<pre><code>, Human Computer Interaction International
+Event Type: Conference
+Location: Washington DC</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/07-HCII/#/title-slide" height="800px" width="500px">
+</iframe>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html</guid>
+  <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.png" medium="image" type="image/png" height="99" width="144"/>
+</item>
+<item>
+  <title>Escaping Flatland: Graphics, Dimensionality, andHuman Perception</title>
+  <dc:creator>Susan Vanderplas, Erin Blankenship, Tyler Wiederich</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/vanderplasescapingflatlandgraphics2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://github.com/srvanderplas/2024-hcii-escaping-flatland/blob/main/image/Kit_of_charts.png?raw=true" class="preview-image img-fluid"></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-vanderplasEscapingFlatlandGraphics2024"></a>[1] S. Vanderplas, E. Blankenship, and T. Wiederich. “Escaping Flatland: Graphics, Dimensionality, and~Human Perception”. In: <em>Human Interface and the Management of Information</em>. Ed. by H. Mori and Y. Asahi. Springer Nature Switzerland, Jul.&nbsp;01, 2024, pp.&nbsp;140-156. ISBN: 978-3-031-60114-9. DOI: <a href="https://doi.org/10.1007%2F978-3-031-60114-9_11">10.1007/978-3-031-60114-9_11</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@inproceedings{vanderplasEscapingFlatlandGraphics2024,
+  title = {Escaping {{Flatland}}: {{Graphics}}, {{Dimensionality}}, and~{{Human Perception}}},
+  booktitle = {Human {{Interface}} and the {{Management}} of {{Information}}},
+  author = {Susan Vanderplas and Erin Blankenship and Tyler Wiederich},
+  editor = {Hirohiko Mori and Yumi Asahi},
+  year = {2024},
+  pages = {140--156},
+  publisher = {Springer Nature Switzerland},
+  doi = {10.1007/978-3-031-60114-9_11},
+  month = {jul},
+}</code></pre>
+</div>
+</div>
+</div>
+<p><a href="https://github.com/srvanderplas/2024-hcii-escaping-flatland" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/vanderplasescapingflatlandgraphics2024.html</guid>
+  <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/srvanderplas/2024-hcii-escaping-flatland/blob/main/image/Kit_of_charts.png?raw=true" medium="image"/>
+</item>
+<item>
+  <title>Creating Good Graphics</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/creating-good-graphics.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>Let’s talk about how to create good charts and graphics!</p>
+</blockquote>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<pre><code>University of Nebraska – Lincoln, UNL REU seminar
+Event Type: Department Seminar
+Location: Lincoln, NE</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/06-REU-graphics/#/title-slide" height="800px" width="500px">
+</iframe>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/creating-good-graphics.html</guid>
+  <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/creating-good-graphics.png" medium="image" type="image/png" height="106" width="144"/>
+</item>
+<item>
+  <title>Hidden Multiple Comparisons Increase Forensic Error Rates</title>
+  <dc:creator>Susan Vanderplas, Alicia Carriquiry, Heike Hofmann</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://i.imgur.com/JXILntV.png" class="preview-image img-fluid"></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-vanderplasHiddenMultipleComparisons20241"></a>[1] S. Vanderplas, A. Carriquiry, and H. Hofmann. “Hidden Multiple Comparisons Increase Forensic Error Rates”. In: <em>Proceedings of the National Academy of Sciences</em> 121.25 (Jun.&nbsp;10, 2024), p.&nbsp;e2401326121. DOI: <a href="https://doi.org/10.1073%2Fpnas.2401326121">10.1073/pnas.2401326121</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{vanderplasHiddenMultipleComparisons2024:1,
+  title = {Hidden Multiple Comparisons Increase Forensic Error Rates},
+  author = {Susan Vanderplas and Alicia Carriquiry and Heike Hofmann},
+  year = {2024},
+  month = {jun},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {121},
+  number = {25},
+  pages = {e2401326121},
+  publisher = {Proceedings of the National Academy of Sciences},
+  doi = {10.1073/pnas.2401326121},
+}</code></pre>
+</div>
+</div>
+</div>
+<p><a href="https://github.com/srvanderplas/Wire-Cut-Errors" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html</guid>
+  <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://i.imgur.com/JXILntV.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>A Plot Is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol</title>
+  <dc:creator>Weihao Li, Dianne Cook, Emi Tanaka, Susan VanderPlas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/liplotworththousand2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-liPlotWorthThousand2024"></a>[1] W. Li, D. Cook, E. Tanaka, et al.&nbsp;“A Plot Is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol”. In: <em>Journal of Computational and Graphical Statistics</em> (May. 22, 2024). ISSN: 1061-8600. DOI: <a href="https://doi.org/10.1080%2F10618600.2024.2344612">10.1080/10618600.2024.2344612</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{liPlotWorthThousand2024,
+  title = {A {{Plot}} Is {{Worth}} a {{Thousand Tests}}: {{Assessing Residual Diagnostics}} with the {{Lineup Protocol}}},
+  author = {Weihao Li and Dianne Cook and Emi Tanaka and Susan VanderPlas},
+  year = {2024},
+  month = {may},
+  journal = {Journal of Computational and Graphical Statistics},
+  publisher = {Taylor \&amp; Francis},
+  doi = {10.1080/10618600.2024.2344612},
+}</code></pre>
+</div>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/liplotworththousand2024.html</guid>
+  <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Demonstrative Evidence and the Use of Algorithms in Jury Trials</title>
+  <dc:creator>Rachel Rogers, Susan VanderPlas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/rogersdemonstrativeevidenceuse2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://github.com/rachelesrogers/Algorithms_in_Jury_Trials/blob/master/paper/images/credible.jpg?raw=true" class="preview-image img-fluid"></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-rogersDemonstrativeEvidenceUse2024"></a>[1] R. Rogers and S. VanderPlas. “Demonstrative Evidence and the Use of Algorithms in Jury Trials”. In: <em>Journal of Data Science</em> 22.2 (May. 02, 2024), pp.&nbsp;314-332. DOI: <a href="https://doi.org/10.6339%2F24-JDS1130">10.6339/24-JDS1130</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{rogersDemonstrativeEvidenceUse2024,
+  title = {Demonstrative {{Evidence}} and the {{Use}} of {{Algorithms}} in {{Jury Trials}}},
+  author = {Rachel Rogers and Susan VanderPlas},
+  year = {2024},
+  month = {may},
+  journal = {Journal of Data Science},
+  volume = {22},
+  number = {2},
+  pages = {314--332},
+  publisher = {School of Statistics, Renmin University of China},
+  doi = {10.6339/24-JDS1130},
+}</code></pre>
+</div>
+</div>
+</div>
+<p><a href="https://github.com/srvanderplas/2024-hcii-escaping-flatland" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/rogersdemonstrativeevidenceuse2024.html</guid>
+  <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/rachelesrogers/Algorithms_in_Jury_Trials/blob/master/paper/images/credible.jpg?raw=true" medium="image"/>
+</item>
+<item>
+  <title>Evaluating Perceptual Judgements on 3D Printed Bar Charts</title>
+  <dc:creator>Tyler Wiederich, Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/wiederichevaluatingperceptualjudgements2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-wiederichEvaluatingPerceptualJudgements2024"></a>[1] T. Wiederich and S. Vanderplas. “Evaluating Perceptual Judgements on 3D Printed Bar Charts”. In: <em>Journal of Data Science</em> 22.2 (Apr.&nbsp;24, 2024), pp.&nbsp;176-190. ISSN: 1680743X. DOI: <a href="https://doi.org/10.6339%2F24-JDS1131">10.6339/24-JDS1131</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{wiederichEvaluatingPerceptualJudgements2024,
+  title = {Evaluating Perceptual Judgements on 3D Printed Bar Charts},
+  volume = {22},
+  doi = {10.6339/24-JDS1131},
+  pages = {176--190},
+  number = {2},
+  author = {Tyler Wiederich and Susan Vanderplas},
+  year = {2024},
+  month = {apr},
+}</code></pre>
+</div>
+</div>
+</div>
+<p><a href="https://github.com/TWiedRW/2023-JDS-3dcharts" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/wiederichevaluatingperceptualjudgements2024.html</guid>
+  <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Graphical Perception in a Pandemic: Log Scales, Exponential Growth, and the Importance of User Testing</title>
+  <dc:creator>Susan Vanderplas, Emily Robinson, Reka Howard</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>During COVID, people all over the world were consulting time-series charts on a daily basis and using these charts to make decisions. Discussions broke out among data visualization and scientific communication experts, debating the relative merits of log and linear scales, but there was relatively little research about how people perceive and use visualizations of exponential data, with linear or transformed scales. In this talk, I’ll discuss the study we undertook to address the lack of research in this area, and how the results speak not only to the importance of additional graphical testing, but also to the trade offs between different levels of user engagement with visualizations.</p>
+</blockquote>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<pre><code>Epidemiology and Biostatistics Seminar, University of Illinois Chicago School of Public Health
+Event Type: Department Seminar
+Location: Chicago, IL (Online)</code></pre>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.html</guid>
+  <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Building a CV/Blog Automatically</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>This week will be the second of a 2-part workshop. On Feb 15, we talked about how to make a CV with R and a google spreadsheet (and why you might want to do so). This week, we’ll talk about how to use this same setup to build a blog-type website with posts for each paper and presentation, using quarto. Setup steps: 1. Clone or fork the github repository I’ve made: https://github.com/srvanderplas/cv-site-template. 2. Modify the data/CV.bib file in the repository to contain your publications, if you want to include them on the CV. 3. Modify the data/CV.xlsx file in the repository to contain your talks During the presentation, I’ll walk you through the workflow I use and show you how to use the code I’ve written to create your own CV-style blog from a spreadsheet and a bib file. We’ll also talk about how to use this workflow, git submodules, and github actions to automatically keep things updated.</p>
+</blockquote>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<pre><code>University of Nebraska, Graphics Group
+Event Type: Interest Group
+Location: Online</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/03-graphics-blog/#/title-slide" height="800px" width="500px">
+</iframe>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.html</guid>
+  <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.png" medium="image" type="image/png" height="93" width="144"/>
+</item>
 <item>
   <title>Building a CV with R and Google Sheets</title>
   <dc:creator>Susan Vanderplas</dc:creator>
@@ -135,6 +687,56 @@ Location: Online</code></pre>
   <media:content url="srvanderplas.github.io/posts/talks/using-git-submodules.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
+  <title>One Model That Fits Them All: Psychometrics With Generalized Linear Mixed Effects Models</title>
+  <dc:creator>Wangqian Ju, Susan R. VanderPlas, Heike Hofmann</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/juonemodelthat2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-juOneModelThat2024"></a>[1] W. Ju, S. R. VanderPlas, and H. Hofmann. “One Model That Fits Them All: Psychometrics With Generalized Linear Mixed Effects Models”. In: <em>Electronic Imaging</em> 36 (Jan.&nbsp;24, 2024), pp.&nbsp;1-8. DOI: <a href="https://doi.org/10.2352%2FEI.2024.36.1.VDA-358">10.2352/EI.2024.36.1.VDA-358</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{juOneModelThat2024,
+  title = {One {{Model}} That {{Fits Them All}}: {{Psychometrics With Generalized Linear Mixed Effects Models}}},
+  author = {Wangqian Ju and Susan R. VanderPlas and Heike Hofmann},
+  year = {2024},
+  month = {jan},
+  journal = {Electronic Imaging},
+  volume = {36},
+  pages = {1--8},
+  publisher = {{Society for Imaging Science and Technology}},
+  doi = {10.2352/EI.2024.36.1.VDA-358},
+}</code></pre>
+</div>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/juonemodelthat2024.html</guid>
+  <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Cultivating Insights: Harnessing the Power of Data Visualization in Agriculture</title>
   <dc:creator>Susan Vanderplas</dc:creator>
   <link>srvanderplas.github.io/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html</link>
@@ -183,7 +785,7 @@ Location: Corpus Christie, TX</code></pre>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
-<p><a name="bib-rosenblumMisuseStatisticalMethod2024"></a>[1] M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al.&nbsp;(2023)”. In: <em>Law, Probability and Risk</em> 23.1 (Jan.&nbsp;01, 2024), p.&nbsp;mgad010. ISSN: 1470-8396. DOI: <a href="https://doi.org/10.1093%2Flpr%2Fmgad010">10.1093/lpr/mgad010</a>. URL: <a href="https://doi.org/10.1093/lpr/mgad010">https://doi.org/10.1093/lpr/mgad010</a> (visited on 01/15/2024).</p>
+<p><a name="bib-rosenblumMisuseStatisticalMethod2024"></a>[1] M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al.&nbsp;(2023)”. In: <em>Law, Probability and Risk</em> 23.1 (Jan.&nbsp;09, 2024). DOI: <a href="https://doi.org/10.1093%2Flpr%2Fmgad010">10.1093/lpr/mgad010</a>. URL: <a href="https://doi.org/10.1093/lpr/mgad010">https://doi.org/10.1093/lpr/mgad010</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
@@ -202,12 +804,10 @@ Bibtex
   volume = {23},
   url = {https://doi.org/10.1093/lpr/mgad010},
   doi = {10.1093/lpr/mgad010},
-  pages = {mgad010},
   number = {1},
   author = {Michael Rosenblum and Elizabeth T Chin and Elizabeth L Ogburn and Akihiko Nishimura and Daniel Westreich and Abhirup Datta and Susan Vanderplas and Maria Cuellar and William C Thompson},
   year = {2024},
   month = {jan},
-  note = {Last visited on 01/15/2024},
 }</code></pre>
 </div>
 </div>
@@ -219,7 +819,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/rosenblummisusestatisticalmethod2024.html</guid>
-  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+  <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design</title>
@@ -250,643 +850,6 @@ Location: Wollongong, NSW, AUS</code></pre>
   <guid>srvanderplas.github.io/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html</guid>
   <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>How Do You Define a Circle? Perception and Computer Vision Diagnostics</title>
-  <dc:creator>Susan Vanderplas, Muxin Hua</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<blockquote class="blockquote">
-<p>Neural Networks are very complicated and very useful models for image recognition, but they are generally used to recognize very complex and multifaceted stimuli, like cars or people. When neural networks are used to recognize simpler objects with overlapping feature sets, things can go a bit haywire. In this talk, we’ll discuss a model built for applications in statistical forensics which uncovered some very interesting problems between model-based perception and human perception. I will show visual diagnostics which provide insight into the model, and talk about ways we might address the discrepancy between human perception and model perception to produce more accurate and useful model predictions.</p>
-</blockquote>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<pre><code>Asian Regional Section Meeting, International Association for Statistical Computing
-Event Type: Conference
-Location: Macquarie, NSW, AUS</code></pre>
-</section>
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="http://srvanderplas.github.io/2023-Presentations/12-IASCARS/" height="800px" width="500px">
-</iframe>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.html</guid>
-  <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="srvanderplas.github.io/posts/talks/how-do-you-define-a-circle-perception-and-computer-vision-diagnostics.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Measuring Your Tools, for Science!</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/other/wire-measurements.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This project is a bit of informal data collection meant to help me calibrate the likelihood of a random tool matching a wire in evidence of a given gauge/diameter.</p>
-<p>To participate, collect any tools you have that you might use to cut a wire under normal circumstances.</p>
-<p>We surveyed our workbench (Figure&nbsp;1) and pulled out tools we’d used to cut wires (whether or not the were intended for that purpose) in the past<sup>1</sup>.</p>
-<div id="fig-shop-layout" class="quarto-layout-panel">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-shop-layout-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://i.imgur.com/VU5v4oy.jpg" class="img-fluid figure-img"></p>
-<figcaption>Workbench and tool storage</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://i.imgur.com/wyAZff9.jpg" class="img-fluid figure-img"></p>
-<figcaption>Side of workbench - more tools</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-shop-layout-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: We measured available tools - e.g.&nbsp;the ones that were clearly visible/accessible. No need to go digging to find every tool - this is an estimation task.
-</figcaption>
-</figure>
-</div>
-<section id="about-toolmarks" class="level2">
-<h2 class="anchored" data-anchor-id="about-toolmarks">About Toolmarks</h2>
-<p>As a quick digression, let’s talk about toolmarks. We can look at microscopic imperfections in a wire cut, screwdriver scratch, or plier mark and see striations - little lines that are on the surface of the mark. A scan of a cut wire is shown in Figure&nbsp;2. A more macroscopic example is when you spread butter on toast, the butter knife often leaves little grooves behind in the butter<sup>2</sup>.</p>
-<div id="fig-wire-striae" class="quarto-figure quarto-figure-center quarto-float anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-wire-striae-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="https://i.imgur.com/ycv5Zs8.png" class="img-fluid figure-img">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-wire-striae-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;2: Striations on the surface of a cut wire.
-</figcaption>
-</figure>
-</div>
-<p>In order to assess how many different cutting surfaces there are in a shop, we need to look at the different way tools are configured.</p>
-<div id="fig-tool-surfaces" class="quarto-figure quarto-figure-center quarto-float anchored">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-tool-surfaces-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="https://i.imgur.com/oPTXpni.png" class="img-fluid figure-img">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-tool-surfaces-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;3: Different tool configurations. On the top row, there are cross-sectional shapes representing the blades; each cutting surface that will leave a residual mark on the cut material is numbered. On the bottom, there are examples of tools with this configuration of blades (note that not all similar looking tools are necessarily configured the same).
-</figcaption>
-</figure>
-</div>
-<p>Figure&nbsp;3 shows the different configurations of blades of common tools that may be used to cut wires in a household environment. When measuring a tool’s cutting length, record the number of cutting surfaces as well as the length of the blade - each surface leaves different impressions and must be compared separately.</p>
-<p>Steps:</p>
-<ol type="1">
-<li><p>Gather tools which can be used for wire cutting from your house and shop.</p></li>
-<li><p>Open up the <a href="https://uofnelincoln-my.sharepoint.com/:x:/r/personal/svanderplas2_unl_edu/Documents/Data/Forensics-Wirecuts-Garage-Survey.xlsx?d=wea8b6c2ee3864a9abd2a31418698a6b3&amp;csf=1&amp;web=1&amp;e=GffbXY&amp;nav=MTVfezZGMkQ3MzI5LTM0OTEtNEZDQS05NTY3LUI1MDk1QjQzMjM5QX0">communal Excel sheet</a> and <strong>duplicate</strong> the sheet labeled Template.</p></li>
-<li><p>Rename the <strong>new sheet</strong> to an identifier you would like me to use (I’m not publishing this data - this is just for internal purposes). This identifier will ensure that no one overwrites your data accidentally (hopefully).</p></li>
-<li><p>For each tool type, record the blade length (in cm), number of cutting surfaces, and (if there are multiple tools with the same cutting surface configuration and blade length) number of tools. Reporting blade length to the nearest mm is fine, as is estimation if it is difficult to precisely measure the tool.</p></li>
-</ol>
-<p>Thank you so much for your help!</p>
-
-
-</section>
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>If you like to improvise, then for the purposes of this study, please don’t include things like rocks or teeth (both examples from a friend) - pretend you’re a sensible person and not an engineer in a rush.↩︎</p></li>
-<li id="fn2"><p>This is what is known as a <strong>class characteristic</strong>, incidentally - most butter knives in a set have similar groove patterns, but if one of the knives has been damaged (say, caught in the garbage disposal), it will leave a different pattern than the other knives because it has <strong>individual characteristics</strong> that were introduced later.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>other</category>
-  <guid>srvanderplas.github.io/posts/other/wire-measurements.html</guid>
-  <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://i.imgur.com/kpMV6fO.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Graphics and Cognition: How Do We Perceive Charts?</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<blockquote class="blockquote">
-<p>In this talk, I walk through a few cognitive components that affect how we use charts: perception, attention, and memory, with a focus on the process of understanding and using the data displayed in charts. To do this, I lean heavily on Padilla et al.&nbsp;(2018) (DOI: https://doi.org/10.1186/s41235-018-0120-9), as well as examples that allow you to see these processes at work in your own mind.</p>
-</blockquote>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<pre><code>University of Nebraska-Lincoln, Iowa State University, and other interested affiliates, Graphics Group
-Event Type: Interest Group
-Location: Online</code></pre>
-</section>
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="http://srvanderplas.github.io/2023-Presentations/10-Graphics-Cognition/" height="800px" width="500px">
-</iframe>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.html</guid>
-  <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="srvanderplas.github.io/posts/talks/graphics-and-cognition-how-do-we-perceive-charts-.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Eye Fitting Straight Lines in the Modern Era</title>
-  <dc:creator>Emily A. Robinson, Reka Howard, Susan VanderPlas</dc:creator>
-  <link>srvanderplas.github.io/posts/papers/robinsoneyefittingstraight2023.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-robinsonEyeFittingStraight2023"></a>[1] E. A. Robinson, R. Howard, and S. VanderPlas. “Eye Fitting Straight Lines in the Modern Era”. In: <em>Journal of Computational and Graphical Statistics</em> 32.4 (Oct.&nbsp;02, 2023), pp.&nbsp;1537-1544. ISSN: 1061-8600. DOI: <a href="https://doi.org/10.1080%2F10618600.2022.2140668">10.1080/10618600.2022.2140668</a>.</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{robinsonEyeFittingStraight2023,
-  title = {Eye Fitting Straight Lines in the Modern Era},
-  volume = {32},
-  doi = {10.1080/10618600.2022.2140668},
-  pages = {1537--1544},
-  number = {4},
-  author = {Emily A. Robinson and Reka Howard and Susan VanderPlas},
-  year = {2023},
-  month = {oct},
-}</code></pre>
-</div>
-</div>
-</div>
-<p><a href="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>papers</category>
-  <guid>srvanderplas.github.io/posts/papers/robinsoneyefittingstraight2023.html</guid>
-  <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Testing Statistical Graphics</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/testing-statistical-graphics.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="location" class="level2">
-
-<pre><code>Section on Statistical Graphics, JSM
-Event Type: Conference
-Location: Toronto, ON, CA</code></pre>
-</section>
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="http://srvanderplas.github.io/2023-Presentations/08-JSM-Testing-Graphics/" height="800px" width="500px">
-</iframe>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/testing-statistical-graphics.html</guid>
-  <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
-  <media:content url="srvanderplas.github.io/posts/talks/testing-statistical-graphics.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>What Makes a Good Graph? Graphical Testing and Principles for Graph Design</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="location" class="level2">
-
-<pre><code>University of Nebraska, Center for Brain, Biology, and Behavior
-Event Type: Department Seminar
-Location: Lincoln, NE</code></pre>
-</section>
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="http://srvanderplas.github.io/2023-Presentations/03-C3B" height="800px" width="500px">
-</iframe>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.html</guid>
-  <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="srvanderplas.github.io/posts/talks/what-makes-a-good-graph-graphical-testing-and-principles-for-graph-design.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots</title>
-  <dc:creator>Susan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann</dc:creator>
-  <link>srvanderplas.github.io/posts/papers/ggpcp.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-ggpcp"></a>[1] S. VanderPlas, Y. Ge, A. Unwin, et al.&nbsp;“Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots”. In: <em>Journal of Computational and Graphical Statistics</em> (Mar.&nbsp;2023). DOI: <a href="https://doi.org/10.1080%2F10618600.2023.2195462">10.1080/10618600.2023.2195462</a>.</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{ggpcp,
-  author = {Susan VanderPlas and Yawei Ge and Antony Unwin and Heike Hofmann},
-  title = {Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots},
-  journal = {Journal of Computational and Graphical Statistics},
-  year = {2023},
-  doi = {10.1080/10618600.2023.2195462},
-  publisher = {Taylor &amp; Francis},
-  month = {mar},
-}</code></pre>
-</div>
-</div>
-</div>
-<p><a href="https://github.com/srvanderplas/ggpcp-paper" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>papers</category>
-  <guid>srvanderplas.github.io/posts/papers/ggpcp.html</guid>
-  <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Inconclusive Conclusions: Biases and Consequences</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/inconclusive-conclusions-biases-and-consequences.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<blockquote class="blockquote">
-<p>Forensic pattern evidence is often evaluated using categorical scales, such as identification (evidence is from the same source), inconclusive, or elimination (evidence is from different sources). I will talk about how these evaluations are made, what error rate studies show, and the implications for interpretation of forensic evidence.</p>
-</blockquote>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<pre><code>Johns Hopkins University, Biostatistics
-Event Type: Department Seminar
-Location: Baltimore, MD</code></pre>
-</section>
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="http://srvanderplas.github.io/2023-Presentations/02-Hopkins-Inconclusives" height="800px" width="500px">
-</iframe>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/inconclusive-conclusions-biases-and-consequences.html</guid>
-  <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package</title>
-  <dc:creator>Joseph Zemmels, Susan Vanderplas, Heike Hofmann</dc:creator>
-  <link>srvanderplas.github.io/posts/papers/cmcr.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-cmcR"></a>[1] J. Zemmels, S. Vanderplas, and H. Hofmann. “A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package”. In: <em>R Journal</em> (4 Feb.&nbsp;09, 2023), pp.&nbsp;79-102. DOI: <a href="https://doi.org/10.32614%2FRJ-2023-014">10.32614/RJ-2023-014</a>.</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{cmcR,
-  title = {A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package},
-  author = {Joseph Zemmels and Susan Vanderplas and Heike Hofmann},
-  number = {14},
-  doi = {10.32614/RJ-2023-014},
-  pages = {79-102},
-  year = {2023},
-  month = {feb},
-}</code></pre>
-</div>
-</div>
-</div>
-<p><a href="https://github.com/jzemmels/cmcRwriteup" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>papers</category>
-  <guid>srvanderplas.github.io/posts/papers/cmcr.html</guid>
-  <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true" medium="image"/>
-</item>
-<item>
-  <title>You Draw It: Implementation of visually fitted trends with r2d3</title>
-  <dc:creator>Emily Robinson, Reka Howard, Susan VanderPlas</dc:creator>
-  <link>srvanderplas.github.io/posts/papers/robinsonvanderplas2023.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-robinsonvanderplas2023"></a>[1] E. Robinson, R. Howard, and S. VanderPlas. “You Draw It: Implementation of visually fitted trends with r2d3”. In: <em>Journal of Data Science</em> (Jan.&nbsp;2023). ISSN: 1680-743X. DOI: <a href="https://doi.org/10.6339%2F22-JDS1083">10.6339/22-JDS1083</a>.</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{robinsonvanderplas2023,
-  author = {Emily Robinson and Reka Howard and Susan VanderPlas},
-  title = {You Draw It: Implementation of visually fitted trends with r2d3},
-  journal = {Journal of Data Science},
-  doi = {10.6339/22-JDS1083},
-  publisher = {School of Statistics, Renmin University of China},
-  year = {2023},
-  month = {jan},
-}</code></pre>
-</div>
-</div>
-</div>
-<p><a href="https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>papers</category>
-  <guid>srvanderplas.github.io/posts/papers/robinsonvanderplas2023.html</guid>
-  <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Exploring Rural Shrink Smart Through Guided Discovery Dashboards</title>
-  <dc:creator>Denise Bradford, Susan VanderPlas</dc:creator>
-  <link>srvanderplas.github.io/posts/papers/bradfordvanderplas2022.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-bradfordvanderplas2022"></a>[1] D. Bradford and S. VanderPlas. “Exploring Rural Shrink Smart Through Guided Discovery Dashboards”. In: <em>Journal of Data Science</em> (Dec.&nbsp;2022), pp.&nbsp;1-12. ISSN: 1680-743X. DOI: <a href="https://doi.org/10.6339%2F22-JDS1080">10.6339/22-JDS1080</a>.</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{bradfordvanderplas2022,
-  author = {Denise Bradford and Susan VanderPlas},
-  title = {Exploring Rural Shrink Smart Through Guided Discovery Dashboards},
-  journal = {Journal of Data Science},
-  year = {2022},
-  month = {12},
-  pages = {1--12},
-  doi = {10.6339/22-JDS1080},
-  publisher = {School of Statistics, Renmin University of China},
-}</code></pre>
-</div>
-</div>
-</div>
-<p><a href="https://github.com/drbradford12/SDSS-Abstract-2022" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>papers</category>
-  <guid>srvanderplas.github.io/posts/papers/bradfordvanderplas2022.html</guid>
-  <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Visual Narratives of the Covid-19 pandemic</title>
-  <dc:creator>Adalbert Wilhelm, Susan VanderPlas</dc:creator>
-  <link>srvanderplas.github.io/posts/papers/covid-narratives.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-covid-narratives"></a>[1] A. Wilhelm and S. VanderPlas. “Visual Narratives of the Covid-19 pandemic”. In: <em>Journal of Data Science, Statistics, and Visualisation</em> 2.7 (Nov.&nbsp;2022), p.&nbsp;84–113. DOI: <a href="https://doi.org/10.52933%2Fjdssv.v2i7.64">10.52933/jdssv.v2i7.64</a>.</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{covid-narratives,
-  title = {Visual Narratives of the Covid-19 pandemic},
-  volume = {2},
-  doi = {10.52933/jdssv.v2i7.64},
-  number = {7},
-  journal = {Journal of Data Science, Statistics, and Visualisation},
-  author = {Adalbert Wilhelm and Susan VanderPlas},
-  pages = {84–113},
-  year = {2022},
-  month = {nov},
-}</code></pre>
-</div>
-</div>
-</div>
-<p><a href="https://github.com/srvanderplas/covid-visualization-dssv" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>papers</category>
-  <guid>srvanderplas.github.io/posts/papers/covid-narratives.html</guid>
-  <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Reproducible Science: Statistics, Forensics, and the Law</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<blockquote class="blockquote">
-<p>In science, we strive to design and create reproducible experiments that can be replicated by other researchers. We also usually require that scientists use good experimental design and approved statistical methods for results to be judged credible. In this talk, I’ll review the status quo in forensics: what studies support the use of forensic comparison methods as reliable? Are these studies reliable based on the criteria used in other disciplines? I’ll discuss two major, national reports about the validity of forensic science, why statistics as a discipline is critically important to forensics - and what statisticians can do and are doing to improve forensic science.</p>
-</blockquote>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<pre><code>University of Nebraska - Lincoln, Statistics
-Event Type: Department Seminar
-Location: Lincoln, NE</code></pre>
-</section>
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/2022-Presentations/10-StatDeptSeminar/#/title-slide" height="800px" width="500px">
-</iframe>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.html</guid>
-  <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
-  <media:content url="srvanderplas.github.io/posts/talks/reproducible-science-statistics-forensics-and-the-law.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>How to make good charts</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<blockquote class="blockquote">
-<p>Data visualizations are an important component of scientific research and communication. We use charts to explore our data before we know how to model it, and we use charts to disseminate results. But how do we know what a “good” chart is? In this talk, I’ll discuss some basic principles of good chart design, including experimental results for evaluating charts in realistic settings. We’ll talk about chart creation, decoration, and how to make visualizations more accessible.</p>
-</blockquote>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<pre><code>University of Nebraska - Lincoln, Complex Biosystems
-Event Type: Department Seminar
-Location: Lincoln, NE</code></pre>
-</section>
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/2022-Presentations/09-CBIO/" height="800px" width="500px">
-</iframe>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/how-to-make-good-charts.html</guid>
-  <pubDate>Thu, 22 Sep 2022 00:00:00 GMT</pubDate>
-  <media:content url="srvanderplas.github.io/posts/talks/how-to-make-good-charts.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>

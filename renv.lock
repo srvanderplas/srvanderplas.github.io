@@ -507,6 +507,11 @@
       ],
       "Hash": "3eec01f8b1dee337674b2e34ab1f9bc1"
     },
+    "rmarkdown": {
+      "Package": "rmarkdown",
+      "Version": "2.29",
+      "Source": "Repository"
+    },
     "stringi": {
       "Package": "stringi",
       "Version": "1.8.4",
@@ -523,19 +528,7 @@
     "stringr": {
       "Package": "stringr",
       "Version": "1.5.1",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "cli",
-        "glue",
-        "lifecycle",
-        "magrittr",
-        "rlang",
-        "stringi",
-        "vctrs"
-      ],
-      "Hash": "960e2ae9e09656611e0b8214ad543207"
+      "Source": "Repository"
     },
     "sys": {
       "Package": "sys",

@@ -6,12 +6,12 @@ engine: knitr
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/srvanderplas
     - icon: mastodon
       text: Mastodon
       href: "https://vis.social/@Srvanderplas"
+    - icon: bluesky
+      text: Bluesky
+      href: "https://srvanderplas.bsky.social"
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/srvanderplas/

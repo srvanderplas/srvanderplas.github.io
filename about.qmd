@@ -23,7 +23,7 @@ about:
       href: https://orcid.org/0000-0002-3803-0972
     - icon: file-person
       text: CV
-      href: https://github.com/srvanderplas/CV/raw/master/SusanVanderplas-CV.pdf
+      href: https://srvanderplas.github.io/CV/CV.pdf
 ---
 
 ## Biography {.left}

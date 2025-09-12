@@ -9,8 +9,8 @@
 <link>srvanderplas.github.io/</link>
 <atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.31</generator>
-<lastBuildDate>Wed, 13 Nov 2024 06:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Wed, 13 Nov 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Creating Effective Graphics</title>
   <dc:creator>Susan Vanderplas</dc:creator>
@@ -44,7 +44,7 @@ Location: Lincoln, NE</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/creating-effective-graphics.html</guid>
-  <pubDate>Wed, 13 Nov 2024 06:00:00 GMT</pubDate>
+  <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/creating-effective-graphics.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
@@ -63,12 +63,12 @@ Location: Lincoln, NE</code></pre>
 <p><a name="bib-rosenblumIncorrectStatisticalReasoning2024"></a>[1] M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Incorrect statistical reasoning in Guyll et al.&nbsp;leads to biased claims about strength of forensic evidence”. In: <em>Proceedings of the National Academy of Sciences</em> 121.45 (Nov.&nbsp;05, 2024). DOI: <a href="https://doi.org/10.1073%2Fpnas.2315431121">10.1073/pnas.2315431121</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -93,7 +93,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/rosenblumincorrectstatisticalreasoning2024.html</guid>
-  <pubDate>Tue, 05 Nov 2024 06:00:00 GMT</pubDate>
+  <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Web Scraping Olympics: Python</title>
@@ -128,7 +128,7 @@ Location: Online</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/web-scraping-olympics-python.html</guid>
-  <pubDate>Sat, 02 Nov 2024 05:00:00 GMT</pubDate>
+  <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>A Plot is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol</title>
@@ -163,7 +163,7 @@ Location: Portland, Or</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.html</guid>
-  <pubDate>Wed, 07 Aug 2024 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.png" medium="image" type="image/png" height="58" width="144"/>
 </item>
 <item>
@@ -199,7 +199,7 @@ Location: Washington DC</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html</guid>
-  <pubDate>Mon, 01 Jul 2024 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.png" medium="image" type="image/png" height="99" width="144"/>
 </item>
 <item>
@@ -219,12 +219,12 @@ Location: Washington DC</code></pre>
 <p><a name="bib-vanderplasEscapingFlatlandGraphics2024"></a>[1] S. Vanderplas, E. Blankenship, and T. Wiederich. “Escaping Flatland: Graphics, Dimensionality, and~Human Perception”. In: <em>Human Interface and the Management of Information</em>. Ed. by H. Mori and Y. Asahi. Springer Nature Switzerland, Jul.&nbsp;01, 2024, pp.&nbsp;140-156. ISBN: 978-3-031-60114-9. DOI: <a href="https://doi.org/10.1007%2F978-3-031-60114-9_11">10.1007/978-3-031-60114-9_11</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -252,7 +252,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/vanderplasescapingflatlandgraphics2024.html</guid>
-  <pubDate>Mon, 01 Jul 2024 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/srvanderplas/2024-hcii-escaping-flatland/blob/main/image/Kit_of_charts.png?raw=true" medium="image"/>
 </item>
 <item>
@@ -288,7 +288,7 @@ Location: Lincoln, NE</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/creating-good-graphics.html</guid>
-  <pubDate>Wed, 26 Jun 2024 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/creating-good-graphics.png" medium="image" type="image/png" height="106" width="144"/>
 </item>
 <item>
@@ -308,12 +308,12 @@ Location: Lincoln, NE</code></pre>
 <p><a name="bib-vanderplasHiddenMultipleComparisons20241"></a>[1] S. Vanderplas, A. Carriquiry, and H. Hofmann. “Hidden Multiple Comparisons Increase Forensic Error Rates”. In: <em>Proceedings of the National Academy of Sciences</em> 121.25 (Jun.&nbsp;10, 2024), p.&nbsp;e2401326121. DOI: <a href="https://doi.org/10.1073%2Fpnas.2401326121">10.1073/pnas.2401326121</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -342,7 +342,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html</guid>
-  <pubDate>Mon, 10 Jun 2024 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
   <media:content url="https://i.imgur.com/JXILntV.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -361,12 +361,12 @@ Bibtex
 <p><a name="bib-liPlotWorthThousand2024"></a>[1] W. Li, D. Cook, E. Tanaka, et al.&nbsp;“A Plot Is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol”. In: <em>Journal of Computational and Graphical Statistics</em> (May. 22, 2024). ISSN: 1061-8600. DOI: <a href="https://doi.org/10.1080%2F10618600.2024.2344612">10.1080/10618600.2024.2344612</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -391,7 +391,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/liplotworththousand2024.html</guid>
-  <pubDate>Wed, 22 May 2024 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Demonstrative Evidence and the Use of Algorithms in Jury Trials</title>
@@ -410,12 +410,12 @@ Bibtex
 <p><a name="bib-rogersDemonstrativeEvidenceUse2024"></a>[1] R. Rogers and S. VanderPlas. “Demonstrative Evidence and the Use of Algorithms in Jury Trials”. In: <em>Journal of Data Science</em> 22.2 (May. 02, 2024), pp.&nbsp;314-332. DOI: <a href="https://doi.org/10.6339%2F24-JDS1130">10.6339/24-JDS1130</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -444,7 +444,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/rogersdemonstrativeevidenceuse2024.html</guid>
-  <pubDate>Thu, 02 May 2024 05:00:00 GMT</pubDate>
+  <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/rachelesrogers/Algorithms_in_Jury_Trials/blob/master/paper/images/credible.jpg?raw=true" medium="image"/>
 </item>
 <item>
@@ -463,12 +463,12 @@ Bibtex
 <p><a name="bib-wiederichEvaluatingPerceptualJudgements2024"></a>[1] T. Wiederich and S. Vanderplas. “Evaluating Perceptual Judgements on 3D Printed Bar Charts”. In: <em>Journal of Data Science</em> 22.2 (Apr.&nbsp;24, 2024), pp.&nbsp;176-190. ISSN: 1680743X. DOI: <a href="https://doi.org/10.6339%2F24-JDS1131">10.6339/24-JDS1131</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -495,7 +495,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/wiederichevaluatingperceptualjudgements2024.html</guid>
-  <pubDate>Wed, 24 Apr 2024 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Graphical Perception in a Pandemic: Log Scales, Exponential Growth, and the Importance of User Testing</title>
@@ -525,7 +525,7 @@ Location: Chicago, IL (Online)</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.html</guid>
-  <pubDate>Fri, 29 Mar 2024 05:00:00 GMT</pubDate>
+  <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Building a CV/Blog Automatically</title>
@@ -560,7 +560,7 @@ Location: Online</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.html</guid>
-  <pubDate>Thu, 07 Mar 2024 06:00:00 GMT</pubDate>
+  <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.png" medium="image" type="image/png" height="93" width="144"/>
 </item>
 <item>
@@ -601,7 +601,7 @@ Location: Online</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/building-a-cv-with-r-and-google-sheets.html</guid>
-  <pubDate>Thu, 15 Feb 2024 06:00:00 GMT</pubDate>
+  <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/building-a-cv-with-r-and-google-sheets.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -620,12 +620,12 @@ Location: Online</code></pre>
 <p><a name="bib-vanderplasStatisticalComputingUsing2023"></a>[1] S. Vanderplas. <em>Statistical Computing Using R and Python</em>. Feb.&nbsp;14, 2024. URL: <a href="https://srvanderplas.github.io/stat-computing-r-python/">https://srvanderplas.github.io/stat-computing-r-python/</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -648,7 +648,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/vanderplasstatisticalcomputingusing2023.html</guid>
-  <pubDate>Wed, 14 Feb 2024 06:00:00 GMT</pubDate>
+  <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Using Git Submodules</title>
@@ -683,7 +683,7 @@ Location: Online</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/using-git-submodules.html</guid>
-  <pubDate>Thu, 08 Feb 2024 06:00:00 GMT</pubDate>
+  <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/using-git-submodules.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
@@ -702,12 +702,12 @@ Location: Online</code></pre>
 <p><a name="bib-juOneModelThat2024"></a>[1] W. Ju, S. R. VanderPlas, and H. Hofmann. “One Model That Fits Them All: Psychometrics With Generalized Linear Mixed Effects Models”. In: <em>Electronic Imaging</em> 36 (Jan.&nbsp;24, 2024), pp.&nbsp;1-8. DOI: <a href="https://doi.org/10.2352%2FEI.2024.36.1.VDA-358">10.2352/EI.2024.36.1.VDA-358</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -734,7 +734,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/juonemodelthat2024.html</guid>
-  <pubDate>Wed, 24 Jan 2024 06:00:00 GMT</pubDate>
+  <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Cultivating Insights: Harnessing the Power of Data Visualization in Agriculture</title>
@@ -769,7 +769,7 @@ Location: Corpus Christie, TX</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.html</guid>
-  <pubDate>Tue, 09 Jan 2024 06:00:00 GMT</pubDate>
+  <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/cultivating-insights-harnessing-the-power-of-data-visualization-in-agriculture.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
@@ -788,12 +788,12 @@ Location: Corpus Christie, TX</code></pre>
 <p><a name="bib-rosenblumMisuseStatisticalMethod2024"></a>[1] M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al.&nbsp;(2023)”. In: <em>Law, Probability and Risk</em> 23.1 (Jan.&nbsp;09, 2024). DOI: <a href="https://doi.org/10.1093%2Flpr%2Fmgad010">10.1093/lpr/mgad010</a>. URL: <a href="https://doi.org/10.1093/lpr/mgad010">https://doi.org/10.1093/lpr/mgad010</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -819,7 +819,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/rosenblummisusestatisticalmethod2024.html</guid>
-  <pubDate>Tue, 09 Jan 2024 06:00:00 GMT</pubDate>
+  <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Multimodal User Testing: Producing comprehensive, task-focused guidelines for chart design</title>
@@ -848,7 +848,7 @@ Location: Wollongong, NSW, AUS</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.html</guid>
-  <pubDate>Thu, 14 Dec 2023 06:00:00 GMT</pubDate>
+  <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/multimodal-user-testing-producing-comprehensive-task-focused-guidelines-for-chart-design.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>

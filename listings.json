@@ -1,49 +1,5 @@
 [
   {
-    "listing": "/other.html",
-    "items": [
-      "/posts/other/wire-measurements.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": [
-      "/posts/papers/rosenblumincorrectstatisticalreasoning2024.html",
-      "/posts/papers/vanderplasescapingflatlandgraphics2024.html",
-      "/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html",
-      "/posts/papers/liplotworththousand2024.html",
-      "/posts/papers/rogersdemonstrativeevidenceuse2024.html",
-      "/posts/papers/wiederichevaluatingperceptualjudgements2024.html",
-      "/posts/papers/vanderplasstatisticalcomputingusing2023.html",
-      "/posts/papers/juonemodelthat2024.html",
-      "/posts/papers/rosenblummisusestatisticalmethod2024.html",
-      "/posts/papers/robinsoneyefittingstraight2023.html",
-      "/posts/papers/ggpcp.html",
-      "/posts/papers/cmcr.html",
-      "/posts/papers/robinsonvanderplas2023.html",
-      "/posts/papers/bradfordvanderplas2022.html",
-      "/posts/papers/covid-narratives.html",
-      "/posts/papers/stat2020.html",
-      "/posts/papers/vanderplasdesigninggraphicsrequires2021.html",
-      "/posts/papers/inconclusives.html",
-      "/posts/papers/vanderplastestingstatisticalcharts2020.html",
-      "/posts/papers/vanderplascomparisonthreesimilarity2020.html",
-      "/posts/papers/vanderplasintroductionfirearmsexamination2020.html",
-      "/posts/papers/rutter2019ggenealogy.html",
-      "/posts/papers/machinelearningforensics2019.html",
-      "/posts/papers/vanderplashiddenmultiplecomparisons2024.html",
-      "/posts/papers/framedjcgs.html",
-      "/posts/papers/sievert2018extending.html",
-      "/posts/papers/donohoresponse.html",
-      "/posts/papers/featurehierarchyjcgs.html",
-      "/posts/papers/visualaptitude.html",
-      "/posts/papers/sineillusionjcgs.html",
-      "/posts/papers/budrus2013tennis.html",
-      "/posts/papers/towfic2010detection.html",
-      "/posts/papers/hull2009near.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/posts/talks/creating-effective-graphics.html",
@@ -99,8 +55,8 @@
       "/posts/papers/vanderplasintroductionfirearmsexamination2020.html",
       "/posts/talks/statistical-lineups-for-bayesians.html",
       "/posts/papers/rutter2019ggenealogy.html",
-      "/posts/papers/framedjcgs.html",
       "/posts/papers/machinelearningforensics2019.html",
+      "/posts/papers/framedjcgs.html",
       "/posts/papers/sievert2018extending.html",
       "/posts/talks/framed-charts-in-the-1870-statistical-atlas.html",
       "/posts/talks/clusters-beat-trend-testing-feature-hierarchy-in-statistical-graphics.html",
@@ -109,13 +65,51 @@
       "/posts/papers/featurehierarchyjcgs.html",
       "/posts/papers/visualaptitude.html",
       "/posts/papers/sineillusionjcgs.html",
-      "/posts/talks/visual-aptitude-and-statistical-graphics.html",
       "/posts/talks/animint-interactive-web-based-animations-using-ggplot2-s-grammar-of-graphics.html",
+      "/posts/talks/visual-aptitude-and-statistical-graphics.html",
       "/posts/talks/the-curse-of-three-dimensions-why-your-brain-is-lying-to-you.html",
       "/posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html",
       "/posts/talks/animint-interactive-web-ready-graphics-with-r.html",
       "/posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html",
+      "/posts/papers/budrus2013tennis.html",
+      "/posts/papers/towfic2010detection.html",
+      "/posts/papers/hull2009near.html",
+      "/posts/papers/vanderplashiddenmultiplecomparisons2024.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/posts/papers/rosenblumincorrectstatisticalreasoning2024.html",
+      "/posts/papers/vanderplasescapingflatlandgraphics2024.html",
+      "/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html",
+      "/posts/papers/liplotworththousand2024.html",
+      "/posts/papers/rogersdemonstrativeevidenceuse2024.html",
+      "/posts/papers/wiederichevaluatingperceptualjudgements2024.html",
+      "/posts/papers/vanderplasstatisticalcomputingusing2023.html",
+      "/posts/papers/juonemodelthat2024.html",
+      "/posts/papers/rosenblummisusestatisticalmethod2024.html",
+      "/posts/papers/robinsoneyefittingstraight2023.html",
+      "/posts/papers/ggpcp.html",
+      "/posts/papers/cmcr.html",
+      "/posts/papers/robinsonvanderplas2023.html",
+      "/posts/papers/bradfordvanderplas2022.html",
+      "/posts/papers/covid-narratives.html",
+      "/posts/papers/stat2020.html",
+      "/posts/papers/vanderplasdesigninggraphicsrequires2021.html",
+      "/posts/papers/inconclusives.html",
+      "/posts/papers/vanderplastestingstatisticalcharts2020.html",
+      "/posts/papers/vanderplascomparisonthreesimilarity2020.html",
+      "/posts/papers/vanderplasintroductionfirearmsexamination2020.html",
+      "/posts/papers/rutter2019ggenealogy.html",
+      "/posts/papers/machinelearningforensics2019.html",
       "/posts/papers/vanderplashiddenmultiplecomparisons2024.html",
+      "/posts/papers/framedjcgs.html",
+      "/posts/papers/sievert2018extending.html",
+      "/posts/papers/donohoresponse.html",
+      "/posts/papers/featurehierarchyjcgs.html",
+      "/posts/papers/visualaptitude.html",
+      "/posts/papers/sineillusionjcgs.html",
       "/posts/papers/budrus2013tennis.html",
       "/posts/papers/towfic2010detection.html",
       "/posts/papers/hull2009near.html"
@@ -163,6 +157,12 @@
       "/posts/talks/do-you-see-what-i-see-using-shiny-for-user-testing.html",
       "/posts/talks/animint-interactive-web-ready-graphics-with-r.html",
       "/posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html"
+    ]
+  },
+  {
+    "listing": "/other.html",
+    "items": [
+      "/posts/other/wire-measurements.html"
     ]
   }
 ]

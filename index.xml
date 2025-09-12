@@ -9,7 +9,7 @@
 <link>srvanderplas.github.io/</link>
 <atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.43</generator>
+<generator>quarto-1.8.24</generator>
 <lastBuildDate>Wed, 13 Nov 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Creating Effective Graphics</title>
@@ -63,12 +63,12 @@ Location: Lincoln, NE</code></pre>
 <p><a name="bib-rosenblumIncorrectStatisticalReasoning2024"></a>[1] M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Incorrect statistical reasoning in Guyll et al.&nbsp;leads to biased claims about strength of forensic evidence”. In: <em>Proceedings of the National Academy of Sciences</em> 121.45 (Nov.&nbsp;05, 2024). DOI: <a href="https://doi.org/10.1073%2Fpnas.2315431121">10.1073/pnas.2315431121</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -219,12 +219,12 @@ Location: Washington DC</code></pre>
 <p><a name="bib-vanderplasEscapingFlatlandGraphics2024"></a>[1] S. Vanderplas, E. Blankenship, and T. Wiederich. “Escaping Flatland: Graphics, Dimensionality, and~Human Perception”. In: <em>Human Interface and the Management of Information</em>. Ed. by H. Mori and Y. Asahi. Springer Nature Switzerland, Jul.&nbsp;01, 2024, pp.&nbsp;140-156. ISBN: 978-3-031-60114-9. DOI: <a href="https://doi.org/10.1007%2F978-3-031-60114-9_11">10.1007/978-3-031-60114-9_11</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -308,12 +308,12 @@ Location: Lincoln, NE</code></pre>
 <p><a name="bib-vanderplasHiddenMultipleComparisons20241"></a>[1] S. Vanderplas, A. Carriquiry, and H. Hofmann. “Hidden Multiple Comparisons Increase Forensic Error Rates”. In: <em>Proceedings of the National Academy of Sciences</em> 121.25 (Jun.&nbsp;10, 2024), p.&nbsp;e2401326121. DOI: <a href="https://doi.org/10.1073%2Fpnas.2401326121">10.1073/pnas.2401326121</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -361,12 +361,12 @@ Bibtex
 <p><a name="bib-liPlotWorthThousand2024"></a>[1] W. Li, D. Cook, E. Tanaka, et al.&nbsp;“A Plot Is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol”. In: <em>Journal of Computational and Graphical Statistics</em> (May. 22, 2024). ISSN: 1061-8600. DOI: <a href="https://doi.org/10.1080%2F10618600.2024.2344612">10.1080/10618600.2024.2344612</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -410,12 +410,12 @@ Bibtex
 <p><a name="bib-rogersDemonstrativeEvidenceUse2024"></a>[1] R. Rogers and S. VanderPlas. “Demonstrative Evidence and the Use of Algorithms in Jury Trials”. In: <em>Journal of Data Science</em> 22.2 (May. 02, 2024), pp.&nbsp;314-332. DOI: <a href="https://doi.org/10.6339%2F24-JDS1130">10.6339/24-JDS1130</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -463,12 +463,12 @@ Bibtex
 <p><a name="bib-wiederichEvaluatingPerceptualJudgements2024"></a>[1] T. Wiederich and S. Vanderplas. “Evaluating Perceptual Judgements on 3D Printed Bar Charts”. In: <em>Journal of Data Science</em> 22.2 (Apr.&nbsp;24, 2024), pp.&nbsp;176-190. ISSN: 1680743X. DOI: <a href="https://doi.org/10.6339%2F24-JDS1131">10.6339/24-JDS1131</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -620,12 +620,12 @@ Location: Online</code></pre>
 <p><a name="bib-vanderplasStatisticalComputingUsing2023"></a>[1] S. Vanderplas. <em>Statistical Computing Using R and Python</em>. Feb.&nbsp;14, 2024. URL: <a href="https://srvanderplas.github.io/stat-computing-r-python/">https://srvanderplas.github.io/stat-computing-r-python/</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -702,12 +702,12 @@ Location: Online</code></pre>
 <p><a name="bib-juOneModelThat2024"></a>[1] W. Ju, S. R. VanderPlas, and H. Hofmann. “One Model That Fits Them All: Psychometrics With Generalized Linear Mixed Effects Models”. In: <em>Electronic Imaging</em> 36 (Jan.&nbsp;24, 2024), pp.&nbsp;1-8. DOI: <a href="https://doi.org/10.2352%2FEI.2024.36.1.VDA-358">10.2352/EI.2024.36.1.VDA-358</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -788,12 +788,12 @@ Location: Corpus Christie, TX</code></pre>
 <p><a name="bib-rosenblumMisuseStatisticalMethod2024"></a>[1] M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al.&nbsp;(2023)”. In: <em>Law, Probability and Risk</em> 23.1 (Jan.&nbsp;09, 2024). DOI: <a href="https://doi.org/10.1093%2Flpr%2Fmgad010">10.1093/lpr/mgad010</a>. URL: <a href="https://doi.org/10.1093/lpr/mgad010">https://doi.org/10.1093/lpr/mgad010</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>

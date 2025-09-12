@@ -1,8 +1,8 @@
 ---
 title: "You Draw It: Implementation of visually fitted trends with r2d3"
 author: "Emily Robinson, Reka Howard, Susan VanderPlas"
-date: "2023-01"
-image: "https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true"
+date: "2023-01-12"
+image: "https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw = true"
 keywords: [pr,  perception,  visualization,  covid,  log scales,  user testing]
 categories: papers
 page-layout: full
@@ -12,10 +12,10 @@ format:
     code-copy: true
 ---
  
-![](https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw=true){.preview-image}
+![](https://github.com/earobinson95/sdss-2022-you-draw-it-manuscript/blob/master/images/ydi-stimuli.png?raw = true){.preview-image}
  
 ## Citation
-> <a name=bib-robinsonvanderplas2023></a>[[1]](#cite-robinsonvanderplas2023) E. Robinson, R. Howard, and S. VanderPlas. “You Draw It: Implementation of visually fitted trends with r2d3”. In: _Journal of Data Science_ (Jan. 2023). ISSN: 1680-743X. DOI: [10.6339/22-JDS1083](https://doi.org/10.6339%2F22-JDS1083).
+> <a name=bib-robinsonvanderplas2023></a>[[1]](#cite-robinsonvanderplas2023) E. Robinson, R. Howard, and S. VanderPlas. “You Draw It: Implementation of visually fitted trends with r2d3”. In: _Journal of Data Science_ 21 (2 Jan. 12, 2023), pp. 281-294. ISSN: 1680-743X. DOI: [https://doi.org/10.6339/22-JDS1083](https://doi.org/https%3A%2F%2Fdoi.org%2F10.6339%2F22-JDS1083).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -24,9 +24,11 @@ format:
   author = {Emily Robinson and Reka Howard and Susan VanderPlas},
   title = {You Draw It: Implementation of visually fitted trends with r2d3},
   journal = {Journal of Data Science},
-  doi = {10.6339/22-JDS1083},
-  publisher = {School of Statistics, Renmin University of China},
+  volume = {21},
   year = {2023},
+  pages = {281--294},
+  doi = {https://doi.org/10.6339/22-JDS1083},
+  publisher = {School of Statistics, Renmin University of China},
   month = {jan},
 }
 ```

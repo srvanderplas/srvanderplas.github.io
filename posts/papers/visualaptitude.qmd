@@ -2,7 +2,7 @@
 title: "Spatial Reasoning and Data Displays"
 author: "Susan VanderPlas, Heike Hofmann"
 date: "2016-12-31"
-image: "https://github.com/srvanderplas/VisualAptitude/blob/master/Presentation/figure/scaledscores-1.png?raw=true"
+image: "https://github.com/srvanderplas/VisualAptitude/blob/master/Presentation/figure/scaledscores-1.png?raw = true"
 keywords: [pr,  user testing,  perception,  visualization]
 categories: papers
 page-layout: full
@@ -12,7 +12,7 @@ format:
     code-copy: true
 ---
  
-![](https://github.com/srvanderplas/VisualAptitude/blob/master/Presentation/figure/scaledscores-1.png?raw=true){.preview-image}
+![](https://github.com/srvanderplas/VisualAptitude/blob/master/Presentation/figure/scaledscores-1.png?raw = true){.preview-image}
  
 ## Citation
 > <a name=bib-visualaptitude></a>[[1]](#cite-visualaptitude) S. VanderPlas and H. Hofmann. “Spatial Reasoning and Data Displays”. In: _IEEE Transactions on Visualization and Computer Graphics_ 22.1 (Dec. 31, 2016), pp. 459-468. DOI: [https://doi.org/10.1109/TVCG.2015.2469125](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1109%2FTVCG.2015.2469125).
@@ -23,6 +23,7 @@ format:
 @article{visualaptitude,
   author = {Susan VanderPlas and Heike Hofmann},
   journal = {IEEE Transactions on Visualization and Computer Graphics},
+  publisher = {IEEE},
   title = {Spatial Reasoning and Data Displays},
   doi = {https://doi.org/10.1109/TVCG.2015.2469125},
   year = {2016},

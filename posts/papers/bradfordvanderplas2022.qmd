@@ -15,7 +15,7 @@ format:
 
  
 ## Citation
-> <a name=bib-bradfordvanderplas2022></a>[[1]](#cite-bradfordvanderplas2022) D. Bradford and S. VanderPlas. “Exploring Rural Shrink Smart Through Guided Discovery Dashboards”. In: _Journal of Data Science_ (Dec. 2022), pp. 1-12. ISSN: 1680-743X. DOI: [10.6339/22-JDS1080](https://doi.org/10.6339%2F22-JDS1080).
+> <a name=bib-bradfordvanderplas2022></a>[[1]](#cite-bradfordvanderplas2022) D. Bradford and S. VanderPlas. “Exploring Rural Shrink Smart Through Guided Discovery Dashboards”. In: _Journal of Data Science_ (Dec. 2022), pp. 1-12. ISSN: 1680-743X. DOI: [https://doi.org/10.6339/22-JDS1080](https://doi.org/https%3A%2F%2Fdoi.org%2F10.6339%2F22-JDS1080).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -27,7 +27,7 @@ format:
   year = {2022},
   month = {12},
   pages = {1--12},
-  doi = {10.6339/22-JDS1080},
+  doi = {https://doi.org/10.6339/22-JDS1080},
   publisher = {School of Statistics, Renmin University of China},
 }
 ```

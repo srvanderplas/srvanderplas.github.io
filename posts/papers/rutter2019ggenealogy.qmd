@@ -2,7 +2,7 @@
 title: "`ggenealogy`: An R Package for Visualizing Genealogical Data"
 author: "Lindsay Rutter, Susan Vanderplas, Dianne Cook, Michelle Graham"
 date: "2019-05-29"
-image: "https://github.com/lindsayrutter/ggenealogy/blob/master/vignettes/dCox.png?raw=true"
+image: "https://github.com/lindsayrutter/ggenealogy/blob/master/vignettes/dCox.png?raw = true"
 keywords: [pr,  genealogy,  visualization,  R package,  exploratory data analysis,  interactive]
 categories: papers
 page-layout: full
@@ -12,7 +12,7 @@ format:
     code-copy: true
 ---
  
-![](https://github.com/lindsayrutter/ggenealogy/blob/master/vignettes/dCox.png?raw=true){.preview-image}
+![](https://github.com/lindsayrutter/ggenealogy/blob/master/vignettes/dCox.png?raw = true){.preview-image}
  
 ## Citation
 > <a name=bib-rutter2019ggenealogy></a>[[1]](#cite-rutter2019ggenealogy) L. Rutter, S. Vanderplas, D. Cook, et al. “ggenealogy: An R Package for Visualizing Genealogical Data”. In: _Journal of Statistical Software_ 89.13 (May. 29, 2019), pp. 1-31. DOI: [https://doi.org/10.18637/jss.v089.i13](https://doi.org/https%3A%2F%2Fdoi.org%2F10.18637%2Fjss.v089.i13).
@@ -26,6 +26,7 @@ format:
   doi = {https://doi.org/10.18637/jss.v089.i13},
   number = {13},
   journal = {Journal of Statistical Software},
+  publisher = {Foundation for Open Access Statistics},
   author = {Lindsay Rutter and Susan Vanderplas and Dianne Cook and Michelle Graham},
   year = {2019},
   pages = {1-31},

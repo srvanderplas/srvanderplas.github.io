@@ -15,7 +15,7 @@ format:
 
  
 ## Citation
-> <a name=bib-liPlotWorthThousand2024></a>[[1]](#cite-liPlotWorthThousand2024) W. Li, D. Cook, E. Tanaka, et al. “A Plot Is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol”. In: _Journal of Computational and Graphical Statistics_ (May. 22, 2024). ISSN: 1061-8600. DOI: [10.1080/10618600.2024.2344612](https://doi.org/10.1080%2F10618600.2024.2344612).
+> <a name=bib-liPlotWorthThousand2024></a>[[1]](#cite-liPlotWorthThousand2024) W. Li, D. Cook, E. Tanaka, et al. “A Plot Is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol”. In: _Journal of Computational and Graphical Statistics_ (May. 22, 2024), pp. 1497-1511. ISSN: 1061-8600. DOI: [https://doi.org/10.1080/10618600.2024.2344612](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2024.2344612).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -24,13 +24,16 @@ format:
   title = {A {{Plot}} Is {{Worth}} a {{Thousand Tests}}: {{Assessing Residual Diagnostics}} with the {{Lineup Protocol}}},
   author = {Weihao Li and Dianne Cook and Emi Tanaka and Susan VanderPlas},
   year = {2024},
-  month = {may},
+  month = {5},
+  pages = {1497--1511},
   journal = {Journal of Computational and Graphical Statistics},
-  publisher = {Taylor \& Francis},
-  doi = {10.1080/10618600.2024.2344612},
+  publisher = {Taylor & Francis},
+  doi = {https://doi.org/10.1080/10618600.2024.2344612},
 }
 ```
 :::
 
 
 
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/TengMCing/lineup_residual_diagnostics){.btn .btn-tip role="button"}

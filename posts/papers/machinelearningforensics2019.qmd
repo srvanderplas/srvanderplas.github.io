@@ -24,6 +24,7 @@ format:
   author = {Alicia Carriquiry and Heike Hofmann and Xiao Hui Tai and Susan Vanderplas},
   title = {Machine learning in forensic applications},
   journal = {Significance},
+  publisher = {Oxford University Press},
   volume = {16},
   number = {2},
   pages = {29-35},

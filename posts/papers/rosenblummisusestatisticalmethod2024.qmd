@@ -2,7 +2,7 @@
 title: "Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. 2023"
 author: "Michael Rosenblum, Elizabeth T Chin, Elizabeth L Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C Thompson"
 date: "2024-01-09"
-
+image: "https://www.pnas.org/cms/10.1073/pnas.2315431121/asset/ed2391a4-340e-45d5-9699-fdd960bacd37/assets/images/large/pnas.2315431121fig01.jpg"
 keywords: [pr,  forensics,  error rates]
 categories: papers
 page-layout: full
@@ -12,10 +12,10 @@ format:
     code-copy: true
 ---
  
-
+![](https://www.pnas.org/cms/10.1073/pnas.2315431121/asset/ed2391a4-340e-45d5-9699-fdd960bacd37/assets/images/large/pnas.2315431121fig01.jpg){.preview-image}
  
 ## Citation
-> <a name=bib-rosenblumMisuseStatisticalMethod2024></a>[[1]](#cite-rosenblumMisuseStatisticalMethod2024) M. Rosenblum, E. T. Chin, E. L. Ogburn, et al. “Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. (2023)”. In: _Law, Probability and Risk_ 23.1 (Jan. 09, 2024). DOI: [10.1093/lpr/mgad010](https://doi.org/10.1093%2Flpr%2Fmgad010). URL: [https://doi.org/10.1093/lpr/mgad010](https://doi.org/10.1093/lpr/mgad010).
+> <a name=bib-rosenblumMisuseStatisticalMethod2024></a>[[1]](#cite-rosenblumMisuseStatisticalMethod2024) M. Rosenblum, E. T. Chin, E. L. Ogburn, et al. “Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. (2023)”. In: _Law, Probability and Risk_ 23.1 (Jan. 09, 2024), p. mgad010. DOI: [https://doi.org/10.1093/lpr/mgad010](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1093%2Flpr%2Fmgad010).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -23,9 +23,11 @@ format:
 @article{rosenblumMisuseStatisticalMethod2024,
   title = {Misuse of statistical method results in highly biased interpretation of forensic evidence in Guyll et al. (2023)},
   volume = {23},
-  url = {https://doi.org/10.1093/lpr/mgad010},
-  doi = {10.1093/lpr/mgad010},
+  doi = {https://doi.org/10.1093/lpr/mgad010},
   number = {1},
+  journal = {Law, Probability and Risk},
+  publisher = {Oxford University Press},
+  pages = {mgad010},
   author = {Michael Rosenblum and Elizabeth T Chin and Elizabeth L Ogburn and Akihiko Nishimura and Daniel Westreich and Abhirup Datta and Susan Vanderplas and Maria Cuellar and William C Thompson},
   year = {2024},
   month = {jan},

@@ -1,0 +1,35 @@
+---
+title: "Perception and Cognitive Implications of Logarithmic Scales for Exponentially Increasing Data: Perceptual Sensitivity Tested with Statistical Lineups"
+author: "Emily A. Robinson, Reka Howard, Susan Vanderplas"
+date: "2025-03-11"
+image: "https://www.tandfonline.com/cms/asset/cfb6a8b4-b04d-409b-8096-a480b3323fbc/ucgs_a_2476097_f0003.jpg"
+keywords: [pr,  perception,  user testing,  log scales,  visual inference]
+categories: papers
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://www.tandfonline.com/cms/asset/cfb6a8b4-b04d-409b-8096-a480b3323fbc/ucgs_a_2476097_f0003.jpg){.preview-image}
+ 
+## Citation
+> <a name=bib-robinsonPerceptionCognitiveImplications2025></a>[[1]](#cite-robinsonPerceptionCognitiveImplications2025) E. A. Robinson, R. Howard, and S. Vanderplas. “Perception and Cognitive Implications of Logarithmic Scales for Exponentially Increasing Data: Perceptual Sensitivity Tested with Statistical Lineups”. In: _Journal of Computational and Graphical Statistics_ (ja Mar. 11, 2025), pp. 1-14. DOI: [10.1080/10618600.2025.2476097](https://doi.org/10.1080%2F10618600.2025.2476097).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{robinsonPerceptionCognitiveImplications2025,
+  author = {Emily A. Robinson and Reka Howard and Susan Vanderplas},
+  title = {Perception and Cognitive Implications of Logarithmic Scales for Exponentially Increasing Data: Perceptual Sensitivity Tested with Statistical Lineups},
+  pages = {1--14},
+  doi = {10.1080/10618600.2025.2476097},
+  year = {2025},
+  month = {mar},
+}
+```
+:::
+
+
+

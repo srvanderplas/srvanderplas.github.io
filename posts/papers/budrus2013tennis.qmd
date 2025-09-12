@@ -1,7 +1,7 @@
 ---
 title: "In tennis, do smashes win matches?"
 author: "Sarah Budrus, Susan Vanderplas, Dianne Cook"
-date: "2013"
+date: "2013-06-13"
 image: "https://rss.onlinelibrary.wiley.com/cms/asset/b0ea4265-b5ea-4025-8345-6de8bf26f7c2/sign665-fig-0001-m.png"
 keywords: [npr,  visualization,  data science]
 categories: papers
@@ -15,7 +15,7 @@ format:
 ![](https://rss.onlinelibrary.wiley.com/cms/asset/b0ea4265-b5ea-4025-8345-6de8bf26f7c2/sign665-fig-0001-m.png){.preview-image}
  
 ## Citation
-> <a name=bib-budrus2013tennis></a>[[1]](#cite-budrus2013tennis) S. Budrus, S. Vanderplas, and D. Cook. “In tennis, do smashes win matches?” In: _Significance_ 10.3 (2013), pp. 35-38. DOI: [https://doi.org/10.1111/j.1740-9713.2013.00665.x](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1740-9713.2013.00665.x).
+> <a name=bib-budrus2013tennis></a>[[1]](#cite-budrus2013tennis) S. Budrus, S. Vanderplas, and D. Cook. “In tennis, do smashes win matches?” In: _Significance_ 10.3 (Jun. 13, 2013), pp. 35-38. DOI: [https://doi.org/10.1111/j.1740-9713.2013.00665.x](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1740-9713.2013.00665.x).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -24,11 +24,13 @@ format:
   author = {Sarah Budrus and Susan Vanderplas and Dianne Cook},
   title = {In tennis, do smashes win matches?},
   journal = {Significance},
+  publisher = {Oxford University Press},
   volume = {10},
   number = {3},
   pages = {35-38},
   doi = {https://doi.org/10.1111/j.1740-9713.2013.00665.x},
   year = {2013},
+  month = {jun},
 }
 ```
 :::

@@ -24,6 +24,7 @@ format:
   author = {Susan VanderPlas},
   title = {Designing {Graphics} {Requires} {Useful} {Experimental} {Testing} {Frameworks} and {Graphics} {Derived} {From} {Empirical} {Results}},
   journal = {Harvard Data Science Review},
+  publisher = {MIT Press},
   volume = {3},
   number = {3},
   year = {2021},

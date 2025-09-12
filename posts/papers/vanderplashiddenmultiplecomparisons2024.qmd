@@ -1,9 +1,8 @@
 ---
-title: "Hidden multiple comparisons increase forensic error rates"
+title: "Hidden Multiple Comparisons Increase Forensic Error Rates"
 author: "Susan Vanderplas, Alicia Carriquiry, Heike Hofmann"
-date: "2024-06-18},
-	AUTHOR+AN={1=highlight"
-
+date: "2024-06-10"
+image: "https://i.imgur.com/JXILntV.png"
 keywords: [pr,  forensics,  error rates]
 categories: papers
 page-layout: full
@@ -13,20 +12,25 @@ format:
     code-copy: true
 ---
  
-
+![](https://i.imgur.com/JXILntV.png){.preview-image}
  
 ## Citation
-> <a name=bib-vanderplasHiddenMultipleComparisons2024></a>[[1]](#cite-vanderplasHiddenMultipleComparisons2024) S. Vanderplas, A. Carriquiry, and H. Hofmann. “Hidden multiple comparisons increase forensic error rates”. In: _Proceedings of the National Academy of Sciences_ 121.25 (). DOI: [10.1073/pnas.2401326121](https://doi.org/10.1073%2Fpnas.2401326121).
+> <a name=bib-vanderplasHiddenMultipleComparisons2024></a>[[1]](#cite-vanderplasHiddenMultipleComparisons2024) S. Vanderplas, A. Carriquiry, and H. Hofmann. “Hidden Multiple Comparisons Increase Forensic Error Rates”. In: _Proceedings of the National Academy of Sciences_ 121.25 (Jun. 10, 2024), p. e2401326121. DOI: [https://doi.org/10.1073/pnas.2401326121](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1073%2Fpnas.2401326121).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
 ```
 @article{vanderplasHiddenMultipleComparisons2024,
-  title = {Hidden multiple comparisons increase forensic error rates},
-  volume = {121},
-  doi = {10.1073/pnas.2401326121},
-  number = {25},
+  title = {Hidden Multiple Comparisons Increase Forensic Error Rates},
   author = {Susan Vanderplas and Alicia Carriquiry and Heike Hofmann},
+  year = {2024},
+  month = {6},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {121},
+  number = {25},
+  pages = {e2401326121},
+  publisher = {National Academy of Sciences},
+  doi = {https://doi.org/10.1073/pnas.2401326121},
 }
 ```
 :::

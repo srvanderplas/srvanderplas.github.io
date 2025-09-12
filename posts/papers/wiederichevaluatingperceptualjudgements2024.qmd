@@ -1,7 +1,8 @@
 ---
 title: "Evaluating Perceptual Judgements on 3D Printed Bar Charts"
 author: "Tyler Wiederich, Susan Vanderplas"
-date: "2024-04-24"
+date: "2024-04-24},
+	author+AN = {1=student;2=highlight"
 
 keywords: [pr,  3d,  visualization,  user testing,  experiential learning]
 categories: papers
@@ -15,7 +16,7 @@ format:
 
  
 ## Citation
-> <a name=bib-wiederichEvaluatingPerceptualJudgements2024></a>[[1]](#cite-wiederichEvaluatingPerceptualJudgements2024) T. Wiederich and S. Vanderplas. “Evaluating Perceptual Judgements on 3D Printed Bar Charts”. In: _Journal of Data Science_ 22.2 (Apr. 24, 2024), pp. 176-190. ISSN: 1680743X. DOI: [10.6339/24-JDS1131](https://doi.org/10.6339%2F24-JDS1131).
+> <a name=bib-wiederichEvaluatingPerceptualJudgements2024></a>[[1]](#cite-wiederichEvaluatingPerceptualJudgements2024) T. Wiederich and S. Vanderplas. “Evaluating Perceptual Judgements on 3D Printed Bar Charts”. In: _Journal of Data Science_ 22.2 (), pp. 176-190. ISSN: 1680743X. DOI: [https://doi.org/10.6339/24-JDS1131](https://doi.org/https%3A%2F%2Fdoi.org%2F10.6339%2F24-JDS1131).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -23,12 +24,12 @@ format:
 @article{wiederichEvaluatingPerceptualJudgements2024,
   title = {Evaluating Perceptual Judgements on 3D Printed Bar Charts},
   volume = {22},
-  doi = {10.6339/24-JDS1131},
+  doi = {https://doi.org/10.6339/24-JDS1131},
   pages = {176--190},
   number = {2},
+  journal = {Journal of Data Science},
   author = {Tyler Wiederich and Susan Vanderplas},
-  year = {2024},
-  month = {apr},
+  publisher = {School of Statistics, Renmin University of China},
 }
 ```
 :::

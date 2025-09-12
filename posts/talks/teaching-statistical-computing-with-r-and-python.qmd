@@ -1,0 +1,26 @@
+---
+title: "Teaching Statistical Computing with R and Python"
+author: "Susan Vanderplas"
+date: "2025-08-09"
+categories: talks
+page-layout: full
+title-block-banner: true
+image: "teaching-statistical-computing-with-r-and-python.png"
+keywords: [teaching, statistics, R, python, programming, Talk]
+format:
+  html:
+    code-copy: true
+---
+ 
+## Abstract
+>  Computing courses can be daunting for students for a variety of reasons, including programming anxiety, difficulty learning a programming language in a second language, and unfamiliarity with assumed computer knowledge. In an ongoing attempt to teach statistical computing effectively, I developed a textbook intended for use in a flipped classroom setting where R and Python are taught concurrently. This approach allows students to learn programming concepts applicable to most languages, while developing skills in both R and Python that can be used in an increasingly multilingual field. In this talk, I discuss the book’s design and how it integrates into a sequence of undergraduate and graduate computing courses. Along the way, we will talk about opinionated coding decisions, use of memes, comics, and YouTube tutorials, and other features integrated into this open-source textbook built with quarto and hosted on GitHub.
+
+
+## Location
+
+    , useR!
+    Event Type: Conference
+    Location: Durham, NC
+## Slides
+
+<iframe src='https://srvanderplas.github.io/2025-Presentations/08-useR/#/title-slide' height='800px' width='500px'></iframe>

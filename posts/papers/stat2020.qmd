@@ -24,6 +24,7 @@ format:
   author = {Susan Vanderplas and Christian R{\"o}ttger and Dianne Cook and Heike Hofmann},
   title = {Statistical significance calculations for scenarios in visual inference},
   journal = {Stat},
+  publisher = {Wiley},
   volume = {10},
   number = {1},
   pages = {e337},

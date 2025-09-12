@@ -18,7 +18,7 @@ format:
 
 ## Location
 
-    University of Nebraska – Lincoln, UNL REU seminar
+    University of Nebraska - Lincoln, UNL REU seminar
     Event Type: Department Seminar
     Location: Lincoln, NE
 ## Slides

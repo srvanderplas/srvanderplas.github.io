@@ -24,6 +24,7 @@ format:
   title = {{C}lusters Beat {T}rend!? {T}esting Feature Hierarchy in Statistical Graphics},
   author = {Susan Vanderplas and Heike Hofmann},
   journal = {Journal of Computational and Graphical Statistics},
+  publisher = {Taylor & Francis},
   year = {2017},
   number = {2},
   pages = {231-242},

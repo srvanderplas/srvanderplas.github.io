@@ -13,7 +13,7 @@ format:
 ---
  
 ## Abstract
->  During COVID, people all over the world were consulting time-series charts on a daily basis and using these charts to make decisions. Discussions broke out among data visualization and scientific communication experts, debating the relative merits of log and linear scales, but there was relatively little research about how people perceive and use visualizations of exponential data, with linear or transformed scales. In this talk, I’ll discuss the study we undertook to address the lack of research in this area, and how the results speak not only to the importance of additional graphical testing, but also to the trade offs between different levels of user engagement with visualizations.
+>  During COVID, people all over the world were consulting time-series charts on a daily basis and using these charts to make decisions. Discussions broke out among data visualization and scientific communication experts, debating the relative merits of log and linear scales, but there was relatively little research about how people perceive and use visualizations of exponential data, with linear or transformed scales. In this talk, I'll discuss the study we undertook to address the lack of research in this area, and how the results speak not only to the importance of additional graphical testing, but also to the trade offs between different levels of user engagement with visualizations.
 
 
 ## Location

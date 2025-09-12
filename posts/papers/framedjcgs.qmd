@@ -2,7 +2,7 @@
 title: "Framed! Reproducing and Revisiting 150-Year-Old Charts"
 author: "Susan Vanderplas, Ryan C Goluch, Heike Hofmann"
 date: "2019-04-01"
-image: "https://github.com/srvanderplas/Statistical_Atlas/blob/master/images/test-images/Oregon-spine_with_frame1.png?raw=true"
+image: "https://github.com/srvanderplas/Statistical_Atlas/blob/master/images/test-images/Oregon-spine_with_frame1.png?raw = true"
 keywords: [pr,  statistical atlas,  visualization,  design,  user testing]
 categories: papers
 page-layout: full
@@ -12,7 +12,7 @@ format:
     code-copy: true
 ---
  
-![](https://github.com/srvanderplas/Statistical_Atlas/blob/master/images/test-images/Oregon-spine_with_frame1.png?raw=true){.preview-image}
+![](https://github.com/srvanderplas/Statistical_Atlas/blob/master/images/test-images/Oregon-spine_with_frame1.png?raw = true){.preview-image}
  
 ## Citation
 > <a name=bib-framedjcgs></a>[[1]](#cite-framedjcgs) S. Vanderplas, R. C. Goluch, and H. Hofmann. “Framed! Reproducing and Revisiting 150-Year-Old Charts”. In: _Journal of Computational and Graphical Statistics_ 28.3 (Apr. 01, 2019), pp. 620-634. DOI: [https://doi.org/10.1080/10618600.2018.1562937](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2018.1562937).

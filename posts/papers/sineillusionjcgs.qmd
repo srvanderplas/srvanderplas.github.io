@@ -24,6 +24,7 @@ format:
   title = {Signs of the Sine Illusion - why we need to care},
   author = {Susan Vanderplas and Heike Hofmann},
   journal = {Journal of Computational and Graphical Statistics},
+  publisher = {Taylor & Francis},
   volume = {24},
   number = {4},
   pages = {1170-1190},

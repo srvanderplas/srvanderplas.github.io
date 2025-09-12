@@ -1,8 +1,8 @@
 ---
 title: "Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots"
 author: "Susan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann"
-date: "2023-03"
-image: "https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true"
+date: "2023-04-21"
+image: "https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw = true"
 keywords: [pr,  perception,  visualization,  R package,  parallel coordinate plot,  multivariate]
 categories: papers
 page-layout: full
@@ -12,10 +12,10 @@ format:
     code-copy: true
 ---
  
-![](https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true){.preview-image}
+![](https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw = true){.preview-image}
  
 ## Citation
-> <a name=bib-ggpcp></a>[[1]](#cite-ggpcp) S. VanderPlas, Y. Ge, A. Unwin, et al. “Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots”. In: _Journal of Computational and Graphical Statistics_ (Mar. 2023). DOI: [10.1080/10618600.2023.2195462](https://doi.org/10.1080%2F10618600.2023.2195462).
+> <a name=bib-ggpcp></a>[[1]](#cite-ggpcp) S. VanderPlas, Y. Ge, A. Unwin, et al. “Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots”. In: _Journal of Computational and Graphical Statistics_ 32.4 (Apr. 21, 2023), pp. 1572-1587. DOI: [https://doi.org/10.1080/10618600.2023.2195462](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2023.2195462).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -24,10 +24,13 @@ format:
   author = {Susan VanderPlas and Yawei Ge and Antony Unwin and Heike Hofmann},
   title = {Penguins Go Parallel: a grammar of graphics framework for generalized parallel coordinate plots},
   journal = {Journal of Computational and Graphical Statistics},
-  year = {2023},
-  doi = {10.1080/10618600.2023.2195462},
   publisher = {Taylor & Francis},
-  month = {mar},
+  volume = {32},
+  number = {4},
+  pages = {1572--1587},
+  year = {2023},
+  doi = {https://doi.org/10.1080/10618600.2023.2195462},
+  month = {apr},
 }
 ```
 :::

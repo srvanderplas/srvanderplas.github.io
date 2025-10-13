@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.24">
+<meta name="generator" content="quarto-1.7.31">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Michael Rosenblum, Elizabeth T. Chin, Elizabeth L. Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C. Thompson">
 <meta name="dcterms.date" content="2024-11-05">
-<meta name="keywords" content="pr, forensics, error rates">
+<meta name="keywords" content="letter, forensics, error rates">
 
 <title>Incorrect statistical reasoning in Guyll et al.&nbsp;leads to biased claims about strength of forensic evidence – Susan Vanderplas</title>
 <style>
@@ -35,15 +35,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../../">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-7ada38b3876b8ca4b21e2ec2fd1b701e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-99e9119c5368149f4b7fcde579afeee4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -83,8 +82,6 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Susan Vanderplas</span>
     </a>
@@ -179,7 +176,7 @@ ul.task-list li input[type="checkbox"] {
   <div>
     <div class="keywords">
       <div class="block-title">Keywords</div>
-      <p>pr, forensics, error rates</p>
+      <p>letter, forensics, error rates</p>
     </div>
   </div>
   
@@ -194,29 +191,33 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<p><img src="https://www.pnas.org/cms/10.1073/pnas.2315431121/asset/ed2391a4-340e-45d5-9699-fdd960bacd37/assets/images/large/pnas.2315431121fig01.jpg" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
-<p><a name="bib-rosenblumIncorrectStatisticalReasoning2024"></a><a href="#cite-rosenblumIncorrectStatisticalReasoning2024">[1]</a> M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Incorrect statistical reasoning in Guyll et al.&nbsp;leads to biased claims about strength of forensic evidence”. In: <em>Proceedings of the National Academy of Sciences</em> 121.45 (Nov.&nbsp;05, 2024). DOI: <a href="https://doi.org/10.1073%2Fpnas.2315431121">10.1073/pnas.2315431121</a>.</p>
+<p><a name="bib-rosenblumIncorrectStatisticalReasoning2024"></a><a href="#cite-rosenblumIncorrectStatisticalReasoning2024">[1]</a> M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Incorrect statistical reasoning in Guyll et al.&nbsp;leads to biased claims about strength of forensic evidence”. In: <em>Proceedings of the National Academy of Sciences</em> 121.45 (Nov.&nbsp;05, 2024), p.&nbsp;e2315431121. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1073%2Fpnas.2315431121">https://doi.org/10.1073/pnas.2315431121</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Bibtex
+Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <pre><code>@article{rosenblumIncorrectStatisticalReasoning2024,
-  title = {Incorrect statistical reasoning in Guyll et al. leads to biased claims about strength of forensic evidence},
-  volume = {121},
-  doi = {10.1073/pnas.2315431121},
-  number = {45},
   author = {Michael Rosenblum and Elizabeth T. Chin and Elizabeth L. Ogburn and Akihiko Nishimura and Daniel Westreich and Abhirup Datta and Susan Vanderplas and Maria Cuellar and William C. Thompson},
+  title = {Incorrect statistical reasoning in {Guyll et al.} leads to biased claims about strength of forensic evidence},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {121},
+  number = {45},
+  pages = {e2315431121},
+  doi = {https://doi.org/10.1073/pnas.2315431121},
+  publisher = {National Academy of Sciences},
   year = {2024},
   month = {nov},
 }</code></pre>
@@ -279,14 +280,13 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

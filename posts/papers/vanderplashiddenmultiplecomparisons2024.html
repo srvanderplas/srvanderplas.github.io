@@ -2,14 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.24">
+<meta name="generator" content="quarto-1.7.31">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Susan Vanderplas, Alicia Carriquiry, Heike Hofmann">
+<meta name="dcterms.date" content="2024-06-10">
 <meta name="keywords" content="pr, forensics, error rates">
 
-<title>Hidden multiple comparisons increase forensic error rates – Susan Vanderplas</title>
+<title>Hidden Multiple Comparisons Increase Forensic Error Rates – Susan Vanderplas</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -34,15 +35,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../../">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-7ada38b3876b8ca4b21e2ec2fd1b701e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-99e9119c5368149f4b7fcde579afeee4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -84,8 +84,6 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Susan Vanderplas</span>
     </a>
@@ -149,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
-      <h1 class="title">Hidden multiple comparisons increase forensic error rates</h1>
+      <h1 class="title">Hidden Multiple Comparisons Increase Forensic Error Rates</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">papers</div>
               </div>
@@ -169,7 +167,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">Invalid Date</p>
+        <p class="date">June 10, 2024</p>
       </div>
     </div>
     
@@ -195,29 +193,35 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<p><img src="https://i.imgur.com/JXILntV.png" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
-<p><a name="bib-vanderplasHiddenMultipleComparisons2024"></a><a href="#cite-vanderplasHiddenMultipleComparisons2024">[1]</a> S. Vanderplas, A. Carriquiry, and H. Hofmann. “Hidden multiple comparisons increase forensic error rates”. In: <em>Proceedings of the National Academy of Sciences</em> 121.25 (). DOI: <a href="https://doi.org/10.1073%2Fpnas.2401326121">10.1073/pnas.2401326121</a>.</p>
+<p><a name="bib-vanderplasHiddenMultipleComparisons2024"></a><a href="#cite-vanderplasHiddenMultipleComparisons2024">[1]</a> S. Vanderplas, A. Carriquiry, and H. Hofmann. “Hidden Multiple Comparisons Increase Forensic Error Rates”. In: <em>Proceedings of the National Academy of Sciences</em> 121.25 (Jun.&nbsp;10, 2024), p.&nbsp;e2401326121. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1073%2Fpnas.2401326121">https://doi.org/10.1073/pnas.2401326121</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Bibtex
+Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
 <pre><code>@article{vanderplasHiddenMultipleComparisons2024,
-  title = {Hidden multiple comparisons increase forensic error rates},
-  volume = {121},
-  doi = {10.1073/pnas.2401326121},
-  number = {25},
+  title = {Hidden Multiple Comparisons Increase Forensic Error Rates},
   author = {Susan Vanderplas and Alicia Carriquiry and Heike Hofmann},
+  year = {2024},
+  month = {6},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {121},
+  number = {25},
+  pages = {e2401326121},
+  publisher = {National Academy of Sciences},
+  doi = {https://doi.org/10.1073/pnas.2401326121},
 }</code></pre>
 </div>
 </div>
@@ -279,14 +283,13 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Susan Vanderplas</title>
+<link>srvanderplas.github.io/</link>
+<atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.7.31</generator>
+<lastBuildDate>Thu, 09 Oct 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/posts/papers/liautomatedresidualplot.html}</title>
+  <dc:creator>Weihao Li, Dianne Cook, Emi Tanaka, Susan Vanderplas, Klaus Ackermann</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/liautomatedresidualplot.html</link>
+  <description>{B4F502887207:/posts/papers/liautomatedresidualplot.html}</description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/liautomatedresidualplot.html</guid>
+  <pubDate>Thu, 09 Oct 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/talks/teaching-statistical-computing-with-r-and-python.html}</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/teaching-statistical-computing-with-r-and-python.html</link>
+  <description>{B4F502887207:/posts/talks/teaching-statistical-computing-with-r-and-python.html}</description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/teaching-statistical-computing-with-r-and-python.html</guid>
+  <pubDate>Sat, 09 Aug 2025 05:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/teaching-statistical-computing-with-r-and-python.png" medium="image" type="image/png" height="186" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.html}</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.html</link>
+  <description>{B4F502887207:/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.html}</description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.html</guid>
+  <pubDate>Mon, 04 Aug 2025 05:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.png" medium="image" type="image/png" height="62" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/papers/fudolig04042025.html}</title>
+  <dc:creator>Miguel Antonio Fudolig, Emily A. Robinson, Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/fudolig04042025.html</link>
+  <description>{B4F502887207:/posts/papers/fudolig04042025.html}</description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/fudolig04042025.html</guid>
+  <pubDate>Tue, 01 Apr 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://www-tandfonline-com.libproxy.unl.edu/cms/asset/48ffa2e1-4c39-49d4-92c6-cc05786b0271/ucgs_a_2485278_f0001.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/papers/robinsonperceptioncognitiveimplications2025.html}</title>
+  <dc:creator>Emily A. Robinson, Reka Howard, Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/robinsonperceptioncognitiveimplications2025.html</link>
+  <description>{B4F502887207:/posts/papers/robinsonperceptioncognitiveimplications2025.html}</description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/robinsonperceptioncognitiveimplications2025.html</guid>
+  <pubDate>Tue, 11 Mar 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://www.tandfonline.com/cms/asset/cfb6a8b4-b04d-409b-8096-a480b3323fbc/ucgs_a_2476097_f0003.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/papers/robinsonguidedesigningexperiments2025.html}</title>
+  <dc:creator>Emily Robinson, Heike Hofmann, Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/robinsonguidedesigningexperiments2025.html</link>
+  <description>{B4F502887207:/posts/papers/robinsonguidedesigningexperiments2025.html}</description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/robinsonguidedesigningexperiments2025.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/papers/cuellarmethodologicalproblemsevery2024.html}</title>
+  <dc:creator>Maria Cuellar, Susan Vanderplas, Amanda Luby, Michael Rosenblum</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/cuellarmethodologicalproblemsevery2024.html</link>
+  <description>{B4F502887207:/posts/papers/cuellarmethodologicalproblemsevery2024.html}</description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/cuellarmethodologicalproblemsevery2024.html</guid>
+  <pubDate>Thu, 05 Dec 2024 06:00:00 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/e/ec/NCI_swiss_cheese.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/talks/creating-effective-graphics.html}</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/creating-effective-graphics.html</link>
+  <description>{B4F502887207:/posts/talks/creating-effective-graphics.html}</description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/creating-effective-graphics.html</guid>
+  <pubDate>Wed, 13 Nov 2024 06:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/creating-effective-graphics.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/papers/rosenblumincorrectstatisticalreasoning2024.html}</title>
+  <dc:creator>Michael Rosenblum, Elizabeth T. Chin, Elizabeth L. Ogburn, Akihiko Nishimura, Daniel Westreich, Abhirup Datta, Susan Vanderplas, Maria Cuellar, William C. Thompson</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/rosenblumincorrectstatisticalreasoning2024.html</link>
+  <description>{B4F502887207:/posts/papers/rosenblumincorrectstatisticalreasoning2024.html}</description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/rosenblumincorrectstatisticalreasoning2024.html</guid>
+  <pubDate>Tue, 05 Nov 2024 06:00:00 GMT</pubDate>
+  <media:content url="https://www.pnas.org/cms/10.1073/pnas.2315431121/asset/ed2391a4-340e-45d5-9699-fdd960bacd37/assets/images/large/pnas.2315431121fig01.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/talks/web-scraping-olympics-python.html}</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/web-scraping-olympics-python.html</link>
+  <description>{B4F502887207:/posts/talks/web-scraping-olympics-python.html}</description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/web-scraping-olympics-python.html</guid>
+  <pubDate>Sat, 02 Nov 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.html}</title>
+  <dc:creator>Weihao (Patrick) Li, Di Cook, Emi Tanaka, Klaus Ackermann, Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.html</link>
+  <description>{B4F502887207:/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.html}</description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.html</guid>
+  <pubDate>Wed, 07 Aug 2024 05:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.png" medium="image" type="image/png" height="58" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html}</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html</link>
+  <description>{B4F502887207:/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html}</description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html</guid>
+  <pubDate>Mon, 01 Jul 2024 05:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.png" medium="image" type="image/png" height="99" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/papers/vanderplasescapingflatlandgraphics2024.html}</title>
+  <dc:creator>Susan Vanderplas, Erin Blankenship, Tyler Wiederich</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/vanderplasescapingflatlandgraphics2024.html</link>
+  <description>{B4F502887207:/posts/papers/vanderplasescapingflatlandgraphics2024.html}</description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/vanderplasescapingflatlandgraphics2024.html</guid>
+  <pubDate>Mon, 01 Jul 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://github.com/srvanderplas/2024-hcii-escaping-flatland/blob/main/image/Kit_of_charts.png?raw = true" medium="image"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/talks/creating-good-graphics.html}</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/creating-good-graphics.html</link>
+  <description>{B4F502887207:/posts/talks/creating-good-graphics.html}</description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/creating-good-graphics.html</guid>
+  <pubDate>Wed, 26 Jun 2024 05:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/creating-good-graphics.png" medium="image" type="image/png" height="106" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/papers/vanderplashiddenmultiplecomparisons2024.html}</title>
+  <dc:creator>Susan Vanderplas, Alicia Carriquiry, Heike Hofmann</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024.html</link>
+  <description>{B4F502887207:/posts/papers/vanderplashiddenmultiplecomparisons2024.html}</description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024.html</guid>
+  <pubDate>Mon, 10 Jun 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://i.imgur.com/JXILntV.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html}</title>
+  <dc:creator>Susan Vanderplas, Alicia Carriquiry, Heike Hofmann</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html</link>
+  <description>{B4F502887207:/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html}</description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html</guid>
+  <pubDate>Mon, 10 Jun 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://i.imgur.com/JXILntV.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/papers/liplotworththousand2024.html}</title>
+  <dc:creator>Weihao Li, Dianne Cook, Emi Tanaka, Susan VanderPlas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/liplotworththousand2024.html</link>
+  <description>{B4F502887207:/posts/papers/liplotworththousand2024.html}</description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/liplotworththousand2024.html</guid>
+  <pubDate>Wed, 22 May 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/papers/rogersdemonstrativeevidenceuse2024.html}</title>
+  <dc:creator>Rachel Rogers, Susan VanderPlas</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/rogersdemonstrativeevidenceuse2024.html</link>
+  <description>{B4F502887207:/posts/papers/rogersdemonstrativeevidenceuse2024.html}</description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/rogersdemonstrativeevidenceuse2024.html</guid>
+  <pubDate>Thu, 02 May 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://github.com/rachelesrogers/Algorithms_in_Jury_Trials/blob/master/paper/images/credible.jpg?raw = true" medium="image"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/talks/graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.html}</title>
+  <dc:creator>Susan Vanderplas, Emily Robinson, Reka Howard</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.html</link>
+  <description>{B4F502887207:/posts/talks/graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.html}</description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.html</guid>
+  <pubDate>Fri, 29 Mar 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/posts/talks/building-a-cv-blog-automatically.html}</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.html</link>
+  <description>{B4F502887207:/posts/talks/building-a-cv-blog-automatically.html}</description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.html</guid>
+  <pubDate>Thu, 07 Mar 2024 06:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.png" medium="image" type="image/png" height="93" width="144"/>
+</item>
+</channel>
+</rss>

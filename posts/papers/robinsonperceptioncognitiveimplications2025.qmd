@@ -25,6 +25,7 @@ format:
   title = {Perception and Cognitive Implications of Logarithmic Scales for Exponentially Increasing Data: Perceptual Sensitivity Tested with Statistical Lineups},
   pages = {1--14},
   doi = {10.1080/10618600.2025.2476097},
+  journal = {Journal of Computational and Graphical Statistics},
   year = {2025},
   month = {mar},
 }

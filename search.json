@@ -910,18 +910,11 @@
     "text": "[1] W. Li, D. Cook, E. Tanaka, et al. “A Plot Is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol”. In: Journal of Computational and Graphical Statistics (May. 22, 2024), pp. 1497-1511. ISSN: 1061-8600. DOI: https://doi.org/10.1080/10618600.2024.2344612.\n\n\n\n\n\n\n\nNoteBibtex\n\n\n\n\n\n@article{liPlotWorthThousand2024,\n  title = {A {{Plot}} Is {{Worth}} a {{Thousand Tests}}: {{Assessing Residual Diagnostics}} with the {{Lineup Protocol}}},\n  author = {Weihao Li and Dianne Cook and Emi Tanaka and Susan VanderPlas},\n  year = {2024},\n  month = {5},\n  pages = {1497--1511},\n  journal = {Journal of Computational and Graphical Statistics},\n  publisher = {Taylor & Francis},\n  doi = {https://doi.org/10.1080/10618600.2024.2344612},\n}\n\n\n\n Repository for Paper and Additional Resources"
   },
   {
-    "objectID": "posts/papers/robinsonguidedesigningexperiments2025.html",
-    "href": "posts/papers/robinsonguidedesigningexperiments2025.html",
-    "title": "A Guide to Designing Experiments to Test Statistical Graphics",
-    "section": "",
-    "text": "[1] E. Robinson, H. Hofmann, and S. Vanderplas. “A Guide to Designing Experiments to Test Statistical Graphics”. In: WIREs Computational Statistics 17.2 (2025), p. e70032. ISSN: 1939-0068. DOI: 10.1002/wics.70032. URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032 (visited on 09/19/2025).\n\n\n\n\n\n\n\nNoteBibtex\n\n\n\n\n\n@article{robinsonGuideDesigningExperiments2025,\n  title = {A {{Guide}} to {{Designing Experiments}} to {{Test Statistical Graphics}}},\n  author = {Emily Robinson and Heike Hofmann and Susan Vanderplas},\n  year = {2025},\n  journal = {WIREs Computational Statistics},\n  volume = {17},\n  number = {2},\n  pages = {e70032},\n  doi = {10.1002/wics.70032},\n  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032},\n  note = {Last visited on 09/19/2025},\n}"
-  },
-  {
     "objectID": "posts/papers/robinsonguidedesigningexperiments2025.html#citation",
     "href": "posts/papers/robinsonguidedesigningexperiments2025.html#citation",
     "title": "A Guide to Designing Experiments to Test Statistical Graphics",
-    "section": "",
-    "text": "[1] E. Robinson, H. Hofmann, and S. Vanderplas. “A Guide to Designing Experiments to Test Statistical Graphics”. In: WIREs Computational Statistics 17.2 (2025), p. e70032. ISSN: 1939-0068. DOI: 10.1002/wics.70032. URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032 (visited on 09/19/2025).\n\n\n\n\n\n\n\nNoteBibtex\n\n\n\n\n\n@article{robinsonGuideDesigningExperiments2025,\n  title = {A {{Guide}} to {{Designing Experiments}} to {{Test Statistical Graphics}}},\n  author = {Emily Robinson and Heike Hofmann and Susan Vanderplas},\n  year = {2025},\n  journal = {WIREs Computational Statistics},\n  volume = {17},\n  number = {2},\n  pages = {e70032},\n  doi = {10.1002/wics.70032},\n  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032},\n  note = {Last visited on 09/19/2025},\n}"
+    "section": "Citation",
+    "text": "Citation\n\n[1] E. Robinson, H. Hofmann, and S. Vanderplas. “A Guide to Designing Experiments to Test Statistical Graphics”. In: WIREs Computational Statistics 17.2 (2025), p. e70032. ISSN: 1939-0068. DOI: 10.1002/wics.70032. URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032 (visited on 09/19/2025).\n\n\n\n\n\n\n\nNoteBibtex\n\n\n\n\n\n@article{robinsonGuideDesigningExperiments2025,\n  title = {A {{Guide}} to {{Designing Experiments}} to {{Test Statistical Graphics}}},\n  author = {Emily Robinson and Heike Hofmann and Susan Vanderplas},\n  year = {2025},\n  journal = {WIREs Computational Statistics},\n  volume = {17},\n  number = {2},\n  pages = {e70032},\n  doi = {10.1002/wics.70032},\n  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032},\n  note = {Last visited on 09/19/2025},\n}"
   },
   {
     "objectID": "posts/papers/towfic2010detection.html#citation",

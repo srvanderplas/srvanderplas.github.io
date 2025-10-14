@@ -21,7 +21,7 @@ website:
       - icon: file-person
         href: https://srvanderplas.github.io/CV/CV.pdf
       - icon: fa-bluesky
-        href: srvanderplas.bsky.social
+        href: https://bsky.app/profile/srvanderplas.bsky.social
       - icon: mastodon
         href: https://mastodon.social/@srvanderplas
 format:

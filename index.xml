@@ -9,8 +9,8 @@
 <link>srvanderplas.github.io/</link>
 <atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.39</generator>
-<lastBuildDate>Mon, 13 Oct 2025 05:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Mon, 13 Oct 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Experimenting With AI as UNL Closes Departments</title>
   <dc:creator>Susan Vanderplas</dc:creator>
@@ -268,7 +268,7 @@ No one remains to chart a wiser way.</p>
 </section></div> ]]></description>
   <category>other</category>
   <guid>srvanderplas.github.io/posts/other/unl-program-cuts-shitposting.html</guid>
-  <pubDate>Mon, 13 Oct 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/cc/Facebook_AI_slop%2C_%22Shrimp_Jesus%22_1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -287,12 +287,12 @@ No one remains to chart a wiser way.</p>
 <p><a name="bib-liAutomatedResidualPlot"></a>[1] W. Li, D. Cook, E. Tanaka, et al.&nbsp;“Automated Residual Plot Assessment With the R Package autovi and the Shiny Application autovi.web”. In: <em>Australian &amp; New Zealand Journal of Statistics</em> (Oct.&nbsp;09, 2025). _eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/anzs.70027. ISSN: 1467-842X. DOI: <a href="https://doi.org/10.1111%2Fanzs.70027">10.1111/anzs.70027</a>. URL: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.70027">https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.70027</a> (visited on 10/13/2025).</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -317,7 +317,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/liautomatedresidualplot.html</guid>
-  <pubDate>Thu, 09 Oct 2025 05:00:00 GMT</pubDate>
+  <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Teaching Statistical Computing with R and Python</title>
@@ -352,7 +352,7 @@ Location: Durham, NC</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/teaching-statistical-computing-with-r-and-python.html</guid>
-  <pubDate>Sat, 09 Aug 2025 05:00:00 GMT</pubDate>
+  <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/teaching-statistical-computing-with-r-and-python.png" medium="image" type="image/png" height="186" width="144"/>
 </item>
 <item>
@@ -388,7 +388,7 @@ Location: Nashville, TN</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.html</guid>
-  <pubDate>Mon, 04 Aug 2025 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.png" medium="image" type="image/png" height="62" width="144"/>
 </item>
 <item>
@@ -408,12 +408,12 @@ Location: Nashville, TN</code></pre>
 <p><a name="bib-Fudolig04042025"></a>[1] M. A. Fudolig, E. A. Robinson, and S. Vanderplas. “Can You See The Change? Visual Perception in Change Point Analysis”. In: <em>Journal of Computational and Graphical Statistics</em> (ja Apr.&nbsp;01, 2025), pp.&nbsp;1-15. DOI: <a href="https://doi.org/10.1080%2F10618600.2025.2485278">10.1080/10618600.2025.2485278</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -438,7 +438,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/fudolig04042025.html</guid>
-  <pubDate>Tue, 01 Apr 2025 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
   <media:content url="https://i.imgur.com/IC431w2.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -458,12 +458,12 @@ Bibtex
 <p><a name="bib-robinsonPerceptionCognitiveImplications2025"></a>[1] E. A. Robinson, R. Howard, and S. Vanderplas. “Perception and Cognitive Implications of Logarithmic Scales for Exponentially Increasing Data: Perceptual Sensitivity Tested with Statistical Lineups”. In: <em>Journal of Computational and Graphical Statistics</em> (ja Mar.&nbsp;11, 2025), pp.&nbsp;1-14. DOI: <a href="https://doi.org/10.1080%2F10618600.2025.2476097">10.1080/10618600.2025.2476097</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -488,7 +488,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/robinsonperceptioncognitiveimplications2025.html</guid>
-  <pubDate>Tue, 11 Mar 2025 05:00:00 GMT</pubDate>
+  <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
   <media:content url="https://i.imgur.com/JVvqE7P.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -508,12 +508,12 @@ Bibtex
 <p><a name="bib-robinsonGuideDesigningExperiments2025"></a>[1] E. Robinson, H. Hofmann, and S. Vanderplas. “A Guide to Designing Experiments to Test Statistical Graphics”. In: <em>WIREs Computational Statistics</em> 17.2 (2025), p.&nbsp;e70032. ISSN: 1939-0068. DOI: <a href="https://doi.org/10.1002%2Fwics.70032">10.1002/wics.70032</a>. URL: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032">https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032</a> (visited on 09/19/2025).</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -561,12 +561,12 @@ Bibtex
 <p><a name="bib-cuellarMethodologicalProblemsEvery2024"></a>[1] M. Cuellar, S. Vanderplas, A. Luby, et al.&nbsp;“Methodological problems in every black-box study of forensic firearm comparisons”. In: <em>Law, Probability and Risk</em> 23.1 (Dec.&nbsp;05, 2024), p.&nbsp;mgae015. ISSN: 1470-8396. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1093%2Flpr%2Fmgae015">https://doi.org/10.1093/lpr/mgae015</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -594,7 +594,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/cuellarmethodologicalproblemsevery2024.html</guid>
-  <pubDate>Thu, 05 Dec 2024 06:00:00 GMT</pubDate>
+  <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/e/ec/NCI_swiss_cheese.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -630,7 +630,7 @@ Location: Lincoln, NE</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/creating-effective-graphics.html</guid>
-  <pubDate>Wed, 13 Nov 2024 06:00:00 GMT</pubDate>
+  <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/creating-effective-graphics.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
@@ -650,12 +650,12 @@ Location: Lincoln, NE</code></pre>
 <p><a name="bib-rosenblumIncorrectStatisticalReasoning2024"></a>[1] M. Rosenblum, E. T. Chin, E. L. Ogburn, et al.&nbsp;“Incorrect statistical reasoning in Guyll et al.&nbsp;leads to biased claims about strength of forensic evidence”. In: <em>Proceedings of the National Academy of Sciences</em> 121.45 (Nov.&nbsp;05, 2024), p.&nbsp;e2315431121. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1073%2Fpnas.2315431121">https://doi.org/10.1073/pnas.2315431121</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -683,7 +683,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/rosenblumincorrectstatisticalreasoning2024.html</guid>
-  <pubDate>Tue, 05 Nov 2024 06:00:00 GMT</pubDate>
+  <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
   <media:content url="https://www.pnas.org/cms/10.1073/pnas.2315431121/asset/ed2391a4-340e-45d5-9699-fdd960bacd37/assets/images/large/pnas.2315431121fig01.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -719,7 +719,7 @@ Location: Online</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/web-scraping-olympics-python.html</guid>
-  <pubDate>Sat, 02 Nov 2024 05:00:00 GMT</pubDate>
+  <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>A Plot is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol</title>
@@ -754,7 +754,7 @@ Location: Portland, Or</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.html</guid>
-  <pubDate>Wed, 07 Aug 2024 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.png" medium="image" type="image/png" height="58" width="144"/>
 </item>
 <item>
@@ -774,12 +774,12 @@ Location: Portland, Or</code></pre>
 <p><a name="bib-vanderplasEscapingFlatlandGraphics2024"></a>[1] S. Vanderplas, E. Blankenship, and T. Wiederich. “Escaping Flatland: Graphics, Dimensionality, and~Human Perception”. In: <em>Human Interface and the Management of Information</em>. Ed. by H. Mori and Y. Asahi. Springer Nature Switzerland, Jul.&nbsp;01, 2024, pp.&nbsp;140-156. ISBN: 978-3-031-60114-9. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-031-60114-9_11">https://doi.org/10.1007/978-3-031-60114-9_11</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -807,7 +807,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/vanderplasescapingflatlandgraphics2024.html</guid>
-  <pubDate>Mon, 01 Jul 2024 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
   <media:content url="https://github.com/srvanderplas/2024-hcii-escaping-flatland/blob/main/image/Kit_of_charts.png?raw=true" medium="image"/>
 </item>
 <item>
@@ -843,7 +843,7 @@ Location: Washington DC</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html</guid>
-  <pubDate>Mon, 01 Jul 2024 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.png" medium="image" type="image/png" height="99" width="144"/>
 </item>
 <item>
@@ -879,62 +879,8 @@ Location: Lincoln, NE</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/creating-good-graphics.html</guid>
-  <pubDate>Wed, 26 Jun 2024 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/creating-good-graphics.png" medium="image" type="image/png" height="106" width="144"/>
-</item>
-<item>
-  <title>Hidden Multiple Comparisons Increase Forensic Error Rates</title>
-  <dc:creator>Susan Vanderplas, Alicia Carriquiry, Heike Hofmann</dc:creator>
-  <link>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://i.imgur.com/JXILntV.png" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-vanderplasHiddenMultipleComparisons2024"></a>[1] S. Vanderplas, A. Carriquiry, and H. Hofmann. “Hidden Multiple Comparisons Increase Forensic Error Rates”. In: <em>Proceedings of the National Academy of Sciences</em> 121.25 (Jun.&nbsp;10, 2024), p.&nbsp;e2401326121. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1073%2Fpnas.2401326121">https://doi.org/10.1073/pnas.2401326121</a>.</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{vanderplasHiddenMultipleComparisons2024,
-  title = {Hidden Multiple Comparisons Increase Forensic Error Rates},
-  author = {Susan Vanderplas and Alicia Carriquiry and Heike Hofmann},
-  year = {2024},
-  month = {6},
-  journal = {Proceedings of the National Academy of Sciences},
-  volume = {121},
-  number = {25},
-  pages = {e2401326121},
-  publisher = {National Academy of Sciences},
-  doi = {https://doi.org/10.1073/pnas.2401326121},
-}</code></pre>
-</div>
-</div>
-</div>
-<p><a href="https://github.com/srvanderplas/Wire-Cut-Errors" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>papers</category>
-  <guid>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024.html</guid>
-  <pubDate>Mon, 10 Jun 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://i.imgur.com/JXILntV.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Hidden Multiple Comparisons Increase Forensic Error Rates</title>
@@ -953,12 +899,12 @@ Bibtex
 <p><a name="bib-vanderplasHiddenMultipleComparisons20241"></a>[1] S. Vanderplas, A. Carriquiry, and H. Hofmann. “Hidden Multiple Comparisons Increase Forensic Error Rates”. In: <em>Proceedings of the National Academy of Sciences</em> 121.25 (Jun.&nbsp;10, 2024), p.&nbsp;e2401326121. DOI: <a href="https://doi.org/10.1073%2Fpnas.2401326121">10.1073/pnas.2401326121</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -987,7 +933,61 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html</guid>
-  <pubDate>Mon, 10 Jun 2024 05:00:00 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://i.imgur.com/JXILntV.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Hidden Multiple Comparisons Increase Forensic Error Rates</title>
+  <dc:creator>Susan Vanderplas, Alicia Carriquiry, Heike Hofmann</dc:creator>
+  <link>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://i.imgur.com/JXILntV.png" class="preview-image img-fluid"></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p><a name="bib-vanderplasHiddenMultipleComparisons2024"></a>[1] S. Vanderplas, A. Carriquiry, and H. Hofmann. “Hidden Multiple Comparisons Increase Forensic Error Rates”. In: <em>Proceedings of the National Academy of Sciences</em> 121.25 (Jun.&nbsp;10, 2024), p.&nbsp;e2401326121. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1073%2Fpnas.2401326121">https://doi.org/10.1073/pnas.2401326121</a>.</p>
+</blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Bibtex
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<pre><code>@article{vanderplasHiddenMultipleComparisons2024,
+  title = {Hidden Multiple Comparisons Increase Forensic Error Rates},
+  author = {Susan Vanderplas and Alicia Carriquiry and Heike Hofmann},
+  year = {2024},
+  month = {6},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {121},
+  number = {25},
+  pages = {e2401326121},
+  publisher = {National Academy of Sciences},
+  doi = {https://doi.org/10.1073/pnas.2401326121},
+}</code></pre>
+</div>
+</div>
+</div>
+<p><a href="https://github.com/srvanderplas/Wire-Cut-Errors" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>papers</category>
+  <guid>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024.html</guid>
+  <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
   <media:content url="https://i.imgur.com/JXILntV.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -1006,12 +1006,12 @@ Bibtex
 <p><a name="bib-liPlotWorthThousand2024"></a>[1] W. Li, D. Cook, E. Tanaka, et al.&nbsp;“A Plot Is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol”. In: <em>Journal of Computational and Graphical Statistics</em> (May. 22, 2024), pp.&nbsp;1497-1511. ISSN: 1061-8600. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2024.2344612">https://doi.org/10.1080/10618600.2024.2344612</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -1038,7 +1038,7 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/liplotworththousand2024.html</guid>
-  <pubDate>Wed, 22 May 2024 05:00:00 GMT</pubDate>
+  <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Demonstrative Evidence and the Use of Algorithms in Jury Trials</title>
@@ -1050,19 +1050,19 @@ Bibtex
 
 
 
-<p><img src="https://github.com/rachelesrogers/Algorithms_in_Jury_Trials/blob/master/paper/images/credible.jpg?raw=true" class="preview-image img-fluid"></p>
+<p><img src="https://github.com/rachelesrogers/Algorithms_in_Jury_Trials/blob/master/paper/images/credible.jpg?raw%20=%20true" class="preview-image img-fluid"></p>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
 <p><a name="bib-rogersDemonstrativeEvidenceUse2024"></a>[1] R. Rogers and S. VanderPlas. “Demonstrative Evidence and the Use of Algorithms in Jury Trials”. In: <em>Journal of Data Science</em> 22.2 (May. 02, 2024), pp.&nbsp;314-332. DOI: <a href="https://doi.org/https%3A%2F%2Fdoi.org%2F10.6339%2F24-JDS1130">https://doi.org/10.6339/24-JDS1130</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bibtex
+<span class="screen-reader-only">Note</span>Bibtex
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
@@ -1091,8 +1091,8 @@ Bibtex
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/rogersdemonstrativeevidenceuse2024.html</guid>
-  <pubDate>Thu, 02 May 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://github.com/rachelesrogers/Algorithms_in_Jury_Trials/blob/master/paper/images/credible.jpg?raw=true" medium="image"/>
+  <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://github.com/rachelesrogers/Algorithms_in_Jury_Trials/blob/master/paper/images/credible.jpg?raw = true" medium="image"/>
 </item>
 <item>
   <title>Graphical Perception in a Pandemic: Log Scales, Exponential Growth, and the Importance of User Testing</title>
@@ -1122,7 +1122,7 @@ Location: Chicago, IL (Online)</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.html</guid>
-  <pubDate>Fri, 29 Mar 2024 05:00:00 GMT</pubDate>
+  <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

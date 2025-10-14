@@ -1,26 +1,23 @@
 ---
-title: "How to make good charts"
+title: "How to Make Good Charts"
 author: "Susan Vanderplas"
-date: "2022-09-22"
+date: "2021-01-27"
 categories: talks
 page-layout: full
 title-block-banner: true
 image: "how-to-make-good-charts.png"
-keywords: [visualization, design, Talk]
+keywords: [design, visualization, user testing, accessibility, Talk]
 format:
   html:
     code-copy: true
 ---
  
-## Abstract
->  Data visualizations are an important component of scientific research and communication. We use charts to explore our data before we know how to model it, and we use charts to disseminate results. But how do we know what a "good" chart is? In this talk, I'll discuss some basic principles of good chart design, including experimental results for evaluating charts in realistic settings. We'll talk about chart creation, decoration, and how to make visualizations more accessible.
-
 
 ## Location
 
-    University of Nebraska - Lincoln, Complex Biosystems
-    Event Type: Department Seminar
+    University of Nebraska - Lincoln, Biological and Systems Engineering GSA
+    Event Type: Student Group
     Location: Lincoln, NE
 ## Slides
 
-<iframe src='https://srvanderplas.github.io/2022-Presentations/09-CBIO/' height='800px' width='500px'></iframe>
+<iframe src='https://srvanderplas.github.io/2021-Presentations/01-BSE-GSA-Graphics/#1' height='800px' width='500px'></iframe>

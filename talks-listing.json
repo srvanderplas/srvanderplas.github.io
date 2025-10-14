@@ -1,6 +1,8 @@
 {
   "listing": "/talks.html",
   "items": [
+    "/posts/talks/teaching-statistical-computing-with-r-and-python.html",
+    "/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.html",
     "/posts/talks/creating-effective-graphics.html",
     "/posts/talks/web-scraping-olympics-python.html",
     "/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.html",

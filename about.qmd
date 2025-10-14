@@ -9,7 +9,7 @@ about:
     - icon: mastodon
       text: Mastodon
       href: "https://vis.social/@Srvanderplas"
-    - icon: bluesky
+    - icon: bsky
       text: Bluesky
       href: "https://srvanderplas.bsky.social"
     - icon: linkedin

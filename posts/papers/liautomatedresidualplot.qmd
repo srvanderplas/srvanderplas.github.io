@@ -1,0 +1,36 @@
+---
+title: "Automated Residual Plot Assessment With the R Package autovi and the Shiny Application autovi.web"
+author: "Weihao Li, Dianne Cook, Emi Tanaka, Susan Vanderplas, Klaus Ackermann"
+date: "2025-10-09"
+
+keywords: [computer vision,  machine learning,  model diagnostics,  statistical graphics,  perception,  user testing,  visual inference,  pr]
+categories: papers
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    code-copy: true
+---
+ 
+
+ 
+## Citation
+> <a name=bib-liAutomatedResidualPlot></a>[[1]](#cite-liAutomatedResidualPlot) W. Li, D. Cook, E. Tanaka, et al. “Automated Residual Plot Assessment With the R Package autovi and the Shiny Application autovi.web”. In: _Australian & New Zealand Journal of Statistics_ (Oct. 09, 2025). \_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/anzs.70027. ISSN: 1467-842X. DOI: [10.1111/anzs.70027](https://doi.org/10.1111%2Fanzs.70027). URL: [https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.70027](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.70027) (visited on 10/13/2025).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{liAutomatedResidualPlot,
+  title = {Automated Residual Plot Assessment With the R Package autovi and the Shiny Application autovi.web},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.70027},
+  doi = {10.1111/anzs.70027},
+  author = {Weihao Li and Dianne Cook and Emi Tanaka and Susan Vanderplas and Klaus Ackermann},
+  note = {\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/anzs.70027},
+  year = {2025},
+  month = {oct},
+}
+```
+:::
+
+
+

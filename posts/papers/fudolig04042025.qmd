@@ -1,7 +1,7 @@
 ---
 title: "Can You See The Change? Visual Perception in Change Point Analysis"
 author: "Miguel Antonio Fudolig, Emily A. Robinson, Susan Vanderplas"
-date: []
+date: "2025-04-01"
 image: "https://www-tandfonline-com.libproxy.unl.edu/cms/asset/48ffa2e1-4c39-49d4-92c6-cc05786b0271/ucgs_a_2485278_f0001.jpg"
 keywords: [pr,  perception,  user testing,  visual inference]
 categories: papers
@@ -15,7 +15,7 @@ format:
 ![](https://www-tandfonline-com.libproxy.unl.edu/cms/asset/48ffa2e1-4c39-49d4-92c6-cc05786b0271/ucgs_a_2485278_f0001.jpg){.preview-image}
  
 ## Citation
-> <a name=bib-Fudolig04042025></a>[[1]](#cite-Fudolig04042025) M. A. Fudolig, E. A. Robinson, and S. Vanderplas. “Can You See The Change? Visual Perception in Change Point Analysis”. In: _Journal of Computational and Graphical Statistics_ (ja Apr. 2025), pp. 1-15. DOI: [10.1080/10618600.2025.2485278](https://doi.org/10.1080%2F10618600.2025.2485278).
+> <a name=bib-Fudolig04042025></a>[[1]](#cite-Fudolig04042025) M. A. Fudolig, E. A. Robinson, and S. Vanderplas. “Can You See The Change? Visual Perception in Change Point Analysis”. In: _Journal of Computational and Graphical Statistics_ (ja Apr. 01, 2025), pp. 1-15. DOI: [10.1080/10618600.2025.2485278](https://doi.org/10.1080%2F10618600.2025.2485278).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -24,10 +24,10 @@ format:
   author = {Miguel Antonio Fudolig and Emily A. Robinson and Susan Vanderplas},
   title = {Can You See The Change? Visual Perception in Change Point Analysis},
   journal = {Journal of Computational and Graphical Statistics},
-  year = {2025},
   pages = {1--15},
-  month = {apr},
   doi = {10.1080/10618600.2025.2485278},
+  year = {2025},
+  month = {apr},
 }
 ```
 :::

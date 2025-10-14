@@ -2,7 +2,7 @@
 title: "Demonstrative Evidence and the Use of Algorithms in Jury Trials"
 author: "Rachel Rogers, Susan VanderPlas"
 date: "2024-05-02"
-image: "https://github.com/rachelesrogers/Algorithms_in_Jury_Trials/blob/master/paper/images/credible.jpg?raw=true"
+image: "https://i.imgur.com/ae6Sa8U.png"
 keywords: [pr,  forensics,  firearms,  jury trials,  algorithms]
 categories: papers
 page-layout: full
@@ -12,7 +12,7 @@ format:
     code-copy: true
 ---
  
-![](https://github.com/rachelesrogers/Algorithms_in_Jury_Trials/blob/master/paper/images/credible.jpg?raw=true){.preview-image}
+![](https://i.imgur.com/ae6Sa8U.png){.preview-image}
  
 ## Citation
 > <a name=bib-rogersDemonstrativeEvidenceUse2024></a>[[1]](#cite-rogersDemonstrativeEvidenceUse2024) R. Rogers and S. VanderPlas. “Demonstrative Evidence and the Use of Algorithms in Jury Trials”. In: _Journal of Data Science_ 22.2 (May. 02, 2024), pp. 314-332. DOI: [https://doi.org/10.6339/24-JDS1130](https://doi.org/https%3A%2F%2Fdoi.org%2F10.6339%2F24-JDS1130).

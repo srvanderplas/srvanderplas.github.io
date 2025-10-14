@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/other/unl-program-cuts-shitposting.html",
       "/posts/papers/liautomatedresidualplot.html",
       "/posts/talks/teaching-statistical-computing-with-r-and-python.html",
       "/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.html",
@@ -134,6 +135,7 @@
   {
     "listing": "/other.html",
     "items": [
+      "/posts/other/unl-program-cuts-shitposting.html",
       "/posts/other/wire-measurements.html"
     ]
   },

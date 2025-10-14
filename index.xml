@@ -10,7 +10,120 @@
 <atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Thu, 09 Oct 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Oct 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Experimenting With ChatGPT as UNL Closes Departments</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/other/unl-program-cuts-shitposting.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today is the last day that UNL is allowing public comments about program closures, so I’ve been having a bit of fun shitposting comments on behalf of the departments proposed for closure. This started when I asked ChatGPT to generate a not-the-onion post about the statistics department being closed due to the UNL administration’s bad use of statistics. I’ve and edited and annotated the statistics version (and changed names and positions at will to reflect administrators – departmental characters are all as GPT generated them).</p>
+<p>For other departments, I have largely left the poems unedited. It turns out that Statistics doesn’t seem to lend itself to poetry nearly as well (perhaps because I’m more fond of the puns in the not-the-Onion version).</p>
+<section id="university-administration-uses-faulty-statistics-to-justify-eliminating-statistics-department" class="level2">
+<h2 class="anchored" data-anchor-id="university-administration-uses-faulty-statistics-to-justify-eliminating-statistics-department">University Administration Uses Faulty Statistics to Justify Eliminating Statistics Department</h2>
+<p>“P-Value Was Below Our Standards for Caring,” Says Chancellor</p>
+<p>In a move described by many as “poetically idiotic,” the administration of Midwestern State University announced Monday its plan to eliminate the Department of Statistics—citing a data analysis later revealed to have been performed using Microsoft Excel’s AutoSum function.</p>
+<p>According to the administration’s official report<sup>1</sup>, “a thorough statistical analysis” demonstrated that the department was “statistically insignificant” to the university’s mission. When pressed for details, Chancellor Bodney Rennett clarified, “The p-value was really high—like, I think, 70 or 80 percent—so we’re confident this was the right call.”</p>
+<p>Faculty members within the Statistics Department expressed mixed feelings ranging from disbelief to the quiet satisfaction of being proven right one last time.</p>
+<p>“They told us they ran a regression model,” said Dr.&nbsp;Alan Brooks, head of the department. “Then we found out they just drew a line through a scatterplot and said, ‘Looks flat enough.’ I’m not even mad—that’s almost elegant in its ignorance.”<sup>2</sup></p>
+<p>The university’s analysis reportedly concluded that student interest in statistics had “declined by 200%” over the past decade. When asked how a percentage could exceed 100%, the administration explained that “it just means students are twice as uninterested.”<sup>3</sup></p>
+<p>Administrators also cited “strong anecdotal data” from a campus-wide survey showing low awareness of the department’s existence. However, the survey was distributed exclusively to the football team during spring break.</p>
+<p>“We stand by our numbers,” said Bark Mutton, Executive Vice Chancellor of Academic Optimization. “We even used one of those fancy pivot thingies. The results were clear: no one knows what a median is, and that’s the department’s fault.”</p>
+<p>Dosh Javis, Associate Chancellor of Strategic Analytics (Business Edition), supported the decision. “Our chi-squared test came out looking real weird, which probably means it’s significant,” Javis said. “We confirmed this by looking at the vibes.”</p>
+<p>In response, the department offered to teach the administration how to correctly analyze the data<sup>4</sup>—an offer the administration declined on the grounds that “it sounded expensive and mathy.”<sup>5</sup></p>
+<p>Rumors suggest the university will reallocate the department’s funding to expand the Business Analytics program, which “does the same thing, but with prettier dashboards.”</p>
+<p>Students and alumni have since launched a petition to save the department, though early analysis indicates it may not be effective: the administration reportedly used a random number generator to sample the signatures and found “insufficient support.”<sup>6</sup></p>
+<p>As for the soon-to-be-dismantled statisticians, they remain philosophical.</p>
+<p>“In the end,” Dr.&nbsp;Brooks said, “this outcome was predictable. The confidence interval for administrative understanding of statistics has always included zero.”</p>
+<p>When asked whether the administration had any regrets, Chancellor Rennett sighed. “If we’ve learned anything,” he said, “it’s that we probably should have hired some statisticians before getting rid of them.”</p>
+</section>
+<section id="earth-and-atmospheric-science" class="level2">
+<h2 class="anchored" data-anchor-id="earth-and-atmospheric-science">Earth and Atmospheric Science</h2>
+<blockquote class="blockquote">
+<p><strong>“On the Miscalculation of Clouds”</strong></p>
+<p>They gathered their spreadsheets, the suits and the deans, Projecting the budget in tidy routines. With pivot tables polished and charts full of flair, They proved, beyond doubt, that the weather’s “not there.”</p>
+<p>“The data are clear,” said the Vice of Finance, “Fewer majors in rain, no statistical chance! Why fund a department that studies the sky, When clouds don’t contribute to ROI?”</p>
+<p>The models were neat — though a tad underfit, They’d left out the columns that didn’t quite fit: Like storms, and droughts, and hurricanes’ spin, And the carbon line creeping up from within.</p>
+<p>They missed the confounder (a common mistake) — That learning the Earth helps the <em>earth</em> not to break. A p-value of folly, a confidence low, Yet onward they marched, with “efficiency” glow.</p>
+<p>So the forecast was wrong — as forecasts can be, But this one brought silence where there once was degree. No one to track rainfall, or warn of the flood, No one to note ice where once there was mud.</p>
+<p>And somewhere, a spreadsheet, still smug and precise, Lists “cost savings” in rows, and forgets the true price. For when data are twisted to fit one’s desire, You may balance the books — but to the world you’ll set fire.</p>
+</blockquote>
+</section>
+<section id="educational-administration" class="level2">
+<h2 class="anchored" data-anchor-id="educational-administration">Educational Administration</h2>
+<blockquote class="blockquote">
+<p><strong>“The Day They Cut the Ed Admins”</strong></p>
+<p>They crunched all the numbers, they tallied, they totted, They trimmed and they slashed and they proudly allotted. “The budget’s too tight!” cried the Chancellor’s crew, “So something must go—let’s cut what they do!”</p>
+<p>“Who needs those folks teaching how leaders should lead? We’ve spreadsheets and slogans! That’s all that we need!” They patted themselves for their clever, clean slate— While the school down the street lost its principal’s gate.</p>
+<p>For who trains the people who guide all the schools, Who know how to nurture, not just follow rules? Who helps the new teachers to stand up and strive, To juggle twelve duties and keep kids alive?</p>
+<p>The answer was simple, though none would admit: ’Twas the folks they just cut, who made sense of it. So now there’s confusion from desk up to dome, And nobody’s sure who should take the lead home.</p>
+<p>The numbers looked lovely, the balance sheets neat— But the heart of the campus forgot how to beat. And somewhere a dean, with a budget to mend, Still wonders why chaos won’t neatly dead-end.</p>
+</blockquote>
+</section>
+<section id="textiles-merchandising-and-fashion-design" class="level2">
+<h2 class="anchored" data-anchor-id="textiles-merchandising-and-fashion-design">Textiles, Merchandising, and Fashion Design</h2>
+<blockquote class="blockquote">
+<p><strong>Limericks on the Unraveling of Fashion</strong></p>
+<p><strong>1.</strong> A school once well-threaded with pride, Taught fashion both clever and wide. But cuts came one day, And stitched it away— Now the fabric of trade’s come untied.</p>
+<hr>
+<p><strong>2.</strong> They claimed, “It’s just hems and some flair, We’ll save quite a sum if it’s bare!” But towns lost their shops, And payrolls took drops— Now <em>nothing</em> is making it wear.</p>
+<hr>
+<p><strong>3.</strong> The merchants cried out, “What a twist! Our buyers and stylists are missed!” The mills grew all still, The markets lost will— The spreadsheets forgot what they risked.</p>
+<hr>
+<p><strong>4.</strong> No longer the students design The garments that once shone so fine; The runways are dark, The makers remark, “That cut cost us more down the line.”</p>
+<hr>
+<p><strong>5.</strong> So here’s to the budget’s “smart” shears, That trimmed off the work of the years— They saved just a dime, But in fashion’s decline, They’ve tailored the state’s own arrears.</p>
+</blockquote>
+</section>
+<section id="landscape-architecture" class="level2">
+<h2 class="anchored" data-anchor-id="landscape-architecture">Landscape Architecture</h2>
+<blockquote class="blockquote">
+<p><strong>“The Day They Cut the Landscapers”</strong> <em>(in the style of Dr.&nbsp;Seuss)</em></p>
+<p>They gathered one morning, the Board and the Dean, With coffee and charts and their spreadsheets all clean. “The numbers are down! The dollars are tight! We’ll trim some departments to set it all right!”</p>
+<p>So they snipped and they clipped with administrative flair, “Goodbye to the gardens! We’ve no funds to spare!” They smiled as they sliced through the Landscape Design, Declaring, “We’ll manage just fine—oh, just fine!”</p>
+<p>But outside the windows the campus grew sad, The walkways all cracked and the hedges went bad. The flowers went missing, the benches grew bare, The sun baked the quad with a pitiless glare.</p>
+<p>The students all sighed, “What a dusty old view— We used to have shade! We used to have dew!” The squirrels packed their nuts and abandoned the green, And weeds took the throne where the roses had been.</p>
+<p>The town down the road felt the loss in its core, No planners to guide how their parks could restore. No one to think how the runoff should flow, Or how future floods could be softened below.</p>
+<p>The budget looked tidy—at least for a year— But soon came the drought and the landslides and fear. For when you cut roots just to balance the sum, You find, all too late, that the green doesn’t come.</p>
+<p>So next time you’re counting your dollars and cents, Remember: good planning is good common sense. A landscape’s not <em>pretty</em>, it’s how we all stay— It’s life in the soil, it’s work that won’t fade away.</p>
+</blockquote>
+</section>
+<section id="community-and-regional-planning" class="level2">
+<h2 class="anchored" data-anchor-id="community-and-regional-planning">Community and Regional Planning</h2>
+<blockquote class="blockquote">
+<p><strong>“When Planners Are Gone”</strong> <em>A Villanelle</em></p>
+<p>The maps grow blank where once the futures lay, Small towns fall silent, stripped of guiding hands; No one remains to chart a wiser way.</p>
+<p>The roads still twist, the river bends its sway, But no one asks what promise each demands— The maps grow blank where once the futures lay.</p>
+<p>The grain elevator rusts, the youth don’t stay, Old dreams collapse like barns in drifting sands; No one remains to chart a wiser way.</p>
+<p>The county’s heart beats faint, its edges fray, Forgotten voices echo through their lands— The maps grow blank where once the futures lay.</p>
+<p>The state grows proud of savings on display, Yet cannot count what loss the cut commands; No one remains to chart a wiser way.</p>
+<p>So let the record show, in dust and clay: A vision died beneath their costed plans. The maps grow blank where once the futures lay— No one remains to chart a wiser way.</p>
+</blockquote>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Already, ChatGPT is assuming an administration is more competent than ours is…↩︎</p></li>
+<li id="fn2"><p>Ok, so visual regression is an actual thing, thank you very much…↩︎</p></li>
+<li id="fn3"><p>This is actually a better explanation than the one we got, which was “the metrics are the metrics, and we’re not changing them.”↩︎</p></li>
+<li id="fn4"><p>Yep, we did actually offer this, but they did not take us up on that.↩︎</p></li>
+<li id="fn5"><p>Again, this is a better explanation than what we got, which was… ignored.↩︎</p></li>
+<li id="fn6"><p>A random number generator might actually have better accuracy than the analysis method they used to eliminate our department, lol.↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>other</category>
+  <guid>srvanderplas.github.io/posts/other/unl-program-cuts-shitposting.html</guid>
+  <pubDate>Mon, 13 Oct 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/c/cc/Facebook_AI_slop%2C_%22Shrimp_Jesus%22_1.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Automated Residual Plot Assessment With the R Package autovi and the Shiny Application autovi.web</title>
   <dc:creator>Weihao Li, Dianne Cook, Emi Tanaka, Susan Vanderplas, Klaus Ackermann</dc:creator>
@@ -861,42 +974,6 @@ Location: Chicago, IL (Online)</code></pre>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.html</guid>
   <pubDate>Fri, 29 Mar 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Building a CV/Blog Automatically</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<blockquote class="blockquote">
-<p>This week will be the second of a 2-part workshop. On Feb 15, we talked about how to make a CV with R and a google spreadsheet (and why you might want to do so). This week, we’ll talk about how to use this same setup to build a blog-type website with posts for each paper and presentation, using quarto. Setup steps: 1. Clone or fork the github repository I’ve made: https://github.com/srvanderplas/cv-site-template. 2. Modify the data/CV.bib file in the repository to contain your publications, if you want to include them on the CV. 3. Modify the data/CV.xlsx file in the repository to contain your talks During the presentation, I’ll walk you through the workflow I use and show you how to use the code I’ve written to create your own CV-style blog from a spreadsheet and a bib file. We’ll also talk about how to use this workflow, git submodules, and github actions to automatically keep things updated.</p>
-</blockquote>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<pre><code>University of Nebraska, Graphics Group
-Event Type: Interest Group
-Location: Online</code></pre>
-</section>
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/2024-Presentations/03-graphics-blog/#/title-slide" height="800px" width="500px">
-</iframe>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.html</guid>
-  <pubDate>Thu, 07 Mar 2024 06:00:00 GMT</pubDate>
-  <media:content url="srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.png" medium="image" type="image/png" height="93" width="144"/>
 </item>
 </channel>
 </rss>

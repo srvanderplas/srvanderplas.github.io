@@ -2,7 +2,7 @@
 title: "An introduction to firearms examination for researchers in statistics"
 author: "Susan Vanderplas, Alicia Carriquiry, Heike Hofmann, James Hamby, Xiao Hui Tai"
 date: "2022-05-30"
-image: "https://github.com/srvanderplas/2019_book_chapter/blob/master/figure/Luger-Cutaway.png?raw = true"
+image: "https://github.com/srvanderplas/2019_book_chapter/blob/master/figure/Luger-Cutaway.png?raw=true"
 keywords: [bookch,  forensics,  firearms,  algorithms,  machine learning]
 categories: papers
 page-layout: full
@@ -12,7 +12,7 @@ format:
     code-copy: true
 ---
  
-![](https://github.com/srvanderplas/2019_book_chapter/blob/master/figure/Luger-Cutaway.png?raw = true){.preview-image}
+![](https://github.com/srvanderplas/2019_book_chapter/blob/master/figure/Luger-Cutaway.png?raw=true){.preview-image}
  
 ## Citation
 > <a name=bib-vanderplasIntroductionFirearmsExamination2020></a>[[1]](#cite-vanderplasIntroductionFirearmsExamination2020) S. Vanderplas, A. Carriquiry, H. Hofmann, et al. “An introduction to firearms examination for researchers in statistics”. In: _Handbook of Forensic Statistics_. Ed. by Banks, D., Kafadar, K., Kaye, D. and Tackett, M.. New York: Chapman and Hall/CRC, May. 30, 2022, pp. 365-390. DOI: [https://doi.org/10.1201/9780367527709](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1201%2F9780367527709).

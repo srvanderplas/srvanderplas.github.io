@@ -9,7 +9,7 @@ about:
     - icon: mastodon
       text: Mastodon
       href: "https://vis.social/@Srvanderplas"
-    - icon: bluesky
+    - icon: bsky
       text: Bluesky
       href: "https://srvanderplas.bsky.social"
     - icon: linkedin
@@ -28,9 +28,9 @@ about:
 
 ## Biography {.left}
 
-Susan Vanderplas ( <a href="https://vis.social/@srvanderplas" rel="me">Find me on Mastodon!</a>) is an assistant professor in the Statistics Department at University of Nebraska, Lincoln, researching the perception of statistical charts and graphs. She also works with the Center for Statistical Applications in Forensic Evidence (CSAFE) at Iowa State University, developing statistical methods for examination of bullets, cartridges, and footwear. 
+Susan Vanderplas ( <a href="https://vis.social/@srvanderplas" rel="me">Find me on Mastodon!</a>) is an associate professor in the Statistics Department at University of Nebraska, Lincoln, researching the perception of statistical charts and graphs. She also works with the Center for Statistical Applications in Forensic Evidence (CSAFE) at Iowa State University, developing statistical methods for examination of bullets, cartridges, and footwear. 
 
-In her spare time (hah) she likes to sew, cross-stitch mildly off-color sayings, and bake things (usually badly). 
+In her spare time (hah) she likes to sew, cross-stitch mildly off-color sayings, and bake things. 
 
 ::: callout-warning
 ## Disclaimer

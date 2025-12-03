@@ -9,21 +9,33 @@ I wrote and continue to update/improve a textbook, [Statistical Computing in R a
 
 ### Stat 151
 
-- [Course site](../unl-stat151/)
-- Semesters: 2024a, 2023a, 2022a
+- [Course site](https://unl-statistics.github.io/stat151/)
+- Semesters: 2025a, 2024a, 2023a, 2022a
 
 ### Stat 251
 
-- [Course site](../unl-stat251/)
+- [Course site](https://unl-statistics.github.io/stat251/)
 - Semesters: 2024a, 2023a
+
+### Stat 349
+
+- [Course site](https://unl-statistics.github.io/stat349/)
+- Semesters: 2025a
+
+
+### Stat 351
+
+- [Course site](https://unl-statistics.github.io/stat351/)
+- Semesters: 2025c
+
 
 ## Graduate
 
 ### Stat 850
 
-- [Course site](../unl-stat850/) 
+- [Course site](https://unl-statistics.github.io/stat850/) 
 
-- Semesters: 2023c, 2022c, 2021c, 2020c
+- Semesters: 2025c, 2023c, 2022c, 2021c, 2020c
 
 
 ## Other
@@ -33,3 +45,9 @@ I wrote and continue to update/improve a textbook, [Statistical Computing in R a
 - [Site](https://unl-statistics.github.io/R-workshops/README.html)
 
 - Offered: January 2024, January 2023, May 2022, January 2022
+
+### Effective Graphics for Visual Communication with Data
+
+- [Site](https://srvanderplas.github.io/workshop-graphics-communication/)
+
+- Offered at SDSS 2024 in Richmond, VA

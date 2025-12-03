@@ -18,8 +18,10 @@ website:
           - other.qmd
       - icon: github
         href: https://github.com/srvanderplas
-      - icon: bluesky
-        href: https://srvanderplas.bsky.social
+      - icon: file-person
+        href: https://srvanderplas.github.io/CV/CV.pdf
+      - icon: fa-bluesky
+        href: https://bsky.app/profile/srvanderplas.bsky.social
       - icon: mastodon
         href: https://mastodon.social/@srvanderplas
 format:

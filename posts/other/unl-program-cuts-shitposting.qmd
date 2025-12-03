@@ -1,0 +1,297 @@
+---
+title: "Experimenting With AI as UNL Closes Departments"
+author: "Susan Vanderplas"
+date: "2025-10-13"
+image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Facebook_AI_slop%2C_%22Shrimp_Jesus%22_1.jpg"
+categories: other
+page-layout: full
+title-block-banner: true
+keywords: [university politics]
+---
+
+Today is the last day that UNL is allowing public comments about program closures, so I've been having a bit of fun shitposting comments on behalf of the departments proposed for closure. 
+This started when I asked ChatGPT to generate a not-the-onion post about the statistics department being closed due to the UNL administration's bad use of statistics. 
+I've and edited and annotated the statistics version (and changed names and positions at will to reflect administrators -- departmental characters are all as GPT generated them). 
+
+For other departments, I have largely left the poems unedited. 
+
+
+## Statistics
+
+### University Administration Uses Faulty Statistics to Justify Eliminating Statistics Department
+
+“P-Value Was Below Our Standards for Caring,” Says Chancellor
+
+In a move described by many as “poetically idiotic,” the administration of Midwestern State University announced Monday its plan to eliminate the Department of Statistics—citing a data analysis later revealed to have been performed using Microsoft Excel’s AutoSum function.
+
+According to the administration’s official report^[Already, ChatGPT is assuming an administration is more competent than ours is...], “a thorough statistical analysis” demonstrated that the department was “statistically insignificant” to the university’s mission. When pressed for details, Chancellor Bodney Rennett clarified, “The p-value was really high—like, I think, 70 or 80 percent—so we’re confident this was the right call.”
+
+Faculty members within the Statistics Department expressed mixed feelings ranging from disbelief to the quiet satisfaction of being proven right one last time.
+
+“They told us they ran a regression model,” said Dr. Alan Brooks, head of the department. “Then we found out they just drew a line through a scatterplot and said, ‘Looks flat enough.’ I’m not even mad—that’s almost elegant in its ignorance."^[Ok, so visual regression is an actual thing, thank you very much...]
+
+The university’s analysis reportedly concluded that student interest in statistics had “declined by 200%” over the past decade. When asked how a percentage could exceed 100%, the administration explained that “it just means students are twice as uninterested.”^[This is actually a better explanation than the one we got, which was "the metrics are the metrics, and we're not changing them."]
+
+Administrators also cited “strong anecdotal data” from a campus-wide survey showing low awareness of the department’s existence. However, the survey was distributed exclusively to the football team during spring break.
+
+“We stand by our numbers,” said Bark Mutton, Executive Vice Chancellor of Academic Optimization. “We even used one of those fancy pivot thingies. The results were clear: no one knows what a median is, and that’s the department’s fault.”
+
+Dosh Javis, Associate Chancellor of Strategic Analytics (Business Edition), supported the decision. “Our chi-squared test came out looking real weird, which probably means it’s significant,” Javis said. “We confirmed this by looking at the vibes.”
+
+In response, the department offered to teach the administration how to correctly analyze the data^[Yep, we did actually offer this, but they did not take us up on that.]—an offer the administration declined on the grounds that “it sounded expensive and mathy.”^[Again, this is a better explanation than what we got, which was... ignored.]
+
+Rumors suggest the university will reallocate the department’s funding to expand the Business Analytics program, which “does the same thing, but with prettier dashboards.”
+
+Students and alumni have since launched a petition to save the department, though early analysis indicates it may not be effective: the administration reportedly used a random number generator to sample the signatures and found “insufficient support.”^[A random number generator might actually have better accuracy than the analysis method they used to eliminate our department, lol.]
+
+As for the soon-to-be-dismantled statisticians, they remain philosophical.
+
+“In the end,” Dr. Brooks said, “this outcome was predictable. The confidence interval for administrative understanding of statistics has always included zero.”
+
+When asked whether the administration had any regrets, Chancellor Rennett sighed. “If we’ve learned anything,” he said, “it’s that we probably should have hired some statisticians before getting rid of them.”
+
+
+### 📉 **The Fall of the Stats** 📉  
+
+This one is by Copilot, who managed to win me over by asking if I wanted more biting, darker academic satire. Yes, please. 
+
+> In the ivory halls of U. Prestige,      
+> Where tenure once bloomed like academic trees,      
+> The Stats Department stood, austere and proud,      
+> Till the Admins arrived with a thunderous crowd.    
+>     
+> “We’ve crunched the numbers!” the Provost proclaimed,      
+> Though the spreadsheet he held was half unnamed.      
+> “Our models are lean, our metrics divine—      
+> We forecast success with a sigmoid line!”    
+>     
+> The Chancellor nodded, eyes glazed with delight,      
+> I skimmed a report late last Tuesday night.      
+> It said that statistics are costly and slow—      
+> We’d rather have metrics that sparkle and glow!”    
+>     
+> The VP of Optics, with PowerPoint flair,      
+> Declared, “We’ve benchmarked against thin air!      
+> Our sample was small, our bias was grand,      
+> But the graphs were in color, so wasn’t it planned?”    
+>     
+> The statisticians, pale and aghast,      
+> Whispered of errors both present and past.      
+> “You’ve p-hacked your way through a forest of lies,      
+> And called it a garden of data-driven skies!”    
+>     
+> “You’ve tortured the numbers till they confessed,      
+> Then cited the ones that looked best-dressed.      
+> You’ve modeled with noise, ignored the base rate,      
+> And called it precision — how terribly great!”    
+>     
+> But the Admins, drunk on dashboards and spin,      
+> Said, “Truth is a cost we won’t tuck in.      
+> We’ll cut the department, it’s old and it’s gray—      
+> We’ll hire influencers to model our way!”    
+>     
+> So the statisticians packed up their code,      
+> Their R scripts, their ethics, their epistemic load.      
+> They left behind silence, a void in the halls,      
+> Where once lived the guardians of rigorous calls.    
+>     
+> Now decisions are made by a dartboard of dreams,      
+> And budgets are balanced by marketing memes.      
+> The campus is ruled by a stochastic fog,      
+> Where causation is chased by a data-trained dog.    
+>     
+> And deep in the archives, behind a locked door,      
+> A dusty old textbook weeps on the floor.      
+> It whispers of variance, of truth and of test—      
+> Of a time when the numbers were handled with zest.    
+>     
+> So heed this tale, ye scholars of fate:      
+> When stats are discarded, decay won’t wait.      
+> For truth is a candle, and ignorance wind—      
+> And the flame dies fast when the fools are grinned.    
+
+
+
+## Earth and Atmospheric Science
+
+> **“On the Miscalculation of Clouds”**
+> 
+> They gathered their spreadsheets, the suits and the deans,    
+> Projecting the budget in tidy routines.    
+> With pivot tables polished and charts full of flair,    
+> They proved, beyond doubt, that the weather’s “not there.”    
+>     
+> “The data are clear,” said the Vice of Finance,    
+> “Fewer majors in rain, no statistical chance!    
+> Why fund a department that studies the sky,    
+> When clouds don’t contribute to ROI?”    
+>     
+> The models were neat — though a tad underfit,    
+> They’d left out the columns that didn’t quite fit:    
+> Like storms, and droughts, and hurricanes’ spin,    
+> And the carbon line creeping up from within.    
+>     
+> They missed the confounder (a common mistake) —    
+> That learning the Earth helps the *earth* not to break.    
+> A p-value of folly, a confidence low,    
+> Yet onward they marched, with “efficiency” glow.    
+>     
+> So the forecast was wrong — as forecasts can be,    
+> But this one brought silence where there once was degree.    
+> No one to track rainfall, or warn of the flood,    
+> No one to note ice where once there was mud.    
+>     
+> And somewhere, a spreadsheet, still smug and precise,    
+> Lists “cost savings” in rows, and forgets the true price.    
+> For when data are twisted to fit one’s desire,    
+> You may balance the books — but to the world you'll set fire.    
+
+## Educational Administration
+
+> **“The Day They Cut the Ed Admins”**    
+>     
+> They crunched all the numbers, they tallied, they totted,    
+> They trimmed and they slashed and they proudly allotted.    
+> “The budget’s too tight!” cried the Chancellor’s crew,    
+> “So something must go—let’s cut what they do!”    
+>     
+> “Who needs those folks teaching how leaders should lead?    
+> We’ve spreadsheets and slogans! That’s all that we need!”    
+> They patted themselves for their clever, clean slate—    
+> While the school down the street lost its principal’s gate.    
+>     
+> For who trains the people who guide all the schools,    
+> Who know how to nurture, not just follow rules?    
+> Who helps the new teachers to stand up and strive,    
+> To juggle twelve duties and keep kids alive?    
+>     
+> The answer was simple, though none would admit:    
+> ’Twas the folks they just cut, who made sense of it.    
+> So now there’s confusion from desk up to dome,    
+> And nobody’s sure who should take the lead home.    
+>     
+> The numbers looked lovely, the balance sheets neat—    
+> But the heart of the campus forgot how to beat.    
+> And somewhere a dean, with a budget to mend,     
+> Still wonders why chaos won’t neatly dead-end.    
+
+## Textiles, Merchandising, and Fashion Design
+
+> **Limericks on the Unraveling of Fashion**    
+>     
+>     
+> **1.**    
+> A school once well-threaded with pride,    
+> Taught fashion both clever and wide.    
+> But cuts came one day,    
+> And stitched it away—    
+> Now the fabric of trade’s come untied.    
+> 
+> ---
+> 
+> **2.**    
+> They claimed, “It’s just hems and some flair,    
+> We’ll save quite a sum if it’s bare!”    
+> But towns lost their shops,    
+> And payrolls took drops—    
+> Now *nothing* is making it wear.    
+> 
+> ---
+> 
+> **3.**    
+> The merchants cried out, “What a twist!    
+> Our buyers and stylists are missed!”    
+> The mills grew all still,    
+> The markets lost will—    
+> The spreadsheets forgot what they risked.    
+> 
+> ---
+> 
+> **4.**    
+> No longer the students design    
+> The garments that once shone so fine;    
+> The runways are dark,    
+> The makers remark,    
+> “That cut cost us more down the line.”    
+> 
+> ---
+> 
+> **5.**    
+> So here’s to the budget’s “smart” shears,    
+> That trimmed off the work of the years—    
+> They saved just a dime,    
+> But in fashion’s decline,    
+> They’ve tailored the state’s own arrears.    
+
+
+## Landscape Architecture
+
+> **“The Day They Cut the Landscapers”**    
+> *(in the style of Dr. Seuss)*    
+>     
+> They gathered one morning, the Board and the Dean,    
+> With coffee and charts and their spreadsheets all clean.    
+> “The numbers are down! The dollars are tight!    
+> We’ll trim some departments to set it all right!”    
+>     
+> So they snipped and they clipped with administrative flair,    
+> “Goodbye to the gardens! We’ve no funds to spare!”    
+> They smiled as they sliced through the Landscape Design,    
+> Declaring, “We’ll manage just fine—oh, just fine!”    
+>     
+> But outside the windows the campus grew sad,    
+> The walkways all cracked and the hedges went bad.    
+> The flowers went missing, the benches grew bare,    
+> The sun baked the quad with a pitiless glare.    
+>     
+> The students all sighed, “What a dusty old view—    
+> We used to have shade! We used to have dew!”    
+> The squirrels packed their nuts and abandoned the green,    
+> And weeds took the throne where the roses had been.    
+>     
+> The town down the road felt the loss in its core,    
+> No planners to guide how their parks could restore.    
+> No one to think how the runoff should flow,    
+> Or how future floods could be softened below.    
+>     
+> The budget looked tidy—at least for a year—    
+> But soon came the drought and the landslides and fear.    
+> For when you cut roots just to balance the sum,    
+> You find, all too late, that the green doesn’t come.    
+>     
+> So next time you’re counting your dollars and cents,    
+> Remember: good planning is good common sense.    
+> A landscape’s not *pretty*, it’s how we all stay—    
+> It’s life in the soil, it’s work that won’t fade away.    
+
+
+## Community and Regional Planning
+
+> **“When Planners Are Gone”**    
+> *A Villanelle*    
+>     
+> The maps grow blank where once the futures lay,    
+> Small towns fall silent, stripped of guiding hands;    
+> No one remains to chart a wiser way.    
+>     
+> The roads still twist, the river bends its sway,    
+> But no one asks what promise each demands—    
+> The maps grow blank where once the futures lay.    
+>     
+> The grain elevator rusts, the youth don’t stay,    
+> Old dreams collapse like barns in drifting sands;    
+> No one remains to chart a wiser way.    
+> 
+> The county’s heart beats faint, its edges fray,    
+> Forgotten voices echo through their lands—    
+> The maps grow blank where once the futures lay.    
+>     
+> The state grows proud of savings on display,    
+> Yet cannot count what loss the cut commands;    
+> No one remains to chart a wiser way.    
+>     
+> So let the record show, in dust and clay:    
+> A vision died beneath their costed plans.    
+> The maps grow blank where once the futures lay—    
+> No one remains to chart a wiser way.    
+

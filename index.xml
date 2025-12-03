@@ -885,60 +885,6 @@ Location: Lincoln, NE</code></pre>
 <item>
   <title>Hidden Multiple Comparisons Increase Forensic Error Rates</title>
   <dc:creator>Susan Vanderplas, Alicia Carriquiry, Heike Hofmann</dc:creator>
-  <link>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://i.imgur.com/JXILntV.png" class="preview-image img-fluid"></p>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<blockquote class="blockquote">
-<p><a name="bib-vanderplasHiddenMultipleComparisons20241"></a>[1] S. Vanderplas, A. Carriquiry, and H. Hofmann. “Hidden Multiple Comparisons Increase Forensic Error Rates”. In: <em>Proceedings of the National Academy of Sciences</em> 121.25 (Jun.&nbsp;10, 2024), p.&nbsp;e2401326121. DOI: <a href="https://doi.org/10.1073%2Fpnas.2401326121">10.1073/pnas.2401326121</a>.</p>
-</blockquote>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Bibtex
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<pre><code>@article{vanderplasHiddenMultipleComparisons2024:1,
-  title = {Hidden Multiple Comparisons Increase Forensic Error Rates},
-  author = {Susan Vanderplas and Alicia Carriquiry and Heike Hofmann},
-  year = {2024},
-  month = {jun},
-  journal = {Proceedings of the National Academy of Sciences},
-  volume = {121},
-  number = {25},
-  pages = {e2401326121},
-  publisher = {Proceedings of the National Academy of Sciences},
-  doi = {10.1073/pnas.2401326121},
-}</code></pre>
-</div>
-</div>
-</div>
-<p><a href="https://github.com/srvanderplas/Wire-Cut-Errors" class="btn btn-tip"><i class="fa-brands fa-github fa-2x" aria-label="github"></i> Repository for Paper and Additional Resources</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>papers</category>
-  <guid>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024-1.html</guid>
-  <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://i.imgur.com/JXILntV.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Hidden Multiple Comparisons Increase Forensic Error Rates</title>
-  <dc:creator>Susan Vanderplas, Alicia Carriquiry, Heike Hofmann</dc:creator>
   <link>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024.html</link>
   <description><![CDATA[ 
 
@@ -1123,6 +1069,42 @@ Location: Chicago, IL (Online)</code></pre>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.html</guid>
   <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Building a CV/Blog Automatically</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<blockquote class="blockquote">
+<p>This week will be the second of a 2-part workshop. On Feb 15, we talked about how to make a CV with R and a google spreadsheet (and why you might want to do so). This week, we’ll talk about how to use this same setup to build a blog-type website with posts for each paper and presentation, using quarto. Setup steps: 1. Clone or fork the github repository I’ve made: https://github.com/srvanderplas/cv-site-template. 2. Modify the data/CV.bib file in the repository to contain your publications, if you want to include them on the CV. 3. Modify the data/CV.xlsx file in the repository to contain your talks During the presentation, I’ll walk you through the workflow I use and show you how to use the code I’ve written to create your own CV-style blog from a spreadsheet and a bib file. We’ll also talk about how to use this workflow, git submodules, and github actions to automatically keep things updated.</p>
+</blockquote>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<pre><code>University of Nebraska, Graphics Group
+Event Type: Interest Group
+Location: Online</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/03-graphics-blog/#/title-slide" height="800px" width="500px">
+</iframe>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.html</guid>
+  <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/building-a-cv-blog-automatically.png" medium="image" type="image/png" height="93" width="144"/>
 </item>
 </channel>
 </rss>

@@ -13,7 +13,9 @@ format:
 ---
  
 ![](https://www.pnas.org/cms/10.1073/pnas.2315431121/asset/ed2391a4-340e-45d5-9699-fdd960bacd37/assets/images/large/pnas.2315431121fig01.jpg){.preview-image}
- 
+
+
+
 ## Citation
 > <a name=bib-rosenblumIncorrectStatisticalReasoning2024></a>[[1]](#cite-rosenblumIncorrectStatisticalReasoning2024) M. Rosenblum, E. T. Chin, E. L. Ogburn, et al. “Incorrect statistical reasoning in Guyll et al. leads to biased claims about strength of forensic evidence”. In: _Proceedings of the National Academy of Sciences_ 121.45 (Nov. 05, 2024), p. e2315431121. DOI: [https://doi.org/10.1073/pnas.2315431121](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1073%2Fpnas.2315431121).
 

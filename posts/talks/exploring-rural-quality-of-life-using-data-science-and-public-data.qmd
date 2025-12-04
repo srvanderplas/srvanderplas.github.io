@@ -12,8 +12,9 @@ format:
     code-copy: true
 ---
  
-## Abstract
->  In many situations, subjective assessments and objective data capture similar (but not identical) aspects of the same underlying phenomenon. In this talk, I'll discuss how we can use objective data to potentially improve the capture of subjective information, focusing specifically on a current project involving quality of life in shrinking towns. I'll describe the different facets of quality of life, as well as data sets which are publicly available and relate to those facets of quality of life. As this work is ongoing, I'll also discuss the problems with using data from the era of COVID-19 to draw any conclusions, and more generally talk about the problems arising from trying to combine data sets from several different geographic divisions into a single dataset.
+### Abstract
+
+In many situations, subjective assessments and objective data capture similar (but not identical) aspects of the same underlying phenomenon. In this talk, I'll discuss how we can use objective data to potentially improve the capture of subjective information, focusing specifically on a current project involving quality of life in shrinking towns. I'll describe the different facets of quality of life, as well as data sets which are publicly available and relate to those facets of quality of life. As this work is ongoing, I'll also discuss the problems with using data from the era of COVID-19 to draw any conclusions, and more generally talk about the problems arising from trying to combine data sets from several different geographic divisions into a single dataset.
 
 
 ## Location

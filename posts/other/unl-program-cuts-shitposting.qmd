@@ -3,10 +3,10 @@ title: "Experimenting With AI as UNL Closes Departments"
 author: "Susan Vanderplas"
 date: "2025-10-13"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Facebook_AI_slop%2C_%22Shrimp_Jesus%22_1.jpg"
-categories: other
+categories: [post, other]
 page-layout: full
 title-block-banner: true
-keywords: [university politics]
+keywords: [UNL, university politics, program cuts]
 ---
 
 Today is the last day that UNL is allowing public comments about program closures, so I've been having a bit of fun shitposting comments on behalf of the departments proposed for closure. 
@@ -15,12 +15,13 @@ I've and edited and annotated the statistics version (and changed names and posi
 
 For other departments, I have largely left the poems unedited. 
 
+---
 
 ## Statistics
 
 ### University Administration Uses Faulty Statistics to Justify Eliminating Statistics Department
 
-“P-Value Was Below Our Standards for Caring,” Says Chancellor
+> “P-Value Was Below Our Standards for Caring,” Says Chancellor
 
 In a move described by many as “poetically idiotic,” the administration of Midwestern State University announced Monday its plan to eliminate the Department of Statistics—citing a data analysis later revealed to have been performed using Microsoft Excel’s AutoSum function.
 

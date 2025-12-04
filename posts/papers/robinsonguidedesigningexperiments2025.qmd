@@ -1,7 +1,7 @@
 ---
 title: "A Guide to Designing Experiments to Test Statistical Graphics"
 author: "Emily Robinson, Heike Hofmann, Susan Vanderplas"
-date: "2025"
+date: "2025-07-17"
 image: "https://i.imgur.com/qIoTTWh.jpeg"
 keywords: [data collection, experimental design, perception, statistical graphics,  pr]
 categories: papers
@@ -13,9 +13,15 @@ format:
 ---
  
 ![](https://i.imgur.com/qIoTTWh.jpeg){.preview-image}
- 
+
+### Abstract
+
+In this paper, we discuss considerations and methods for experimentally testing visualizations. We discuss levels of user engagement with graphics, common issues when developing a sampling or data generation model, the importance of pilot testing, and data analysis methods. Along the way, we also provide recommendations of how to avoid some of the unique pitfalls of human testing in statistical and visualization research. This article is categorized under: Statistical and Graphical Methods of Data Analysis {$>$} Statistical Graphics and Visualization Statistical and Graphical Methods of Data Analysis {$>$} Modeling Methods and Algorithms
+
+
+
 ## Citation
-> <a name=bib-robinsonGuideDesigningExperiments2025></a>[[1]](#cite-robinsonGuideDesigningExperiments2025) E. Robinson, H. Hofmann, and S. Vanderplas. “A Guide to Designing Experiments to Test Statistical Graphics”. In: _WIREs Computational Statistics_ 17.2 (2025), p. e70032. ISSN: 1939-0068. DOI: [10.1002/wics.70032](https://doi.org/10.1002%2Fwics.70032). URL: [https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032](https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032) (visited on 09/19/2025).
+> <a name=bib-robinsonGuideDesigningExperiments2025></a>[[1]](#cite-robinsonGuideDesigningExperiments2025) E. Robinson, H. Hofmann, and S. Vanderplas. “A Guide to Designing Experiments to Test Statistical Graphics”. In: _WIREs Computational Statistics_ 17.2 (Jul. 17, 2025), p. e70032. ISSN: 1939-0068. DOI: [10.1002/wics.70032](https://doi.org/10.1002%2Fwics.70032). URL: [https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032](https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -24,13 +30,13 @@ format:
   title = {A {{Guide}} to {{Designing Experiments}} to {{Test Statistical Graphics}}},
   author = {Emily Robinson and Heike Hofmann and Susan Vanderplas},
   year = {2025},
+  month = {7},
   journal = {WIREs Computational Statistics},
   volume = {17},
   number = {2},
   pages = {e70032},
   doi = {10.1002/wics.70032},
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032},
-  note = {Last visited on 09/19/2025},
 }
 ```
 :::

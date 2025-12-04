@@ -12,8 +12,9 @@ format:
     code-copy: true
 ---
  
-## Abstract
->  Let's talk about how to create good charts and graphics!
+### Abstract
+
+Let's talk about how to create good charts and graphics!
 
 
 ## Location

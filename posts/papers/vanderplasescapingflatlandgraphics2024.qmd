@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://github.com/srvanderplas/2024-hcii-escaping-flatland/blob/main/image/Kit_of_charts.png?raw=true){.preview-image}
- 
+
+### Abstract
+
+Almost 40~years ago, Cleveland and McGill published the first of 3 papers detailing experiments assessing the accuracy of numerical perception using different types of charts. This study is often cited as a reason to avoid the use of extraneous dimensions in data visualization: 2D bar charts produced more accurate estimates than 3D bar charts; in addition, lines (length) produced more accurate estimates than circles (area). Graphics have changed fairly significantly in the last 40~years: where we once had fixed 3D perspective charts, we now can rotate 3D renderings in digital space and even 3D print our charts to examine physically. Many optical illusions result from perceptual mismatches of 3D visual heuristics and 2D, planar, data representations; more realistic renderings available with modern tools might change the outcome of Cleveland and McGill's experimental comparison of 2D vs.~3D accuracy. In this paper, we present several experiments which replicate the bar chart portion of Cleveland and McGill's original study, comparing 2D, 3D fixed perspective, 3D rendered, and 3D printed charts. We discuss the findings and the importance of replicating classic experiments using modern technology, as well as the benefits of incorporating hands-on research in introductory classes as experiential learning activities.
+
+
+
 ## Citation
 > <a name=bib-vanderplasEscapingFlatlandGraphics2024></a>[[1]](#cite-vanderplasEscapingFlatlandGraphics2024) S. Vanderplas, E. Blankenship, and T. Wiederich. “Escaping Flatland: Graphics, Dimensionality, and~Human Perception”. In: _Human Interface and the Management of Information_. Ed. by H. Mori and Y. Asahi. Springer Nature Switzerland, Jul. 01, 2024, pp. 140-156. ISBN: 978-3-031-60114-9. DOI: [https://doi.org/10.1007/978-3-031-60114-9_11](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-031-60114-9_11).
 

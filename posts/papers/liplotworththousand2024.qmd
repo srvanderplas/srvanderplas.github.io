@@ -2,7 +2,7 @@
 title: "A Plot Is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol"
 author: "Weihao Li, Dianne Cook, Emi Tanaka, Susan VanderPlas"
 date: "2024-05-22"
-
+image: "https://i.imgur.com/4ofhYGn.png"
 keywords: [pr,  graphics,  visual inference,  computer vision]
 categories: papers
 page-layout: full
@@ -12,8 +12,14 @@ format:
     code-copy: true
 ---
  
+![](https://i.imgur.com/4ofhYGn.png){.preview-image}
 
- 
+### Abstract
+
+Regression experts consistently recommend plotting residuals for model diagnosis, despite the availability of many numerical hypothesis test procedures designed to use residuals to assess problems with a model fit. Here we provide evidence for why this is good advice using data from a visual inference experiment. We show how conventional tests are too sensitive, which means that too often the conclusion would be that the model fit is inadequate. The experiment uses the lineup protocol which puts a residual plot in the context of null plots. This helps generate reliable and consistent reading of residual plots for better model diagnosis. It can also help in an obverse situation where a conventional test would fail to detect a problem with a model due to contaminated data. The lineup protocol also detects a range of departures from good residuals simultaneously. 
+
+
+
 ## Citation
 > <a name=bib-liPlotWorthThousand2024></a>[[1]](#cite-liPlotWorthThousand2024) W. Li, D. Cook, E. Tanaka, et al. “A Plot Is Worth a Thousand Tests: Assessing Residual Diagnostics with the Lineup Protocol”. In: _Journal of Computational and Graphical Statistics_ (May. 22, 2024), pp. 1497-1511. ISSN: 1061-8600. DOI: [https://doi.org/10.1080/10618600.2024.2344612](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2024.2344612).
 

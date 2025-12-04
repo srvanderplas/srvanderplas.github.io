@@ -13,7 +13,9 @@ format:
 ---
  
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ec/NCI_swiss_cheese.jpg){.preview-image}
- 
+
+
+
 ## Citation
 > <a name=bib-cuellarMethodologicalProblemsEvery2024></a>[[1]](#cite-cuellarMethodologicalProblemsEvery2024) M. Cuellar, S. Vanderplas, A. Luby, et al. “Methodological problems in every black-box study of forensic firearm comparisons”. In: _Law, Probability and Risk_ 23.1 (Dec. 05, 2024), p. mgae015. ISSN: 1470-8396. DOI: [https://doi.org/10.1093/lpr/mgae015](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1093%2Flpr%2Fmgae015).
 

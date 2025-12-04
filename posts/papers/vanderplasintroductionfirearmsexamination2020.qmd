@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://github.com/srvanderplas/2019_book_chapter/blob/master/figure/Luger-Cutaway.png?raw=true){.preview-image}
- 
+
+### Abstract
+
+In the United States, where firearms are readily accessible, the annual number of gun-related crimes is in the hundreds of thousands, and about two thirds of all murders are committed with a gun. Visual comparisons are problematic for several reasons, including the fact that the assessment of similarity is typically subjective, and consequently, estimation of error rates is difficult. Machine learning can be used to augment the subjective perceptions of examiners, providing a quantitative foundation for the assessment of questions of source in firearms examination. In order to leverage machine learning techniques for firearm identification, researchers mostly use supervised learning algorithms and large amounts of labeled training data, called a training set, to assess how features from the data relate to the labels. Firearms examination became more of a discipline in the 1930s, with textbooks published on the subject in both the UK and the United States.
+
+
+
 ## Citation
 > <a name=bib-vanderplasIntroductionFirearmsExamination2020></a>[[1]](#cite-vanderplasIntroductionFirearmsExamination2020) S. Vanderplas, A. Carriquiry, H. Hofmann, et al. “An introduction to firearms examination for researchers in statistics”. In: _Handbook of Forensic Statistics_. Ed. by Banks, D., Kafadar, K., Kaye, D. and Tackett, M.. New York: Chapman and Hall/CRC, May. 30, 2022, pp. 365-390. DOI: [https://doi.org/10.1201/9780367527709](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1201%2F9780367527709).
 

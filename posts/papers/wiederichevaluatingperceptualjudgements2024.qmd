@@ -1,0 +1,48 @@
+---
+title: "Evaluating Perceptual Judgements on 3D Printed Bar Charts"
+author: "Tyler Wiederich, Susan Vanderplas"
+date: "2024-04-24"
+image: "https://i.imgur.com/QCPSE4V.png"
+keywords: [pr,  3d,  visualization,  user testing,  experiential learning]
+categories: papers
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    code-copy: true
+---
+ 
+![](https://i.imgur.com/QCPSE4V.png){.preview-image}
+
+### Abstract
+
+Graphical design principles typically recommend minimizing the dimensionality of a visualization - for instance, using only 2 dimensions for bar charts rather than providing a 3D rendering, because this extra complexity may result in a decrease in accuracy. This advice has been oft repeated, but the underlying experimental evidence is focused on fixed 2D projections of 3D charts. In this paper, we describe an experiment which attempts to establish whether the decrease in accuracy extends to 3D virtual renderings and 3D printed charts. We replicate the grouped bar chart comparisons in the 1984 Cleveland \& {McGill} study, assessing the accuracy of numerical estimates using different types of 3D and 2D renderings.
+
+
+
+## Citation
+> <a name=bib-wiederichEvaluatingPerceptualJudgements2024></a>[[1]](#cite-wiederichEvaluatingPerceptualJudgements2024) T. Wiederich and S. Vanderplas. “Evaluating Perceptual Judgements on 3D Printed Bar Charts”. In: _Journal of Data Science_ 22.2 (Apr. 24, 2024), pp. 176-190. ISSN: 1680743X. DOI: [https://doi.org/10.6339/24-JDS1131](https://doi.org/https%3A%2F%2Fdoi.org%2F10.6339%2F24-JDS1131).
+
+::: {.callout-note collapse='true'}
+## Bibtex
+```
+@article{wiederichEvaluatingPerceptualJudgements2024,
+  title = {Evaluating Perceptual Judgements on 3D Printed Bar Charts},
+  volume = {22},
+  doi = {https://doi.org/10.6339/24-JDS1131},
+  pages = {176--190},
+  number = {2},
+  journal = {Journal of Data Science},
+  author = {Tyler Wiederich and Susan Vanderplas},
+  publisher = {School of Statistics, Renmin University of China},
+  year = {2024},
+  month = {4},
+  author+AN = {1=student;2=highlight},
+}
+```
+:::
+
+
+
+
+[{{< fa brands github size=2x >}} Repository for Paper and Additional Resources](https://github.com/TWiedRW/2023-JDS-3dcharts){.btn .btn-tip role="button"}

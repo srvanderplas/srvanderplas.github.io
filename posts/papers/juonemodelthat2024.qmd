@@ -13,7 +13,13 @@ format:
 ---
  
 
- 
+
+### Abstract
+
+User experiments are essential for informing researchers what an audience is seeing in a chart. User experiments are generally quite expensive in monetary value and in the time spent getting data. It is crucial that we make the most out of the data we get from participants. Statistically, the best practice for data with repeated measurements is the use of (Generalized) Linear Mixed Effects Models (GLME). These models increase the statistical power, produce more reliable estimates, and provide better interpretability for population-level and individual-level effects. However, in the literature, a two-stage approach for analyzing results from user experiments is commonly used. We compare the two approaches with example data from psychophysics experiments. We present a strategy on how to evolve a two-stage analysis to a single GLME model and showcase diagnostics for each step of that process. We adhere to the best practices of open science and reproducible research by providing open access to all of our code and data.
+
+
+
 ## Citation
 > <a name=bib-juOneModelThat2024></a>[[1]](#cite-juOneModelThat2024) W. Ju, S. VanderPlas, and H. Hofmann. “One Model That Fits Them All: Psychometrics With Generalized Linear Mixed Effects Models”. In: _Electronic Imaging_ 36 (Jan. 24, 2024), pp. 1-8. DOI: [https://doi.org/10.2352/EI.2024.36.1.VDA-358](https://doi.org/https%3A%2F%2Fdoi.org%2F10.2352%2FEI.2024.36.1.VDA-358).
 

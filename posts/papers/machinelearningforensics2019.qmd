@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://rss.onlinelibrary.wiley.com/cms/asset/4792a2d6-f10b-481e-aeff-075d0ccdd90e/sign1252-fig-0001-m.png){.preview-image}
- 
+
+### Abstract
+
+The 2009 National Academy of Sciences report found pattern-evidence disciplines to be rife with subjectivity. In the decade since, machine learning methods have been developed to try to address that issue. 
+
+
+
 ## Citation
 > <a name=bib-machinelearningforensics2019></a>[[1]](#cite-machinelearningforensics2019) A. Carriquiry, H. Hofmann, X. H. Tai, et al. “Machine learning in forensic applications”. In: _Significance_ 16.2 (Apr. 01, 2019), pp. 29-35. DOI: [https://doi.org/10.1111/j.1740-9713.2019.01252.x](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1111%2Fj.1740-9713.2019.01252.x).
 

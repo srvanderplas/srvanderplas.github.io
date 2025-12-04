@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://github.com/heike/inconclusives/blob/master/figures/shape-overview-study-1.png?raw=true){.preview-image}
- 
+
+### Abstract
+
+In the past decade, and in response to the recommendations set forth by the National Research Council Committee on Identifying the Needs of the Forensic Sciences Community (2009), scientists have conducted several black-box studies that attempt to estimate the error rates of firearm examiners. Most of these studies have resulted in vanishingly small error rates, and at least one of them (D. P. Baldwin, S. J. Bajic, M. Morris, and D. Zamzow. A Study of False-Positive and False-Negative Error Rates in Cartridge Case Comparisons. Technical report, Ames Lab IA, Performing, Fort Belvoir, VA, April 2014.) was cited by the President’s Council of Advisors in Science and Technology (PCAST) during the Obama administration, as an example of a well-designed experiment. What has received little attention, however, is the actual calculation of error rates and in particular, the effect of inconclusive findings on those error estimates. The treatment of inconclusives in the assessment of errors has far-reaching implications in the legal system. Here, we revisit several black-box studies in the area of firearms examination, investigating their treatment of inconclusive results. It is clear that there are stark differences in the rate of inconclusive results in regions with different norms for training and reporting conclusions. More surprisingly, the rate of inconclusive decisions for materials from different sources is notably higher than the rate of inconclusive decisions for same-source materials in some regions. To mitigate the effects of this difference we propose a unifying approach to the calculation of error rates that is directly applicable in forensic laboratories and in legal settings.
+
+
+
 ## Citation
 > <a name=bib-inconclusives></a>[[1]](#cite-inconclusives) H. Hofmann, A. Carriquiry, and S. Vanderplas. “Treatment of inconclusives in the AFTE range of conclusions”. In: _Law, Probability and Risk_ 19.3-4 (May. 05, 2021), pp. 317-364. ISSN: 1470-8396. DOI: [https://doi.org/10.1093/lpr/mgab002](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1093%2Flpr%2Fmgab002).
 

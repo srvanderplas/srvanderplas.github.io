@@ -1,23 +1,26 @@
 # Libraries required for
 # talk-functions.R and paper-functions.R
-library(stringr)
-library(dplyr)
-library(magrittr)
-library(purrr)
-library(lubridate)
-library(RefManageR)
-library(webshot2)
+suppressPackageStartupMessages({
+  library(stringr)
+  library(dplyr)
+  library(magrittr)
+  library(purrr)
+  library(lubridate)
+  library(RefManageR)
+  library(webshot2)
+})
 
 source("code/talk-functions.R")
 source("code/paper-functions.R")
 
 # Read in talk data
 library(readxl)
-talk_data <- read_xlsx("data/CV.xlsx", sheet ="Talks")
+talk_data <- read_xlsx("data/CV.xlsx", sheet = "Talks")
 
 if (!dir.exists("posts/talks")) dir.create("posts/talks", recursive = T)
+file.remove(list.files("posts/talks/", "*.qmd", full.names = T))
 talk_data %>%
-  talk_to_params %>%
+  talk_to_params() %>%
   purrr::transpose() %>%
   purrr::walk(., create_talk)
 
@@ -42,6 +45,7 @@ pkg_names_fix <- paste("`", pkg_names, "`", sep = "")
 names(pkg_names_fix) <- pkg_names
 
 if (!dir.exists("posts/papers")) dir.create("posts/papers", recursive = T)
+file.remove(list.files("posts/papers/", "*.qmd", full.names = T))
 
 pub_info <- lapply(pubs, pub_to_params)
 purrr::walk(pub_info, create_paper)

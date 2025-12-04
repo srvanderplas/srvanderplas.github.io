@@ -12,8 +12,9 @@ format:
     code-copy: true
 ---
  
-## Abstract
->  When wires are cut, the tool produces striations on the cut surface; as in other forms of forensic analysis, these striation marks are used to connect the evidence to the source that created them. The practice of comparing two wire cut surfaces introduces complexities not present in better-investigated forensic examination of toolmarks such as those observed on bullets, as wire comparisons inherently require multiple distinct comparisons, increasing the error rate. We call attention to this   multiple comparison problem in wire examination, and relate it to other situations in forensics that involve multiple comparisons, such as database searches.
+### Abstract
+
+When wires are cut, the tool produces striations on the cut surface; as in other forms of forensic analysis, these striation marks are used to connect the evidence to the source that created them. The practice of comparing two wire cut surfaces introduces complexities not present in better-investigated forensic examination of toolmarks such as those observed on bullets, as wire comparisons inherently require multiple distinct comparisons, increasing the error rate. We call attention to this   multiple comparison problem in wire examination, and relate it to other situations in forensics that involve multiple comparisons, such as database searches.
 
 
 ## Location

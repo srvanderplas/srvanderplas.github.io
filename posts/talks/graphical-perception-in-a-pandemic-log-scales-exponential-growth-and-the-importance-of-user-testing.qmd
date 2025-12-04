@@ -5,15 +5,16 @@ date: "2024-03-29"
 categories: talks
 page-layout: full
 title-block-banner: true
-
-keywords: [NA, Talk]
+image: "graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.png"
+keywords: [visualization, covid, design, user testing, Talk]
 format:
   html:
     code-copy: true
 ---
  
-## Abstract
->  During COVID, people all over the world were consulting time-series charts on a daily basis and using these charts to make decisions. Discussions broke out among data visualization and scientific communication experts, debating the relative merits of log and linear scales, but there was relatively little research about how people perceive and use visualizations of exponential data, with linear or transformed scales. In this talk, I'll discuss the study we undertook to address the lack of research in this area, and how the results speak not only to the importance of additional graphical testing, but also to the trade offs between different levels of user engagement with visualizations.
+### Abstract
+
+During COVID, people all over the world were consulting time-series charts on a daily basis and using these charts to make decisions. Discussions broke out among data visualization and scientific communication experts, debating the relative merits of log and linear scales, but there was relatively little research about how people perceive and use visualizations of exponential data, with linear or transformed scales. In this talk, I'll discuss the study we undertook to address the lack of research in this area, and how the results speak not only to the importance of additional graphical testing, but also to the trade offs between different levels of user engagement with visualizations.
 
 
 ## Location
@@ -21,4 +22,6 @@ format:
     Epidemiology and Biostatistics Seminar, University of Illinois Chicago School of Public Health
     Event Type: Department Seminar
     Location: Chicago, IL (Online)
+## Slides
 
+<iframe src='https://srvanderplas.github.io/2024-Presentations/03-UIC-EpiBio/#/title-slide' height='800px' width='500px'></iframe>

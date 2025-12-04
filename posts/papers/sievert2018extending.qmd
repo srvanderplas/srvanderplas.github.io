@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://github.com/tdhock/animint/raw/master/screencast-WorldBank.gif){.preview-image}
- 
+
+### Abstract
+
+Interactive web graphics are great for communication and knowledge sharing, but are difficult to leverage during the exploratory phase of a data science workflow. Even before the web, interactive graphics helped data analysts quickly gather insight from data, discover the unexpected, and develop better model diagnostics. Although web technologies make interactive graphics more accessible, they are not designed to fit inside an exploratory data analysis (EDA) workflow where rapid iteration between data manipulation, modeling, and visualization must occur. To better facilitate exploratory web graphics that are easily distributed, we need better interfaces between statistical computing environments (e.g., the R language) and client-side web technologies. We propose the R package animint for rapid creation of linked and animated web graphics through a simple extension of ggplot2’s implementation of the Grammar of Graphics. The extension allows one to write ggplot2 code and produce a standalone web page with multiple linked views. Supplementary material for this article is available online. 
+
+
+
 ## Citation
 > <a name=bib-sievert2018extending></a>[[1]](#cite-sievert2018extending) C. Sievert, S. Vanderplas, J. Cai, et al. “Extending ggplot2 for Linked and Animated Web Graphics”. In: _Journal of Computational and Graphical Statistics_ 28.2 (Apr. 01, 2019), pp. 299-308. DOI: [https://doi.org/10.1080/10618600.2018.1513367](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2018.1513367).
 

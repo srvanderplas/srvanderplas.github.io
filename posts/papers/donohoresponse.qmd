@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://i.imgur.com/WHkmWIH.png){.preview-image}
- 
+
+### Abstract
+
+David Donoho’s “50 Years of Data Science” provides a valuable perspective on the statistics-vs-data science debate that has been raging in academic statistics departments over the past couple of years. The debate about the relative merits of theoretical and applied statistics flares up occasionally, and even in the infancy of statistics as a discipline distinct from mathematics, there was “something slightly disreputable about mathematical statistics” because of its applied nature (Salsburg 2001, p. 208). It seems, however, that we may be witnessing the birth of the academic discipline of data science as a separate entity from statistics. While data science itself has been, according to Donoho, around for 50 years or more, academic initiatives focusing on the practice of data analysis are becoming ever more popular.
+
+
+
 ## Citation
 > <a name=bib-donohoresponse></a>[[1]](#cite-donohoresponse) H. Hofmann and S. Vanderplas. “All of This Has Happened Before. All of This Will Happen Again: Data Science”. In: _Journal of Computational and Graphical Statistics_ 26.4 (Dec. 19, 2017), pp. 775-778. DOI: [https://doi.org/10.1080/10618600.2017.1385474](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2017.1385474).
 

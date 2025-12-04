@@ -12,8 +12,9 @@ format:
     code-copy: true
 ---
  
-## Abstract
->  In this workshop we demonstrate the use of a footwear scanner which can collect data about population-level tread characteristics in a local area. We discuss the scanner's abilities and potential use in cases and demonstrate the ability of the scanner to not only collect data about tread pattern features common to the local area but also to automatically analyze images for specific features of interest using computer vision.
+### Abstract
+
+In this workshop we demonstrate the use of a footwear scanner which can collect data about population-level tread characteristics in a local area. We discuss the scanner's abilities and potential use in cases and demonstrate the ability of the scanner to not only collect data about tread pattern features common to the local area but also to automatically analyze images for specific features of interest using computer vision.
 
 
 ## Location

@@ -12,8 +12,9 @@ format:
     code-copy: true
 ---
  
-## Abstract
->  Data visualization is an important tool for examining the results of on-farm experiments before, during, and after formal modeling. This talk shows the different types of charts which can be used to gain insight into on-farm results as well as how the charts should be read.
+### Abstract
+
+Data visualization is an important tool for examining the results of on-farm experiments before, during, and after formal modeling. This talk shows the different types of charts which can be used to gain insight into on-farm results as well as how the charts should be read.
 
 
 ## Location

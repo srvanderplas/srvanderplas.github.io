@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://github.com/srvanderplas/AnnualReviewStatisticsVisualization/blob/master/figure/noaa_michael.png?raw=true){.preview-image}
- 
+
+### Abstract
+
+ It has been approximately 100 years since the very first formal experimental evaluations of statistical charts were conducted. In that time, technological changes have impacted both our charts and our testing methods, resulting in a dizzying array of charts, many different taxonomies to classify graphics, and several different philosophical approaches to testing the efficacy of charts and graphs experimentally. Once rare, charts and graphical displays are now everywhere—but do they help us understand? In this article we review the history of graphical testing across disciplines, discuss different direct approaches to testing graphics, and contrast direct tests with visual inference, which requires that the viewer determine both the question and the answer. Examining the past 100 years of graphical testing, we summarize best practices for creating effective graphics and discuss what the future holds for graphics and empirical testing of interactive statistical visualizations. 
+
+
+
 ## Citation
 > <a name=bib-vanderplasTestingStatisticalCharts2020></a>[[1]](#cite-vanderplasTestingStatisticalCharts2020) S. Vanderplas, D. Cook, and H. Hofmann. “Testing Statistical Charts: What Makes a Good Graph?” In: _Annual Review of Statistics and Its Application_ 7.1 (Mar. 01, 2020), pp. 61-88. DOI: [https://doi.org/10.1146/annurev-statistics-031219-041252](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1146%2Fannurev-statistics-031219-041252).
 

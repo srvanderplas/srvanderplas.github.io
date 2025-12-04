@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://github.com/srvanderplas/VisualAptitude/blob/master/Presentation/figure/scaledscores-1.png?raw=true){.preview-image}
- 
+
+### Abstract
+
+Graphics convey numerical information very efficiently, but rely on a different set of mental processes than tabular displays. Here, we present a study relating demographic characteristics and visual skills to perception of graphical lineups. We conclude that lineups are essentially a classification test in a visual domain, and that performance on the lineup protocol is associated with general aptitude, rather than specific tasks such as card rotation and spatial manipulation. We also examine the possibility that specific graphical tasks may be associated with certain visual skills and conclude that more research is necessary to understand which visual skills are required in order to understand certain plot types.
+
+
+
 ## Citation
 > <a name=bib-visualaptitude></a>[[1]](#cite-visualaptitude) S. VanderPlas and H. Hofmann. “Spatial Reasoning and Data Displays”. In: _IEEE Transactions on Visualization and Computer Graphics_ 22.1 (Dec. 31, 2016), pp. 459-468. DOI: [https://doi.org/10.1109/TVCG.2015.2469125](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1109%2FTVCG.2015.2469125).
 

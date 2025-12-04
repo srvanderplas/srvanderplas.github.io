@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://github.com/earobinson95/Eye-Fitting-Straight-Lines-in-the-Modern-Era/blob/main/images/ydi-stimuli.png?raw=true){.preview-image}
- 
+
+### Abstract
+
+How do statistical regression results compare to intuitive, visually fitted results? Fitting lines by eye through a set of points has been explored since the 20th century. Common methods of fitting trends by eye involve maneuvering a string, black thread, or ruler until the fit is suitable, then drawing the line through the set of points. In 2015, the New York Times introduced an interactive feature, called “You Draw It,” where readers were asked to input their own assumptions about various metrics and compare how these assumptions relate to reality. In this article, we validate “You Draw It” as a method for graphical testing, comparing results to the less technological method used in Mosteller et al. and extending that study with formal statistical analysis methods. Results were consistent with those found in the previous study; when shown points following a linear trend, participants tended to fit the slope of the principal axis over the slope of the least-squares regression line. This trend was most prominent when shown data simulated with larger variances. This study reinforces the differences between intuitive visual model fitting and statistical model fitting, providing information about human perception as it relates to the use of statistical graphics. Supplementary materials for this article are available online.
+
+
+
 ## Citation
 > <a name=bib-robinsonEyeFittingStraight2023></a>[[1]](#cite-robinsonEyeFittingStraight2023) E. A. Robinson, R. Howard, and S. VanderPlas. “Eye Fitting Straight Lines in the Modern Era”. In: _Journal of Computational and Graphical Statistics_ 32.4 (Oct. 02, 2023), pp. 1537-1544. ISSN: 1061-8600. DOI: [https://doi.org/10.1080/10618600.2022.2140668](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1080%2F10618600.2022.2140668).
 

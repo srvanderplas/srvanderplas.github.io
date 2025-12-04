@@ -5,15 +5,16 @@ date: "2023-02-15"
 categories: talks
 page-layout: full
 title-block-banner: true
-
+image: "inconclusive-conclusions-biases-and-consequences.png"
 keywords: [inconclusives, firearms, error rates, forensics, Talk]
 format:
   html:
     code-copy: true
 ---
  
-## Abstract
->  Forensic pattern evidence is often evaluated using categorical scales, such as identification (evidence is from the same source), inconclusive, or elimination (evidence is from different sources). I will talk about how these evaluations are made, what error rate studies show, and the implications for interpretation of forensic evidence.
+### Abstract
+
+Forensic pattern evidence is often evaluated using categorical scales, such as identification (evidence is from the same source), inconclusive, or elimination (evidence is from different sources). I will talk about how these evaluations are made, what error rate studies show, and the implications for interpretation of forensic evidence.
 
 
 ## Location

@@ -12,8 +12,9 @@ format:
     code-copy: true
 ---
  
-## Abstract
->  In science, we strive to design and create reproducible experiments that can be replicated by other researchers. We also usually require that scientists use good experimental design and approved statistical methods for results to be judged credible. In this talk, I'll review the status quo in forensics: what studies support the use of forensic comparison methods as reliable? Are these studies reliable based on the criteria used in other disciplines? I'll discuss two major, national reports about the validity of forensic science, why statistics as a discipline is critically important to forensics - and what statisticians can do and are doing to improve forensic science.
+### Abstract
+
+In science, we strive to design and create reproducible experiments that can be replicated by other researchers. We also usually require that scientists use good experimental design and approved statistical methods for results to be judged credible. In this talk, I'll review the status quo in forensics: what studies support the use of forensic comparison methods as reliable? Are these studies reliable based on the criteria used in other disciplines? I'll discuss two major, national reports about the validity of forensic science, why statistics as a discipline is critically important to forensics - and what statisticians can do and are doing to improve forensic science.
 
 
 ## Location

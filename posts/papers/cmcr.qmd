@@ -13,7 +13,9 @@ format:
 ---
  
 ![](https://github.com/jzemmels/cmcRwriteUp/blob/master/images/cmc_illustration.PNG?raw=true){.preview-image}
- 
+
+
+
 ## Citation
 > <a name=bib-cmcR></a>[[1]](#cite-cmcR) J. Zemmels, S. Vanderplas, and H. Hofmann. “A Study in Reproducibility: The Congruent Matching Cells Algorithm and cmcR package”. In: _R Journal_ (4 Feb. 09, 2023), pp. 79-102. DOI: [https://doi.org/10.32614/RJ-2023-014](https://doi.org/https%3A%2F%2Fdoi.org%2F10.32614%2FRJ-2023-014).
 

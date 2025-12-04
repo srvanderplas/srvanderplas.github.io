@@ -1,6 +1,6 @@
 ---
-title: "Notes and Musings"
-subtitle: "Maybe this will be useful to someone besides future me"
+title: "Current Activities"
+subtitle: "Research, Talks, and Other Shenanigans"
 listing:
   feed: true
   contents: posts
@@ -8,8 +8,8 @@ listing:
   type: default
   # grid-columns: 3
   categories: true
-  # sort-ui: false
-  # filter-ui: false
+  sort-ui: true
+  filter-ui: true
 page-layout: full
 title-block-banner: true
 ---

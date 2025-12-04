@@ -12,8 +12,9 @@ format:
     code-copy: true
 ---
  
-## Abstract
->  In 2020, there was suddenly worldwide interest in graphics on a level we don't normally see - people were checking news sites daily looking for graphs, maps, and any information about how the COVID pandemic was progressing over time. Along with this, there were some very novel forms of graphics, some of which worked and many of which did not. As the pandemic continued, however, most news organizations seemed to settle on certain categories of graphics for displaying COVID case counts, hospitalizations, and deaths. Watching the pandemic and the graphics explosion that resulted, I found relatively little research into how people perceive exponential growth, and even less research into the effectiveness of log scales for conveying information. I'll talk about a series of experiments that we are currently running to explore these two topics, as well as the evolution of graphics over the course of the pandemic.
+### Abstract
+
+In 2020, there was suddenly worldwide interest in graphics on a level we don't normally see - people were checking news sites daily looking for graphs, maps, and any information about how the COVID pandemic was progressing over time. Along with this, there were some very novel forms of graphics, some of which worked and many of which did not. As the pandemic continued, however, most news organizations seemed to settle on certain categories of graphics for displaying COVID case counts, hospitalizations, and deaths. Watching the pandemic and the graphics explosion that resulted, I found relatively little research into how people perceive exponential growth, and even less research into the effectiveness of log scales for conveying information. I'll talk about a series of experiments that we are currently running to explore these two topics, as well as the evolution of graphics over the course of the pandemic.
 
 
 ## Location

@@ -12,8 +12,9 @@ format:
     code-copy: true
 ---
  
-## Abstract
->  Graphics play a crucial role in statistical analysis and data mining. The lineup protocol for experimentally testing graphics has traditionally used p-values to identify plots which are significantly visually distinct from randomly generated ``distractor" plots, but this approach does not easily facilitate the examination of randomly generated plots to determine the strength of the distractor effect. This study presents a Bayesian approach to visual inference, using Bayes factors to examine the difference in signal strength in two-target statistical lineups.
+### Abstract
+
+Graphics play a crucial role in statistical analysis and data mining. The lineup protocol for experimentally testing graphics has traditionally used p-values to identify plots which are significantly visually distinct from randomly generated ``distractor" plots, but this approach does not easily facilitate the examination of randomly generated plots to determine the strength of the distractor effect. This study presents a Bayesian approach to visual inference, using Bayes factors to examine the difference in signal strength in two-target statistical lineups.
 
 
 ## Location

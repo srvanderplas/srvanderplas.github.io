@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://i.imgur.com/D9ZpjyJ.png){.preview-image}
- 
+
+### Abstract
+
+Statistical inference provides the protocols for conducting rigorous science, but data plots provide the opportunity to discover the unexpected. These disparate endeavours are bridged by visual inference, where a lineup protocol can be employed for statistical testing. Human observers are needed to assess the lineups, typically using a crowd-sourcing service. This paper describes a new approach for computing statistical significance associated with the results from applying a lineup protocol. It utilizes a Dirichlet distribution to accommodate different levels of visual interest in individual null panels. The suggested procedures facilitate statistical inference for a broader range of data problems.
+
+
+
 ## Citation
 > <a name=bib-stat2020></a>[[1]](#cite-stat2020) S. Vanderplas, C. Röttger, D. Cook, et al. “Statistical significance calculations for scenarios in visual inference”. In: _Stat_ 10.1 (Dec. 01, 2021), p. e337. DOI: [https://doi.org/10.1002/sta4.337](https://doi.org/https%3A%2F%2Fdoi.org%2F10.1002%2Fsta4.337).
 

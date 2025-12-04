@@ -13,7 +13,9 @@ format:
 ---
  
 ![](https://github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true){.preview-image}
- 
+
+
+
 ## Citation
 > <a name=bib-covidnarratives></a>[[1]](#cite-covidnarratives) A. Wilhelm and S. VanderPlas. “Visual Narratives of the Covid-19 pandemic”. In: _Journal of Data Science, Statistics, and Visualisation_ 2.7 (Nov. 01, 2022), pp. 84-113. DOI: [https://doi.org/10.52933/jdssv.v2i7.64](https://doi.org/https%3A%2F%2Fdoi.org%2F10.52933%2Fjdssv.v2i7.64).
 

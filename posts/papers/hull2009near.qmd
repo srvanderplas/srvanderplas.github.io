@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://i.imgur.com/hXnipcb.png){.preview-image}
- 
+
+### Abstract
+
+This research demonstrates near-infrared spectroscopy (NIRS) as a flexible methodology for measuring cortical activity during overt speech production while avoiding some limitations of traditional imaging technologies. Specifically, language production research has been limited in the number of participants and the types of paradigms that can be reasonably investigated using functional magnetic resonance imaging (fMRI) – where a sensitivity to motion has encouraged covert (i.e., nonvocalized) production paradigms – and positron emission tomography (PET), which allows a greater range of motion but introduces practical and ethical limitations to the populations that can be studied. Moreover, for these traditional technologies, the equipment is expensive and not portable, effectively limiting most studies to small, local samples in a relatively few labs. In contrast, NIRS is a relatively inexpensive, portable, noninvasive alternative that is robust to motion artifacts associated with overt speech production. The current study shows that NIRS data is consistent with behavioral and traditional imaging data on cortical activation associated with overt speech production. Specifically, the NIRS data show robust activation in the left temporal region and no significant change in activation in the analogous right hemisphere region in a sample of native, English-speaking adults in a picture-naming task. These findings illustrate the utility of NIRS as a valid method for tracking cortical activity and advance it as a powerful alternative when traditional imaging techniques are not a viable option for researchers investigating the neural substrates supporting speech production.
+
+
+
 ## Citation
 > <a name=bib-hull2009near></a>[[1]](#cite-hull2009near) R. Hull, H. Bortfeld, and S. Koons. “Near-infrared spectroscopy and cortical responses to speech production”. In: _The open neuroimaging journal_ 3 (Apr. 03, 2009), p. 26. DOI: [https://doi.org/10.2174/1874440000903010026](https://doi.org/https%3A%2F%2Fdoi.org%2F10.2174%2F1874440000903010026).
 

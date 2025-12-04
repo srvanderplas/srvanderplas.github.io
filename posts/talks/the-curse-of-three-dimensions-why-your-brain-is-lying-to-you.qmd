@@ -12,8 +12,9 @@ format:
     code-copy: true
 ---
  
-## Abstract
->  One of the basic principles of visual graphics is that the graphic should accurately reflect the data. Tufte's lie factor was created with the idea that graphs that do not represent the underlying data accurately should be avoided. In this paper, we examine a second level of graph distortion that occurs during the perceptual process. The human visual system is largely optimized for perception of three dimensions. Generally, the brain processes potential ambiguities in the rendering as the most-common three-dimensional object. This can lead to visual distortions, such as occur with the Necker figure or in the Muller-Lyer illusion. We discuss the underlying psychological mechanisms for the distortions, examine the effect these distortions have on judgments, and consider the implications for graph design. Using the sine illusion as a case study, we quantify the effects of the distortion that create a "perceptual lie factor" for the sine illusion.
+### Abstract
+
+One of the basic principles of visual graphics is that the graphic should accurately reflect the data. Tufte's lie factor was created with the idea that graphs that do not represent the underlying data accurately should be avoided. In this paper, we examine a second level of graph distortion that occurs during the perceptual process. The human visual system is largely optimized for perception of three dimensions. Generally, the brain processes potential ambiguities in the rendering as the most-common three-dimensional object. This can lead to visual distortions, such as occur with the Necker figure or in the Muller-Lyer illusion. We discuss the underlying psychological mechanisms for the distortions, examine the effect these distortions have on judgments, and consider the implications for graph design. Using the sine illusion as a case study, we quantify the effects of the distortion that create a "perceptual lie factor" for the sine illusion.
 
 
 ## Location

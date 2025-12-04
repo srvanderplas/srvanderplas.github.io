@@ -9,3 +9,5 @@
 .Renviron
 posts/papers/*.html
 posts/talks/*.html
+
+**/*.quarto_ipynb

@@ -2,7 +2,7 @@
 title: "Automated Residual Plot Assessment With the R Package autovi and the Shiny Application autovi.web"
 author: "Weihao Li, Dianne Cook, Emi Tanaka, Susan Vanderplas, Klaus Ackermann"
 date: "2025-10-09"
-
+image: "https://i.imgur.com/4oXZCAN.png"
 keywords: [computer vision,  machine learning,  model diagnostics,  statistical graphics,  perception,  user testing,  visual inference,  pr]
 categories: papers
 page-layout: full
@@ -12,10 +12,16 @@ format:
     code-copy: true
 ---
  
+![](https://i.imgur.com/4oXZCAN.png){.preview-image}
 
- 
+### Abstract
+
+Visual assessment of residual plots is a common approach for diagnosing linear models, but it relies on manual evaluation, which does not scale well and can lead to inconsistent decisions across analysts. The lineup protocol, which embeds the observed plot among null plots, can reduce subjectivity but requires even more human effort. In today's data-driven world, such tasks are well suited for automation. We present a new R package that uses a computer vision model to automate the evaluation of residual plots. An accompanying Shiny application is provided for ease of use. Given a sample of residuals, the model predicts a visual signal strength ({VSS}) and offers supporting information to help analysts assess model fit.
+
+
+
 ## Citation
-> <a name=bib-liAutomatedResidualPlot></a>[[1]](#cite-liAutomatedResidualPlot) W. Li, D. Cook, E. Tanaka, et al. “Automated Residual Plot Assessment With the R Package autovi and the Shiny Application autovi.web”. In: _Australian & New Zealand Journal of Statistics_ (Oct. 09, 2025). \_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/anzs.70027. ISSN: 1467-842X. DOI: [10.1111/anzs.70027](https://doi.org/10.1111%2Fanzs.70027). URL: [https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.70027](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.70027) (visited on 10/13/2025).
+> <a name=bib-liAutomatedResidualPlot></a>[[1]](#cite-liAutomatedResidualPlot) W. Li, D. Cook, E. Tanaka, et al. “Automated Residual Plot Assessment With the R Package autovi and the Shiny Application autovi.web”. In: _Australian & New Zealand Journal of Statistics_ (Oct. 09, 2025). ISSN: 1467-842X. DOI: [10.1111/anzs.70027](https://doi.org/10.1111%2Fanzs.70027). URL: [https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.70027](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.70027).
 
 ::: {.callout-note collapse='true'}
 ## Bibtex
@@ -25,9 +31,8 @@ format:
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.70027},
   doi = {10.1111/anzs.70027},
   author = {Weihao Li and Dianne Cook and Emi Tanaka and Susan Vanderplas and Klaus Ackermann},
-  note = {\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/anzs.70027},
   year = {2025},
-  month = {oct},
+  month = {10},
 }
 ```
 :::

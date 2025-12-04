@@ -13,7 +13,9 @@ format:
 ---
  
 ![](https://i.imgur.com/JVvqE7P.png){.preview-image}
- 
+
+
+
 ## Citation
 > <a name=bib-robinsonPerceptionCognitiveImplications2025></a>[[1]](#cite-robinsonPerceptionCognitiveImplications2025) E. A. Robinson, R. Howard, and S. Vanderplas. “Perception and Cognitive Implications of Logarithmic Scales for Exponentially Increasing Data: Perceptual Sensitivity Tested with Statistical Lineups”. In: _Journal of Computational and Graphical Statistics_ (ja Mar. 11, 2025), pp. 1-14. DOI: [10.1080/10618600.2025.2476097](https://doi.org/10.1080%2F10618600.2025.2476097).
 
@@ -24,10 +26,10 @@ format:
   author = {Emily A. Robinson and Reka Howard and Susan Vanderplas},
   title = {Perception and Cognitive Implications of Logarithmic Scales for Exponentially Increasing Data: Perceptual Sensitivity Tested with Statistical Lineups},
   pages = {1--14},
+  year = {2025},
+  month = {3},
   doi = {10.1080/10618600.2025.2476097},
   journal = {Journal of Computational and Graphical Statistics},
-  year = {2025},
-  month = {mar},
 }
 ```
 :::

@@ -13,7 +13,13 @@ format:
 ---
  
 ![](https://i.imgur.com/ae6Sa8U.png){.preview-image}
- 
+
+### Abstract
+
+We investigate how the use of bullet comparison algorithms and demonstrative evidence may affect juror perceptions of reliability, credibility, and understanding of expert witnesses and presented evidence. The use of statistical methods in forensic science is motivated by a lack of scientific validity and error rate issues present in many forensic analysis methods. We explore what our study says about how this type of forensic evidence is perceived in the courtroom -- where individuals unfamiliar with advanced statistical methods are asked to evaluate results in order to assess guilt. In the course of our initial study, we found that individuals overwhelmingly provided high Likert scale ratings in reliability, credibility, and scientificity regardless of experimental condition. This discovery of scale compression - where responses are limited to a few values on a larger scale, despite experimental manipulations - limits statistical modeling but provides opportunities for new experimental manipulations which may improve future studies in this area.
+
+
+
 ## Citation
 > <a name=bib-rogersDemonstrativeEvidenceUse2024></a>[[1]](#cite-rogersDemonstrativeEvidenceUse2024) R. Rogers and S. VanderPlas. “Demonstrative Evidence and the Use of Algorithms in Jury Trials”. In: _Journal of Data Science_ 22.2 (May. 02, 2024), pp. 314-332. DOI: [https://doi.org/10.6339/24-JDS1130](https://doi.org/https%3A%2F%2Fdoi.org%2F10.6339%2F24-JDS1130).
 
@@ -25,10 +31,10 @@ format:
   title = {Demonstrative {{Evidence}} and the {{Use}} of {{Algorithms}} in {{Jury Trials}}},
   journal = {Journal of Data Science},
   year = {2024},
+  month = {5},
   volume = {22},
   number = {2},
   pages = {314--332},
-  month = {may},
   doi = {https://doi.org/10.6339/24-JDS1130},
   publisher = {School of Statistics, Renmin University of China},
 }

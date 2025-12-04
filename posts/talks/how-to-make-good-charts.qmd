@@ -12,8 +12,9 @@ format:
     code-copy: true
 ---
  
-## Abstract
->  Data visualizations are an important component of scientific research and communication. We use charts to explore our data before we know how to model it, and we use charts to disseminate results. But how do we know what a "good" chart is? In this talk, I'll discuss some basic principles of good chart design, including experimental results for evaluating charts in realistic settings. We'll talk about chart creation, decoration, and how to make visualizations more accessible.
+### Abstract
+
+Data visualizations are an important component of scientific research and communication. We use charts to explore our data before we know how to model it, and we use charts to disseminate results. But how do we know what a "good" chart is? In this talk, I'll discuss some basic principles of good chart design, including experimental results for evaluating charts in realistic settings. We'll talk about chart creation, decoration, and how to make visualizations more accessible.
 
 
 ## Location

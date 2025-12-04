@@ -10,7 +10,7 @@ format_title <- function(x) {
   }
   stringr::str_remove_all(x, "[^[[:alnum:] :?!\\.,-]]") %>%
     stringr::str_replace_all(pkg_names_fix) %>%
-    stringr::str_remove_all("[{}]{1,}")
+    stringr::str_remove_all("<a name=bib-(.*)></a>\\[\\[1\\]\\]\\(#cite-(.*)\\) ")
 }
 
 format_github <- function(x) {
@@ -18,24 +18,30 @@ format_github <- function(x) {
 }
 
 format_addendum <- function(x) {
-  c("### Contribution",
+  c(
+    "### Contribution",
     "",
     "Writing and programming entries estimated from `git fame` for repositories where this would be meaningful.", "",
-    x)
+    x
+  )
 }
 
 format_citation <- function(x) {
   RefManageR::NoCite(x)
   y <- capture.output(
     RefManageR::PrintBibliography(x,
-      .opts = list(no.print.fields = c("addendum", "keywords"),
-                   style = "markdown",
-                   first.inits = T,
-                   dashed = F))
+      .opts = list(
+        no.print.fields = c("addendum", "keywords"),
+        style = "markdown",
+        first.inits = T,
+        dashed = F
+      )
+    )
   ) %>%
     paste(collapse = " ")
 
   y <- stringr::str_replace(y, "NA", "")
+  y <- stringr::str_remove(y, "^\\[1\\]\\s{1,}")
   return(y)
 }
 
@@ -43,6 +49,10 @@ format_bibtex <- function(x, ...) {
   capture.output(
     RefManageR::PrintBibliography(x, ...)
   )
+}
+
+format_abstract <- function(x, ...) {
+  if (!is.null(x)) paste("### Abstract\n\n", x, "\n\n", sep = "")
 }
 
 # This function converts publications to a list of information necessary to make the post
@@ -70,10 +80,17 @@ pub_to_params <- function(entry) {
 
   post_params$citation <- format_citation(entry)
 
+  if ("abstract" %in% names(entrylist)) {
+    post_params$abstract <- format_abstract(entrylist[["abstract"]])
+  }
+
   post_params$bibtex <- format_bibtex(entry,
-    .opts = list(no.print.fields = "addendum",
-                 style = "Bibtex",
-                 bib.style = "authoryear"))
+    .opts = list(
+      no.print.fields = "addendum",
+      style = "Bibtex",
+      bib.style = "authoryear"
+    )
+  )
 
   if ("pic" %in% names(entrylist)) {
     post_params$image <- entry$pic
@@ -91,8 +108,10 @@ pub_to_params <- function(entry) {
 
   if ("addendum" %in% names(entrylist)) {
     addendum <- entrylist[["addendum"]]
-    post_params$other <- c(post_params$other,
-                           format_addendum(addendum))
+    post_params$other <- c(
+      post_params$other,
+      format_addendum(addendum)
+    )
   }
 
   if ("github" %in% names(entrylist)) {
@@ -103,18 +122,18 @@ pub_to_params <- function(entry) {
 }
 
 
-
 # This function writes out a qmd file in the correct directory
 # corresponding to a post
 create_paper <- function(params, path = "posts/papers") {
-
   post_name <- format_post_name(params$name)
   post_name <- paste0(post_name, ".qmd")
 
   img_yaml <- ifelse("image" %in% names(params),
-                     yaml_kv("image", params$image), "")
-  kw_yaml <-  ifelse(length(params$keywords) > 0,
-                     yaml_kv("keywords", params$keywords), "")
+    yaml_kv("image", params$image), ""
+  )
+  kw_yaml <- ifelse(length(params$keywords) > 0,
+    yaml_kv("keywords", params$keywords), ""
+  )
   md_lines <- c(
     "---",
     yaml_kv("title", params$title),
@@ -130,8 +149,11 @@ create_paper <- function(params, path = "posts/papers") {
     "    code-copy: true",
     "---", " ",
     ifelse("image" %in% names(params),
-           sprintf("![](%s){.preview-image}", params$image), ""),
-    " ",
+      sprintf("![](%s){.preview-image}", params$image), ""
+    ),
+    "",
+    ifelse("abstract" %in% names(params), params$abstract, ""),
+    "",
     "## Citation",
     sprintf("> %s", params$citation),
     "",
@@ -147,4 +169,3 @@ create_paper <- function(params, path = "posts/papers") {
 
   writeLines(md_lines, con = file.path(path, post_name))
 }
-

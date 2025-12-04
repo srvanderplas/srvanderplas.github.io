@@ -12,8 +12,9 @@ format:
     code-copy: true
 ---
  
-## Abstract
->  Sometimes, we want to have git repositories that are nested within each other, but git doesn't allow us to do that. Instead, there are git submodules! I'll talk about how submodules work conceptually and introduce two examples of places I'm using submodules in my own work. I'll cover how to create, modify, update, and use projects with submodules.
+### Abstract
+
+Sometimes, we want to have git repositories that are nested within each other, but git doesn't allow us to do that. Instead, there are git submodules! I'll talk about how submodules work conceptually and introduce two examples of places I'm using submodules in my own work. I'll cover how to create, modify, update, and use projects with submodules.
 
 
 ## Location

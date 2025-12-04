@@ -3,16 +3,16 @@
     "listing": "/publications.html",
     "items": [
       "/posts/papers/liautomatedresidualplot.html",
+      "/posts/papers/robinsonguidedesigningexperiments2025.html",
       "/posts/papers/fudolig04042025.html",
       "/posts/papers/robinsonperceptioncognitiveimplications2025.html",
-      "/posts/papers/robinsonguidedesigningexperiments2025.html",
       "/posts/papers/cuellarmethodologicalproblemsevery2024.html",
       "/posts/papers/rosenblumincorrectstatisticalreasoning2024.html",
       "/posts/papers/vanderplasescapingflatlandgraphics2024.html",
       "/posts/papers/vanderplashiddenmultiplecomparisons2024.html",
       "/posts/papers/liplotworththousand2024.html",
       "/posts/papers/rogersdemonstrativeevidenceuse2024.html",
-      "/posts/papers/vanderplasstatisticalcomputingusing2023.html",
+      "/posts/papers/wiederichevaluatingperceptualjudgements2024.html",
       "/posts/papers/juonemodelthat2024.html",
       "/posts/papers/rosenblummisusestatisticalmethod2024.html",
       "/posts/papers/robinsoneyefittingstraight2023.html",
@@ -36,7 +36,6 @@
       "/posts/papers/visualaptitude.html",
       "/posts/papers/sineillusionjcgs.html",
       "/posts/papers/budrus2013tennis.html",
-      "/posts/papers/wiederichevaluatingperceptualjudgments2024.html",
       "/posts/papers/towfic2010detection.html",
       "/posts/papers/hull2009near.html"
     ]
@@ -90,13 +89,14 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/other/unl-program-cuts-despair.html",
       "/posts/other/unl-program-cuts-shitposting.html",
       "/posts/papers/liautomatedresidualplot.html",
       "/posts/talks/teaching-statistical-computing-with-r-and-python.html",
       "/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.html",
+      "/posts/papers/robinsonguidedesigningexperiments2025.html",
       "/posts/papers/fudolig04042025.html",
       "/posts/papers/robinsonperceptioncognitiveimplications2025.html",
-      "/posts/papers/robinsonguidedesigningexperiments2025.html",
       "/posts/papers/cuellarmethodologicalproblemsevery2024.html",
       "/posts/talks/creating-effective-graphics.html",
       "/posts/papers/rosenblumincorrectstatisticalreasoning2024.html",
@@ -108,10 +108,10 @@
       "/posts/papers/vanderplashiddenmultiplecomparisons2024.html",
       "/posts/papers/liplotworththousand2024.html",
       "/posts/papers/rogersdemonstrativeevidenceuse2024.html",
+      "/posts/papers/wiederichevaluatingperceptualjudgements2024.html",
       "/posts/talks/graphical-perception-in-a-pandemic-log-scales-exponential-growth-and-the-importance-of-user-testing.html",
       "/posts/talks/building-a-cv-blog-automatically.html",
       "/posts/talks/building-a-cv-with-r-and-google-sheets.html",
-      "/posts/papers/vanderplasstatisticalcomputingusing2023.html",
       "/posts/talks/using-git-submodules.html",
       "/posts/papers/juonemodelthat2024.html",
       "/posts/papers/rosenblummisusestatisticalmethod2024.html",
@@ -167,14 +167,14 @@
       "/posts/talks/animint-interactive-web-ready-graphics-with-r.html",
       "/posts/talks/signs-of-the-sine-illusion-why-we-need-to-care.html",
       "/posts/papers/budrus2013tennis.html",
-      "/posts/papers/hull2009near.html",
-      "/posts/papers/wiederichevaluatingperceptualjudgments2024.html",
-      "/posts/papers/towfic2010detection.html"
+      "/posts/papers/towfic2010detection.html",
+      "/posts/papers/hull2009near.html"
     ]
   },
   {
     "listing": "/other.html",
     "items": [
+      "/posts/other/unl-program-cuts-despair.html",
       "/posts/other/unl-program-cuts-shitposting.html",
       "/posts/other/wire-measurements.html"
     ]

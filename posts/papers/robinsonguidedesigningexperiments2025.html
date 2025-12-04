@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Emily Robinson, Heike Hofmann, Susan Vanderplas">
-<meta name="dcterms.date" content="2025-01-01">
+<meta name="dcterms.date" content="2025-07-17">
 <meta name="keywords" content="data collection, experimental design, perception, statistical graphics, pr">
 
 <title>A Guide to Designing Experiments to Test Statistical Graphics – Susan Vanderplas</title>
@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -171,7 +200,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">January 1, 2025</p>
+        <p class="date">July 17, 2025</p>
       </div>
     </div>
     
@@ -198,10 +227,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="https://i.imgur.com/qIoTTWh.jpeg" class="preview-image img-fluid"></p>
+<section id="abstract" class="level3">
+<h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
+<p>In this paper, we discuss considerations and methods for experimentally testing visualizations. We discuss levels of user engagement with graphics, common issues when developing a sampling or data generation model, the importance of pilot testing, and data analysis methods. Along the way, we also provide recommendations of how to avoid some of the unique pitfalls of human testing in statistical and visualization research. This article is categorized under: Statistical and Graphical Methods of Data Analysis {<span class="math inline">\(&gt;\)</span>} Statistical Graphics and Visualization Statistical and Graphical Methods of Data Analysis {<span class="math inline">\(&gt;\)</span>} Modeling Methods and Algorithms</p>
+</section>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <blockquote class="blockquote">
-<p><a name="bib-robinsonGuideDesigningExperiments2025"></a><a href="#cite-robinsonGuideDesigningExperiments2025">[1]</a> E. Robinson, H. Hofmann, and S. Vanderplas. “A Guide to Designing Experiments to Test Statistical Graphics”. In: <em>WIREs Computational Statistics</em> 17.2 (2025), p.&nbsp;e70032. ISSN: 1939-0068. DOI: <a href="https://doi.org/10.1002%2Fwics.70032">10.1002/wics.70032</a>. URL: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032">https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032</a> (visited on 09/19/2025).</p>
+<p><a name="bib-robinsonGuideDesigningExperiments2025"></a><a href="#cite-robinsonGuideDesigningExperiments2025">[1]</a> E. Robinson, H. Hofmann, and S. Vanderplas. “A Guide to Designing Experiments to Test Statistical Graphics”. In: <em>WIREs Computational Statistics</em> 17.2 (Jul.&nbsp;17, 2025), p.&nbsp;e70032. ISSN: 1939-0068. DOI: <a href="https://doi.org/10.1002%2Fwics.70032">10.1002/wics.70032</a>. URL: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032">https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032</a>.</p>
 </blockquote>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
@@ -219,13 +252,13 @@ ul.task-list li input[type="checkbox"] {
   title = {A {{Guide}} to {{Designing Experiments}} to {{Test Statistical Graphics}}},
   author = {Emily Robinson and Heike Hofmann and Susan Vanderplas},
   year = {2025},
+  month = {7},
   journal = {WIREs Computational Statistics},
   volume = {17},
   number = {2},
   pages = {e70032},
   doi = {10.1002/wics.70032},
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.70032},
-  note = {Last visited on 09/19/2025},
 }</code></pre>
 </div>
 </div>

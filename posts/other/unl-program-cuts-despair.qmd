@@ -267,7 +267,7 @@ I've fought for my program, for my friends' programs, and for my institution.
 But maybe it's time to recognize that it may be more effective to pour that energy into starting over somewhere else - somewhere with a committment to statistics, data science, and interdisciplinary research. 
 
 
-
+## Extra Pictures!
 
 ::: {layout="[[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1]]"}
 ![October 10 APC Hearings](signal-2025-10-10-16-26-55-409.jpg){group="gallery"}

@@ -130,11 +130,8 @@ Reading the email summarizing this meeting, I hit the first pit of despair durin
 
 Faculty members spoke at the Board of Regents meeting on October 3, emphasizing that the cuts were based on bad data, bad analyses, and thus would lead to bad decisions that would hurt the university. [My comments](https://thebugeater.com/uncategorized/failing-statistics/) were published on The Bugeater, the UNL AAUP chapter's blog. 
 
-::: aside
-{{< video https://www.youtube.com/watch?v=IqBM2GkdkFw&t >}}
-<!-- Board of Regents meeting, Oct 3 -->
-Statistics Faculty at the Board of Regents Meeting, Oct 3
-:::
+{{< video https://www.youtube.com/watch?v=IqBM2GkdkFw&t title="Statistics Faculty at the Board of Regents Meeting, Oct 3" width="50%" height="300px" >}}
+
 
 
 # Radicalizing Introverts
@@ -174,11 +171,7 @@ I started talking with [Emily Wolf from the Flatwater Free Press](https://flatwa
 
 # APC Hearings
 
-::: aside
-{{< video https://www.youtube.com/watch?v=tiEroH1lQrc >}}
-<!-- APC hearing -->
-APC Hearing
-:::
+{{< video https://www.youtube.com/watch?v=tiEroH1lQrc title="APC Presentation, Oct 10" width="50%" height="300px" >}}
 
 To prepare for the Academic Program Committee (APC) hearings, and to support other departments in their arguments about the metrics, I compiled [a report](https://srvanderplas.github.io/2025-stat-apc-report/) for our department's presentation to the Academic Program Committee that included Heike Hofmann's forensic analysis of the university's use of Academic Analytics data, Erin Blankenship's expertise in undergraduate and graduate courses and program enrollment, and a lot of conversations with Chris Bilder, Sanjay Chowdhury, Bertrand Clarke, and Kent Eskridge, among others. 
 Our main argument wasn't that the data and the analysis were wrong (though they were), but that Statistics is an essential department at any R1 land-grant university, and that the department itself was healthy and growing -- the metrics reflected a period in which we were preparing to start a new program and putting a lot of investment into gains in students, enrollment, and economic impact on the state that will only be realized starting this year when our first undergraduate cohort graduates. 
@@ -189,19 +182,6 @@ The hour long presentation featured the accusations made against our department,
 The Chairs of the UNL Mathematics and Agronomy departments spoke in our defense, along with talented graduate and undergraduate students who made the case for how important our department and programs were to their lives and careers.
 
 # Waiting, waiting...
-
-::: aside
-{{< video https://www.youtube.com/watch?v=kv_xjZqnH1E >}}
-<!-- KETV Town Hall -->
-AAUP Town Hall
-:::
-
-::: aside
-{{< video https://youtu.be/-v7ZjH6FCJA >}}
-
-AAUP Game-day Rally
-<!-- KLKNTV Rally -->
-:::
 
 [We held town halls](https://www.ketv.com/article/nu-budget-cuts-town-hall/69115031) to explain to the community why these cuts were problematic and [how they would be impacted](https://www.1011now.com/2025/10/22/university-nebraska-lincoln-faculty-students-hold-town-hall-proposed-budget-cuts/).
 [We held a rally before a football game](https://civicnebraska.org/2025-protecting-flagship-ourselves/) -- the first time I've been on campus on game day as a faculty member -- and talked to [Husker fans and community members as well as those attending the game from out of state](Lincoln Journal Star -Advocates protest budget cuts as football fans make way to Memorial Stadium McCoy.pdf). 
@@ -216,11 +196,15 @@ The support, strategizing, and community are one of the reasons I fought *so har
 It's a bit ironic that this whole episode helped me build connections across campus that could have lead to really awesome interdisciplinary research projects with people in Digital Humanities, Psychology, Sociology, Political Science, and Education. 
 :::
 
-::: aside
-{{< video https://youtu.be/mKLJXlVmBEE >}}
+::: {layout="[1,1,1]" #fig-oct-coverage}
 
-AAUP financial report
-<!-- 1011 News AAUP financial report -->
+{{< video https://www.youtube.com/watch?v=kv_xjZqnH1E title="AAUP Town Hall, KETV, Oct 22" >}}
+
+{{< video https://youtu.be/-v7ZjH6FCJA title="AAUP Game Day Rally, Oct 25" >}}
+
+{{< video https://youtu.be/mKLJXlVmBEE title="AAUP Financial Report, 1011 News" >}}
+
+Town Hall (Oct 22), Game Day Rally (Oct 25), and AAUP Financial Report news coverage
 :::
 
 On [October 30](https://chrisbilder.com/letters/EGCemailBOR.pdf), the system-wide Graduate Council voted unanimously to retain all graduate programs that the Chancellor proposed to eliminate. Once again, they mentioned the metrics, the lack of planning, the essential place of some of these programs (Statistics and Educational Administration Ph.D.s are both highly ranked programs and are not found anywhere else in the state).
@@ -255,38 +239,23 @@ Ultimately, on November 10, the Chancellor released a budget plan that was simil
 The department kept working, appealing to the University of Nebraska System Provost, individual members of the Board of Regents, and the system president, Dr. Jeffrey Gold. 
 When a special meeting of the Board of Regents was called, I went to point out the financial implications of eliminating revenue-generating departments.
 
-::: aside
-{{< video https://www.youtube.com/watch?v=9rUcJiMxAK4 >}}
+::: {layout="[[1,1],[1,1]]" #fig-nov-dec-coverage}
+{{< video https://www.youtube.com/watch?v=9rUcJiMxAK4 title="Board of Regents, Nov 21" >}}
 
-Board of Regents, Nov 21
-<!-- BOR Meeting Nov 21 -->
-:::
+{{< video https://www.youtube.com/watch?v=566qp2vu8DU title="AAUP Week of Action, Dec 1-5" >}}
 
-::: aside
-{{< video https://www.youtube.com/watch?v=566qp2vu8DU&pp=0gcJCSMKAYcqIYzv >}}
+{{< video https://www.youtube.com/watch?v=6X96Gv0oGj0 title="Nebraska Ch 8 Now New Orleans Funeral Coverage" >}}
 
-AAUP Week of Action
-<!-- KLKNTV Week of Action Dec -->
+{{< video https://youtu.be/0Zyyrs46jRA title="More Jazz Funeral Footage" >}}
+
+November Board of Regents Meeting Comments and AAUP Week of Action 
 :::
 
 The AAUP chapter planned a full week of demonstrations leading up to the Board of Regents meeting on December 5. 
 We made phone banked to turn out faculty to speak at the Dec 5 meeting, made signs, held a full on New Orleans style funeral with a jazz band (and it was freaking cold), had rallies at both student unions... it was a lot, but my favorite was the [Jazz Funeral](https://thebugeater.com/uncategorized/second-line-solidarity/), complete with caskets for each department and the university, academic regalia, gravestones, coats, and amazing jazz by students and faculty in the music department. 
 
 
-{{< video https://youtube.com/watch?v=_TKydQXINI0 >}}
-
-::: aside
-{{< video https://www.youtube.com/watch?v=6X96Gv0oGj0&pp=ygVmVU5MIHByb2Zlc3NvcnMgbWFyY2ggdGhyb3VnaCBjYW1wdXMgaW4gTmV3IE9ybGVhbnMtc3R5bGUg4oCYZnVuZXJhbOKAmSB0byBwcm90ZXN0IHByb3Bvc2VkIGJ1ZGdldCBjdXRz >}}
-
-Jazz funeral hits the news
-<!-- Jazz funeral news report -->
-:::
-
-::: aside
-{{< video https://youtu.be/0Zyyrs46jRA >}}
-
-More Jazz Funeral footage because it was awesome
-:::
+{{< video https://youtube.com/watch?v=_TKydQXINI0 title="Jazz Funeral" >}}
 
 Writing this on December 3^[Instead of catching up on my grading or writing an exam... whoops.], I obviously don't know how this is going to go. 
 It feels like every I'm on the world's weirdest, most inconsistent roller coaster - despair, then 5 minutes later hope, and then despair again.

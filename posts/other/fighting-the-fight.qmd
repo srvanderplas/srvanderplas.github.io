@@ -1,0 +1,258 @@
+---
+title: "On Fighting the Good Fight"
+author: "Susan Vanderplas"
+date: "2026-01-09"
+categories: [post, other]
+page-layout: full
+title-block-banner: true
+keywords: [UNL, university politics, program cuts]
+image: "signal-2025-12-05-11-59-31-004-1.jpg"
+table-of-contents: true
+lightbox:
+  match: auto
+  effect: fade
+  loop: true
+---
+
+It's taken me a month and a few days to be ready to write this post, but I'm going to start with a conversation I had with my son on December 5th as we walked to the NU Board of Regents meeting. 
+I had an inkling of how the result might go, based on the politicization of the Board of Regents and the Regents lack of receptiveness to meeting with our department. 
+
+My son is 9, and has the sense of fairness and justice appropriate for his age - he still believes the world is and should be fair. Poor guy.
+
+So, as we walked from my office to Varner Hall, we talked about why you fight unwinnable fights. You fight them to warn everyone of the consequences. You fight to support your friends. You fight on the tiniest chance that you might convince someone they are wrong. And you fight because at the end of the day, you want to know that you did all that you could.
+
+I didn't want to be so prescient. 
+
+# The Board of Regents Public Comment Period
+
+Alex and I spoke to the BOR for our allocated 3 minutes apiece. 
+I asked him so many times before we went in if he really wanted to do this -- we had to take a stepstool into the room so that he could see over the podium, and he's a tall 9 year old. 
+He had his stubborn face on. The one that, as his mom, tells me that I'm not going to get anywhere, and that I should find a way to redirect, because there is no winning when unstoppable force meets immovable object. 
+
+
+![Alex speaking to the BOR and making grown men and women cry.](signal-2025-12-05-095437.jpeg)
+
+He told me "no. I want to do this."
+The sheer combination of pride in this kid that I'd somehow raised (and not, to this point, murdered for said stubbornness), and concern that everyone would think I was using my kid as a prop did not make my 3-minute speech any less nerve wracking. 
+
+![Photo by James LeSueur, chair of History department, of Alex speaking while standing on his stepstool. Not sure what filter he used, but trust me, the kid doesn't normally look this angelic.](2025-12-05-Alex-stepstool.jpg)
+
+{{< video https://www.youtube.com/watch?v=1z3Bp5mdvG8&list=PLugR2r-GFd_DJ_7OarRcr-ErksgbWUKiM title="Statistics department BOR testimony, 2025-12-05" >}}
+
+::: {.callout-note collapse=true}
+## My BOR speech
+
+My name is Susan Vanderplas, and I'm an associate professor of statistics.    
+Statisticians are usually pretty quiet.    
+This semester, I've seen what it takes to get us pissed off: you just have to come for the data.
+
+Over the past 2.5 months, I have made so many new friends on campus.    
+Most people realize the importance of data in helping make good decisions.    
+But these budget cuts are based on data that was analyzed and interpreted badly, which led to bad conclusions. 
+
+On Sept 12 the cuts became public and a shock wave swept across our field.     
+We had a letter of support from Penn State on Monday,    
+before anyone had reached out to ask for it.     
+More letters arrived quickly.    
+The general consensus was "who would be crazy enough to cut Statistics?"
+
+Who indeed.
+
+On Tuesday, President Gold addressed the faculty, telling us to    
+grow enrollment, expand new programs, increase grants, and create public-private partnerships.
+
+Stats started an undergraduate program in 2022
+We started small, but experience at other universities suggests that it will continue to grow --    
+if you let it.     
+We have plans for an online MS program that will be even more profitable.     
+I just got an NSF career award -- and getting an NSF grant this year is an extra award in itself.    
+We just formed a partnership with Bayer to fund a graduate student.
+
+In essence,    
+we're doing everything we can do to make the university successful,    
+we just need time to realize the gains.   
+
+But, there's more.    
+We've tried to alert the administration to the issues with the analysis.    
+We've had meetings, sent countless emails, given seminars on campus, and no one in administration has had ears to hear.    
+
+We found cross-college savings equivalent to 10 faculty members through consolidating redundant courses.    
+We implemented more efficient instruction by increasing class sizes.    
+All in all, we came up with savings and increased revenue that more than covers our department's expenses.     
+But no one in administration had ears to hear. 
+
+Statistics is a vital discipline -- of the 18 schools in the Big 10,    
+only Oregon doesn't have a Stats group on campus, and they're hiring!    
+Eliminating Statistics will cripple this university, damage its reputation, and make re-entry into the AAU a laughable goal.
+
+So today, we make our appeal to you. Please hear us.     
+Please let us start new research projects with the collaborations we've formed across campus this semester.    
+Please let our undergraduate programs in Statistics and Data Science continue to grow rapidly.    
+Please let us help this university reach its potential and rejoin the AAU.    
+And most of all, give us permission to go back to our offices to work with data, rather than fighting these battles.     
+
+Please reject the administration's proposal to eliminate the Statistics department and its programs.     
+Thank you.
+
+:::
+
+::: {.callout-note collapse=true}
+## Alex's BOR speech
+
+Hi, My name is Alex, and I'm 9.     
+My mom is a professor in the Stat department.     
+I came today because I don't think you should cut programs at UNL.    
+
+I want to be a paleoartist or paleontologist when I grow up.    
+That means I need to learn about Geology and anatomy and climates and biology and art.
+
+In 10 years, I'll get to go to college.    
+The EAS department is where you go to learn about rocks.    
+My mom says that all scientists need to know a lot about stats    
+so that they can do better science.    
+If you cut those departments, how will people at UNL become scientists?
+
+These cuts mean that that even if we stay in Nebraska,    
+I would have to go to college somewhere else. 
+Somewhere that has classes and teachers that will help me     
+learn where to go to dig up plesiosaurs and mammoths and spinosauruses.
+
+If you cut departments and degrees at UNL,    
+lots of people will have to leave Nebraska to learn the things they want to learn. 
+That means UNL will make less money,    
+and people won't be able to study and still go home to see their families.
+
+I guess if my mom gets a job near Chicago,    
+I can go to the Field Museum instead of Morrill Hall,     
+but I still don't want to move.
+
+I was born in Nebraska and have lived here most of my life.    
+I love my school, Bluestem Montessori, and my friends.    
+Some of them have parents in other departments that will be cut.    
+That means that our community will be torn apart.
+
+Your job is to protect the university and make sure that it helps Nebraska.    
+Nebraskans like me want to study rocks and numbers and quilts and weather and other things.    
+Please don't cut programs at UNL.    
+Preserve them for the future so that more Nebraskans want to be Huskers.
+
+:::
+
+
+---
+
+In a way, it was amazing to listen to the testimony at the board that day. I don't often end up in a situation where I want to quote the Bible in a professional context, but in my speech, I begged the Regents to have ears to hear, and as I listened to the other speeches, I thought about the different times I've heard people use "body" analogies -- including in the New Testament. 
+
+> For as in one body we have many members, and not all the members have the same function, so we, who are many, are one body in Christ, and individually we are members one of another. We have gifts that differ according to the grace given to us: prophecy, in proportion to faith; ministry, in ministering; the teacher, in teaching; the exhorter, in exhortation; the giver, in generosity; the leader, in diligence; the compassionate, in cheerfulness.
+> Romans 12 4-8, NRSV
+
+The English professors excorciated the BOR with language and sarcasm and well-written arguments. 
+The Educational Administration faculty (also up for elimination) addressed the failures of university leadership that led to the cuts, and that followed the implementation. 
+The Statistics department talked about the metrics, but also about the impact of Statistics on the state economy, the prospects of attracting digital agriculture business to the state, and more. 
+Lawyers addressed the lack of "bona fide program elimination" and that the board hadn't declared financial exigency, and thus there was no legal basis for firing tenured faculty members. 
+Students spoke about the impacts of the affected programs on their lives.
+
+I learned that geologists can be eloquent about things other than rocks, and heard the passion with which colleagues from unaffected departments stood up in solidarity with those of us who were affected. 
+It was a microcosm of the previous 3 months -- hope and despair, on repeat, at a decreasing interval.
+
+The entire university body was working in unison to oppose the department and program cuts -- it was a wonder to see. 
+I also got emails from colleagues offering to talk to Alex about rocks and to help him get an internship at the Field Museum someday. 
+The emotional yo-yo hadn't stopped yet.
+
+![](signal-2025-12-05-11-59-31-004-1.jpg)
+
+# The Regents Respond
+
+The regents didn't vote immediately after the public comment period was over. 
+First, they took the time to lecture the faculty -- to tell those of us who were about to be fired that we should be loyal to the university and "stick with Nebraska" -- even as we were being let go? Umm...
+They also lectured us on not engaging with the legislature and begging for more funding -- despite the fact that the faculty senate guidelines discourage faculty from speaking to the legislature without approval from the government liason's office, require that we make it clear that we're speaking as private citizens unless the senior leadership team requests our testimony, and dictate that we may only use our university credentials when speaking on matters related to our research expertise. In addition to these limitations, all contact with the legislative and executive branches has to be reported to the liason's office^[There are no carve-outs in the policy -- technically, if you have a senator walk up to your door and ask for your vote, that would seem to have to be reported, even though Counsel's office insists that isn't the purpose of the policy. Note that technically, faculty can face consequences up to termination if they do not follow all policies in the executive memoranda, which can change without notice.]. 
+
+::: {.callout-note collapse=true}
+### Rules for Political Engagement
+
+From an email I got this morning...
+
+> 
+Employees of the University of Nebraska System enjoy the full right of citizens to participate in the political life of the State of Nebraska and the United States. As employees of a public institution, however, employees have a responsibility when exercising these rights to make it clear that their opinions are their own and that they do not speak for the university, using personal time and personal resources. Executive Memorandum No. 2 (8) provides further guidance to ensure NU System employees know their rights and responsibilities under applicable policies as they engage in discourse about political matters.
+> 
+> Unless directed by the University of Nebraska senior leadership team to engage policymakers on a specific matter, UNL employees must explicitly state that they are acting as an individual, not representing the official position of the University of Nebraska, and not engaging with state officials while in an official capacity.
+> 
+> > "The views I am sharing today are my own and do not represent an official position of the University of Nebraska System or the University of Nebraska-Lincoln."
+> 
+> You may give your credentials if relevant to the bill and to demonstrate your expertise in a specific topic:
+> 
+> > "My name is XXXX and I am a professor in the College of XXXX at UNL. My testimony today presents neutral information on (TOPIC) that is relevant to LB ####. I am acting in my own personal capacity as an expert on this topic and not representing the University of Nebraska System or the University of Nebraska-Lincoln.
+
+
+[Executive Memorandum 2 Section 9 states (in part)](https://web.archive.org/web/20250219180827/https://nebraska.edu/-/media/unca/docs/offices-and-policies/policies/executive-memorandum/the-university-of-nebraska-administrative-structure.pdf):
+
+> To assure orderly procedures in maintaining the University's relationships with government officials and to assure a full flow of information, all campus personnel are expected to keep the Vice President for External Relations informed in an expedited manner of all contacts either in-person, oral, virtual, or written -- with the executive or legislative branches of the federal or state government. 
+
+So, reading this policy, faculty are supposed to report any legislative contact to the government liason office before we meet with the legislature, and it is perpetually unclear whether faculty are required to report even comments made via public comment forms as citizens. The guidelines are written by the Office of General Counsel and a plain text reading is much broader than the interpretation of the rules by Counsel in meetings... which only works to the benefit of those trying to suppress faculty political participation.
+
+:::
+
+At any rate, it was clear from the regents lectures that they have considerable disdain for the faculty, for the contributions we make to the university, and  for the educational mission of the university itself. 
+The BOR is evidently a stepping stone to higher elected office in the state (our governer was previously a Regent), and so now the university is a political football instead of a stable economic engine for the state and a way to better the lives of its citizens. 
+In addition, it was clear that even those who bothered to acknowledge that this would do damage to the university were more concerned with making sure we knew that this was painful for them, rather than empathizing with the faculty, staff, and students who were affected.
+
+The regents voted to eliminate all of the departments in the final proposal, and the vote wasn't even close.
+I gave an ill-advised local news interview where they asked how Alex was taking the news (I said he'd watched -- it turns out, parlimentary procedure isn't easy for 9yo to understand, so he had no idea that they'd voted to eliminate the department until the next morning), and what I'd say to the Board of Regents ("Get a Life" was about the nicest way to say it -- the utter lack of empathy or concern for the faculty, staff, and students and the university as a whole was just too overwhelming). 
+
+# The Aftermath
+
+I've spent the last month absorbing the impact of that announcement. 
+
+I'm interviewing for jobs at other universities and having discussions with various consulting companies about non-academic projects that I could take on. 
+
+But, life goes on. 
+I'm continuing to consult with lawyers about firearms and toolmark evidence and its scientific validity. 
+I've prepped my classes for the spring semester, and I expect it's the last time I'll teach these classes at UNL, and probably the last time I'll teach at UNL, period.
+I'm trying to help my students finish their work as quickly as possible, because UNL hasn't provided students with teach-out plans that have any detail -- so they cannot trust that they will continue to receive instruction that meets the caliber of the university to which they were admitted. 
+Some students have already left, and as a result, some classes don't have the TAs they need for this semester.
+
+This will only get worse when faculty leave over the summer and students transfer to other institutions. 
+
+## Promises Made, Promises Broken
+
+Administrators initially told us that faculty would lose our jobs effective December 2027 (12-month notice is in our contract). 
+Then, in October, administrators promised that they would adhere to the academic year, and faculty would be terminated as of May 2027. 
+Any faculty who acted on this promise and didn't try to simultaneously apply for positions and save their departments were predictably screwed, as in a meeting after the Regents vote, administration backed out on their promise and said that termination letters would go out in early January 2026 and would contain termination dates of January 2027 or May 2027. 
+In a gesture that was perhaps charitably to be interpreted as compassionate, faculty were told that they could be re-hired as instructors for Spring 2027, with a corresponding adjustment to compensation and teaching load - such faculty would not be able to continue research activities. 
+
+For those not familiar with academic job cycles -- jobs are posted in the fall semester (usually) and applications are due between September and December for most positions. Some schools may post positions in December and January, but these schools typically miss the most qualified candidates because they are already interviewing and getting offers by the time the later positions get to having people come to campus for interviews. 
+New positions usually start in July or August, at least in the Northern Hemisphere -- the cycle is a bit different in the Southern Hemisphere because of the seasonal school year being flipped. 
+Thus, faculty who decided to aim for the 26-27 hiring cycle based on the promises of UNL's administration will likely be unemployed for 6-8 months. 
+
+I'm expecting to get a notice of termination today, probably around 4pm, because that's when they always send out the bad news emails. 
+Who knows whether I'll have a job through May 2027?
+
+Regardless, I'm hoping to find a university that has an administration that is supportive of statistics and data science, that looks to grow talent internally, and that creates an environment where everyone has the support they need to succeed, whether that is financial or administrative. 
+
+# Meanwhile...
+
+## Attacks on Tenure
+
+The decision to cut departments and programs was ultimately an attack on tenure in the state of Nebraska. 
+Some faculty in affected departments will be retained -- indicating that these weren't bona fide program cuts, and that the firing of tenured faculty members is ultimately a political decision. 
+If the protections of tenure are conditional on the university's budget whims, then they don't really exist.
+
+Who knows whether the unconstitutional bill to remove tenure in Nebraska will come up again this year in the legislature. 
+Do they even need the bill anymore?
+
+## Buzzword Bingo
+
+In September, the School of Computing [launched a graduate certificate program in AI](https://news.unl.edu/article/school-of-computing-introduces-ai-graduate-certificate). 
+How they teach AI without statistics, in an era with large language models and AI that is basically an array of linear models in a trench coat, I have no idea. 
+How the Data Science majors in the colleges of Arts and Sciences and Engineering continue without statistics is an even better question. 
+
+## Budget Woes Continue
+
+Nebraska's legislature is about to consider a 5% budget cut requested by the governor to cover his tax cut agenda and revenue shortfalls caused by national trade policy that has destroyed international agricultural markets for soybeans for the foreseeable future. 
+
+5% across the board cuts in Nebraska's budget  translates to additional university cuts of up to $40 million.
+This cut was $27.5 million -- so who knows which departments are up next? Veterinary medicine? Entomology? Math? Biology?
+
+In some ways, being one of the first departments to be cut means that I'm one of the first off of what may be a sinking ship. 
+Hopefully, it will be easier to get away from the whirlpool of chaos created by defections across the university by getting on the job market early.
+

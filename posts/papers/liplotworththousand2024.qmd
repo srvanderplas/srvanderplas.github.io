@@ -3,6 +3,7 @@ title: "A Plot Is Worth a Thousand Tests: Assessing Residual Diagnostics with th
 author: "Weihao Li, Dianne Cook, Emi Tanaka, Susan VanderPlas"
 date: "2024-05-22"
 image: "https://i.imgur.com/4ofhYGn.png"
+image-alt: "decorative image"
 keywords: [pr,  graphics,  visual inference,  computer vision]
 categories: papers
 page-layout: full

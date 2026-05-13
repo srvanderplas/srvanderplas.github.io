@@ -18,15 +18,21 @@ website:
           - other.qmd
       - icon: github
         href: https://github.com/srvanderplas
+        aria-label: Github
       - icon: file-person
         href: https://srvanderplas.github.io/CV/CV.pdf
+        aria-label: CV
       - icon: fa-bluesky
         href: https://bsky.app/profile/srvanderplas.bsky.social
+        aria-label: Bluesky
       - icon: mastodon
         href: https://mastodon.social/@srvanderplas
+        aria-label: Mastodon
 format:
   html:
-    theme: pulse
+    axe:
+      output: document
+    theme: a11y
     css: styles.css
 
 

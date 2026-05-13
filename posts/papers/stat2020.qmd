@@ -3,6 +3,7 @@ title: "Statistical significance calculations for scenarios in visual inference"
 author: "Susan Vanderplas, Christian Röttger, Dianne Cook, Heike Hofmann"
 date: "2021-12-01"
 image: "https://i.imgur.com/D9ZpjyJ.png"
+image-alt: "decorative image"
 keywords: [pr,  visual inference,  user testing,  perception,  visualization]
 categories: papers
 page-layout: full

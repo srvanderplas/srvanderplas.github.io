@@ -6,6 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 image: "animint-interactive-web-based-animations-using-ggplot2-s-grammar-of-graphics.png"
+image-alt: "decorative image"
 keywords: [R package, animation, interactivity, exploratory data analysis, visualization, Talk]
 format:
   html:

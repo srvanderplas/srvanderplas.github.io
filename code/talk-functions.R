@@ -107,6 +107,8 @@ create_talk <- function(params, path = "posts/talks") {
     ifelse(nchar(post_img) > 0,
            yaml_kv("image", post_img),
            ""),
+    ifelse(nchar(post_img) > 0,
+           yaml_kv("image-alt", "decorative image"), ""),
     ifelse(length(params$keywords) > 0,
            yaml_kv("keywords", params$keywords),
            ""),

@@ -3,6 +3,7 @@ title: "Hidden Multiple Comparisons Increase Forensic Error Rates"
 author: "Susan Vanderplas, Alicia Carriquiry, Heike Hofmann"
 date: "2024-06-10"
 image: "https://i.imgur.com/JXILntV.png"
+image-alt: "decorative image"
 keywords: [pr,  forensics,  error rates]
 categories: papers
 page-layout: full

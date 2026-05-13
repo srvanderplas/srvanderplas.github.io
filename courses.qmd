@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-I wrote and continue to update/improve a textbook, [Statistical Computing in R and Python](../stat-computing-r-python/), which I use for Stat 151, 251, 351, and 850. 
+I wrote and continue to update/improve a textbook, [Statistical Computing in R and Python](../stat-computing-r-python/), which I used for Stat 151, 251, 351, and 850 at the University of Nebraska. 
 
 
 ## Undergraduate

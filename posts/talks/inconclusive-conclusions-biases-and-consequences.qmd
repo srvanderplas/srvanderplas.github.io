@@ -6,6 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 image: "inconclusive-conclusions-biases-and-consequences.png"
+image-alt: "decorative image"
 keywords: [inconclusives, firearms, error rates, forensics, Talk]
 format:
   html:

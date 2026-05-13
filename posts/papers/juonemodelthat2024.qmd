@@ -3,6 +3,7 @@ title: "One Model That Fits Them All: Psychometrics With Generalized Linear Mixe
 author: "Wangqian Ju, Susan VanderPlas, Heike Hofmann"
 date: "2024-01-24"
 
+image-alt: "decorative image"
 keywords: [pr,  graphics,  psychometrics,  modeling]
 categories: papers
 page-layout: full

@@ -3,6 +3,7 @@ title: "Machine learning in forensic applications"
 author: "Alicia Carriquiry, Heike Hofmann, Xiao Hui Tai, Susan Vanderplas"
 date: "2019-04-01"
 image: "https://rss.onlinelibrary.wiley.com/cms/asset/4792a2d6-f10b-481e-aeff-075d0ccdd90e/sign1252-fig-0001-m.png"
+image-alt: "decorative image"
 keywords: [npr,  forensics,  machine learning,  algorithms]
 categories: papers
 page-layout: full

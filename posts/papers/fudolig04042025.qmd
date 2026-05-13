@@ -3,6 +3,7 @@ title: "Can You See The Change? Visual Perception in Change Point Analysis"
 author: "Miguel Antonio Fudolig, Emily A. Robinson, Susan Vanderplas"
 date: "2025-04-01"
 image: "https://i.imgur.com/IC431w2.png"
+image-alt: "decorative image"
 keywords: [pr,  perception,  user testing,  visual inference]
 categories: papers
 page-layout: full

@@ -3,6 +3,7 @@ title: "Designing Graphics Requires Useful Experimental Testing Frameworks and G
 author: "Susan VanderPlas"
 date: "2021-07-30"
 image: "https://i.imgur.com/MMBggrj.png"
+image-alt: "decorative image"
 keywords: [npr,  user testing,  visualization,  modeling]
 categories: papers
 page-layout: full

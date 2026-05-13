@@ -6,6 +6,7 @@ categories: talks
 page-layout: full
 title-block-banner: true
 image: "a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.png"
+image-alt: "decorative image"
 keywords: [visualization, graphics, visual inference, user study, Talk]
 format:
   html:

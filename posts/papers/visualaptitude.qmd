@@ -3,6 +3,7 @@ title: "Spatial Reasoning and Data Displays"
 author: "Susan VanderPlas, Heike Hofmann"
 date: "2016-12-31"
 image: "https://github.com/srvanderplas/VisualAptitude/blob/master/Presentation/figure/scaledscores-1.png?raw=true"
+image-alt: "decorative image"
 keywords: [pr,  user testing,  perception,  visualization]
 categories: papers
 page-layout: full

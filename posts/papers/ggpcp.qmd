@@ -3,6 +3,7 @@ title: "Penguins Go Parallel: a grammar of graphics framework for generalized pa
 author: "Susan VanderPlas, Yawei Ge, Antony Unwin, Heike Hofmann"
 date: "2023-04-21"
 image: "https://github.com/srvanderplas/ggpcp-paper/blob/main/figures/carcinoma-1.png?raw=true"
+image-alt: "decorative image"
 keywords: [pr,  perception,  visualization,  R package,  parallel coordinate plot,  multivariate]
 categories: papers
 page-layout: full

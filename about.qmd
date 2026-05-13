@@ -9,28 +9,36 @@ about:
     - icon: mastodon
       text: Mastodon
       href: "https://vis.social/@Srvanderplas"
+      aria-label: Mastodon
     - icon: bsky
       text: Bluesky
       href: "https://srvanderplas.bsky.social"
+      aria-label: Bluesky
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/srvanderplas/
+      aria-label: LinkedIn
     - icon: github
       text: Github
       href: https://github.com/srvanderplas
+      aria-label: Github
     - icon: bookmark
       text: OrcID
       href: https://orcid.org/0000-0002-3803-0972
+      aria-label: OrcID
     - icon: file-person
       text: CV
       href: https://srvanderplas.github.io/CV/CV.pdf
+      aria-label: CV
 ---
 
 ## Biography {.left}
 
-Susan Vanderplas ( <a href="https://vis.social/@srvanderplas" rel="me">Find me on Mastodon!</a>) is an associate professor in the Statistics Department at University of Nebraska, Lincoln, researching the perception of statistical charts and graphs. She also works with the Center for Statistical Applications in Forensic Evidence (CSAFE) at Iowa State University, developing statistical methods for examination of bullets, cartridges, and footwear. 
+Susan Vanderplas ( <a href="https://vis.social/@srvanderplas" rel="me">Find me on Mastodon!</a>) is an associate professor in the Department of Mathematics and Statistics at Utah State University, researching the perception of statistical charts and graphs. Dr. Vanderplas also works on developing statistical methods for bullets and cartridge cases, and more broadly on statistics as applied to forensic science. 
 
-In her spare time (hah) she likes to sew, cross-stitch mildly off-color sayings, and bake things. 
+<!-- She also works with the Center for Statistical Applications in Forensic Evidence (CSAFE) at Iowa State University, developing statistical methods for examination of bullets, cartridges, and footwear.  -->
+
+In any spare time (hah) she likes to sew, cross-stitch mildly off-color sayings, bake, and play with a 3D printer. 
 
 ::: callout-warning
 ## Disclaimer

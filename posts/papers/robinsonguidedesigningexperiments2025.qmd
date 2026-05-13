@@ -3,6 +3,7 @@ title: "A Guide to Designing Experiments to Test Statistical Graphics"
 author: "Emily Robinson, Heike Hofmann, Susan Vanderplas"
 date: "2025-07-17"
 image: "https://i.imgur.com/qIoTTWh.jpeg"
+image-alt: "decorative image"
 keywords: [data collection, experimental design, perception, statistical graphics,  pr]
 categories: papers
 page-layout: full

@@ -3,6 +3,7 @@ title: "Demonstrative Evidence and the Use of Algorithms in Jury Trials"
 author: "Rachel Rogers, Susan VanderPlas"
 date: "2024-05-02"
 image: "https://i.imgur.com/ae6Sa8U.png"
+image-alt: "decorative image"
 keywords: [pr,  forensics,  firearms,  jury trials,  algorithms]
 categories: papers
 page-layout: full

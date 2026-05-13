@@ -3,6 +3,7 @@ title: "Evaluating Perceptual Judgements on 3D Printed Bar Charts"
 author: "Tyler Wiederich, Susan Vanderplas"
 date: "2024-04-24"
 image: "https://i.imgur.com/QCPSE4V.png"
+image-alt: "decorative image"
 keywords: [pr,  3d,  visualization,  user testing,  experiential learning]
 categories: papers
 page-layout: full

@@ -3,6 +3,7 @@ title: "Escaping Flatland: Graphics, Dimensionality, andHuman Perception"
 author: "Susan Vanderplas, Erin Blankenship, Tyler Wiederich"
 date: "2024-07-01"
 image: "https://github.com/srvanderplas/2024-hcii-escaping-flatland/blob/main/image/Kit_of_charts.png?raw=true"
+image-alt: "decorative image"
 keywords: [pr,  graphics,  3D,  perception,  teaching,  user-study]
 categories: papers
 page-layout: full

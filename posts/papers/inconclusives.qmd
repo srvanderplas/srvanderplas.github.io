@@ -3,6 +3,7 @@ title: "Treatment of inconclusives in the AFTE range of conclusions"
 author: "Heike Hofmann, Alicia Carriquiry, Susan Vanderplas"
 date: "2021-05-05"
 image: "https://github.com/heike/inconclusives/blob/master/figures/shape-overview-study-1.png?raw=true"
+image-alt: "decorative image"
 keywords: [pr,  forensics,  firearms,  error rates,  inconclusives]
 categories: papers
 page-layout: full

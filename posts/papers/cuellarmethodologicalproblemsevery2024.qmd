@@ -3,6 +3,7 @@ title: "Methodological problems in every black-box study of forensic firearm com
 author: "Maria Cuellar, Susan Vanderplas, Amanda Luby, Michael Rosenblum"
 date: "2024-12-05"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/NCI_swiss_cheese.jpg"
+image-alt: "decorative image"
 keywords: [pr,  forensics,  error rates]
 categories: papers
 page-layout: full

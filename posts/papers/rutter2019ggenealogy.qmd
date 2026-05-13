@@ -3,6 +3,7 @@ title: "`ggenealogy`: An R Package for Visualizing Genealogical Data"
 author: "Lindsay Rutter, Susan Vanderplas, Dianne Cook, Michelle Graham"
 date: "2019-05-29"
 image: "https://github.com/lindsayrutter/ggenealogy/blob/master/vignettes/dCox.png?raw=true"
+image-alt: "decorative image"
 keywords: [pr,  genealogy,  visualization,  R package,  exploratory data analysis,  interactive]
 categories: papers
 page-layout: full

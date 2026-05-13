@@ -3,6 +3,7 @@ title: "Automated Residual Plot Assessment With the R Package autovi and the Shi
 author: "Weihao Li, Dianne Cook, Emi Tanaka, Susan Vanderplas, Klaus Ackermann"
 date: "2025-10-09"
 image: "https://i.imgur.com/4oXZCAN.png"
+image-alt: "decorative image"
 keywords: [computer vision,  machine learning,  model diagnostics,  statistical graphics,  perception,  user testing,  visual inference,  pr]
 categories: papers
 page-layout: full

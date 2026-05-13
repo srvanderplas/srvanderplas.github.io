@@ -3,6 +3,7 @@ title: "Visual Narratives of the Covid-19 pandemic"
 author: "Adalbert Wilhelm, Susan VanderPlas"
 date: "2022-11-01"
 image: "https://github.com/srvanderplas/covid-visualization-dssv/blob/master/Figures_Web/spiral-rework.jpeg?raw=true"
+image-alt: "decorative image"
 keywords: [pr,  perception,  visualization,  journalism,  covid]
 categories: papers
 page-layout: full

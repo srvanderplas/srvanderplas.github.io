@@ -3,6 +3,7 @@ title: "Perception and Cognitive Implications of Logarithmic Scales for Exponent
 author: "Emily A. Robinson, Reka Howard, Susan Vanderplas"
 date: "2025-03-11"
 image: "https://i.imgur.com/JVvqE7P.png"
+image-alt: "decorative image"
 keywords: [pr,  perception,  user testing,  log scales,  visual inference]
 categories: papers
 page-layout: full

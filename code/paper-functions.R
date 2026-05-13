@@ -131,6 +131,7 @@ create_paper <- function(params, path = "posts/papers") {
   img_yaml <- ifelse("image" %in% names(params),
     yaml_kv("image", params$image), ""
   )
+  img_yaml <- c(img_yaml, yaml_kv("image-alt", "decorative image"))
   kw_yaml <- ifelse(length(params$keywords) > 0,
     yaml_kv("keywords", params$keywords), ""
   )

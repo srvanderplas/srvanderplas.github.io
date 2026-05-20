@@ -30,8 +30,8 @@ website:
         aria-label: Mastodon
 format:
   html:
-    axe:
-      output: document
+#    axe:
+#      output: document
     theme: a11y
     css: styles.css
 

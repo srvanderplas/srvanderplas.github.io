@@ -35,7 +35,7 @@ format:
 #      output: document
     theme: a11y
     css: styles.css
-    include-in-header: '<link rel="human-json" href="human.json">'
+    include-in-header: human.html
 
 
 freeze: auto

@@ -28,6 +28,8 @@ website:
       - icon: mastodon
         href: https://mastodon.social/@srvanderplas
         aria-label: Mastodon
+  include-in-header: <link rel="human-json" href="human.json">
+
 format:
   html:
 #    axe:

@@ -9,8 +9,8 @@
 <link>srvanderplas.github.io/</link>
 <atom:link href="srvanderplas.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.10.19</generator>
-<lastBuildDate>Thu, 11 Jun 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Thu, 11 Jun 2026 06:00:00 GMT</lastBuildDate>
 <item>
   <title>Having Your Cake and Eating It Too</title>
   <dc:creator>Susan Vanderplas</dc:creator>
@@ -607,7 +607,7 @@ Figure&nbsp;11: Have a cookie
   <category>post</category>
   <category>other</category>
   <guid>srvanderplas.github.io/posts/other/nebraska-authorship-legal.html</guid>
-  <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 06:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Faculty Are Not Widgets and Shouldn’t Work For Free</title>
@@ -851,7 +851,7 @@ It is interesting that it’s service when former UNL faculty to supervise stude
   <category>post</category>
   <category>other</category>
   <guid>srvanderplas.github.io/posts/other/nebraska-teach-out-plan.html</guid>
-  <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 06 May 2026 06:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/other/gears-crushing.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
 <item>
@@ -1074,7 +1074,7 @@ Preserve them for the future so that more Nebraskans want to be Huskers.</p>
   <category>post</category>
   <category>other</category>
   <guid>srvanderplas.github.io/posts/other/fighting-the-fight.html</guid>
-  <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+  <pubDate>Fri, 09 Jan 2026 07:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/other/signal-2025-12-05-11-59-31-004-1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -1459,7 +1459,7 @@ Figure&nbsp;5: November Board of Regents Meeting Comments and AAUP Week of Actio
   <category>post</category>
   <category>other</category>
   <guid>srvanderplas.github.io/posts/other/unl-program-cuts-despair.html</guid>
-  <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 03 Dec 2025 07:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Automated Residual Plot Assessment With the R Package autovi and the Shiny Application autovi.web</title>
@@ -1511,7 +1511,7 @@ Figure&nbsp;5: November Board of Regents Meeting Comments and AAUP Week of Actio
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/liautomatedresidualplot.html</guid>
-  <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+  <pubDate>Thu, 09 Oct 2025 06:00:00 GMT</pubDate>
   <media:content url="https://i.imgur.com/4oXZCAN.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -1545,7 +1545,7 @@ Location: Durham, NC</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/teaching-statistical-computing-with-r-and-python.html</guid>
-  <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
+  <pubDate>Sat, 09 Aug 2025 06:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/teaching-statistical-computing-with-r-and-python.png" medium="image" type="image/png" height="186" width="144"/>
 </item>
 <item>
@@ -1579,7 +1579,7 @@ Location: Nashville, TN</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.html</guid>
-  <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 04 Aug 2025 06:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/hidden-multiple-comparisons-increase-forensic-error-rates.png" medium="image" type="image/png" height="62" width="144"/>
 </item>
 <item>
@@ -1636,7 +1636,7 @@ Location: Nashville, TN</code></pre>
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/robinsonguidedesigningexperiments2025.html</guid>
-  <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
+  <pubDate>Thu, 17 Jul 2025 06:00:00 GMT</pubDate>
   <media:content url="https://i.imgur.com/qIoTTWh.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -1690,7 +1690,7 @@ Location: Nashville, TN</code></pre>
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/fudolig04042025.html</guid>
-  <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+  <pubDate>Tue, 01 Apr 2025 06:00:00 GMT</pubDate>
   <media:content url="https://i.imgur.com/IC431w2.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -1740,7 +1740,7 @@ Location: Nashville, TN</code></pre>
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/robinsonperceptioncognitiveimplications2025.html</guid>
-  <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+  <pubDate>Tue, 11 Mar 2025 06:00:00 GMT</pubDate>
   <media:content url="https://i.imgur.com/JVvqE7P.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -1793,7 +1793,7 @@ Location: Nashville, TN</code></pre>
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/cuellarmethodologicalproblemsevery2024.html</guid>
-  <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+  <pubDate>Thu, 05 Dec 2024 07:00:00 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/e/ec/NCI_swiss_cheese.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -1827,7 +1827,7 @@ Location: Lincoln, NE</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/creating-effective-graphics.html</guid>
-  <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 13 Nov 2024 07:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/creating-effective-graphics.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
@@ -1880,7 +1880,7 @@ Location: Lincoln, NE</code></pre>
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/rosenblumincorrectstatisticalreasoning2024.html</guid>
-  <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+  <pubDate>Tue, 05 Nov 2024 07:00:00 GMT</pubDate>
   <media:content url="https://www.pnas.org/cms/10.1073/pnas.2315431121/asset/ed2391a4-340e-45d5-9699-fdd960bacd37/assets/images/large/pnas.2315431121fig01.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -1914,7 +1914,7 @@ Location: Online</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/web-scraping-olympics-python.html</guid>
-  <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
+  <pubDate>Sat, 02 Nov 2024 06:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/web-scraping-olympics-python.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
@@ -1948,42 +1948,8 @@ Location: Portland, Or</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.html</guid>
-  <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 07 Aug 2024 06:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/a-plot-is-worth-a-thousand-tests-assessing-residual-diagnostics-with-the-lineup-protocol.png" medium="image" type="image/png" height="58" width="144"/>
-</item>
-<item>
-  <title>Escaping Flatland: Graphics, Dimensionality, and Human Perception</title>
-  <dc:creator>Susan Vanderplas</dc:creator>
-  <link>srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="abstract" class="level3">
-<h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>Almost 40 years ago, Cleveland &amp; McGill published the first of 3 papers detailing experiments assessing the accuracy of numerical perception using different types of charts. This study is often cited as a reason to avoid the use of extraneous dimensions in data visualization: 2D bar charts produced more accurate estimates than 3D bar charts; in addition, lines (length) produced more accurate estimates than circles (area). Graphics have changed fairly significantly in the last 40 years: where we once had fixed 3D perspective charts, we now can rotate 3D renderings in digital space and even 3D print our charts to examine physically. Many optical illusions result from perceptual mismatches of 3D visual heuristics and 2D, planar, data representations; more realistic renderings available with modern tools might change the outcome of the Cleveland &amp; McGill comparison of 2D vs.&nbsp;3D accuracy. In this paper, we present several experiments which replicate the bar chart portion of Cleveland &amp; McGill’s original study, comparing 2D, 3D fixed perspective, 3D rendered, and 3D printed charts. We discuss the findings and the importance of replicating classic experiments using modern technology, as well as the benefits of incorporating hands-on research in introductory classes as experiential learning activities.</p>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">Location</h2>
-<pre><code>, Human Computer Interaction International
-Event Type: Conference
-Location: Washington DC</code></pre>
-</section>
-<section id="slides" class="level2">
-<h2 class="anchored" data-anchor-id="slides">Slides</h2>
-<iframe src="https://srvanderplas.github.io/2024-Presentations/07-HCII/#/title-slide" height="800px" width="500px">
-</iframe>
-
-
-</section>
-
- ]]></description>
-  <category>talks</category>
-  <guid>srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html</guid>
-  <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-  <media:content url="srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.png" medium="image" type="image/png" height="99" width="144"/>
 </item>
 <item>
   <title>Escaping Flatland: Graphics, Dimensionality, andHuman Perception</title>
@@ -2039,8 +2005,42 @@ Location: Washington DC</code></pre>
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/vanderplasescapingflatlandgraphics2024.html</guid>
-  <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Jul 2024 06:00:00 GMT</pubDate>
   <media:content url="https://github.com/srvanderplas/2024-hcii-escaping-flatland/blob/main/image/Kit_of_charts.png?raw=true" medium="image"/>
+</item>
+<item>
+  <title>Escaping Flatland: Graphics, Dimensionality, and Human Perception</title>
+  <dc:creator>Susan Vanderplas</dc:creator>
+  <link>srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="abstract" class="level3">
+<h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
+<p>Almost 40 years ago, Cleveland &amp; McGill published the first of 3 papers detailing experiments assessing the accuracy of numerical perception using different types of charts. This study is often cited as a reason to avoid the use of extraneous dimensions in data visualization: 2D bar charts produced more accurate estimates than 3D bar charts; in addition, lines (length) produced more accurate estimates than circles (area). Graphics have changed fairly significantly in the last 40 years: where we once had fixed 3D perspective charts, we now can rotate 3D renderings in digital space and even 3D print our charts to examine physically. Many optical illusions result from perceptual mismatches of 3D visual heuristics and 2D, planar, data representations; more realistic renderings available with modern tools might change the outcome of the Cleveland &amp; McGill comparison of 2D vs.&nbsp;3D accuracy. In this paper, we present several experiments which replicate the bar chart portion of Cleveland &amp; McGill’s original study, comparing 2D, 3D fixed perspective, 3D rendered, and 3D printed charts. We discuss the findings and the importance of replicating classic experiments using modern technology, as well as the benefits of incorporating hands-on research in introductory classes as experiential learning activities.</p>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">Location</h2>
+<pre><code>, Human Computer Interaction International
+Event Type: Conference
+Location: Washington DC</code></pre>
+</section>
+<section id="slides" class="level2">
+<h2 class="anchored" data-anchor-id="slides">Slides</h2>
+<iframe src="https://srvanderplas.github.io/2024-Presentations/07-HCII/#/title-slide" height="800px" width="500px">
+</iframe>
+
+
+</section>
+
+ ]]></description>
+  <category>talks</category>
+  <guid>srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.html</guid>
+  <pubDate>Mon, 01 Jul 2024 06:00:00 GMT</pubDate>
+  <media:content url="srvanderplas.github.io/posts/talks/escaping-flatland-graphics-dimensionality-and-human-perception.png" medium="image" type="image/png" height="99" width="144"/>
 </item>
 <item>
   <title>Creating Good Graphics</title>
@@ -2073,7 +2073,7 @@ Location: Lincoln, NE</code></pre>
  ]]></description>
   <category>talks</category>
   <guid>srvanderplas.github.io/posts/talks/creating-good-graphics.html</guid>
-  <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 26 Jun 2024 06:00:00 GMT</pubDate>
   <media:content url="srvanderplas.github.io/posts/talks/creating-good-graphics.png" medium="image" type="image/png" height="106" width="144"/>
 </item>
 <item>
@@ -2131,7 +2131,7 @@ Location: Lincoln, NE</code></pre>
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/vanderplashiddenmultiplecomparisons2024.html</guid>
-  <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 10 Jun 2024 06:00:00 GMT</pubDate>
   <media:content url="https://i.imgur.com/JXILntV.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -2187,7 +2187,7 @@ Location: Lincoln, NE</code></pre>
  ]]></description>
   <category>papers</category>
   <guid>srvanderplas.github.io/posts/papers/liplotworththousand2024.html</guid>
-  <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 22 May 2024 06:00:00 GMT</pubDate>
   <media:content url="https://i.imgur.com/4ofhYGn.png" medium="image" type="image/png"/>
 </item>
 </channel>

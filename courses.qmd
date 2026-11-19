@@ -1,11 +1,17 @@
 ---
 title: "Teaching"
 ---
+## Utah State University
+
+I am in the process of adapting and improving [Statistcal Computing in R and Python](../stat-computing-r-python/) to teach USU's graduate statistical computing class in R and Python.
+
+In addition, I've been teaching [Stat 1080](https://srvanderplas.github.io/stat1080)/CIVC 1010 - Data and the Stories They Tell, which covers an introduction to R programming and basic statistical concepts such as p-values, hypothesis testing, confidence intervals, and regression. The course has no prerequisites and is intended to be accessible to everyone, regardless of math background, because data literacy is a basic component of being a functional citizen in the modern world. 
+
+## University of Nebraska - Lincoln
 
 I wrote and continue to update/improve a textbook, [Statistical Computing in R and Python](../stat-computing-r-python/), which I used for Stat 151, 251, 351, and 850 at the University of Nebraska. 
 
-
-## Undergraduate
+Note that these courses are no longer being taught or updated after the elimination of the Statistics department at University of Nebraska on December 5, 2025. 
 
 ### Stat 151
 
@@ -27,9 +33,6 @@ I wrote and continue to update/improve a textbook, [Statistical Computing in R a
 
 - [Course site](https://unl-statistics.github.io/stat351/)
 - Semesters: 2025c
-
-
-## Graduate
 
 ### Stat 850
 

@@ -22,7 +22,7 @@ website:
       - icon: file-person
         href: https://srvanderplas.github.io/CV/CV.pdf
         aria-label: CV
-      - icon: fa-bluesky
+      - icon: bluesky
         href: https://bsky.app/profile/srvanderplas.bsky.social
         aria-label: Bluesky
       - icon: mastodon

@@ -34,16 +34,19 @@ about:
 
 ## Biography {.left}
 
-Susan Vanderplas ( <a href="https://vis.social/@srvanderplas" rel="me">Find me on Mastodon!</a>) is an associate professor in the Department of Mathematics and Statistics at Utah State University, researching the perception of statistical charts and graphs. Dr. Vanderplas also works on developing statistical methods for bullets and cartridge cases, and more broadly on statistics as applied to forensic science. 
+Susan Vanderplas is an associate professor in the Department of Mathematics and Statistics at Utah State University, researching the perception of statistical charts and graphs. Dr. Vanderplas also works on developing statistical methods for bullets and cartridge cases, and more broadly on statistics as applied to forensic science. 
 
 <!-- She also works with the Center for Statistical Applications in Forensic Evidence (CSAFE) at Iowa State University, developing statistical methods for examination of bullets, cartridges, and footwear.  -->
 
-In any spare time (hah) she likes to sew, cross-stitch mildly off-color sayings, bake, and play with a 3D printer. 
+In any spare time (hah) she likes to sew, cross-stitch, bake, and play with her 3D printer. 
+
+If you are looking to contact me about forensic statistics or serving as an expert witness, please use <a href="mailto://vanderplasforensicstats@gmail.com">vanderplasforensicstats@gmail.com</a>. I am an employee of a public university, and have to maintain a certain boundary between my USU email and any outside consulting I perform.
 
 ::: callout-warning
 ## Disclaimer
 
 All opinions are my own and are not intended to speak for or represent my employer, friends, or anyone else. 
+
 :::
 
 ```{css echo = F}
